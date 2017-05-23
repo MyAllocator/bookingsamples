@@ -1,0 +1,65 @@
+{
+   "OrderTime" : "15:25:09",
+   "Customers" : [
+      {
+         "CustomerLName" : "Jackson",
+         "CustomerNote" : "",
+         "CustomerEmail" : "jackson@hushmail.com",
+         "CustomerCity" : "Glasgow",
+         "CustomerPostCode" : "G41 2SJ",
+         "CustomerAddress" : "CENSORED",
+         "CustomerPhone" : "62270391672",
+         "CustomerCountry" : "UK"
+      }
+   ],
+   "Acknowledged" : false,
+   "OrderDate" : "2017-05-23",
+   "MyallocatorModificationDate" : "2017-05-23",
+   "EndDate" : "2017-05-25",
+   "OrderId" : "guvmaoom8",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "MyallocatorId" : "889fef50007c2f3873387e1fb",
+   "ma_callback_qbid" : 4125730,
+   "TotalPrice" : "189.75",
+   "MyallocatorCreationDate" : "2017-05-23",
+   "MyallocatorModificationTime" : "15:25:42",
+   "PropertyId" : "07184",
+   "StartDate" : "2017-05-23",
+   "MyallocatorCreationTime" : "15:25:42",
+   "MarkedAsRead" : false,
+   "Channel" : "lr",
+   "TotalCurrency" : "GBP",
+   "Rooms" : [
+      {
+         "EndDate" : "2017-05-25",
+         "OccupantFName" : "Mr Alex Smith",
+         "RoomTypeIds" : [
+            56659
+         ],
+         "RoomDesc" : "Standard Twin Room sleeps 2. Breakfast included.  Non Smoking Requested, 1 Adult (En suite bedroom with 2 single beds, equipped with hospitali)",
+         "Price" : "189.75",
+         "Currency" : "GBP",
+         "RoomSummary" : "Standard Twin Room sleeps 2. Breakfast included.  Non Smoking Requested, 1 Adult",
+         "Units" : 1,
+         "StartDate" : "2017-05-23",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "2203327"
+      },
+      {
+         "EndDate" : "2017-05-25",
+         "OccupantFName" : "Mr John Smith",
+         "RoomTypeIds" : [
+            56659
+         ],
+         "RoomDesc" : "Standard Twin Room sleeps 2. Breakfast included.  Non Smoking Requested, 1 Adult (En suite bedroom with 2 single beds, equipped with hospitali)",
+         "Price" : "189.75",
+         "Currency" : "GBP",
+         "RoomSummary" : "Standard Twin Room sleeps 2. Breakfast included.  Non Smoking Requested, 1 Adult",
+         "Units" : 1,
+         "StartDate" : "2017-05-23",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "4126229"
+      }
+   ]
+}

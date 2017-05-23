@@ -1,0 +1,47 @@
+{
+   "OrderTime" : "15:17:26",
+   "DepositCurrency" : "USD",
+   "Deposit" : "150.4160",
+   "Customers" : [
+      {
+         "CustomerFName" : "Emma",
+         "CustomerLName" : "Johnson",
+         "CustomerNote" : ""
+      }
+   ],
+   "Acknowledged" : false,
+   "OrderDate" : "2017-05-23",
+   "MyallocatorModificationDate" : "2017-05-23",
+   "EndDate" : "2017-07-07",
+   "OrderId" : "3158427755",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "CommissionIncludedInTotal" : false,
+   "MyallocatorId" : "ae66e2579d5730e26ab8827ce",
+   "TotalPrice" : "150.42",
+   "MyallocatorCreationDate" : "2017-05-23",
+   "OrderAdults" : "2",
+   "MyallocatorModificationTime" : "15:17:50",
+   "BalanceCurrency" : "USD",
+   "Balance" : 0,
+   "PropertyId" : "41586",
+   "StartDate" : "2017-07-04",
+   "MyallocatorCreationTime" : "15:17:50",
+   "MarkedAsRead" : false,
+   "Channel" : "deco",
+   "TotalCurrency" : "USD",
+   "Rooms" : [
+      {
+         "EndDate" : "2017-07-07",
+         "RoomTypeIds" : [
+            50817
+         ],
+         "Price" : 150.416,
+         "RoomDesc" : "Habitaci\u00f3n Doble SIN COCINA",
+         "Units" : "1",
+         "StartDate" : "2017-07-04",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "06089"
+      }
+   ]
+}

@@ -1,0 +1,85 @@
+{
+   "DepositCurrency" : "EUR",
+   "Deposit" : "14.40",
+   "Customers" : [
+      {
+         "CustomerLName" : "Brown",
+         "CustomerNote" : "",
+         "CustomerArrivalTime" : "3:00:00 PM",
+         "CustomerPhone" : "te4lyetbgrwg2k0",
+         "CustomerEmail" : "brown@gmail.com",
+         "CustomerCountry" : "Korea (South)"
+      }
+   ],
+   "Acknowledged" : true,
+   "MyallocatorModificationDate" : "2017-04-16",
+   "OrderSource" : "www.hosteltimes.com (Korean)",
+   "EndDate" : "2017-06-21",
+   "OrderId" : "caeo8ubmam7w",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "MyallocatorId" : "73dcd30f06f5c13a6b9620318",
+   "TotalPrice" : "144.03",
+   "MyallocatorCreationDate" : "2017-04-16",
+   "MyallocatorModificationTime" : "17:52:31",
+   "PropertyId" : "6252",
+   "StartDate" : "2017-06-18",
+   "MyallocatorCreationTime" : "17:52:31",
+   "MarkedAsRead" : true,
+   "Channel" : "ht",
+   "TotalCurrency" : "EUR",
+   "Rooms" : [
+      {
+         "EndDate" : "2017-06-18",
+         "RoomTypeIds" : [
+            24258
+         ],
+         "Price" : "36.01",
+         "RoomDesc" : "6 Bed Mixed Dorm (SIX MIXED DORM)",
+         "Currency" : "EUR",
+         "Units" : "2",
+         "StartDate" : "2017-06-18",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "ydo4cmjjj3bpholf9kd"
+      },
+      {
+         "EndDate" : "2017-06-19",
+         "RoomTypeIds" : [
+            24258
+         ],
+         "Price" : "36.01",
+         "RoomDesc" : "6 Bed Mixed Dorm (SIX MIXED DORM)",
+         "Currency" : "EUR",
+         "Units" : "2",
+         "StartDate" : "2017-06-19",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "nucylkm90cla0p6a3st"
+      },
+      {
+         "EndDate" : "2017-06-20",
+         "RoomTypeIds" : [
+            24258
+         ],
+         "Price" : "36.01",
+         "RoomDesc" : "6 Bed Mixed Dorm (SIX MIXED DORM)",
+         "Currency" : "EUR",
+         "Units" : "2",
+         "StartDate" : "2017-06-20",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "apug7u72xc9toxlmiws"
+      },
+      {
+         "EndDate" : "2017-06-21",
+         "RoomTypeIds" : [
+            24258
+         ],
+         "Price" : "36.01",
+         "RoomDesc" : "6 Bed Mixed Dorm (SIX MIXED DORM)",
+         "Currency" : "EUR",
+         "Units" : "2",
+         "StartDate" : "2017-06-21",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "sp1x13fp6y71naeltzr"
+      }
+   ]
+}

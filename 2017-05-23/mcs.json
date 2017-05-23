@@ -1,0 +1,83 @@
+{
+   "OrderTime" : "12:45:25",
+   "DepositDue" : "0.00",
+   "Deposit" : "0.00",
+   "Customers" : [
+      {
+         "CustomerLName" : "Harris",
+         "CustomerCompany" : "",
+         "CustomerNote" : "",
+         "CustomerEmail" : "michael.harris@zoho.com",
+         "CustomerFName" : "Michael",
+         "CustomerPostCode" : "",
+         "CustomerCity" : "",
+         "CustomerAddress" : "CENSORED",
+         "CustomerPhone" : "41533179769821",
+         "CustomerCountry" : "IE"
+      }
+   ],
+   "Acknowledged" : false,
+   "TotalTaxesCurrency" : "EUR",
+   "OrderDate" : "2017-05-23",
+   "MyallocatorModificationDate" : "2017-05-23",
+   "OrderId" : "4432703681",
+   "EndDate" : "2017-06-18",
+   "IsCancellation" : false,
+   "MyallocatorCreditCardDetailsPresent" : true,
+   "Version" : 0,
+   "MyallocatorId" : "709701989d8b4bedb6b260686",
+   "CommissionCurrency" : "EUR",
+   "TotalPrice" : "505.00",
+   "MyallocatorCreationDate" : "2017-05-23",
+   "MyallocatorModificationTime" : "12:45:35",
+   "PropertyId" : "8035",
+   "StartDate" : "2017-06-16",
+   "MyallocatorCreationTime" : "12:45:35",
+   "MarkedAsRead" : false,
+   "Channel" : "mcs",
+   "Commission" : 0,
+   "TotalCurrency" : "EUR",
+   "TotalTaxes" : 0,
+   "Rooms" : [
+      {
+         "DayRates" : [
+            {
+               "RateId" : "28934",
+               "Date" : "2017-06-16",
+               "Rate" : 185,
+               "Description" : ""
+            },
+            {
+               "RateId" : "28934",
+               "Date" : "2017-06-17",
+               "Rate" : 185,
+               "Description" : ""
+            },
+            {
+               "RateId" : "28934",
+               "Date" : "2017-06-18",
+               "Rate" : 135,
+               "Description" : ""
+            }
+         ],
+         "OccupantLName" : "",
+         "Units" : 1,
+         "Occupancy" : 4,
+         "StartDate" : "2017-06-16",
+         "EndDate" : "2017-06-18",
+         "OccupantFName" : "",
+         "RoomTypeIds" : [
+            18808
+         ],
+         "RateDesc" : "",
+         "RateId" : "28934",
+         "RoomDesc" : "One Bedroom Apartment for up to 4 adults",
+         "Price" : "505.00",
+         "Currency" : "EUR",
+         "OccupantNote" : "",
+         "Policy" : "",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "15691"
+      }
+   ]
+}

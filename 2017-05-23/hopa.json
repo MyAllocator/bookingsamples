@@ -1,0 +1,48 @@
+{
+   "OrderVersion" : 1,
+   "OrderTime" : "09:45:46",
+   "Customers" : [
+      {
+         "CustomerLName" : "Cain",
+         "CustomerNote" : "",
+         "CustomerEmail" : "liam.cain@lycos.com",
+         "CustomerFName" : "Liam",
+         "CustomerCity" : "Istanbul",
+         "CustomerAddress" : "CENSORED",
+         "CustomerPhone" : "7564605515238",
+         "CustomerCountry" : "Turkey"
+      }
+   ],
+   "Acknowledged" : false,
+   "OrderDate" : "2017-01-14",
+   "MyallocatorModificationDate" : "2017-01-14",
+   "OrderId" : "rz3psj15ct",
+   "EndDate" : "2017-01-15",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "MyallocatorId" : "0433bc3ea71f4f032cb847424",
+   "MyallocatorCreationDate" : "2017-01-14",
+   "MyallocatorModificationTime" : "10:01:44",
+   "PropertyId" : "80145",
+   "StartDate" : "2017-01-15",
+   "MyallocatorCreationTime" : "10:01:44",
+   "MarkedAsRead" : true,
+   "Channel" : "hopa",
+   "TotalCurrency" : "USD",
+   "Rooms" : [
+      {
+         "EndDate" : "2017-01-15",
+         "RoomTypeIds" : [
+            72246
+         ],
+         "DayRates" : [],
+         "RoomDesc" : "6-Bed Mixed Dorm",
+         "RateId" : "",
+         "RateDesc" : "",
+         "Units" : 1,
+         "StartDate" : "2017-01-15",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "onb0c87ol1"
+      }
+   ]
+}

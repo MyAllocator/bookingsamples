@@ -1,0 +1,42 @@
+{
+   "OrderTime" : "14:19:40",
+   "Customers" : [
+      {
+         "CustomerLName" : "Anderson",
+         "CustomerFName" : "Mia",
+         "CustomerNote" : "",
+         "CustomerPhone" : "173110039379"
+      }
+   ],
+   "Acknowledged" : false,
+   "OrderDate" : "2017-05-22",
+   "MyallocatorModificationDate" : "2017-05-22",
+   "EndDate" : "2017-05-24",
+   "OrderId" : "30a4n7neavrjzkylwe",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "MyallocatorId" : "ed92c7d81440d0b2f57d82e3c",
+   "TotalPrice" : "1.11",
+   "MyallocatorCreationDate" : "2017-05-22",
+   "MyallocatorModificationTime" : "21:30:24",
+   "PropertyId" : "44036",
+   "StartDate" : "2017-05-24",
+   "MyallocatorCreationTime" : "21:30:24",
+   "MarkedAsRead" : true,
+   "Channel" : "lota",
+   "TotalCurrency" : "USD",
+   "Rooms" : [
+      {
+         "EndDate" : "2017-05-24",
+         "RoomTypeIds" : [
+            101646
+         ],
+         "RoomDesc" : "test",
+         "Adults" : "1",
+         "Units" : "1",
+         "StartDate" : "2017-05-24",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "0672"
+      }
+   ]
+}

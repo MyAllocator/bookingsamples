@@ -1,0 +1,57 @@
+{
+   "DepositCurrency" : "EUR",
+   "Deposit" : "0.00",
+   "Customers" : [
+      {
+         "CustomerLName" : "Jackson",
+         "CustomerNote" : "",
+         "CustomerPhone" : "453102638",
+         "CustomerEmail" : "jackson@inbox.com"
+      }
+   ],
+   "Acknowledged" : false,
+   "OrderDate" : "2017-05-23",
+   "MyallocatorModificationDate" : "2017-05-23",
+   "EndDate" : "2017-06-02",
+   "OrderId" : "783712876607043",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "MyallocatorId" : "f940c45a6045ca95dde43ca14",
+   "TotalPrice" : "440.38",
+   "MyallocatorCreationDate" : "2017-05-23",
+   "MyallocatorModificationTime" : "13:44:03",
+   "PropertyId" : "32763",
+   "StartDate" : "2017-05-31",
+   "MyallocatorCreationTime" : "13:44:03",
+   "MarkedAsRead" : false,
+   "Channel" : "ysh",
+   "TotalCurrency" : "EUR",
+   "Rooms" : [
+      {
+         "EndDate" : "2017-06-02",
+         "RoomTypeIds" : [
+            85885
+         ],
+         "RoomDesc" : "Apartamento Estudio (2 Adultos) ",
+         "Price" : "231.83",
+         "Currency" : "EUR",
+         "Units" : "1",
+         "StartDate" : "2017-05-31",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "9778"
+      },
+      {
+         "EndDate" : "2017-06-02",
+         "RoomTypeIds" : [
+            92509
+         ],
+         "RoomDesc" : "Apartamento Estudio Econ\u00f3mico (2 adultos)",
+         "Price" : "208.55",
+         "Currency" : "EUR",
+         "Units" : "1",
+         "StartDate" : "2017-05-31",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "4405"
+      }
+   ]
+}

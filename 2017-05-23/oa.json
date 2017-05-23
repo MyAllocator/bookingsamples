@@ -1,0 +1,114 @@
+{
+   "OrderVersion" : 1,
+   "OrderTime" : "02:42:11",
+   "Customers" : [
+      {
+         "CustomerLName" : "Hall",
+         "CustomerCompany" : "",
+         "CustomerNote" : "",
+         "CustomerEmail" : "ethan.hall@outlook.com",
+         "CustomerFName" : "Ethan",
+         "CustomerPostCode" : "",
+         "CustomerCity" : "Northamptonshire",
+         "CustomerAddress" : "",
+         "CustomerPhone" : "13487641523",
+         "CustomerCountry" : "gb"
+      }
+   ],
+   "Acknowledged" : false,
+   "OrderDate" : "2017-04-30",
+   "MyallocatorModificationDate" : "2017-04-30",
+   "OrderId" : "937973",
+   "EndDate" : "2017-10-26",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "MyallocatorId" : "697c30537cc585cf5eb49dbd4",
+   "TotalPrice" : "482.00",
+   "CommissionCurrency" : null,
+   "MyallocatorCreationDate" : "2017-04-30",
+   "MyallocatorModificationTime" : "12:45:21",
+   "PropertyId" : "38395",
+   "StartDate" : "2017-10-22",
+   "MyallocatorCreationTime" : "12:45:21",
+   "MarkedAsRead" : false,
+   "Channel" : "oa",
+   "Commission" : null,
+   "TotalCurrency" : "EUR",
+   "Rooms" : [
+      {
+         "EndDate" : "2017-10-22",
+         "RoomTypeIds" : [
+            72447
+         ],
+         "Price" : "96.40",
+         "Children" : 2,
+         "RoomDesc" : "ELEGANT APARTMENT WITH TERRACE AND GARDEN",
+         "Currency" : "EUR",
+         "Units" : 1,
+         "Adults" : 2,
+         "StartDate" : "2017-10-22",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "982812"
+      },
+      {
+         "EndDate" : "2017-10-23",
+         "RoomTypeIds" : [
+            72447
+         ],
+         "Price" : "96.40",
+         "Children" : 2,
+         "RoomDesc" : "ELEGANT APARTMENT WITH TERRACE AND GARDEN",
+         "Currency" : "EUR",
+         "Units" : 1,
+         "Adults" : 2,
+         "StartDate" : "2017-10-23",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "707897"
+      },
+      {
+         "EndDate" : "2017-10-24",
+         "RoomTypeIds" : [
+            72447
+         ],
+         "Price" : "96.40",
+         "Children" : 2,
+         "RoomDesc" : "ELEGANT APARTMENT WITH TERRACE AND GARDEN",
+         "Currency" : "EUR",
+         "Units" : 1,
+         "Adults" : 2,
+         "StartDate" : "2017-10-24",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "097607"
+      },
+      {
+         "EndDate" : "2017-10-25",
+         "RoomTypeIds" : [
+            72447
+         ],
+         "Price" : "96.40",
+         "Children" : 2,
+         "RoomDesc" : "ELEGANT APARTMENT WITH TERRACE AND GARDEN",
+         "Currency" : "EUR",
+         "Units" : 1,
+         "Adults" : 2,
+         "StartDate" : "2017-10-25",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "213109"
+      },
+      {
+         "EndDate" : "2017-10-26",
+         "RoomTypeIds" : [
+            72447
+         ],
+         "Price" : "96.40",
+         "Children" : 2,
+         "RoomDesc" : "ELEGANT APARTMENT WITH TERRACE AND GARDEN",
+         "Currency" : "EUR",
+         "Units" : 1,
+         "Adults" : 2,
+         "StartDate" : "2017-10-26",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "381976"
+      }
+   ]
+}

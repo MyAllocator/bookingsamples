@@ -1,0 +1,66 @@
+{
+   "OrderTime" : "14:15:31",
+   "DepositCurrency" : "EUR",
+   "Deposit" : 0,
+   "Customers" : [
+      {
+         "CustomerLName" : "Taylor",
+         "CustomerCompany" : "",
+         "CustomerNote" : "",
+         "CustomerEmail" : "benjamin.taylor@hushmail.com",
+         "CustomerFName" : "Benjamin",
+         "CustomerPostCode" : "",
+         "CustomerCity" : "",
+         "CustomerAddress" : "",
+         "CustomerPhone" : "1128507160",
+         "CustomerCountry" : "FR"
+      }
+   ],
+   "Acknowledged" : false,
+   "OrderDate" : "2017-05-23",
+   "MyallocatorModificationDate" : "2017-05-23",
+   "EndDate" : "2017-05-24",
+   "OrderId" : "f7jb95nogabmpd",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "MyallocatorId" : "a9aff6492d30c17304f45c146",
+   "CommissionCurrency" : "EUR",
+   "TotalPrice" : "55.58",
+   "MyallocatorCreationDate" : "2017-05-23",
+   "MyallocatorModificationTime" : "12:15:35",
+   "PropertyId" : "1073",
+   "StartDate" : "2017-05-23",
+   "MyallocatorCreationTime" : "12:15:35",
+   "MarkedAsRead" : false,
+   "Channel" : "gr",
+   "CommissionTotal" : "5.28",
+   "TotalCurrency" : "EUR",
+   "Rooms" : [
+      {
+         "EndDate" : "2017-05-23",
+         "RoomTypeIds" : [
+            27738
+         ],
+         "RoomDesc" : " 6 Bed Dorm, Standard View - Mixed  (Shared bathroom)",
+         "Price" : 24,
+         "Currency" : "EUR",
+         "Units" : 2,
+         "StartDate" : "2017-05-23",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "8809"
+      },
+      {
+         "EndDate" : "2017-05-24",
+         "RoomTypeIds" : [
+            27738
+         ],
+         "RoomDesc" : " 6 Bed Dorm, Standard View - Mixed  (Shared bathroom)",
+         "Price" : 24,
+         "Currency" : "EUR",
+         "Units" : 2,
+         "StartDate" : "2017-05-24",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "6374"
+      }
+   ]
+}

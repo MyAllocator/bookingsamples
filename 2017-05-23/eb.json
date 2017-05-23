@@ -1,0 +1,41 @@
+{
+   "OrderTime" : "12:55:02",
+   "Customers" : [
+      {
+         "CustomerLName" : "Cain",
+         "CustomerNote" : "",
+         "CustomerEmail" : "cain@hotmail.com"
+      }
+   ],
+   "Acknowledged" : true,
+   "OrderDate" : "2017-05-22",
+   "MyallocatorModificationDate" : "2017-05-22",
+   "EndDate" : "2017-05-22",
+   "OrderId" : "1261491",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "MyallocatorId" : "132f9174160c6fc28ecfc2d16",
+   "MyallocatorCreationDate" : "2017-05-22",
+   "MyallocatorModificationTime" : "12:00:47",
+   "PropertyId" : "0630",
+   "StartDate" : "2017-05-22",
+   "MyallocatorCreationTime" : "12:00:47",
+   "MarkedAsRead" : true,
+   "Channel" : "eb",
+   "TotalCurrency" : "GBP",
+   "Rooms" : [
+      {
+         "EndDate" : "2017-05-22",
+         "RoomTypeIds" : [
+            9805
+         ],
+         "Price" : 0,
+         "RoomDesc" : "Old Bob",
+         "Currency" : "GBP",
+         "Units" : 1,
+         "StartDate" : "2017-05-22",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "4466"
+      }
+   ]
+}
