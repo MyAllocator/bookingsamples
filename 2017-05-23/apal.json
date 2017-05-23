@@ -1,0 +1,60 @@
+{
+   "OrderTime" : "12:41:21",
+   "Customers" : [
+      {
+         "CustomerLName" : "Cain",
+         "CustomerNote" : "",
+         "CustomerPhone" : "967522949822",
+         "CustomerEmail" : "cain@yahoo.com"
+      }
+   ],
+   "Acknowledged" : false,
+   "OrderDate" : "2017-05-23",
+   "MyallocatorModificationDate" : "2017-05-23",
+   "EndDate" : "2017-06-03",
+   "OrderId" : "6gpj4rkjmo",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "MyallocatorId" : "7e4fc803ed187c8c40eee09e6",
+   "TotalPrice" : "390.00",
+   "MyallocatorCreationDate" : "2017-05-23",
+   "BalanceCurrency" : "EUR",
+   "MyallocatorModificationTime" : "10:52:00",
+   "Balance" : "",
+   "PropertyId" : "3076",
+   "StartDate" : "2017-06-02",
+   "MyallocatorCreationTime" : "10:52:00",
+   "MarkedAsRead" : false,
+   "Channel" : "apal",
+   "TotalCurrency" : "EUR",
+   "Rooms" : [
+      {
+         "EndDate" : "2017-06-03",
+         "RoomTypeIds" : [
+            -1
+         ],
+         "Children" : 0,
+         "DayRates" : [
+            {
+               "Currency" : "EUR",
+               "Date" : "2017-06-02",
+               "Rate" : 15
+            },
+            {
+               "Currency" : "EUR",
+               "Date" : "2017-06-02",
+               "Rate" : 375
+            }
+         ],
+         "RateId" : "",
+         "RateDesc" : "",
+         "RoomDesc" : "Doble vista Mar en MP",
+         "Breakfast" : false,
+         "Adults" : 2,
+         "Units" : "1",
+         "StartDate" : "2017-06-02",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "0359"
+      }
+   ]
+}

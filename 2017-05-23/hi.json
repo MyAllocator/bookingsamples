@@ -1,0 +1,44 @@
+{
+   "DepositCurrency" : "EUR",
+   "Deposit" : "4.00",
+   "Customers" : [
+      {
+         "CustomerLName" : "Young",
+         "CustomerNote" : "",
+         "CustomerEmail" : "young@inbox.com",
+         "CustomerCountry" : "Canada"
+      }
+   ],
+   "Acknowledged" : false,
+   "OrderDate" : "2017-05-23",
+   "MyallocatorModificationDate" : "2017-05-23",
+   "EndDate" : "2017-06-15",
+   "OrderId" : "6155365561",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "MyallocatorId" : "11f21ccb3563dbb7bf2b205a7",
+   "TotalPrice" : "50.00",
+   "MyallocatorCreationDate" : "2017-05-23",
+   "MyallocatorModificationTime" : "15:03:05",
+   "PropertyId" : "2956",
+   "StartDate" : "2017-06-11",
+   "MyallocatorCreationTime" : "15:03:05",
+   "MarkedAsRead" : false,
+   "Channel" : "hi",
+   "TotalCurrency" : "EUR",
+   "Rooms" : [
+      {
+         "EndDate" : "2017-06-15",
+         "RoomTypeIds" : [
+            42973
+         ],
+         "Price" : "50.00",
+         "RoomDesc" : "Coed/Mixed 8 Person Dorm",
+         "Currency" : "EUR",
+         "Units" : 1,
+         "StartDate" : "2017-06-11",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "420041"
+      }
+   ]
+}

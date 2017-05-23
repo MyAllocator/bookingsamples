@@ -1,0 +1,51 @@
+{
+   "OrderTime" : "14:58:48",
+   "Customers" : [
+      {
+         "CustomerLName" : "Young",
+         "CustomerFName" : "Harper",
+         "CustomerNote" : "CENSORED"
+      }
+   ],
+   "Acknowledged" : false,
+   "OrderDate" : "2017-05-23",
+   "MyallocatorModificationDate" : "2017-05-23",
+   "EndDate" : "2017-06-02",
+   "OrderId" : "2644624589",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "MyallocatorId" : "1715977823f783d75e49d843b",
+   "ma_callback_qbid" : 4125122,
+   "TotalPrice" : "1266.50",
+   "MyallocatorCreationDate" : "2017-05-23",
+   "MyallocatorModificationTime" : "14:58:48",
+   "PropertyId" : "47981",
+   "StartDate" : "2017-06-02",
+   "MyallocatorCreationTime" : "14:58:48",
+   "MarkedAsRead" : false,
+   "Channel" : "ctr",
+   "TotalCurrency" : "THB",
+   "Rooms" : [
+      {
+         "EndDate" : "2017-06-02",
+         "RoomTypeIds" : [
+            -1
+         ],
+         "RoomDesc" : "Standard Double room(China market)(pre-pay)(Special Promotion)<\u6cf0\u56fd\u7279\u4ef7>",
+         "DayRates" : [
+            {
+               "Currency" : "THB",
+               "Rate" : "1266.5000",
+               "Date" : "2017-06-02"
+            }
+         ],
+         "RateId" : "",
+         "RateDesc" : "",
+         "Currency" : "THB",
+         "Units" : "1",
+         "StartDate" : "2017-06-02",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "83781791"
+      }
+   ]
+}

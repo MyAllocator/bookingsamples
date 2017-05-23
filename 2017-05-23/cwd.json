@@ -1,0 +1,71 @@
+{
+   "OrderTime" : "12:10:32",
+   "DepositDue" : "0.00",
+   "Deposit" : "0.00",
+   "Customers" : [
+      {
+         "CustomerLName" : "Smith",
+         "CustomerCompany" : "",
+         "CustomerNote" : "",
+         "CustomerEmail" : "noah.smith@lycos.com",
+         "CustomerFName" : "Noah",
+         "CustomerPostCode" : "",
+         "CustomerCity" : "",
+         "CustomerAddress" : "CENSORED",
+         "CustomerPhone" : "n8ibqkd7ypqj1hf2hu4ya",
+         "CustomerCountry" : "IN"
+      }
+   ],
+   "Acknowledged" : false,
+   "TotalTaxesCurrency" : "INR",
+   "OrderDate" : "2017-05-23",
+   "MyallocatorModificationDate" : "2017-05-23",
+   "OrderId" : "4168525641",
+   "EndDate" : "2017-06-10",
+   "IsCancellation" : false,
+   "MyallocatorCreditCardDetailsPresent" : true,
+   "Version" : 0,
+   "MyallocatorId" : "b648e5fae4a81a489a8c7e53e",
+   "CommissionCurrency" : "INR",
+   "TotalPrice" : "1200.00",
+   "MyallocatorCreationDate" : "2017-05-23",
+   "MyallocatorModificationTime" : "12:10:37",
+   "PropertyId" : "8386",
+   "StartDate" : "2017-06-10",
+   "MyallocatorCreationTime" : "12:10:37",
+   "MarkedAsRead" : false,
+   "Channel" : "cwd",
+   "Commission" : 0,
+   "TotalCurrency" : "INR",
+   "TotalTaxes" : 0,
+   "Rooms" : [
+      {
+         "DayRates" : [
+            {
+               "RateId" : "11020",
+               "Date" : "2017-06-10",
+               "Rate" : 1200,
+               "Description" : ""
+            }
+         ],
+         "OccupantLName" : "",
+         "Units" : 1,
+         "Occupancy" : 1,
+         "StartDate" : "2017-06-10",
+         "EndDate" : "2017-06-10",
+         "OccupantFName" : "",
+         "RoomTypeIds" : [
+            7632
+         ],
+         "RateDesc" : "",
+         "RateId" : "11020",
+         "RoomDesc" : "Double Room (AC)",
+         "Price" : "1200.00",
+         "Currency" : "INR",
+         "OccupantNote" : "",
+         "Policy" : "",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "7713"
+      }
+   ]
+}

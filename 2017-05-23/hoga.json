@@ -1,0 +1,68 @@
+{
+   "OrderTime" : "17:22:43",
+   "DepositCurrency" : "EUR",
+   "Deposit" : "13.20",
+   "Customers" : [
+      {
+         "CustomerLName" : "Johnson",
+         "CustomerCompany" : "",
+         "CustomerNote" : "",
+         "CustomerEmail" : "emma.johnson@hushmail.com",
+         "CustomerFName" : "Emma",
+         "CustomerPostCode" : "",
+         "CustomerCity" : "Lodnon",
+         "CustomerAddress" : "",
+         "CustomerPhone" : "95898216885",
+         "CustomerCountry" : "gb"
+      }
+   ],
+   "Acknowledged" : false,
+   "OrderDate" : "2017-05-23",
+   "MyallocatorModificationDate" : "2017-05-23",
+   "EndDate" : "2017-05-31",
+   "OrderId" : "t3c08w9d9awye7igqayb1igjdhmko37o0qmw",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "MyallocatorId" : "5b9a139482b86080d4451610d",
+   "TotalPrice" : "132.00",
+   "MyallocatorCreationDate" : "2017-05-23",
+   "MyallocatorModificationTime" : "15:22:42",
+   "BalanceCurrency" : "EUR",
+   "PropertyId" : "9287",
+   "Balance" : "118.80",
+   "StartDate" : "2017-05-30",
+   "MyallocatorCreationTime" : "15:22:42",
+   "MarkedAsRead" : true,
+   "Channel" : "hoga",
+   "TotalCurrency" : "EUR",
+   "Rooms" : [
+      {
+         "EndDate" : "2017-05-31",
+         "RoomTypeIds" : [
+            5177
+         ],
+         "DayRates" : [
+            {
+               "Currency" : "EUR",
+               "Date" : "2017-05-30",
+               "Description" : null,
+               "Rate" : "33.00"
+            },
+            {
+               "Currency" : "EUR",
+               "Date" : "2017-05-31",
+               "Description" : null,
+               "Rate" : "33.00"
+            }
+         ],
+         "Price" : "132.00",
+         "RoomDesc" : "6 Bed Dorm Ensuite (6 Bed Dorm Ensuite)",
+         "RateId" : "",
+         "RateDesc" : "",
+         "Units" : "2",
+         "StartDate" : "2017-05-30",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "6vvzjh6d53w5aqddmlc9zlwyd4pxzvu0j3v4"
+      }
+   ]
+}

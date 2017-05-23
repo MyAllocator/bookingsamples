@@ -1,0 +1,75 @@
+{
+   "OrderTime" : "13:50:27",
+   "DepositCurrency" : "USD",
+   "Deposit" : 17.5,
+   "Customers" : [
+      {
+         "CustomerLName" : "Miller",
+         "CustomerFName" : "Sophia",
+         "CustomerNote" : "",
+         "CustomerPhone" : "fcpwcjuzm6lf5i",
+         "CustomerCountry" : "US",
+         "CustomerEmail" : "sophia.miller@gmail.com"
+      }
+   ],
+   "Acknowledged" : false,
+   "OrderDate" : "2017-05-23",
+   "TotalTaxesCurrency" : "USD",
+   "MyallocatorModificationDate" : "2017-05-23",
+   "EndDate" : "2017-06-11",
+   "OrderId" : "67nh6xqwctbv1hyg6ctam7h",
+   "IsCancellation" : false,
+   "MyallocatorCreditCardDetailsPresent" : true,
+   "Version" : 0,
+   "MyallocatorId" : "8e77ee1be898992d88502933d",
+   "OrderChildren" : 0,
+   "ma_callback_qbid" : "4123668",
+   "TotalPrice" : "70.00",
+   "MyallocatorCreationDate" : "2017-05-23",
+   "OrderAdults" : 1,
+   "MyallocatorModificationTime" : "13:50:30",
+   "OrderCustomers" : 1,
+   "BalanceCurrency" : "USD",
+   "PropertyId" : "5624",
+   "Balance" : 52.5,
+   "StartDate" : "2017-06-10",
+   "MyallocatorCreationTime" : "13:50:30",
+   "MarkedAsRead" : false,
+   "Channel" : "ta",
+   "TotalCurrency" : "USD",
+   "TotalTaxes" : 4.27,
+   "Rooms" : [
+      {
+         "DayRates" : [
+            {
+               "Currency" : "USD",
+               "Date" : "2017-06-10",
+               "Rate" : 35
+            },
+            {
+               "Currency" : "USD",
+               "Date" : "2017-06-11",
+               "Rate" : 35
+            }
+         ],
+         "Children" : 0,
+         "OccupantLName" : "Miller",
+         "Units" : 1,
+         "Adults" : 1,
+         "StartDate" : "2017-06-10",
+         "Occupancy" : 1,
+         "EndDate" : "2017-06-11",
+         "OccupantFName" : "Sophia",
+         "RoomTypeIds" : [
+            35088
+         ],
+         "RateDesc" : "",
+         "RateId" : "",
+         "Price" : 70,
+         "Currency" : "USD",
+         "Policy" : "Cancellation policy: 14 Days prior to arrival deposit becomes non-refundable\r\n48 Hours Prior to Arrival first night will be charged to card on file\r\n15 Days or greater we will refund deposit.\r\nThese policies do not include the local events.\nRefund policy: Full\nFree cancellation until: 2017-05-27 23:59:59 UTC",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "93811"
+      }
+   ]
+}

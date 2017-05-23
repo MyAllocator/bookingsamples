@@ -1,0 +1,55 @@
+{
+   "OrderTime" : "08:08:10",
+   "Customers" : [
+      {
+         "CustomerFName" : "Harper",
+         "CustomerLName" : "Young",
+         "CustomerNote" : ""
+      }
+   ],
+   "Acknowledged" : false,
+   "OrderDate" : "2017-05-22",
+   "MyallocatorModificationDate" : "2017-05-22",
+   "OrderSource" : "EBC",
+   "EndDate" : "2017-05-22",
+   "OrderId" : "fmfljhskkvcve",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "MyallocatorId" : "743ca45e9a5ed42721b741bf0",
+   "OrderChildren" : "0",
+   "TotalPrice" : "350.00",
+   "MyallocatorCreationDate" : "2017-05-22",
+   "OrderAdults" : 1,
+   "OrderCustomers" : 1,
+   "MyallocatorModificationTime" : "13:09:53",
+   "PropertyId" : "05987",
+   "StartDate" : "2017-05-22",
+   "MyallocatorCreationTime" : "13:09:53",
+   "MarkedAsRead" : false,
+   "Channel" : "orb",
+   "TotalCurrency" : "SEK",
+   "Rooms" : [
+      {
+         "EndDate" : "2017-05-22",
+         "RoomTypeIds" : [
+            91089
+         ],
+         "RoomDesc" : "Single Room with Shared Bathroom",
+         "RateDesc" : "STANDARD (123)",
+         "Price" : 312.5,
+         "DayRates" : [
+            {
+               "Currency" : "SEK",
+               "RateId" : "Dynamic",
+               "Date" : "2017-05-22",
+               "Rate" : "312.5"
+            }
+         ],
+         "Currency" : "SEK",
+         "Units" : 1,
+         "StartDate" : "2017-05-22",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "584458484"
+      }
+   ]
+}

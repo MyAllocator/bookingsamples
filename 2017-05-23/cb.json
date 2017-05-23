@@ -1,0 +1,111 @@
+{
+   "OrderTime" : "16:08",
+   "Customers" : [
+      {
+         "CustomerFName" : "Michael",
+         "CustomerLName" : "Harris",
+         "CustomerNote" : "",
+         "CustomerPhone" : "c33j8ljtmdh1zh5t39117l5",
+         "CustomerEmail" : "michael.harris@outlook.com",
+         "CustomerCountry" : "SE"
+      }
+   ],
+   "Acknowledged" : false,
+   "OrderDate" : "2017-05-23",
+   "MyallocatorModificationDate" : "2017-05-23",
+   "EndDate" : "2017-08-04",
+   "OrderId" : "d64fe7",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "CommissionIncludedInTotal" : false,
+   "MyallocatorId" : "3e054dd9c274b5eab824da971",
+   "CommissionCurrency" : "SEK",
+   "TotalPrice" : "6450.00",
+   "MyallocatorCreationDate" : "2017-05-23",
+   "MyallocatorModificationTime" : "14:12:21",
+   "BalanceCurrency" : "SEK",
+   "Balance" : "0",
+   "PropertyId" : "05431",
+   "StartDate" : "2017-07-29",
+   "MyallocatorCreationTime" : "14:12:21",
+   "MarkedAsRead" : false,
+   "Channel" : "cb",
+   "Commission" : "1149",
+   "TotalCurrency" : "SEK",
+   "ExtraServices" : [
+      {
+         "EndDate" : "2017-08-04",
+         "Currency" : "SEK",
+         "IncludedInTotal" : "0",
+         "Price" : "150",
+         "Units" : 1,
+         "Description" : "S\u00e4nglinne och handduksset Arvids alkov",
+         "StartDate" : "2017-07-29"
+      }
+   ],
+   "Rooms" : [
+      {
+         "DayRates" : [
+            {
+               "Currency" : "SEK",
+               "RateId" : "90810",
+               "Date" : "2017-07-29",
+               "Rate" : 900
+            },
+            {
+               "Currency" : "SEK",
+               "RateId" : "90810",
+               "Date" : "2017-07-30",
+               "Rate" : 900
+            },
+            {
+               "Currency" : "SEK",
+               "RateId" : "90810",
+               "Date" : "2017-07-30",
+               "Rate" : 900
+            },
+            {
+               "Currency" : "SEK",
+               "RateId" : "90810",
+               "Date" : "2017-07-30",
+               "Rate" : 900
+            },
+            {
+               "Currency" : "SEK",
+               "RateId" : "90810",
+               "Date" : "2017-07-30",
+               "Rate" : 900
+            },
+            {
+               "Currency" : "SEK",
+               "RateId" : "90810",
+               "Date" : "2017-07-30",
+               "Rate" : 900
+            },
+            {
+               "Currency" : "SEK",
+               "RateId" : "90810",
+               "Date" : "2017-07-30",
+               "Rate" : 900
+            }
+         ],
+         "Children" : "0",
+         "OccupantLName" : "Harris",
+         "Adults" : "1",
+         "Units" : 1,
+         "StartDate" : "2017-07-29",
+         "EndDate" : "2017-08-04",
+         "RoomTypeIds" : [
+            88673
+         ],
+         "Price" : "6300",
+         "RateId" : "90810",
+         "RoomDesc" : "Arvids alkov",
+         "RateDesc" : "Veckopriser",
+         "Currency" : "SEK",
+         "OccupantNote" : "",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "909379"
+      }
+   ]
+}

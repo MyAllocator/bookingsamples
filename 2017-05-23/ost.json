@@ -1,0 +1,61 @@
+{
+   "OrderTime" : "08:12:15",
+   "Customers" : [
+      {
+         "CustomerFName" : "Noah",
+         "CustomerLName" : "Smith",
+         "CustomerNote" : ""
+      }
+   ],
+   "Acknowledged" : false,
+   "OrderDate" : "2017-05-23",
+   "MyallocatorModificationDate" : "2017-05-23",
+   "EndDate" : "2017-07-29",
+   "OrderId" : "ftuafcjjglho5y3x2a74fksa28qdp2hc4w1e",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "MyallocatorId" : "d1a98234794e696582bbfd5a1",
+   "OrderChildren" : 0,
+   "TotalPrice" : "1008.00",
+   "MyallocatorCreationDate" : "2017-05-23",
+   "OrderAdults" : 1,
+   "MyallocatorModificationTime" : "08:12:22",
+   "PropertyId" : "043",
+   "StartDate" : "2017-07-28",
+   "MyallocatorCreationTime" : "08:12:22",
+   "MarkedAsRead" : false,
+   "Channel" : "ost",
+   "TotalCurrency" : "CZK",
+   "Rooms" : [
+      {
+         "EndDate" : "2017-07-29",
+         "RoomTypeIds" : [
+            1307
+         ],
+         "RateId" : "84350",
+         "DayRates" : [
+            {
+               "Currency" : "CZK",
+               "RateId" : 84350,
+               "Date" : "2017-07-28",
+               "Rate" : 504
+            },
+            {
+               "Currency" : "CZK",
+               "RateId" : 84350,
+               "Date" : "2017-07-29",
+               "Rate" : 504
+            }
+         ],
+         "Price" : 1008,
+         "RateDesc" : "Standard rate",
+         "RoomDesc" : "Bed in Dormitory with 4 beds",
+         "Currency" : "CZK",
+         "Units" : 1,
+         "StartDate" : "2017-07-28",
+         "Occupancy" : 0,
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "00694"
+      }
+   ]
+}

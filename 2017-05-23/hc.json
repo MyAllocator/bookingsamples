@@ -1,0 +1,66 @@
+{
+   "OrderTime" : "09:06:43",
+   "DepositCurrency" : "EUR",
+   "Deposit" : "4.40",
+   "Customers" : [
+      {
+         "CustomerFName" : "Elijah",
+         "CustomerLName" : "Martinez",
+         "CustomerNote" : "",
+         "CustomerArrivalTime" : "17:00",
+         "CustomerPhone" : "64648768132",
+         "CustomerEmail" : "elijah.martinez@outlook.com",
+         "CustomerCountry" : "FR"
+      }
+   ],
+   "Acknowledged" : false,
+   "OrderDate" : "2017-05-23",
+   "MyallocatorModificationDate" : "2017-05-23",
+   "EndDate" : "2017-06-08",
+   "OrderId" : "3635857",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "CommissionIncludedInTotal" : true,
+   "MyallocatorId" : "75d42404dcac37bc2bd958a52",
+   "TotalPrice" : "46.00",
+   "CommissionCurrency" : "EUR",
+   "MyallocatorCreationDate" : "2017-05-23",
+   "MyallocatorModificationTime" : "15:07:32",
+   "BalanceCurrency" : "EUR",
+   "Balance" : "39.60",
+   "PropertyId" : "0717",
+   "StartDate" : "2017-06-07",
+   "MyallocatorCreationTime" : "15:07:32",
+   "MarkedAsRead" : false,
+   "Channel" : "hc",
+   "Commission" : 2,
+   "TotalCurrency" : "EUR",
+   "Rooms" : [
+      {
+         "EndDate" : "2017-06-07",
+         "RoomTypeIds" : [
+            9581
+         ],
+         "Price" : "22.00",
+         "RoomDesc" : "4 Bed Female Dorm 2",
+         "Currency" : null,
+         "Units" : "1",
+         "StartDate" : "2017-06-07",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "xtya"
+      },
+      {
+         "EndDate" : "2017-06-08",
+         "RoomTypeIds" : [
+            9581
+         ],
+         "Price" : "22.00",
+         "RoomDesc" : "4 Bed Female Dorm 2",
+         "Currency" : null,
+         "Units" : "1",
+         "StartDate" : "2017-06-08",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "cntf"
+      }
+   ]
+}

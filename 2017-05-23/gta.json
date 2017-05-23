@@ -1,0 +1,73 @@
+{
+   "OrderTime" : "11:15:23",
+   "Customers" : [
+      {
+         "CustomerLName" : "Anderson",
+         "CustomerNote" : ""
+      }
+   ],
+   "Acknowledged" : false,
+   "OrderDate" : "2017-05-23",
+   "MyallocatorModificationDate" : "2017-05-23",
+   "EndDate" : "2017-07-04",
+   "OrderId" : "19f1gg5pohaif2",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "MyallocatorId" : "54755abffe808f5308bdb9851",
+   "OrderChildren" : "0",
+   "TotalPrice" : "62.52",
+   "MyallocatorCreationDate" : "2017-05-23",
+   "OrderAdults" : "1",
+   "MyallocatorModificationTime" : "10:30:25",
+   "PropertyId" : "8938",
+   "StartDate" : "2017-07-01",
+   "MyallocatorCreationTime" : "10:30:25",
+   "MarkedAsRead" : false,
+   "Channel" : "gta",
+   "TotalCurrency" : "EUR",
+   "Rooms" : [
+      {
+         "EndDate" : "2017-07-04",
+         "RoomTypeIds" : [
+            10067
+         ],
+         "DayRates" : [
+            {
+               "Currency" : "EUR",
+               "RateId" : "135051",
+               "Rate" : "16.99",
+               "Date" : "2017-07-01"
+            },
+            {
+               "Currency" : "EUR",
+               "RateId" : "135051",
+               "Rate" : "16.99",
+               "Date" : "2017-07-02"
+            },
+            {
+               "Currency" : "EUR",
+               "RateId" : "135051",
+               "Rate" : "16.99",
+               "Date" : "2017-07-03"
+            },
+            {
+               "Currency" : "EUR",
+               "RateId" : "135051",
+               "Rate" : "16.99",
+               "Date" : "2017-07-04"
+            }
+         ],
+         "Children" : "0",
+         "RateId" : "135051",
+         "Price" : "67.96",
+         "RateDesc" : "MA Room Only (Margin)",
+         "RoomDesc" : "Bed in 6 Bed Mixed Dormitory (Shared) Room  (Category: OTHER)",
+         "OccupantLName" : "Anderson",
+         "Adults" : "1",
+         "Units" : "1",
+         "StartDate" : "2017-07-01",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "967906"
+      }
+   ]
+}

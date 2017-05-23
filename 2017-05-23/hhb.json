@@ -1,0 +1,77 @@
+{
+   "OrderVersion" : 1,
+   "OrderTime" : "17:40:41",
+   "DepositDue" : "131.00",
+   "Deposit" : "0.00",
+   "Customers" : [
+      {
+         "CustomerLName" : "Hall",
+         "CustomerCompany" : "",
+         "CustomerNote" : "",
+         "CustomerEmail" : "ethan.hall@aol.com",
+         "CustomerFName" : "Ethan",
+         "CustomerPostCode" : "",
+         "CustomerCity" : "",
+         "CustomerAddress" : "CENSORED",
+         "CustomerPhone" : "370637159",
+         "CustomerCountry" : "BR"
+      }
+   ],
+   "Acknowledged" : true,
+   "TotalTaxesCurrency" : "BRL",
+   "OrderDate" : "2017-03-06",
+   "MyallocatorModificationDate" : "2017-03-06",
+   "OrderId" : "6730846458",
+   "EndDate" : "2017-03-11",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "MyallocatorId" : "3a30f28f0688d8cae9cb72573",
+   "CommissionCurrency" : "BRL",
+   "TotalPrice" : "262.00",
+   "MyallocatorCreationDate" : "2017-03-06",
+   "MyallocatorModificationTime" : "17:40:49",
+   "PropertyId" : "5731",
+   "StartDate" : "2017-03-10",
+   "MyallocatorCreationTime" : "17:40:49",
+   "MarkedAsRead" : true,
+   "Channel" : "hhb",
+   "Commission" : 0,
+   "TotalCurrency" : "BRL",
+   "TotalTaxes" : 0,
+   "Rooms" : [
+      {
+         "DayRates" : [
+            {
+               "RateId" : "38487",
+               "Description" : "",
+               "Rate" : 131,
+               "Date" : "2017-03-10"
+            },
+            {
+               "RateId" : "38487",
+               "Description" : "",
+               "Rate" : 131,
+               "Date" : "2017-03-11"
+            }
+         ],
+         "OccupantLName" : "",
+         "Units" : 1,
+         "Occupancy" : 2,
+         "StartDate" : "2017-03-10",
+         "EndDate" : "2017-03-11",
+         "OccupantFName" : "",
+         "RoomTypeIds" : [
+            4923
+         ],
+         "RateDesc" : "",
+         "RateId" : "38487",
+         "RoomDesc" : "Casal / Double bed",
+         "Price" : "262.00",
+         "Currency" : "BRL",
+         "OccupantNote" : "",
+         "Policy" : "",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "37526"
+      }
+   ]
+}

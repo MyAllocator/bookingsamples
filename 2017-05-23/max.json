@@ -1,0 +1,81 @@
+{
+   "OrderTime" : "16:58:21",
+   "Customers" : [
+      {
+         "CustomerLName" : "White",
+         "CustomerCompany" : "",
+         "CustomerNote" : "",
+         "CustomerEmail" : "charlotte.white@lycos.com",
+         "CustomerFName" : "Charlotte",
+         "CustomerPostCode" : "",
+         "CustomerCity" : "Calgary",
+         "CustomerAddress" : "",
+         "CustomerArrivalTime" : "14:00:00",
+         "CustomerPhone" : "",
+         "CustomerCountry" : "CA"
+      }
+   ],
+   "Acknowledged" : false,
+   "OrderDate" : "2017-05-23",
+   "MyallocatorModificationDate" : "2017-05-23",
+   "EndDate" : "2017-05-28",
+   "OrderId" : "p4i2ecru2vahbff",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "MyallocatorId" : "37040fbf1110a4754a235ce0e",
+   "CommissionCurrency" : "EUR",
+   "TotalPrice" : "450.00",
+   "MyallocatorCreationDate" : "2017-05-23",
+   "MyallocatorModificationTime" : "14:27:12",
+   "PropertyId" : "4177",
+   "StartDate" : "2017-05-24",
+   "MyallocatorCreationTime" : "14:27:12",
+   "MarkedAsRead" : false,
+   "Commission" : "1.50",
+   "Channel" : "max",
+   "TotalCurrency" : "EGP",
+   "Rooms" : [
+      {
+         "EndDate" : "2017-05-28",
+         "RoomTypeIds" : [
+            23590
+         ],
+         "RoomDesc" : "Single room; Shared bathroom",
+         "Price" : "450.00",
+         "DayRates" : [
+            {
+               "Currency" : "EGP",
+               "Date" : "2017-05-24",
+               "Rate" : "90.00"
+            },
+            {
+               "Currency" : "EGP",
+               "Date" : "2017-05-25",
+               "Rate" : "90.00"
+            },
+            {
+               "Currency" : "EGP",
+               "Date" : "2017-05-26",
+               "Rate" : "90.00"
+            },
+            {
+               "Currency" : "EGP",
+               "Date" : "2017-05-27",
+               "Rate" : "90.00"
+            },
+            {
+               "Currency" : "EGP",
+               "Date" : "2017-05-28",
+               "Rate" : "90.00"
+            }
+         ],
+         "RateId" : "",
+         "RateDesc" : "",
+         "Currency" : "EGP",
+         "Units" : "1",
+         "StartDate" : "2017-05-24",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "0563"
+      }
+   ]
+}

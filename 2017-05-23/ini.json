@@ -1,0 +1,40 @@
+{
+   "Customers" : [
+      {
+         "CustomerLName" : "Moore",
+         "CustomerNote" : ""
+      }
+   ],
+   "Acknowledged" : false,
+   "OrderDate" : "2017-05-10",
+   "MyallocatorModificationDate" : "2017-05-10",
+   "EndDate" : "2017-06-02",
+   "OrderId" : "329867460",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "MyallocatorId" : "98ba9e684f4e824aa3633f45b",
+   "TotalPrice" : "360.00",
+   "MyallocatorCreationDate" : "2017-05-10",
+   "MyallocatorModificationTime" : "16:38:53",
+   "PropertyId" : "904",
+   "StartDate" : "2017-05-31",
+   "MyallocatorCreationTime" : "16:38:53",
+   "MarkedAsRead" : false,
+   "Channel" : "ini",
+   "TotalCurrency" : "EUR",
+   "Rooms" : [
+      {
+         "EndDate" : "2017-06-02",
+         "RoomTypeIds" : [
+            922
+         ],
+         "Price" : "360",
+         "RoomDesc" : "Apartment for 4 people with Shared Bathroom",
+         "Currency" : "EUR",
+         "Units" : 1,
+         "StartDate" : "2017-05-31",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "36"
+      }
+   ]
+}

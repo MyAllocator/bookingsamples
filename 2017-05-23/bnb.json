@@ -1,0 +1,44 @@
+{
+   "OrderTime" : "14:34:38",
+   "Customers" : [
+      {
+         "CustomerFName" : "Isabella",
+         "CustomerLName" : "Moore",
+         "CustomerNote" : "",
+         "CustomerPhone" : "1097449351615",
+         "CustomerEmail" : "isabella.moore@lycos.com",
+         "CustomerCountry" : "Italy"
+      }
+   ],
+   "Acknowledged" : false,
+   "OrderDate" : "2017-05-12",
+   "MyallocatorModificationDate" : "2017-05-12",
+   "EndDate" : "2017-09-06",
+   "OrderId" : "363412",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "MyallocatorId" : "abb89bf8b705307bc678fd869",
+   "TotalPrice" : "518.00",
+   "MyallocatorCreationDate" : "2017-05-12",
+   "MyallocatorModificationTime" : "12:37:03",
+   "PropertyId" : "5107",
+   "StartDate" : "2017-08-31",
+   "MyallocatorCreationTime" : "12:37:03",
+   "MarkedAsRead" : false,
+   "Channel" : "bnb",
+   "TotalCurrency" : "EUR",
+   "Rooms" : [
+      {
+         "EndDate" : "2017-09-06",
+         "RoomTypeIds" : [
+            37483
+         ],
+         "RoomDesc" : "Double Room",
+         "Price" : "518.00",
+         "Units" : 1,
+         "StartDate" : "2017-08-31",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "7871406"
+      }
+   ]
+}

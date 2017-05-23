@@ -1,0 +1,126 @@
+{
+   "OrderTime" : "17:53:44",
+   "Customers" : [
+      {
+         "CustomerLName" : "Jackson",
+         "CustomerCompany" : "",
+         "CustomerNote" : "CENSORED",
+         "CustomerEmail" : "jacob.jackson@gmail.com",
+         "CustomerFName" : "Jacob",
+         "CustomerCity" : ".",
+         "CustomerPostCode" : "",
+         "CustomerAddress" : "",
+         "CustomerPhone" : "13690333088",
+         "CustomerCountry" : "jp"
+      }
+   ],
+   "Acknowledged" : false,
+   "OrderDate" : "2017-05-23",
+   "MyallocatorModificationDate" : "2017-05-23",
+   "PaymentCollect" : "Property",
+   "EndDate" : "2017-07-30",
+   "OrderId" : "6769431217",
+   "IsCancellation" : false,
+   "MyallocatorCreditCardDetailsPresent" : true,
+   "Version" : 0,
+   "MyallocatorId" : "14593d48db6d8b98ade111ffb",
+   "TotalPrice" : "102.00",
+   "CommissionCurrency" : "EUR",
+   "MyallocatorCreationDate" : "2017-05-23",
+   "MyallocatorModificationTime" : "15:54:00",
+   "PropertyId" : "5680",
+   "StartDate" : "2017-07-28",
+   "MyallocatorCreationTime" : "15:54:00",
+   "MarkedAsRead" : false,
+   "Channel" : "boo",
+   "Commission" : "15.3",
+   "TotalCurrency" : "EUR",
+   "Rooms" : [
+      {
+         "DayRates" : [
+            {
+               "Currency" : "EUR",
+               "RateId" : "2282045",
+               "Date" : "2017-07-28",
+               "Rate" : "17",
+               "Description" : "Non refundable"
+            },
+            {
+               "Currency" : "EUR",
+               "RateId" : "2282045",
+               "Date" : "2017-07-29",
+               "Rate" : "17",
+               "Description" : "Non refundable"
+            },
+            {
+               "Currency" : "EUR",
+               "RateId" : "2282045",
+               "Date" : "2017-07-30",
+               "Rate" : "17",
+               "Description" : "Non refundable"
+            }
+         ],
+         "OccupantSmoker" : false,
+         "OccupantLName" : "Jackson",
+         "Units" : 1,
+         "Occupancy" : "1",
+         "StartDate" : "2017-07-28",
+         "EndDate" : "2017-07-30",
+         "RoomTypeIds" : [
+            10972
+         ],
+         "RateDesc" : "Non refundable",
+         "RateId" : "2282045",
+         "Price" : 51,
+         "RoomDesc" : "Bed in 8-Bed Mixed Dormitory Room",
+         "Currency" : "EUR",
+         "OccupantNote" : "",
+         "Policy" : "Breakfast is included in the room rate. Children and Extra Bed Policy: All children are welcome. One child under 5 years stays free of charge when using existing beds. There is no capacity for extra beds in the room.  Deposit Policy: The total price of the reservation may be charged anytime after booking.  Cancellation Policy: Please note, if cancelled, modified or in case of no-show, the total price of the reservation will be charged. \n\nMeal Plan: Breakfast is included in the room rate.",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "94712155"
+      },
+      {
+         "DayRates" : [
+            {
+               "Currency" : "EUR",
+               "RateId" : "2282045",
+               "Date" : "2017-07-28",
+               "Rate" : "17",
+               "Description" : "Non refundable"
+            },
+            {
+               "Currency" : "EUR",
+               "RateId" : "2282045",
+               "Date" : "2017-07-29",
+               "Rate" : "17",
+               "Description" : "Non refundable"
+            },
+            {
+               "Currency" : "EUR",
+               "RateId" : "2282045",
+               "Date" : "2017-07-30",
+               "Rate" : "17",
+               "Description" : "Non refundable"
+            }
+         ],
+         "OccupantSmoker" : false,
+         "OccupantLName" : "Jackson",
+         "Units" : 1,
+         "Occupancy" : "1",
+         "StartDate" : "2017-07-28",
+         "EndDate" : "2017-07-30",
+         "RoomTypeIds" : [
+            10972
+         ],
+         "RateDesc" : "Non refundable",
+         "RateId" : "2282045",
+         "Price" : 51,
+         "RoomDesc" : "Bed in 8-Bed Mixed Dormitory Room",
+         "Currency" : "EUR",
+         "OccupantNote" : "",
+         "Policy" : "Breakfast is included in the room rate. Children and Extra Bed Policy: All children are welcome. One child under 5 years stays free of charge when using existing beds. There is no capacity for extra beds in the room.  Deposit Policy: The total price of the reservation may be charged anytime after booking.  Cancellation Policy: Please note, if cancelled, modified or in case of no-show, the total price of the reservation will be charged. \n\nMeal Plan: Breakfast is included in the room rate.",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "67484802"
+      }
+   ]
+}

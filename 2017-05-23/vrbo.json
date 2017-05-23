@@ -1,0 +1,37 @@
+{
+   "MyallocatorNotAdjustedForReason" : "First download from channel (AA block)",
+   "Customers" : [
+      {
+         "CustomerLName" : "Taylor",
+         "CustomerFName" : "Benjamin",
+         "CustomerNote" : "CENSORED"
+      }
+   ],
+   "Acknowledged" : false,
+   "MyallocatorModificationDate" : "2017-05-23",
+   "EndDate" : "2017-05-27",
+   "OrderId" : "c0gvrv95qd1t4war4b56pe9lct12ckfoh6u9",
+   "IsCancellation" : false,
+   "MyallocatorNotAdjustedFor" : true,
+   "Version" : 0,
+   "MyallocatorId" : "f18efc904813e30d48448206d",
+   "MyallocatorCreationDate" : "2017-05-23",
+   "MyallocatorModificationTime" : "13:18:16",
+   "PropertyId" : "76855",
+   "StartDate" : "2017-05-25",
+   "MyallocatorCreationTime" : "13:18:16",
+   "MarkedAsRead" : false,
+   "Channel" : "vrbo",
+   "Rooms" : [
+      {
+         "EndDate" : "2017-05-27",
+         "RoomTypeIds" : [
+            104852
+         ],
+         "Units" : 1,
+         "StartDate" : "2017-05-25",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "http://admin.vrbo.com/CENSORED"
+      }
+   ]
+}

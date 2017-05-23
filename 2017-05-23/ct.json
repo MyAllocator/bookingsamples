@@ -1,0 +1,67 @@
+{
+   "OrderTime" : "12:36:28",
+   "Customers" : [
+      {
+         "CustomerLName" : "Walker",
+         "CustomerCompany" : "",
+         "CustomerNote" : "CENSORED",
+         "CustomerEmail" : "",
+         "CustomerFName" : "Emily",
+         "CustomerPostCode" : "",
+         "CustomerCity" : "",
+         "CustomerAddress" : "",
+         "CustomerPhone" : "0",
+         "CustomerCountry" : ""
+      },
+      {
+         "CustomerLName" : "Hall",
+         "CustomerCompany" : "",
+         "CustomerNote" : "CENSORED",
+         "CustomerEmail" : "",
+         "CustomerFName" : "Ethan",
+         "CustomerPostCode" : "",
+         "CustomerCity" : "",
+         "CustomerAddress" : "",
+         "CustomerPhone" : "",
+         "CustomerCountry" : ""
+      }
+   ],
+   "Acknowledged" : false,
+   "OrderDate" : "2017-04-23",
+   "MyallocatorModificationDate" : "2017-04-23",
+   "OrderSource" : "Hotel Reservation Service (HRS 3.0)",
+   "EndDate" : "2017-08-19",
+   "OrderId" : "9763954",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "MyallocatorId" : "d4c2cb133642a2c08ce79c0c0",
+   "OrderChildren" : 0,
+   "TotalPrice" : "158.00",
+   "MyallocatorCreationDate" : "2017-04-23",
+   "OrderAdults" : 2,
+   "MyallocatorModificationTime" : "12:41:37",
+   "PropertyId" : "2787",
+   "StartDate" : "2017-08-18",
+   "MyallocatorCreationTime" : "12:41:37",
+   "MarkedAsRead" : false,
+   "OrderModifTime" : null,
+   "Channel" : "ct",
+   "TotalCurrency" : "EUR",
+   "OrderModifDate" : null,
+   "Rooms" : [
+      {
+         "EndDate" : "2017-08-19",
+         "RoomTypeIds" : [
+            10975
+         ],
+         "RoomDesc" : "Doppelzimmer",
+         "Price" : "158.00",
+         "Currency" : "EUR",
+         "Units" : "1",
+         "StartDate" : "2017-08-18",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "099468"
+      }
+   ],
+   "OrderSourceId" : "180484881"
+}

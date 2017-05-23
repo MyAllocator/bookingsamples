@@ -1,0 +1,56 @@
+{
+   "OrderTime" : "10:10:06",
+   "DepositCurrency" : "USD",
+   "Deposit" : "6.4",
+   "Customers" : [
+      {
+         "CustomerLName" : "Taylor",
+         "CustomerState" : "MA",
+         "CustomerCompany" : "CENSORED",
+         "CustomerNote" : "",
+         "CustomerEmail" : "taylor@inbox.com",
+         "CustomerPostCode" : "02472",
+         "CustomerCity" : "Watertown",
+         "CustomerAddress" : "CENSORED",
+         "CustomerPhone" : "1104386476",
+         "CustomerCountry" : "US"
+      }
+   ],
+   "Acknowledged" : true,
+   "OrderDate" : "2017-05-23",
+   "MyallocatorModificationDate" : "2017-05-23",
+   "EndDate" : "2017-05-24",
+   "OrderId" : "40343258",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "CommissionIncludedInTotal" : false,
+   "MyallocatorId" : "58d0a55b11d615bacef32c85f",
+   "OrderChildren" : "0",
+   "TotalPrice" : "64.00",
+   "CommissionCurrency" : "USD",
+   "MyallocatorCreationDate" : "2017-05-23",
+   "OrderAdults" : "2",
+   "MyallocatorModificationTime" : "14:10:47",
+   "PropertyId" : "9707",
+   "StartDate" : "2017-05-23",
+   "MyallocatorCreationTime" : "14:10:47",
+   "MarkedAsRead" : true,
+   "Channel" : "iwb",
+   "Commission" : "0",
+   "TotalCurrency" : "USD",
+   "Rooms" : [
+      {
+         "EndDate" : "2017-05-24",
+         "RoomTypeIds" : [
+            15162
+         ],
+         "Price" : "16",
+         "RoomDesc" : "Mix Dorm",
+         "Currency" : "USD",
+         "Units" : "2",
+         "StartDate" : "2017-05-23",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "l2lplpi9"
+      }
+   ]
+}

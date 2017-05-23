@@ -1,0 +1,180 @@
+{
+   "OrderVersion" : 1,
+   "OrderTime" : "14:27:24",
+   "DepositDue" : "0.00",
+   "Deposit" : "0.00",
+   "Customers" : [
+      {
+         "CustomerLName" : "Miller",
+         "CustomerCompany" : "",
+         "CustomerNote" : "",
+         "CustomerEmail" : "sophia.miller@aol.com",
+         "CustomerFName" : "Sophia",
+         "CustomerPostCode" : "",
+         "CustomerCity" : "",
+         "CustomerAddress" : "CENSORED",
+         "CustomerPhone" : "132367990978",
+         "CustomerCountry" : "NL"
+      }
+   ],
+   "Acknowledged" : false,
+   "TotalTaxesCurrency" : "PLN",
+   "OrderDate" : "2017-04-06",
+   "MyallocatorModificationDate" : "2017-04-06",
+   "EndDate" : "2017-06-03",
+   "OrderId" : "4804489293",
+   "IsCancellation" : false,
+   "MyallocatorCreditCardDetailsPresent" : true,
+   "Version" : 0,
+   "MyallocatorId" : "7ca68f5f8094fa87d31fcadf6",
+   "CommissionCurrency" : "PLN",
+   "TotalPrice" : "496.80",
+   "MyallocatorCreationDate" : "2017-04-06",
+   "MyallocatorModificationTime" : "14:27:31",
+   "PropertyId" : "23010",
+   "StartDate" : "2017-06-02",
+   "MyallocatorCreationTime" : "14:27:31",
+   "MarkedAsRead" : true,
+   "Channel" : "flh",
+   "Commission" : 0,
+   "TotalCurrency" : "PLN",
+   "TotalTaxes" : 0,
+   "Rooms" : [
+      {
+         "DayRates" : [
+            {
+               "RateId" : "23807",
+               "Description" : "",
+               "Rate" : 62.1,
+               "Date" : "2017-06-02"
+            },
+            {
+               "RateId" : "23807",
+               "Description" : "",
+               "Rate" : 62.1,
+               "Date" : "2017-06-03"
+            }
+         ],
+         "OccupantLName" : "",
+         "Units" : 1,
+         "Occupancy" : 1,
+         "StartDate" : "2017-06-02",
+         "EndDate" : "2017-06-03",
+         "OccupantFName" : "",
+         "RoomTypeIds" : [
+            77415
+         ],
+         "RateDesc" : "",
+         "RateId" : "23807",
+         "RoomDesc" : "6-bed mixed dorm with shared bathroom",
+         "Price" : "124.20",
+         "Currency" : "PLN",
+         "OccupantNote" : "",
+         "Policy" : "",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "41238"
+      },
+      {
+         "DayRates" : [
+            {
+               "RateId" : "23807",
+               "Description" : "",
+               "Rate" : 62.1,
+               "Date" : "2017-06-02"
+            },
+            {
+               "RateId" : "23807",
+               "Description" : "",
+               "Rate" : 62.1,
+               "Date" : "2017-06-03"
+            }
+         ],
+         "OccupantLName" : "",
+         "Units" : 1,
+         "Occupancy" : 1,
+         "StartDate" : "2017-06-02",
+         "EndDate" : "2017-06-03",
+         "OccupantFName" : "",
+         "RoomTypeIds" : [
+            77415
+         ],
+         "RateDesc" : "",
+         "RateId" : "23807",
+         "RoomDesc" : "6-bed mixed dorm with shared bathroom",
+         "Price" : "124.20",
+         "Currency" : "PLN",
+         "OccupantNote" : "",
+         "Policy" : "",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "68965"
+      },
+      {
+         "DayRates" : [
+            {
+               "RateId" : "23807",
+               "Description" : "",
+               "Rate" : 62.1,
+               "Date" : "2017-06-02"
+            },
+            {
+               "RateId" : "23807",
+               "Description" : "",
+               "Rate" : 62.1,
+               "Date" : "2017-06-03"
+            }
+         ],
+         "OccupantLName" : "",
+         "Units" : 1,
+         "Occupancy" : 1,
+         "StartDate" : "2017-06-02",
+         "EndDate" : "2017-06-03",
+         "OccupantFName" : "",
+         "RoomTypeIds" : [
+            77415
+         ],
+         "RateDesc" : "",
+         "RateId" : "23807",
+         "RoomDesc" : "6-bed mixed dorm with shared bathroom",
+         "Price" : "124.20",
+         "Currency" : "PLN",
+         "OccupantNote" : "",
+         "Policy" : "",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "25441"
+      },
+      {
+         "DayRates" : [
+            {
+               "RateId" : "23807",
+               "Description" : "",
+               "Rate" : 62.1,
+               "Date" : "2017-06-02"
+            },
+            {
+               "RateId" : "23807",
+               "Description" : "",
+               "Rate" : 62.1,
+               "Date" : "2017-06-03"
+            }
+         ],
+         "OccupantLName" : "",
+         "Units" : 1,
+         "Occupancy" : 1,
+         "StartDate" : "2017-06-02",
+         "EndDate" : "2017-06-03",
+         "OccupantFName" : "",
+         "RoomTypeIds" : [
+            77415
+         ],
+         "RateDesc" : "",
+         "RateId" : "23807",
+         "RoomDesc" : "6-bed mixed dorm with shared bathroom",
+         "Price" : "124.20",
+         "Currency" : "PLN",
+         "OccupantNote" : "",
+         "Policy" : "",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "57206"
+      }
+   ]
+}

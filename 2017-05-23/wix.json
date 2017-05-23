@@ -1,0 +1,47 @@
+{
+   "Customers" : [
+      {
+         "CustomerLName" : "Anderson",
+         "CustomerFName" : "Mia",
+         "CustomerNote" : "",
+         "CustomerPhone" : "8830684284",
+         "CustomerEmail" : "mia.anderson@aol.com"
+      }
+   ],
+   "Acknowledged" : false,
+   "OrderDate" : "2017-05-23",
+   "TotalTaxesCurrency" : "USD",
+   "MyallocatorModificationDate" : "2017-05-23",
+   "OrderSource" : "wix",
+   "EndDate" : "2017-05-27",
+   "OrderId" : "2761753991266779",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "MyallocatorId" : "7db882c3c7430e83d067f23b4",
+   "TotalPrice" : "536.10",
+   "MyallocatorCreationDate" : "2017-05-23",
+   "MyallocatorModificationTime" : "15:35:55",
+   "PropertyId" : "7633",
+   "StartDate" : "2017-05-24",
+   "MyallocatorCreationTime" : "15:35:55",
+   "MarkedAsRead" : false,
+   "Channel" : "wix",
+   "TotalCurrency" : "USD",
+   "TotalTaxes" : 86.1,
+   "Rooms" : [
+      {
+         "EndDate" : "2017-05-27",
+         "RoomTypeIds" : [
+            73489
+         ],
+         "Price" : 536.1,
+         "Children" : "1",
+         "RoomDesc" : "Casa 2 hab 4 adultos + 1 menor",
+         "Adults" : "3",
+         "Units" : 1,
+         "StartDate" : "2017-05-24",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "tloann97hkfa5e7umoc6mfmr5mcvh4cygu1d"
+      }
+   ]
+}

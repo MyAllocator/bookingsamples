@@ -1,0 +1,58 @@
+{
+   "OrderTime" : "13:42",
+   "Customers" : [
+      {
+         "CustomerLName" : "",
+         "CustomerNote" : "",
+         "CustomerGender" : "",
+         "CustomerEmail" : "isabella@outlook.com",
+         "CustomerFName" : "Isabella",
+         "CustomerPostCode" : "40227",
+         "CustomerCity" : "D\u00fcsseldorf",
+         "CustomerAddress" : "CENSORED",
+         "CustomerPhone" : "24839344358",
+         "CustomerCountry" : "DE"
+      }
+   ],
+   "Acknowledged" : false,
+   "OrderDate" : "2017-05-23",
+   "MyallocatorModificationDate" : "2017-05-23",
+   "OrderSource" : "Kongresse (HUGA)",
+   "EndDate" : "2017-09-19",
+   "OrderId" : "8c5r2rr4",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "MyallocatorId" : "75b442e5f94d70c981314fa7a",
+   "OrderChildren" : 0,
+   "TotalPrice" : "205.00",
+   "MyallocatorCreationDate" : "2017-05-23",
+   "OrderAdults" : 1,
+   "MyallocatorModificationTime" : "11:48:28",
+   "PropertyId" : "69624",
+   "StartDate" : "2017-09-18",
+   "MyallocatorCreationTime" : "11:48:28",
+   "MarkedAsRead" : false,
+   "Channel" : "tom",
+   "TotalCurrency" : "EUR",
+   "Rooms" : [
+      {
+         "EndDate" : "2017-09-19",
+         "RoomTypeIds" : [
+            97563
+         ],
+         "Price" : "205.00",
+         "RateId" : "HUGA 2017 - Special rate",
+         "RoomDesc" : "HUGA 2017 - Special rate",
+         "Children" : 0,
+         "RateDesc" : "",
+         "Breakfast" : true,
+         "Currency" : "EUR",
+         "Units" : "1",
+         "Adults" : 1,
+         "StartDate" : "2017-09-18",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "UY"
+      }
+   ],
+   "OrderSourceId" : "NDS00020140012319174"
+}

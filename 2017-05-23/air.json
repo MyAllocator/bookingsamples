@@ -1,0 +1,36 @@
+{
+   "MyallocatorCreationDate" : "2017-05-23",
+   "Customers" : [
+      {
+         "CustomerLName" : "Johnson",
+         "CustomerNote" : "",
+         "CustomerPhone" : "iqasuqjh6trw64z94",
+         "CustomerEmail" : "johnson@gmail.com"
+      }
+   ],
+   "Acknowledged" : false,
+   "MyallocatorModificationDate" : "2017-05-23",
+   "MyallocatorModificationTime" : "15:42:31",
+   "PropertyId" : "51718",
+   "StartDate" : "2017-06-02",
+   "EndDate" : "2017-06-03",
+   "MyallocatorCreationTime" : "15:42:31",
+   "OrderId" : "ebg1gxcaen",
+   "IsCancellation" : false,
+   "MarkedAsRead" : false,
+   "Channel" : "air",
+   "Version" : 0,
+   "Rooms" : [
+      {
+         "EndDate" : "2017-06-03",
+         "RoomTypeIds" : [
+            97044
+         ],
+         "Units" : 1,
+         "StartDate" : "2017-06-02",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "https://www.airbnb.com/CENSORED"
+      }
+   ],
+   "MyallocatorId" : "c875c0bc495d413b85057a9da"
+}

@@ -1,0 +1,62 @@
+{
+   "OrderTime" : "11:36:00",
+   "Customers" : [
+      {
+         "CustomerLName" : "Wilson",
+         "CustomerNote" : "",
+         "CustomerAddress" : "CENSORED",
+         "CustomerPhone" : "81245555030368647",
+         "CustomerEmail" : "wilson@hushmail.com",
+         "CustomerCountry" : "AR"
+      }
+   ],
+   "Acknowledged" : false,
+   "OrderDate" : "2017-05-23",
+   "MyallocatorModificationDate" : "2017-05-23",
+   "EndDate" : "2017-06-04",
+   "OrderId" : "7fezhm63u3",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "MyallocatorId" : "2e47bbe17c48d81fee2e52b99",
+   "OrderChildren" : "0",
+   "TotalPrice" : "85374.20",
+   "MyallocatorCreationDate" : "2017-05-23",
+   "OrderAdults" : "2",
+   "MyallocatorModificationTime" : "15:41:54",
+   "PropertyId" : "4824",
+   "StartDate" : "2017-06-04",
+   "MyallocatorCreationTime" : "15:41:54",
+   "MarkedAsRead" : false,
+   "Channel" : "bd",
+   "TotalCurrency" : "COP",
+   "Rooms" : [
+      {
+         "DayRates" : [
+            {
+               "Currency" : "COP",
+               "RateId" : "INTER2-5!BB",
+               "Date" : "2017-06-04",
+               "Rate" : "85374.2",
+               "Description" : "Islas - Breakfast Included"
+            }
+         ],
+         "Children" : "0",
+         "OccupantSmoker" : true,
+         "Breakfast" : true,
+         "Adults" : "2",
+         "Units" : "1",
+         "StartDate" : "2017-06-04",
+         "EndDate" : "2017-06-04",
+         "RoomTypeIds" : [
+            19778
+         ],
+         "Price" : null,
+         "RateId" : "BB",
+         "RateDesc" : "Breakfast Included",
+         "RoomDesc" : "Doble Estandar/Breakfast Included",
+         "Currency" : "COP",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "45321"
+      }
+   ]
+}
