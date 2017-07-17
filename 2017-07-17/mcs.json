@@ -1,0 +1,90 @@
+{
+   "OrderTime" : "14:04:28",
+   "DepositDue" : "0.00",
+   "Deposit" : "0.00",
+   "Customers" : [
+      {
+         "CustomerLName" : "Garcia",
+         "CustomerCompany" : "",
+         "CustomerNote" : "",
+         "CustomerEmail" : "abigail.garcia@hotmail.com",
+         "CustomerFName" : "Abigail",
+         "CustomerPostCode" : "",
+         "CustomerCity" : "",
+         "CustomerAddress" : "CENSORED",
+         "CustomerPhone" : "3106030380",
+         "CustomerCountry" : "US"
+      }
+   ],
+   "Acknowledged" : false,
+   "TotalTaxesCurrency" : "EUR",
+   "OrderDate" : "2017-07-16",
+   "MyallocatorModificationDate" : "2017-07-16",
+   "OrderId" : "7375431617",
+   "EndDate" : "2017-07-21",
+   "IsCancellation" : false,
+   "MyallocatorCreditCardDetailsPresent" : true,
+   "Version" : 0,
+   "MyallocatorId" : "55edfbbd3dd30d04c22dbb172",
+   "TotalPrice" : "354.00",
+   "CommissionCurrency" : "EUR",
+   "MyallocatorCreationDate" : "2017-07-16",
+   "IsModification" : false,
+   "MyallocatorModificationTime" : "14:04:36",
+   "PropertyId" : "36071",
+   "StartDate" : "2017-07-18",
+   "MyallocatorCreationTime" : "14:04:36",
+   "MarkedAsRead" : false,
+   "Channel" : "mcs",
+   "Commission" : 0,
+   "TotalCurrency" : "EUR",
+   "TotalTaxes" : 0,
+   "Rooms" : [
+      {
+         "DayRates" : [
+            {
+               "RateId" : "30135",
+               "Date" : "2017-07-18",
+               "Rate" : 85,
+               "Description" : null
+            },
+            {
+               "RateId" : "30135",
+               "Date" : "2017-07-19",
+               "Rate" : 85,
+               "Description" : null
+            },
+            {
+               "RateId" : "30135",
+               "Date" : "2017-07-20",
+               "Rate" : 85,
+               "Description" : null
+            },
+            {
+               "RateId" : "30135",
+               "Date" : "2017-07-21",
+               "Rate" : 99,
+               "Description" : null
+            }
+         ],
+         "OccupantLName" : "",
+         "Units" : "1",
+         "Occupancy" : 2,
+         "StartDate" : "2017-07-18",
+         "EndDate" : "2017-07-21",
+         "OccupantFName" : "",
+         "RoomTypeIds" : [
+            58335
+         ],
+         "RateDesc" : "",
+         "RateId" : "30135",
+         "RoomDesc" : "\u00c1tico de 1 Dormitorio para 2-3 adultos",
+         "Price" : "354.00",
+         "Currency" : "EUR",
+         "OccupantNote" : "",
+         "Policy" : "",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "94666"
+      }
+   ]
+}

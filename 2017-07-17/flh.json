@@ -1,0 +1,84 @@
+{
+   "OrderVersion" : 1,
+   "OrderTime" : "08:29:41",
+   "DepositDue" : "0.00",
+   "Deposit" : "0.00",
+   "Customers" : [
+      {
+         "CustomerLName" : "Miller",
+         "CustomerCompany" : "",
+         "CustomerNote" : "",
+         "CustomerEmail" : "sophia.miller@aol.com",
+         "CustomerFName" : "Sophia",
+         "CustomerPostCode" : "",
+         "CustomerCity" : "",
+         "CustomerAddress" : "CENSORED",
+         "CustomerPhone" : "2167000984",
+         "CustomerCountry" : "AU"
+      }
+   ],
+   "Acknowledged" : false,
+   "TotalTaxesCurrency" : "PLN",
+   "OrderDate" : "2017-04-02",
+   "MyallocatorModificationDate" : "2017-04-02",
+   "EndDate" : "2017-07-05",
+   "OrderId" : "4996077995",
+   "IsCancellation" : false,
+   "MyallocatorCreditCardDetailsPresent" : true,
+   "Version" : 0,
+   "MyallocatorId" : "aed9cf0f0cf77584cb5ca3d42",
+   "CommissionCurrency" : "PLN",
+   "TotalPrice" : "135.00",
+   "MyallocatorCreationDate" : "2017-04-02",
+   "MyallocatorModificationTime" : "08:29:47",
+   "PropertyId" : "97867",
+   "StartDate" : "2017-07-03",
+   "MyallocatorCreationTime" : "08:29:47",
+   "MarkedAsRead" : false,
+   "Channel" : "flh",
+   "Commission" : 0,
+   "TotalCurrency" : "PLN",
+   "TotalTaxes" : 0,
+   "Rooms" : [
+      {
+         "DayRates" : [
+            {
+               "RateId" : "23805",
+               "Description" : "",
+               "Rate" : 39.6,
+               "Date" : "2017-07-03"
+            },
+            {
+               "RateId" : "23805",
+               "Description" : "",
+               "Rate" : 47.7,
+               "Date" : "2017-07-04"
+            },
+            {
+               "RateId" : "23805",
+               "Description" : "",
+               "Rate" : 47.7,
+               "Date" : "2017-07-05"
+            }
+         ],
+         "OccupantLName" : "",
+         "Units" : 1,
+         "Occupancy" : 1,
+         "StartDate" : "2017-07-03",
+         "EndDate" : "2017-07-05",
+         "OccupantFName" : "",
+         "RoomTypeIds" : [
+            62533
+         ],
+         "RateDesc" : "",
+         "RateId" : "23805",
+         "RoomDesc" : "4-bed female dorm with shared bathroom",
+         "Price" : "135.00",
+         "Currency" : "PLN",
+         "OccupantNote" : "",
+         "Policy" : "",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "62332"
+      }
+   ]
+}

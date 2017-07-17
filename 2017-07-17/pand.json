@@ -1,0 +1,51 @@
+{
+   "OrderTime" : "06:11:42 PM",
+   "DepositCurrency" : "INR",
+   "Deposit" : "2490.00",
+   "Customers" : [
+      {
+         "CustomerLName" : "Abeln",
+         "CustomerFName" : "Olivia",
+         "CustomerNote" : "",
+         "CustomerPhone" : "0348065915951",
+         "CustomerEmail" : "olivia.abeln@hushmail.com",
+         "CustomerCountry" : "India"
+      }
+   ],
+   "Acknowledged" : true,
+   "OrderDate" : "2017-07-17",
+   "MyallocatorModificationDate" : "2017-07-17",
+   "EndDate" : "2017-07-22",
+   "OrderId" : "kwymu9fztub8aj6",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "MyallocatorId" : "ee4fe47b6cd0d70ed6aa12e65",
+   "OrderChildren" : 0,
+   "TotalPrice" : "2490.00",
+   "MyallocatorCreationDate" : "2017-07-17",
+   "OrderAdults" : 5,
+   "IsModification" : false,
+   "MyallocatorModificationTime" : "12:42:08",
+   "BalanceCurrency" : "INR",
+   "PropertyId" : "1446",
+   "Balance" : "0.00",
+   "StartDate" : "2017-07-21",
+   "MyallocatorCreationTime" : "12:42:08",
+   "MarkedAsRead" : false,
+   "Channel" : "pand",
+   "TotalCurrency" : "INR",
+   "Rooms" : [
+      {
+         "EndDate" : "2017-07-22",
+         "RoomTypeIds" : [
+            45335
+         ],
+         "RoomDesc" : "8 Bed Mix",
+         "Price" : "2490.00",
+         "Units" : "5",
+         "StartDate" : "2017-07-21",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "8"
+      }
+   ]
+}

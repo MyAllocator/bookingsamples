@@ -1,0 +1,60 @@
+{
+   "OrderTime" : "12:00:00",
+   "Customers" : [
+      {
+         "CustomerLName" : "Moore",
+         "CustomerNote" : "",
+         "CustomerEmail" : "isabella.moore@aol.com",
+         "CustomerFName" : "Isabella",
+         "CustomerCity" : "Hackettstown",
+         "CustomerPostCode" : "02338",
+         "CustomerAddress" : "CENSORED",
+         "CustomerPhone" : "8638657516",
+         "CustomerCountry" : "USA (United States)"
+      }
+   ],
+   "Acknowledged" : false,
+   "OrderDate" : "2017-07-15",
+   "MyallocatorModificationDate" : "2017-07-15",
+   "OrderId" : "98336",
+   "EndDate" : "2017-08-13",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "MyallocatorId" : "3375953d99de0ebf7fcd7563e",
+   "TotalPrice" : "118.81",
+   "MyallocatorCreationDate" : "2017-07-15",
+   "IsModification" : false,
+   "MyallocatorModificationTime" : "23:06:20",
+   "PropertyId" : "14400",
+   "StartDate" : "2017-08-13",
+   "MyallocatorCreationTime" : "23:06:20",
+   "MarkedAsRead" : false,
+   "Channel" : "ibc",
+   "TotalCurrency" : "USD",
+   "Rooms" : [
+      {
+         "EndDate" : "2017-08-13",
+         "RoomTypeIds" : [
+            100640
+         ],
+         "DayRates" : [
+            {
+               "Rate" : 118.81,
+               "Date" : "2017-08-13",
+               "Description" : null
+            }
+         ],
+         "Price" : 118.81,
+         "Children" : 0,
+         "RoomDesc" : "The Beckford",
+         "RateId" : "",
+         "RateDesc" : "",
+         "Currency" : "USD",
+         "Units" : "1",
+         "Adults" : 2,
+         "StartDate" : "2017-08-13",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "46375"
+      }
+   ]
+}

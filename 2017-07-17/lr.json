@@ -1,0 +1,51 @@
+{
+   "OrderTime" : "15:47:37",
+   "Customers" : [
+      {
+         "CustomerLName" : "White",
+         "CustomerNote" : "",
+         "CustomerEmail" : "white@lycos.com",
+         "CustomerCity" : "Bristol",
+         "CustomerPostCode" : "BS4 4LG",
+         "CustomerAddress" : "CENSORED",
+         "CustomerPhone" : "74430526551",
+         "CustomerCountry" : "UK"
+      }
+   ],
+   "Acknowledged" : false,
+   "OrderDate" : "2017-07-16",
+   "MyallocatorModificationDate" : "2017-07-16",
+   "EndDate" : "2017-07-17",
+   "OrderId" : "sfqyhvqzf",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "MyallocatorId" : "5e616762a5e5d18e8a057455d",
+   "ma_callback_qbid" : 5305255,
+   "TotalPrice" : "18.99",
+   "MyallocatorCreationDate" : "2017-07-16",
+   "IsModification" : false,
+   "MyallocatorModificationTime" : "15:48:11",
+   "PropertyId" : "52675",
+   "StartDate" : "2017-07-17",
+   "MyallocatorCreationTime" : "15:48:11",
+   "MarkedAsRead" : false,
+   "Channel" : "lr",
+   "TotalCurrency" : "GBP",
+   "Rooms" : [
+      {
+         "EndDate" : "2017-07-17",
+         "OccupantFName" : "",
+         "RoomTypeIds" : [
+            70672
+         ],
+         "RoomDesc" : "Female Dormitory - Single Bed Single Room sleeps 1. Breakfast included.  Non Smoking Requested, 1 Adult (Female Dormitory room for 10 with Private Facilities)",
+         "Price" : "18.99",
+         "Currency" : "GBP",
+         "RoomSummary" : "Female Dormitory - Single Bed Single Room sleeps 1. Breakfast included.  Non Smoking Requested, 1 Adult",
+         "Units" : "1",
+         "StartDate" : "2017-07-17",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "2725292"
+      }
+   ]
+}

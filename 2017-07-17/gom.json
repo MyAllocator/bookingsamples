@@ -1,0 +1,49 @@
+{
+   "OrderTime" : "14:28:00",
+   "DepositCurrency" : "GBP",
+   "Deposit" : "7.5",
+   "Customers" : [
+      {
+         "CustomerFName" : "Isabella",
+         "CustomerLName" : "Moore",
+         "CustomerArrivalTime" : "12:00",
+         "CustomerNote" : "",
+         "CustomerEmail" : "isabella.moore@mail.com",
+         "CustomerCountry" : "United Kingdom",
+         "CustomerGender" : "MI"
+      }
+   ],
+   "Acknowledged" : false,
+   "OrderDate" : "2017-07-17",
+   "MyallocatorModificationDate" : "2017-07-17",
+   "EndDate" : "2017-07-29",
+   "OrderId" : "san7bgr",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "MyallocatorId" : "a2d85f607968048934212cbfc",
+   "TotalPrice" : "75.00",
+   "MyallocatorCreationDate" : "2017-07-17",
+   "IsModification" : false,
+   "MyallocatorModificationTime" : "12:32:11",
+   "PropertyId" : "41",
+   "StartDate" : "2017-07-29",
+   "MyallocatorCreationTime" : "12:32:11",
+   "MarkedAsRead" : false,
+   "Channel" : "gom",
+   "TotalCurrency" : "GBP",
+   "Rooms" : [
+      {
+         "EndDate" : "2017-07-29",
+         "RoomTypeIds" : [
+            277
+         ],
+         "Price" : 75,
+         "RoomDesc" : "12 Bed Mixed Dorm Shared Facilities",
+         "Currency" : "GBP",
+         "Units" : "3",
+         "StartDate" : "2017-07-29",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "17455"
+      }
+   ]
+}

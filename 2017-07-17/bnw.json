@@ -1,0 +1,58 @@
+{
+   "OrderTime" : "12:38:29",
+   "Customers" : [
+      {
+         "CustomerLName" : "Anderson",
+         "CustomerNote" : "CENSORED",
+         "CustomerEmail" : "mia.anderson@hotmail.com",
+         "CustomerFName" : "Mia",
+         "CustomerArrivalTime" : "18:00",
+         "CustomerNationality" : "Italian",
+         "CustomerPhone" : "45197194870623",
+         "CustomerIP" : "127.0.0.1"
+      }
+   ],
+   "Acknowledged" : false,
+   "OrderDate" : "2017-07-17",
+   "MyallocatorModificationDate" : "2017-07-17",
+   "OrderSource" : "BookNow Version 2",
+   "EndDate" : "2017-07-22",
+   "OrderId" : "d8d7ki8b1zp3esfv6wcw",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "MyallocatorId" : "681ba3de5b242b4563ef0ec44",
+   "TotalPrice" : "70000.00",
+   "MyallocatorCreationDate" : "2017-07-17",
+   "IsModification" : false,
+   "MyallocatorModificationTime" : "12:38:34",
+   "PropertyId" : "9635",
+   "StartDate" : "2017-07-22",
+   "MyallocatorCreationTime" : "12:38:34",
+   "MarkedAsRead" : false,
+   "Channel" : "bnw",
+   "TotalCurrency" : "COP",
+   "Rooms" : [
+      {
+         "EndDate" : "2017-07-22",
+         "RoomTypeIds" : [
+            9233
+         ],
+         "Price" : 70000,
+         "DayRates" : [
+            {
+               "Currency" : "COP",
+               "Date" : "2017-07-22",
+               "Rate" : 70000,
+               "Description" : null
+            }
+         ],
+         "RateId" : "",
+         "RateDesc" : "",
+         "Currency" : "COP",
+         "Units" : "1",
+         "StartDate" : "2017-07-22",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "9151"
+      }
+   ]
+}

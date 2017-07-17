@@ -1,0 +1,63 @@
+{
+   "OrderTime" : "08:42:13",
+   "DepositCurrency" : "EUR",
+   "Deposit" : "8.00",
+   "Customers" : [
+      {
+         "CustomerLName" : "Johnson",
+         "CustomerCompany" : "",
+         "CustomerNote" : "",
+         "CustomerEmail" : "emma.johnson@hushmail.com",
+         "CustomerFName" : "Emma",
+         "CustomerPostCode" : "",
+         "CustomerCity" : "Asker",
+         "CustomerAddress" : "",
+         "CustomerPhone" : "12252330",
+         "CustomerCountry" : "no"
+      }
+   ],
+   "Acknowledged" : false,
+   "OrderDate" : "2017-07-17",
+   "MyallocatorModificationDate" : "2017-07-17",
+   "EndDate" : "2017-07-21",
+   "OrderId" : "91dlbf1an3iv0vlmh2qwk9pez4d7tlv3tgk6",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "MyallocatorId" : "ebbbcc2fdcdc6c1fdd6a6acd6",
+   "TotalPrice" : "80.00",
+   "MyallocatorCreationDate" : "2017-07-17",
+   "IsModification" : false,
+   "MyallocatorModificationTime" : "06:42:21",
+   "BalanceCurrency" : "EUR",
+   "PropertyId" : "3192",
+   "Balance" : "72.00",
+   "StartDate" : "2017-07-21",
+   "MyallocatorCreationTime" : "06:42:21",
+   "MarkedAsRead" : true,
+   "Channel" : "hoga",
+   "TotalCurrency" : "EUR",
+   "Rooms" : [
+      {
+         "EndDate" : "2017-07-21",
+         "RoomTypeIds" : [
+            63939
+         ],
+         "DayRates" : [
+            {
+               "Currency" : "EUR",
+               "Date" : "2017-07-21",
+               "Description" : null,
+               "Rate" : "40.00"
+            }
+         ],
+         "Price" : "80.00",
+         "RoomDesc" : "4 Bed Mix Dorm Ensuite (&nbsp;4 Single Beds, kitchenette, WC, Ac, Heating, TV, WIFI&nbsp;)",
+         "RateId" : "",
+         "RateDesc" : "",
+         "Units" : "2",
+         "StartDate" : "2017-07-21",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "u2onk5d073y1nt11nmpqf26bnugouqqyi58v"
+      }
+   ]
+}

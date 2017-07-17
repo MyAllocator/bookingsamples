@@ -1,0 +1,45 @@
+{
+   "DepositCurrency" : "EUR",
+   "Deposit" : "3.37",
+   "Customers" : [
+      {
+         "CustomerLName" : "Hall",
+         "CustomerNote" : "",
+         "CustomerEmail" : "hall@aol.com",
+         "CustomerCountry" : "France"
+      }
+   ],
+   "Acknowledged" : false,
+   "OrderDate" : "2017-07-17",
+   "MyallocatorModificationDate" : "2017-07-17",
+   "EndDate" : "2017-08-18",
+   "OrderId" : "4556554677",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "MyallocatorId" : "04adf98a24d75032589d5ad36",
+   "TotalPrice" : "84.35",
+   "MyallocatorCreationDate" : "2017-07-17",
+   "IsModification" : false,
+   "MyallocatorModificationTime" : "10:30:12",
+   "PropertyId" : "9660",
+   "StartDate" : "2017-08-14",
+   "MyallocatorCreationTime" : "10:30:12",
+   "MarkedAsRead" : false,
+   "Channel" : "hi",
+   "TotalCurrency" : "EUR",
+   "Rooms" : [
+      {
+         "EndDate" : "2017-08-18",
+         "RoomTypeIds" : [
+            10388
+         ],
+         "Price" : "84.35",
+         "RoomDesc" : "Coed/Mixed 12 Person Dorm - Coed/Mixed Bed",
+         "Currency" : "EUR",
+         "Units" : "1",
+         "StartDate" : "2017-08-14",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "824672"
+      }
+   ]
+}

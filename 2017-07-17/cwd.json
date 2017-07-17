@@ -1,0 +1,90 @@
+{
+   "OrderTime" : "10:05:49",
+   "DepositDue" : "0.00",
+   "Deposit" : "0.00",
+   "Customers" : [
+      {
+         "CustomerLName" : "Smith",
+         "CustomerCompany" : "",
+         "CustomerNote" : "",
+         "CustomerEmail" : "noah.smith@lycos.com",
+         "CustomerFName" : "Noah",
+         "CustomerPostCode" : "",
+         "CustomerCity" : "",
+         "CustomerAddress" : "CENSORED",
+         "CustomerPhone" : "2777512663",
+         "CustomerCountry" : "IN"
+      }
+   ],
+   "Acknowledged" : false,
+   "TotalTaxesCurrency" : "INR",
+   "OrderDate" : "2017-07-17",
+   "MyallocatorModificationDate" : "2017-07-17",
+   "OrderId" : "2433490911",
+   "EndDate" : "2017-07-24",
+   "IsCancellation" : false,
+   "MyallocatorCreditCardDetailsPresent" : true,
+   "Version" : 0,
+   "MyallocatorId" : "4a15b2187fb969ccec01cb012",
+   "TotalPrice" : "2000.00",
+   "CommissionCurrency" : "INR",
+   "MyallocatorCreationDate" : "2017-07-17",
+   "IsModification" : false,
+   "MyallocatorModificationTime" : "10:05:55",
+   "PropertyId" : "8488",
+   "StartDate" : "2017-07-21",
+   "MyallocatorCreationTime" : "10:05:55",
+   "MarkedAsRead" : false,
+   "Channel" : "cwd",
+   "Commission" : 0,
+   "TotalCurrency" : "INR",
+   "TotalTaxes" : 0,
+   "Rooms" : [
+      {
+         "DayRates" : [
+            {
+               "RateId" : "10469",
+               "Date" : "2017-07-21",
+               "Rate" : 500,
+               "Description" : null
+            },
+            {
+               "RateId" : "10469",
+               "Date" : "2017-07-22",
+               "Rate" : 500,
+               "Description" : null
+            },
+            {
+               "RateId" : "10469",
+               "Date" : "2017-07-23",
+               "Rate" : 500,
+               "Description" : null
+            },
+            {
+               "RateId" : "10469",
+               "Date" : "2017-07-24",
+               "Rate" : 500,
+               "Description" : null
+            }
+         ],
+         "OccupantLName" : "",
+         "Units" : "1",
+         "Occupancy" : 1,
+         "StartDate" : "2017-07-21",
+         "EndDate" : "2017-07-24",
+         "OccupantFName" : "",
+         "RoomTypeIds" : [
+            29192
+         ],
+         "RateDesc" : "",
+         "RateId" : "10469",
+         "RoomDesc" : "AC Dorm",
+         "Price" : "2000.00",
+         "Currency" : "INR",
+         "OccupantNote" : "",
+         "Policy" : "",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "0309"
+      }
+   ]
+}

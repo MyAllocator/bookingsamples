@@ -1,0 +1,45 @@
+{
+   "OrderTime" : "18:24:56",
+   "Customers" : [
+      {
+         "CustomerFName" : "Sophia",
+         "CustomerLName" : "Miller",
+         "CustomerNote" : "",
+         "CustomerPhone" : "8730485842983",
+         "CustomerEmail" : "sophia.miller@mail.com",
+         "CustomerCountry" : "Netherlands"
+      }
+   ],
+   "Acknowledged" : false,
+   "OrderDate" : "2017-07-16",
+   "MyallocatorModificationDate" : "2017-07-16",
+   "EndDate" : "2017-07-22",
+   "OrderId" : "5961474",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "MyallocatorId" : "98dec248f3be5439168394c57",
+   "TotalPrice" : "72.00",
+   "MyallocatorCreationDate" : "2017-07-16",
+   "IsModification" : false,
+   "MyallocatorModificationTime" : "16:30:15",
+   "PropertyId" : "43253",
+   "StartDate" : "2017-07-22",
+   "MyallocatorCreationTime" : "16:30:15",
+   "MarkedAsRead" : false,
+   "Channel" : "bbnl",
+   "TotalCurrency" : "EUR",
+   "Rooms" : [
+      {
+         "EndDate" : "2017-07-22",
+         "RoomTypeIds" : [
+            87637
+         ],
+         "RoomDesc" : "classic room",
+         "Price" : "72.00",
+         "Units" : "1",
+         "StartDate" : "2017-07-22",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "0332"
+      }
+   ]
+}

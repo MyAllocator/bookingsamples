@@ -1,0 +1,79 @@
+{
+   "OrderTime" : "12:43:00",
+   "Customers" : [
+      {
+         "CustomerFName" : "William",
+         "CustomerLName" : "Williams",
+         "CustomerNote" : "",
+         "CustomerPhone" : "18288016512411",
+         "CustomerSmoker" : false,
+         "CustomerEmail" : "william.williams@yahoo.com"
+      }
+   ],
+   "Acknowledged" : false,
+   "OrderDate" : "2017-07-17",
+   "TotalTaxesCurrency" : "EUR",
+   "MyallocatorModificationDate" : "2017-07-17",
+   "PaymentCollect" : "Channel",
+   "OrderSource" : "Expedia Affiliate Network",
+   "ChannelSpecific" : {
+      "PaymentType" : "Expedia Collect Booking"
+   },
+   "EndDate" : "2017-09-02",
+   "OrderId" : "782539338",
+   "IsCancellation" : false,
+   "MyallocatorCreditCardDetailsPresent" : true,
+   "Version" : 0,
+   "MyallocatorId" : "bca652a3f306c8d3cdb8fbe73",
+   "OrderChildren" : 1,
+   "ma_callback_qbid" : "5325980",
+   "TotalPrice" : "62.24",
+   "MyallocatorCreationDate" : "2017-07-17",
+   "OrderAdults" : 2,
+   "IsModification" : false,
+   "MyallocatorModificationTime" : "12:43:11",
+   "PropertyId" : "9947",
+   "StartDate" : "2017-09-02",
+   "MyallocatorCreationTime" : "12:43:11",
+   "MarkedAsRead" : false,
+   "Channel" : "exp",
+   "TotalCurrency" : "EUR",
+   "TotalTaxes" : "3.52",
+   "ExtraServices" : [
+      {
+         "EndDate" : "2017-09-02",
+         "Units" : 1,
+         "Description" : "1 double bed",
+         "StartDate" : "2017-09-02"
+      }
+   ],
+   "Rooms" : [
+      {
+         "EndDate" : "2017-09-02",
+         "RoomTypeIds" : [
+            11671,
+            11672
+         ],
+         "Price" : "62.24",
+         "DayRates" : [
+            {
+               "Currency" : "EUR",
+               "RateId" : "202385436",
+               "Date" : "2017-09-02",
+               "Rate" : 58.72,
+               "Description" : "Breakfast Included - Derived S (Superior Room)"
+            }
+         ],
+         "Children" : 1,
+         "RateId" : "202385436",
+         "RateDesc" : "Breakfast Included - Derived S (Superior Room)",
+         "RoomDesc" : "Superior Room",
+         "Currency" : "EUR",
+         "Adults" : 2,
+         "Units" : "1",
+         "StartDate" : "2017-09-02",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "645938421"
+      }
+   ]
+}

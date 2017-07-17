@@ -1,0 +1,37 @@
+{
+   "Customers" : [
+      {
+         "CustomerLName" : "Johnson",
+         "CustomerNote" : "",
+         "CustomerPhone" : "t5g9kbvj8wjfe80pj",
+         "CustomerEmail" : "johnson@gmail.com"
+      }
+   ],
+   "Acknowledged" : false,
+   "MyallocatorModificationDate" : "2017-07-17",
+   "EndDate" : "2017-07-17",
+   "OrderId" : "znwrwujnj8",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "MyallocatorId" : "14e09a5e38e830ffd0c8aa72c",
+   "MyallocatorCreationDate" : "2017-07-17",
+   "IsModification" : false,
+   "MyallocatorModificationTime" : "12:38:33",
+   "PropertyId" : "35597",
+   "StartDate" : "2017-07-17",
+   "MyallocatorCreationTime" : "12:38:33",
+   "MarkedAsRead" : false,
+   "Channel" : "air",
+   "Rooms" : [
+      {
+         "EndDate" : "2017-07-17",
+         "RoomTypeIds" : [
+            77717
+         ],
+         "Units" : "1",
+         "StartDate" : "2017-07-17",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "https://www.airbnb.com.ar/CENSORED"
+      }
+   ]
+}

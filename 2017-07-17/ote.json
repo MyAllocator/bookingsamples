@@ -1,0 +1,46 @@
+{
+   "OrderTime" : "19:50:03",
+   "DepositCurrency" : "MXN",
+   "Deposit" : 0,
+   "Customers" : [
+      {
+         "CustomerFName" : "Liam",
+         "CustomerLName" : "Cain",
+         "CustomerNote" : "",
+         "CustomerEmail" : "liam.cain@mail.com"
+      }
+   ],
+   "Acknowledged" : false,
+   "OrderDate" : "2017-07-16",
+   "MyallocatorModificationDate" : "2017-07-16",
+   "EndDate" : "2017-07-28",
+   "OrderId" : "v9cnik40",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "MyallocatorId" : "37a511e413022c23b7c48c7d7",
+   "TotalPrice" : "600.00",
+   "MyallocatorCreationDate" : "2017-07-16",
+   "IsModification" : false,
+   "MyallocatorModificationTime" : "19:45:05",
+   "PropertyId" : "9546",
+   "StartDate" : "2017-07-26",
+   "MyallocatorCreationTime" : "19:45:05",
+   "MarkedAsRead" : false,
+   "Channel" : "ote",
+   "TotalCurrency" : "MXN",
+   "Rooms" : [
+      {
+         "EndDate" : "2017-07-28",
+         "RoomTypeIds" : [
+            5604
+         ],
+         "Price" : 600,
+         "RoomDesc" : "8 Bed Mixed Dorm Room",
+         "Currency" : "MXN",
+         "Units" : "1",
+         "StartDate" : "2017-07-26",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "1352"
+      }
+   ]
+}

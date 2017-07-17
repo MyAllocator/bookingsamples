@@ -1,0 +1,57 @@
+{
+   "OrderTime" : "12:23:50",
+   "Customers" : [
+      {
+         "CustomerLName" : "Anderson",
+         "CustomerNote" : ""
+      }
+   ],
+   "Acknowledged" : false,
+   "OrderDate" : "2017-07-17",
+   "MyallocatorModificationDate" : "2017-07-17",
+   "OrderId" : "1ppbeovm2hmfax",
+   "EndDate" : "2017-08-17",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "MyallocatorId" : "19b1240461f9e02f0156a1375",
+   "OrderChildren" : "0",
+   "TotalPrice" : "7.59",
+   "MyallocatorCreationDate" : "2017-07-17",
+   "OrderAdults" : "1",
+   "IsModification" : false,
+   "MyallocatorModificationTime" : "11:41:37",
+   "PropertyId" : "81117",
+   "StartDate" : "2017-08-17",
+   "MyallocatorCreationTime" : "11:41:37",
+   "MarkedAsRead" : false,
+   "Channel" : "gta",
+   "TotalCurrency" : "GBP",
+   "Rooms" : [
+      {
+         "EndDate" : "2017-08-17",
+         "RoomTypeIds" : [
+            58179
+         ],
+         "DayRates" : [
+            {
+               "Currency" : "GBP",
+               "RateId" : "245977",
+               "Rate" : "7.99",
+               "Date" : "2017-08-17",
+               "Description" : "MARB1 (Margin)"
+            }
+         ],
+         "Children" : "0",
+         "RateId" : "245977",
+         "Price" : "7.99",
+         "RateDesc" : "MARB1 (Margin)",
+         "RoomDesc" : "1 Bed in a 20 Bed Mixed Dorm Room Shared Facilities (Category: OTHER)",
+         "OccupantLName" : "Anderson",
+         "Adults" : "1",
+         "Units" : "1",
+         "StartDate" : "2017-08-17",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "676198"
+      }
+   ]
+}

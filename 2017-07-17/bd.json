@@ -1,0 +1,90 @@
+{
+   "Customers" : [
+      {
+         "CustomerLName" : "Wilson",
+         "CustomerNote" : "",
+         "CustomerAddress" : "",
+         "CustomerPhone" : "19420858772241589",
+         "CustomerEmail" : "wilson@hushmail.com",
+         "CustomerCountry" : "US"
+      }
+   ],
+   "Acknowledged" : false,
+   "OrderDate" : "2017-07-16",
+   "MyallocatorModificationDate" : "2017-07-17",
+   "EndDate" : "2017-10-27",
+   "OrderId" : "1mghfd4h0e",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "MyallocatorId" : "08be54bfc254d52e8e72438a3",
+   "OrderChildren" : "0",
+   "TotalPrice" : "434.10",
+   "MyallocatorCreationDate" : "2017-07-17",
+   "OrderAdults" : "2",
+   "IsModification" : false,
+   "MyallocatorModificationTime" : "02:33:41",
+   "PropertyId" : "1124",
+   "StartDate" : "2017-10-23",
+   "MyallocatorCreationTime" : "02:33:41",
+   "MarkedAsRead" : false,
+   "Channel" : "bd",
+   "TotalCurrency" : "USD",
+   "Rooms" : [
+      {
+         "DayRates" : [
+            {
+               "Currency" : "USD",
+               "RateId" : "MAYORIST-5!CP",
+               "Date" : "2017-10-23",
+               "Rate" : "86.82",
+               "Description" : "Paquete - Continental Plan"
+            },
+            {
+               "Currency" : "USD",
+               "RateId" : "MAYORIST-5!CP",
+               "Date" : "2017-10-24",
+               "Rate" : "86.82",
+               "Description" : "Paquete - Continental Plan"
+            },
+            {
+               "Currency" : "USD",
+               "RateId" : "MAYORIST-5!CP",
+               "Date" : "2017-10-25",
+               "Rate" : "86.82",
+               "Description" : "Paquete - Continental Plan"
+            },
+            {
+               "Currency" : "USD",
+               "RateId" : "MAYORIST-5!CP",
+               "Date" : "2017-10-26",
+               "Rate" : "86.82",
+               "Description" : "Paquete - Continental Plan"
+            },
+            {
+               "Currency" : "USD",
+               "RateId" : "MAYORIST-5!CP",
+               "Date" : "2017-10-27",
+               "Rate" : "86.82",
+               "Description" : "Paquete - Continental Plan"
+            }
+         ],
+         "Children" : "0",
+         "OccupantSmoker" : true,
+         "Breakfast" : true,
+         "Adults" : "2",
+         "Units" : "1",
+         "StartDate" : "2017-10-23",
+         "EndDate" : "2017-10-27",
+         "RoomTypeIds" : [
+            53603
+         ],
+         "Price" : null,
+         "RateId" : "CP",
+         "RateDesc" : "Continental Plan",
+         "RoomDesc" : "Suite Superior Doble/Continental Plan",
+         "Currency" : "USD",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "DPTUF"
+      }
+   ]
+}

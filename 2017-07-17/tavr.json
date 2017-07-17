@@ -1,0 +1,39 @@
+{
+   "MyallocatorNotAdjustedForReason" : "First download from channel (AA block)",
+   "Customers" : [
+      {
+         "CustomerLName" : "Moore",
+         "CustomerNote" : ""
+      }
+   ],
+   "Acknowledged" : false,
+   "MyallocatorModificationDate" : "2017-07-16",
+   "EndDate" : "2017-09-08",
+   "OrderId" : "cn4ouexcs2",
+   "IsCancellation" : false,
+   "MyallocatorNotAdjustedFor" : true,
+   "Version" : 0,
+   "MyallocatorId" : "f75dde2452bcc3fccbc17a77f",
+   "MyallocatorCreationDate" : "2017-07-16",
+   "IsModification" : false,
+   "MyallocatorModificationTime" : "12:22:54",
+   "PropertyId" : "37177",
+   "StartDate" : "2017-09-02",
+   "MyallocatorCreationTime" : "12:22:54",
+   "MarkedAsRead" : false,
+   "Channel" : "tavr",
+   "Rooms" : [
+      {
+         "EndDate" : "2017-09-08",
+         "RoomTypeIds" : [
+            78074
+         ],
+         "RoomDesc" : "Listing name (123456)",
+         "Units" : "1",
+         "Occupancy" : "2",
+         "StartDate" : "2017-09-02",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "https://rentals.tripadvisor.com/CENSORED"
+      }
+   ]
+}

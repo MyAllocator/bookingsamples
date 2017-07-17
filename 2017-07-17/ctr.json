@@ -1,0 +1,59 @@
+{
+   "OrderTime" : "12:29:55",
+   "Customers" : [
+      {
+         "CustomerLName" : "Young",
+         "CustomerFName" : "Harper",
+         "CustomerNote" : "CENSORED"
+      }
+   ],
+   "Acknowledged" : false,
+   "OrderDate" : "2017-07-17",
+   "MyallocatorModificationDate" : "2017-07-17",
+   "EndDate" : "2017-08-21",
+   "OrderId" : "4728840230",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "MyallocatorId" : "f02a28465f8a0052616d72286",
+   "ma_callback_qbid" : 5325722,
+   "TotalPrice" : "47.60",
+   "MyallocatorCreationDate" : "2017-07-17",
+   "IsModification" : false,
+   "MyallocatorModificationTime" : "12:29:56",
+   "PropertyId" : "0543",
+   "StartDate" : "2017-08-20",
+   "MyallocatorCreationTime" : "12:29:56",
+   "MarkedAsRead" : false,
+   "Channel" : "ctr",
+   "TotalCurrency" : "USD",
+   "Rooms" : [
+      {
+         "EndDate" : "2017-08-21",
+         "RoomTypeIds" : [
+            48663
+         ],
+         "RoomDesc" : "Standard Double With No Window(BAR \u2013 2usd)",
+         "DayRates" : [
+            {
+               "Currency" : "USD",
+               "Rate" : "23.8000",
+               "Date" : "2017-08-20",
+               "Description" : null
+            },
+            {
+               "Currency" : "USD",
+               "Rate" : "23.8000",
+               "Date" : "2017-08-21",
+               "Description" : null
+            }
+         ],
+         "RateId" : "",
+         "RateDesc" : "",
+         "Currency" : "USD",
+         "Units" : "1",
+         "StartDate" : "2017-08-20",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "89262886"
+      }
+   ]
+}

@@ -1,0 +1,91 @@
+{
+   "OrderTime" : "12:37",
+   "Customers" : [
+      {
+         "CustomerFName" : "Michael",
+         "CustomerLName" : "Harris",
+         "CustomerNote" : "",
+         "CustomerPhone" : "wdz6i0s885770hnludiwjq",
+         "CustomerEmail" : "michael.harris@outlook.com",
+         "CustomerCountry" : "SE"
+      }
+   ],
+   "Acknowledged" : false,
+   "OrderDate" : "2017-07-17",
+   "MyallocatorModificationDate" : "2017-07-17",
+   "EndDate" : "2017-07-20",
+   "OrderId" : "lvzckx",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "CommissionIncludedInTotal" : false,
+   "MyallocatorId" : "d2093a4602fc9338320bc7da8",
+   "TotalPrice" : "1795.00",
+   "CommissionCurrency" : "SEK",
+   "MyallocatorCreationDate" : "2017-07-17",
+   "IsModification" : false,
+   "MyallocatorModificationTime" : "10:40:44",
+   "BalanceCurrency" : "SEK",
+   "Balance" : "0",
+   "PropertyId" : "3944",
+   "StartDate" : "2017-07-18",
+   "MyallocatorCreationTime" : "10:40:44",
+   "MarkedAsRead" : false,
+   "Channel" : "cb",
+   "Commission" : "200.334821428571",
+   "TotalCurrency" : "SEK",
+   "ExtraServices" : [
+      {
+         "EndDate" : "2017-07-20",
+         "Currency" : "SEK",
+         "IncludedInTotal" : "1",
+         "Price" : "0",
+         "Units" : 1,
+         "Description" : "Dubbelrum med enkels\u00e4ngar",
+         "StartDate" : "2017-07-18"
+      }
+   ],
+   "Rooms" : [
+      {
+         "DayRates" : [
+            {
+               "Currency" : "SEK",
+               "RateId" : "142000",
+               "Date" : "2017-07-18",
+               "Rate" : 598.333333333333,
+               "Description" : "vardag"
+            },
+            {
+               "Currency" : "SEK",
+               "RateId" : "142000",
+               "Date" : "2017-07-19",
+               "Rate" : 598.333333333333,
+               "Description" : "vardag"
+            },
+            {
+               "Currency" : "SEK",
+               "RateId" : "142000",
+               "Date" : "2017-07-19",
+               "Rate" : 598.333333333333,
+               "Description" : "vardag"
+            }
+         ],
+         "Children" : "0",
+         "OccupantLName" : "Harris",
+         "Adults" : "1",
+         "Units" : "1",
+         "StartDate" : "2017-07-18",
+         "EndDate" : "2017-07-20",
+         "RoomTypeIds" : [
+            47807
+         ],
+         "Price" : "1795",
+         "RateId" : "142000",
+         "RoomDesc" : "Dubbelrum med enkels\u00e4ngar",
+         "RateDesc" : "vardag",
+         "Currency" : "SEK",
+         "OccupantNote" : "",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "616926"
+      }
+   ]
+}

@@ -1,0 +1,54 @@
+{
+   "OrderTime" : "20:04",
+   "Customers" : [
+      {
+         "CustomerLName" : "Brown",
+         "CustomerNote" : "",
+         "CustomerPhoneMobile" : "07970658969",
+         "CustomerTitle" : "Mr",
+         "CustomerEmail" : "ava.brown@zoho.com",
+         "CustomerFName" : "Ava",
+         "CustomerPhone" : "93776540195",
+         "CustomerCountry" : ""
+      }
+   ],
+   "Acknowledged" : false,
+   "OrderDate" : "2017-07-16",
+   "MyallocatorModificationDate" : "2017-07-16",
+   "EndDate" : "2017-09-14",
+   "OrderId" : "69675725",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "MyallocatorId" : "8e45fcc70ce6e17ad7971db64",
+   "OrderChildren" : 0,
+   "TotalPrice" : "374.85",
+   "MyallocatorCreationDate" : "2017-07-16",
+   "OrderAdults" : 2,
+   "IsModification" : false,
+   "MyallocatorModificationTime" : "19:09:32",
+   "PropertyId" : "8171",
+   "StartDate" : "2017-09-08",
+   "MyallocatorCreationTime" : "19:09:32",
+   "MarkedAsRead" : false,
+   "Channel" : "rep",
+   "TotalCurrency" : "EUR",
+   "Rooms" : [
+      {
+         "EndDate" : "2017-09-14",
+         "RoomTypeIds" : [
+            20704
+         ],
+         "Price" : "374.8500",
+         "RoomDesc" : "Superior",
+         "Breakfast" : false,
+         "Currency" : "EUR",
+         "OccupantNote" : "CENSORED",
+         "OccupantLName" : "Brown",
+         "Units" : "1",
+         "Occupancy" : 2,
+         "StartDate" : "2017-09-08",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "61597"
+      }
+   ]
+}

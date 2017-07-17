@@ -1,0 +1,60 @@
+{
+   "DepositCurrency" : "EUR",
+   "Deposit" : "6.80",
+   "Customers" : [
+      {
+         "CustomerLName" : "Brown",
+         "CustomerNote" : "",
+         "CustomerArrivalTime" : "9:00:00 PM",
+         "CustomerPhone" : "2402937206247990",
+         "CustomerEmail" : "brown@gmail.com",
+         "CustomerCountry" : "Korea (South)"
+      }
+   ],
+   "Acknowledged" : true,
+   "MyallocatorModificationDate" : "2017-06-03",
+   "OrderSource" : "www.hosteltimes.com (Korean)",
+   "EndDate" : "2017-06-23",
+   "OrderId" : "uvjyxguw3tuz",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "MyallocatorId" : "94cb159e15a560635fd36412a",
+   "TotalPrice" : "68.01",
+   "MyallocatorCreationDate" : "2017-06-03",
+   "IsModification" : false,
+   "MyallocatorModificationTime" : "06:09:05",
+   "PropertyId" : "5057",
+   "StartDate" : "2017-06-22",
+   "MyallocatorCreationTime" : "06:09:05",
+   "MarkedAsRead" : true,
+   "Channel" : "ht",
+   "TotalCurrency" : "EUR",
+   "Rooms" : [
+      {
+         "EndDate" : "2017-06-22",
+         "RoomTypeIds" : [
+            24258
+         ],
+         "Price" : "34.00",
+         "RoomDesc" : "6 Bed Mixed Dorm (SIX MIXED DORM)",
+         "Currency" : "EUR",
+         "Units" : "2",
+         "StartDate" : "2017-06-22",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "xxoajugnb09euc48c7o"
+      },
+      {
+         "EndDate" : "2017-06-23",
+         "RoomTypeIds" : [
+            24258
+         ],
+         "Price" : "34.00",
+         "RoomDesc" : "6 Bed Mixed Dorm (SIX MIXED DORM)",
+         "Currency" : "EUR",
+         "Units" : "2",
+         "StartDate" : "2017-06-23",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "zsmbcipf9yh5ftu6sv7"
+      }
+   ]
+}

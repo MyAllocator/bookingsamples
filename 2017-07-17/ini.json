@@ -1,0 +1,41 @@
+{
+   "Customers" : [
+      {
+         "CustomerLName" : "Taylor",
+         "CustomerNote" : ""
+      }
+   ],
+   "Acknowledged" : false,
+   "OrderDate" : "2017-06-23",
+   "MyallocatorModificationDate" : "2017-06-23",
+   "EndDate" : "2017-09-02",
+   "OrderId" : "2305317506",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "MyallocatorId" : "259865ce007bb579318eed6cb",
+   "TotalPrice" : "160.00",
+   "MyallocatorCreationDate" : "2017-06-23",
+   "IsModification" : false,
+   "MyallocatorModificationTime" : "19:05:51",
+   "PropertyId" : "0912",
+   "StartDate" : "2017-09-01",
+   "MyallocatorCreationTime" : "19:05:51",
+   "MarkedAsRead" : false,
+   "Channel" : "ini",
+   "TotalCurrency" : "EUR",
+   "Rooms" : [
+      {
+         "EndDate" : "2017-09-02",
+         "RoomTypeIds" : [
+            13403
+         ],
+         "Price" : "160",
+         "RoomDesc" : "Double",
+         "Currency" : "EUR",
+         "Units" : "1",
+         "StartDate" : "2017-09-01",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "3"
+      }
+   ]
+}

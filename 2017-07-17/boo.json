@@ -1,0 +1,98 @@
+{
+   "OrderTime" : "14:24:32",
+   "Customers" : [
+      {
+         "CustomerLName" : "Jackson",
+         "CustomerCompany" : "",
+         "CustomerNote" : "CENSORED",
+         "CustomerEmail" : "jacob.jackson@gmail.com",
+         "CustomerFName" : "Jacob",
+         "CustomerCity" : ".",
+         "CustomerPostCode" : "",
+         "CustomerAddress" : "",
+         "CustomerPhone" : "78592209438386",
+         "CustomerCountry" : "ma"
+      }
+   ],
+   "Acknowledged" : false,
+   "OrderDate" : "2017-07-17",
+   "MyallocatorModificationDate" : "2017-07-17",
+   "PaymentCollect" : "Property",
+   "EndDate" : "2017-08-18",
+   "OrderId" : "5537021998",
+   "IsCancellation" : false,
+   "MyallocatorCreditCardDetailsPresent" : true,
+   "Version" : 0,
+   "MyallocatorId" : "d013f7d35a25636b094b8f08e",
+   "TotalPrice" : "313.25",
+   "CommissionCurrency" : "EUR",
+   "MyallocatorCreationDate" : "2017-07-17",
+   "IsModification" : false,
+   "MyallocatorModificationTime" : "12:43:21",
+   "PropertyId" : "78712",
+   "StartDate" : "2017-08-14",
+   "MyallocatorCreationTime" : "12:43:21",
+   "MarkedAsRead" : false,
+   "Channel" : "boo",
+   "Commission" : "62.65",
+   "TotalCurrency" : "EUR",
+   "Rooms" : [
+      {
+         "DayRates" : [
+            {
+               "Currency" : "EUR",
+               "RateId" : "3249454",
+               "Date" : "2017-08-14",
+               "Rate" : "62.65",
+               "Description" : "genius rate"
+            },
+            {
+               "Currency" : "EUR",
+               "RateId" : "3249454",
+               "Date" : "2017-08-15",
+               "Rate" : "62.65",
+               "Description" : "genius rate"
+            },
+            {
+               "Currency" : "EUR",
+               "RateId" : "3249454",
+               "Date" : "2017-08-16",
+               "Rate" : "62.65",
+               "Description" : "genius rate"
+            },
+            {
+               "Currency" : "EUR",
+               "RateId" : "3249454",
+               "Date" : "2017-08-17",
+               "Rate" : "62.65",
+               "Description" : "genius rate"
+            },
+            {
+               "Currency" : "EUR",
+               "RateId" : "3249454",
+               "Date" : "2017-08-18",
+               "Rate" : "62.65",
+               "Description" : "genius rate"
+            }
+         ],
+         "OccupantSmoker" : null,
+         "OccupantLName" : "Jackson",
+         "Units" : "1",
+         "Occupancy" : "4",
+         "StartDate" : "2017-08-14",
+         "EndDate" : "2017-08-18",
+         "RoomTypeIds" : [
+            65486
+         ],
+         "RateDesc" : "genius rate",
+         "RateId" : "3249454",
+         "Price" : 313.25,
+         "RoomDesc" : "One Bed with Sea View",
+         "Currency" : "EUR",
+         "OccupantNote" : "",
+         "Policy" : "No meal is included in this room rate. Children and Extra Bed Policy: All children are welcome. There is no capacity for extra beds in the room.  Deposit Policy: 50 percent of the total amount may be charged anytime after booking. 50 percent of the total amount will be charged at least one day prior to arrival.  Cancellation Policy: If cancelled or modified up to 1 day before date of arrival,  50 percent of the total price of the reservation will be charged. If cancelled or modified later or in case of no-show, the total price of the reservation will be charged. \n\nMeal Plan: No meal is included in this room rate.",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "166309181"
+      }
+   ]
+}

@@ -1,0 +1,74 @@
+{
+   "OrderTime" : "22:19:59",
+   "Customers" : [
+      {
+         "CustomerLName" : "Davis",
+         "CustomerNote" : "",
+         "CustomerEmail" : "mason.davis@yahoo.com",
+         "CustomerFName" : "Mason",
+         "CustomerCity" : "Phuket ",
+         "CustomerAddress" : "CENSORED",
+         "CustomerPhone" : "6779920901",
+         "CustomerCountry" : "TH"
+      },
+      {
+         "CustomerLName" : "Miller",
+         "CustomerNote" : "",
+         "CustomerEmail" : "sophia.miller@outlook.com",
+         "CustomerFName" : "Sophia",
+         "CustomerCity" : "Phuket ",
+         "CustomerAddress" : "CENSORED",
+         "CustomerPhone" : "6529954815",
+         "CustomerCountry" : "TH"
+      }
+   ],
+   "Acknowledged" : false,
+   "OrderDate" : "2017-07-15",
+   "MyallocatorModificationDate" : "2017-07-15",
+   "EndDate" : "2017-07-15",
+   "OrderId" : "6904111",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "CommissionIncludedInTotal" : true,
+   "MyallocatorId" : "71bb393bcb0da26de78d4ba59",
+   "CommissionCurrency" : "USD",
+   "TotalPrice" : "30.80",
+   "MyallocatorCreationDate" : "2017-07-15",
+   "IsModification" : false,
+   "MyallocatorModificationTime" : "17:03:21",
+   "PropertyId" : "97869",
+   "StartDate" : "2017-07-15",
+   "MyallocatorCreationTime" : "17:03:21",
+   "MarkedAsRead" : true,
+   "Channel" : "htrv",
+   "Commission" : 7.7,
+   "TotalCurrency" : "USD",
+   "Rooms" : [
+      {
+         "DayRates" : [
+            {
+               "Currency" : "USD",
+               "Date" : "2017-07-15",
+               "Rate" : "30.8",
+               "Description" : null
+            }
+         ],
+         "OccupantLName" : "Davis, Miller",
+         "Units" : "1",
+         "Adults" : 2,
+         "StartDate" : "2017-07-15",
+         "EndDate" : "2017-07-15",
+         "OccupantFName" : "Mason, Sophia",
+         "RoomTypeIds" : [
+            64266
+         ],
+         "Price" : "30.8",
+         "RateId" : "",
+         "RateDesc" : "",
+         "RoomDesc" : "Standard Double Room",
+         "Currency" : "USD",
+         "ChannelRoomType" : "39979",
+         "MyallocatorRateplanIds" : []
+      }
+   ]
+}

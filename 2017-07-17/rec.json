@@ -1,0 +1,55 @@
+{
+   "OrderTime" : "14:38:30 +02:00",
+   "Customers" : [
+      {
+         "CustomerLName" : "Williams",
+         "CustomerCompany" : "CENSORED",
+         "CustomerFax" : "+1 800-642-7310",
+         "CustomerPhoneMobile" : "",
+         "CustomerNote" : "CENSORED",
+         "CustomerEmail" : "william.williams@lycos.com",
+         "CustomerFName" : "William",
+         "CustomerCity" : "Arlington Heigths",
+         "CustomerPostCode" : "60005",
+         "CustomerAddress" : "CENSORED",
+         "CustomerPhone" : "fpktl7pno7g92xw",
+         "CustomerCountry" : "US"
+      }
+   ],
+   "Acknowledged" : false,
+   "OrderDate" : "2017-07-17",
+   "MyallocatorModificationDate" : "2017-07-17",
+   "EndDate" : "2017-08-30",
+   "OrderId" : "jgdaudeavd3x",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "MyallocatorId" : "4f69300b26db00b0f12e77096",
+   "CommissionCurrency" : "USD",
+   "TotalPrice" : "387.00",
+   "MyallocatorCreationDate" : "2017-07-17",
+   "IsModification" : false,
+   "MyallocatorModificationTime" : "12:43:23",
+   "PropertyId" : "05904",
+   "StartDate" : "2017-08-28",
+   "MyallocatorCreationTime" : "12:43:23",
+   "MarkedAsRead" : false,
+   "Channel" : "rec",
+   "Commission" : "0",
+   "TotalCurrency" : "USD",
+   "Rooms" : [
+      {
+         "EndDate" : "2017-08-30",
+         "RoomTypeIds" : [
+            97463
+         ],
+         "Price" : "387",
+         "RoomDesc" : "Seaside; King bed, free wi-fi, direct dial telepho",
+         "Breakfast" : false,
+         "Currency" : "USD",
+         "Units" : "1",
+         "StartDate" : "2017-08-28",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "EUD"
+      }
+   ]
+}

@@ -1,0 +1,107 @@
+{
+   "OrderTime" : "14:02:00",
+   "Customers" : [
+      {
+         "CustomerLName" : "Abeln",
+         "CustomerCompany" : "CENSORED",
+         "CustomerNote" : "",
+         "CustomerTitle" : "",
+         "CustomerEmail" : "",
+         "CustomerFName" : "Olivia",
+         "CustomerCity" : "Gudensberg",
+         "CustomerPostCode" : "34281",
+         "CustomerBirthday" : "",
+         "CustomerAddress" : "CENSORED",
+         "CustomerPhone" : "",
+         "CustomerCountry" : "deu"
+      },
+      {
+         "CustomerFName" : "William",
+         "CustomerLName" : "Williams",
+         "CustomerNote" : "CENSORED",
+         "CustomerTitle" : ""
+      }
+   ],
+   "Acknowledged" : false,
+   "OrderDate" : "2017-07-17",
+   "MyallocatorModificationDate" : "2017-07-17",
+   "EndDate" : "2017-07-20",
+   "OrderId" : "947011238",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "MyallocatorId" : "19d81a9ad2831319b726e1b72",
+   "OrderChildren" : 0,
+   "TotalPrice" : "268.00",
+   "MyallocatorCreationDate" : "2017-07-17",
+   "OrderAdults" : 2,
+   "IsModification" : false,
+   "MyallocatorModificationTime" : "12:06:23",
+   "PropertyId" : "9217",
+   "StartDate" : "2017-07-19",
+   "MyallocatorCreationTime" : "12:06:23",
+   "MarkedAsRead" : false,
+   "Channel" : "hrs",
+   "TotalCurrency" : "EUR",
+   "Rooms" : [
+      {
+         "EndDate" : "2017-07-20",
+         "RoomTypeIds" : [
+            31781
+         ],
+         "RoomDesc" : "Single Room",
+         "Price" : 134,
+         "DayRates" : [
+            {
+               "Currency" : "EUR",
+               "Date" : "2017-07-19",
+               "Description" : "HRS rate",
+               "Rate" : "67"
+            },
+            {
+               "Currency" : "EUR",
+               "Date" : "2017-07-20",
+               "Description" : "HRS rate",
+               "Rate" : "67"
+            }
+         ],
+         "RateId" : "",
+         "RateDesc" : "",
+         "Breakfast" : true,
+         "Currency" : "EUR",
+         "Units" : "1",
+         "StartDate" : "2017-07-19",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "lpwxvy"
+      },
+      {
+         "EndDate" : "2017-07-20",
+         "RoomTypeIds" : [
+            31781
+         ],
+         "RoomDesc" : "Single Room",
+         "Price" : 134,
+         "DayRates" : [
+            {
+               "Currency" : "EUR",
+               "Date" : "2017-07-19",
+               "Description" : "HRS rate",
+               "Rate" : "67"
+            },
+            {
+               "Currency" : "EUR",
+               "Date" : "2017-07-20",
+               "Description" : "HRS rate",
+               "Rate" : "67"
+            }
+         ],
+         "RateId" : "",
+         "RateDesc" : "",
+         "Breakfast" : true,
+         "Currency" : "EUR",
+         "Units" : "1",
+         "StartDate" : "2017-07-19",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "copqtj"
+      }
+   ]
+}

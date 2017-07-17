@@ -1,0 +1,54 @@
+{
+   "MyallocatorNotAdjustedForReason" : "First download from channel (AA block)",
+   "OrderTime" : "09:24:33",
+   "Customers" : [
+      {
+         "CustomerLName" : "Abeln",
+         "CustomerNote" : "",
+         "CustomerEmail" : "olivia.abeln@outlook.com",
+         "CustomerFName" : "Olivia",
+         "CustomerCity" : "D\u00c3\u00bcsseldorf",
+         "CustomerPostCode" : "40468",
+         "CustomerAddress" : "CENSORED",
+         "CustomerPhone" : "931831315868",
+         "CustomerCountry" : "DE"
+      }
+   ],
+   "Acknowledged" : true,
+   "OrderDate" : "2017-04-27",
+   "MyallocatorModificationDate" : "2017-04-27",
+   "EndDate" : "2017-08-31",
+   "OrderId" : "8604168",
+   "IsCancellation" : false,
+   "MyallocatorNotAdjustedFor" : true,
+   "Version" : 0,
+   "MyallocatorId" : "341d08a374658b753b0eb0c7f",
+   "TotalPrice" : "2640.00",
+   "MyallocatorCreationDate" : "2017-04-27",
+   "MyallocatorModificationTime" : "09:24:33",
+   "PropertyId" : "2877",
+   "StartDate" : "2017-08-20",
+   "MyallocatorCreationTime" : "09:24:33",
+   "MarkedAsRead" : true,
+   "Channel" : "aveo",
+   "TotalCurrency" : "EUR",
+   "Rooms" : [
+      {
+         "EndDate" : "2017-08-31",
+         "OccupantFName" : "Olivia",
+         "RoomTypeIds" : [
+            13676
+         ],
+         "RoomDesc" : "859029 (Diogenis Home)",
+         "Price" : "2640.00",
+         "Currency" : "EUR",
+         "OccupantNote" : "",
+         "OccupantLName" : "Abeln",
+         "Units" : 1,
+         "Occupancy" : "3",
+         "StartDate" : "2017-08-20",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "eio590ysinrtg3tdapg9ol2yn0rkw14owh"
+      }
+   ]
+}

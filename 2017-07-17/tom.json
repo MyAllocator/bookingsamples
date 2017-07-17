@@ -1,0 +1,59 @@
+{
+   "OrderTime" : "14:10",
+   "Customers" : [
+      {
+         "CustomerLName" : "Anderson",
+         "CustomerNote" : "",
+         "CustomerGender" : "FE",
+         "CustomerEmail" : "mia.anderson@aol.com",
+         "CustomerFName" : "Mia",
+         "CustomerPostCode" : "45147",
+         "CustomerCity" : "ESSEN",
+         "CustomerAddress" : "CENSORED",
+         "CustomerPhone" : "796217328273",
+         "CustomerCountry" : "DE"
+      }
+   ],
+   "Acknowledged" : false,
+   "OrderDate" : "2017-07-17",
+   "MyallocatorModificationDate" : "2017-07-17",
+   "OrderSource" : "CallCenter (KAS)",
+   "EndDate" : "2017-07-19",
+   "OrderId" : "js7t8bts",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "MyallocatorId" : "aa7cf1154f3e4312d2da1e872",
+   "OrderChildren" : 0,
+   "TotalPrice" : "420.00",
+   "MyallocatorCreationDate" : "2017-07-17",
+   "OrderAdults" : 2,
+   "IsModification" : false,
+   "MyallocatorModificationTime" : "12:13:22",
+   "PropertyId" : "17101",
+   "StartDate" : "2017-07-17",
+   "MyallocatorCreationTime" : "12:13:22",
+   "MarkedAsRead" : false,
+   "Channel" : "tom",
+   "TotalCurrency" : "EUR",
+   "Rooms" : [
+      {
+         "EndDate" : "2017-07-19",
+         "RoomTypeIds" : [
+            97560
+         ],
+         "Price" : "420.00",
+         "RateId" : "documenta Special",
+         "RoomDesc" : "documenta Special",
+         "Children" : 0,
+         "RateDesc" : "documenta Special",
+         "Breakfast" : true,
+         "Currency" : "EUR",
+         "Units" : "2",
+         "Adults" : 2,
+         "StartDate" : "2017-07-17",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "LVC"
+      }
+   ],
+   "OrderSourceId" : "NDS00020140003621534"
+}

@@ -1,0 +1,45 @@
+{
+   "DepositCurrency" : "EUR",
+   "Deposit" : "6.00",
+   "Customers" : [
+      {
+         "CustomerLName" : "Harris",
+         "CustomerNote" : "",
+         "CustomerPhone" : "54028336069",
+         "CustomerEmail" : "harris@hushmail.com"
+      }
+   ],
+   "Acknowledged" : false,
+   "OrderDate" : "2017-07-17",
+   "MyallocatorModificationDate" : "2017-07-17",
+   "EndDate" : "2017-08-31",
+   "OrderId" : "900261281178300",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "MyallocatorId" : "f460009896377649b25dfa15c",
+   "TotalPrice" : "120.00",
+   "MyallocatorCreationDate" : "2017-07-17",
+   "IsModification" : false,
+   "MyallocatorModificationTime" : "12:37:05",
+   "PropertyId" : "98633",
+   "StartDate" : "2017-08-30",
+   "MyallocatorCreationTime" : "12:37:05",
+   "MarkedAsRead" : false,
+   "Channel" : "ysh",
+   "TotalCurrency" : "EUR",
+   "Rooms" : [
+      {
+         "EndDate" : "2017-08-31",
+         "RoomTypeIds" : [
+            67096
+         ],
+         "RoomDesc" : "Cama en habitaci\u00f3n mixta compartida de 8 camas ",
+         "Price" : "120",
+         "Currency" : "EUR",
+         "Units" : "2",
+         "StartDate" : "2017-08-30",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "4053"
+      }
+   ]
+}

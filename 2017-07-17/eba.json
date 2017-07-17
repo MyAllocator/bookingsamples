@@ -1,0 +1,37 @@
+{
+   "Customers" : [
+      {
+         "CustomerLName" : "Abeln",
+         "CustomerCity" : "Berlin",
+         "CustomerNote" : ""
+      }
+   ],
+   "Acknowledged" : true,
+   "MyallocatorModificationDate" : "2017-07-17",
+   "EndDate" : "2018-07-31",
+   "OrderId" : "e5sm2h47n0ertfm3ffj3m7wout4y1w9wvjx6mz27n",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "MyallocatorId" : "3958aa4abb07ca46962126345",
+   "MyallocatorCreationDate" : "2017-07-17",
+   "IsModification" : false,
+   "MyallocatorModificationTime" : "06:00:53",
+   "PropertyId" : "0708",
+   "StartDate" : "2018-06-29",
+   "MyallocatorCreationTime" : "06:00:53",
+   "MarkedAsRead" : true,
+   "Channel" : "eba",
+   "Rooms" : [
+      {
+         "EndDate" : "2018-07-31",
+         "RoomTypeIds" : [
+            60650
+         ],
+         "Units" : "1",
+         "StartDate" : "2018-06-29",
+         "Occupancy" : "1",
+         "ChannelRoomType" : "https://www.ebab.com/CENSORED",
+         "MyallocatorRateplanIds" : []
+      }
+   ]
+}

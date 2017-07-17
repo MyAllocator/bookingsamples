@@ -1,0 +1,63 @@
+{
+   "OrderTime" : "20:58:56",
+   "Customers" : [
+      {
+         "CustomerLName" : "Cain",
+         "CustomerNote" : "",
+         "CustomerPhone" : "7389227021416",
+         "CustomerEmail" : "cain@yahoo.com"
+      }
+   ],
+   "Acknowledged" : true,
+   "OrderDate" : "2017-07-11",
+   "MyallocatorModificationDate" : "2017-07-12",
+   "EndDate" : "2017-08-06",
+   "OrderId" : "7luxguwdci",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "MyallocatorId" : "08de78af8062d332f61d7b094",
+   "TotalPrice" : "1766.04",
+   "MyallocatorCreationDate" : "2017-07-12",
+   "IsModification" : false,
+   "BalanceCurrency" : "ARS",
+   "MyallocatorModificationTime" : "00:29:34",
+   "Balance" : "",
+   "PropertyId" : "2376",
+   "StartDate" : "2017-08-04",
+   "MyallocatorCreationTime" : "00:29:34",
+   "MarkedAsRead" : true,
+   "Channel" : "apal",
+   "TotalCurrency" : "ARS",
+   "Rooms" : [
+      {
+         "EndDate" : "2017-08-06",
+         "RoomTypeIds" : [
+            4952
+         ],
+         "Children" : 1,
+         "DayRates" : [
+            {
+               "Currency" : "ARS",
+               "Date" : "2017-08-04",
+               "Rate" : 1261.43,
+               "Description" : null
+            },
+            {
+               "Currency" : "ARS",
+               "Date" : "2017-08-05",
+               "Rate" : 1261.43,
+               "Description" : null
+            }
+         ],
+         "RateId" : "",
+         "RateDesc" : "",
+         "RoomDesc" : "Triple",
+         "Breakfast" : true,
+         "Adults" : 2,
+         "Units" : "1",
+         "StartDate" : "2017-08-04",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "4"
+      }
+   ]
+}

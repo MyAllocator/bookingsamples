@@ -1,0 +1,72 @@
+{
+   "OrderTime" : "12:39:37",
+   "DepositDue" : "0.00",
+   "Deposit" : "0.00",
+   "Customers" : [
+      {
+         "CustomerLName" : "Walker",
+         "CustomerCompany" : "",
+         "CustomerNote" : "CENSORED",
+         "CustomerEmail" : "emily.walker@yahoo.com",
+         "CustomerFName" : "Emily",
+         "CustomerPostCode" : "8730",
+         "CustomerCity" : "Beernem",
+         "CustomerAddress" : "CENSORED",
+         "CustomerPhone" : "697144721695",
+         "CustomerCountry" : "BE"
+      }
+   ],
+   "Acknowledged" : false,
+   "TotalTaxesCurrency" : "EUR",
+   "OrderDate" : "2017-07-17",
+   "MyallocatorModificationDate" : "2017-07-17",
+   "OrderId" : "8281779807",
+   "EndDate" : "2017-07-19",
+   "IsCancellation" : false,
+   "MyallocatorCreditCardDetailsPresent" : true,
+   "Version" : 0,
+   "MyallocatorId" : "4aea1553c12087d394b6e21d4",
+   "TotalPrice" : "126.00",
+   "CommissionCurrency" : "EUR",
+   "MyallocatorCreationDate" : "2017-07-17",
+   "IsModification" : false,
+   "MyallocatorModificationTime" : "12:39:56",
+   "PropertyId" : "57356",
+   "StartDate" : "2017-07-19",
+   "MyallocatorCreationTime" : "12:39:56",
+   "MarkedAsRead" : false,
+   "Channel" : "myb",
+   "Commission" : 0,
+   "TotalCurrency" : "EUR",
+   "TotalTaxes" : 11.454545454545,
+   "Rooms" : [
+      {
+         "DayRates" : [
+            {
+               "RateId" : "57264",
+               "Date" : "2017-07-19",
+               "Rate" : 126,
+               "Description" : null
+            }
+         ],
+         "OccupantLName" : "",
+         "Units" : "1",
+         "Occupancy" : 2,
+         "StartDate" : "2017-07-19",
+         "EndDate" : "2017-07-19",
+         "OccupantFName" : "",
+         "RoomTypeIds" : [
+            77237
+         ],
+         "RateDesc" : "",
+         "RateId" : "57264",
+         "RoomDesc" : "Superior room",
+         "Price" : "126.00",
+         "Currency" : "EUR",
+         "OccupantNote" : "",
+         "Policy" : "",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "98711"
+      }
+   ]
+}

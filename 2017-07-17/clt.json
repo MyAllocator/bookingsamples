@@ -1,0 +1,49 @@
+{
+   "OrderTime" : "22:49:18",
+   "Customers" : [
+      {
+         "CustomerLName" : "Garcia",
+         "CustomerNote" : ""
+      }
+   ],
+   "Acknowledged" : false,
+   "TotalTaxesCurrency" : "INR",
+   "OrderDate" : "2017-07-16",
+   "MyallocatorModificationDate" : "2017-07-16",
+   "EndDate" : "2017-07-16",
+   "OrderId" : "34609919854",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "CommissionIncludedInTotal" : true,
+   "MyallocatorId" : "1ea1b3a1e0b22426712bc97ca",
+   "TotalPrice" : "550.00",
+   "MyallocatorCreationDate" : "2017-07-16",
+   "IsModification" : false,
+   "MyallocatorModificationTime" : "17:25:08",
+   "PropertyId" : "28669",
+   "StartDate" : "2017-07-16",
+   "MyallocatorCreationTime" : "17:25:08",
+   "MarkedAsRead" : false,
+   "Channel" : "clt",
+   "TotalCurrency" : "INR",
+   "TotalTaxes" : "0.0",
+   "Rooms" : [
+      {
+         "EndDate" : "2017-07-16",
+         "RoomTypeIds" : [
+            -1
+         ],
+         "Children" : "0",
+         "DayRates" : [],
+         "RateId" : "5357402",
+         "RateDesc" : "",
+         "Breakfast" : null,
+         "OccupantNote" : "",
+         "Adults" : "1",
+         "Units" : "1",
+         "StartDate" : "2017-07-16",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "62331317561"
+      }
+   ]
+}

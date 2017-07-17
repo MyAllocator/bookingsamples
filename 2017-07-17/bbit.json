@@ -1,0 +1,43 @@
+{
+   "OrderTime" : "13:39:20",
+   "Customers" : [
+      {
+         "CustomerFName" : "Mason",
+         "CustomerLName" : "Davis",
+         "CustomerNote" : "",
+         "CustomerPhone" : "8667288800",
+         "CustomerEmail" : "mason.davis@inbox.com"
+      }
+   ],
+   "Acknowledged" : true,
+   "OrderDate" : "2017-07-04",
+   "MyallocatorModificationDate" : "2017-07-04",
+   "EndDate" : "2017-07-06",
+   "OrderId" : "784065101",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "MyallocatorId" : "7f0a1e00cdfc093fa8c39a3af",
+   "MyallocatorCreationDate" : "2017-07-04",
+   "IsModification" : false,
+   "MyallocatorModificationTime" : "11:42:53",
+   "PropertyId" : "0065",
+   "StartDate" : "2017-07-04",
+   "MyallocatorCreationTime" : "11:42:53",
+   "MarkedAsRead" : true,
+   "Channel" : "bbit",
+   "Rooms" : [
+      {
+         "EndDate" : "2017-07-06",
+         "RoomTypeIds" : [
+            27556
+         ],
+         "RoomDesc" : "Doppia Classic 3",
+         "Price" : "104.00",
+         "Currency" : "EUR",
+         "Units" : "1",
+         "StartDate" : "2017-07-04",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "83135"
+      }
+   ]
+}
