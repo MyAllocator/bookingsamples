@@ -1,0 +1,74 @@
+{
+   "OrderTime" : "13:07:33",
+   "Customers" : [
+      {
+         "CustomerLName" : "Brown",
+         "CustomerCompany" : "",
+         "CustomerNote" : "",
+         "CustomerEmail" : "ava.brown@zoho.com",
+         "CustomerFName" : "Ava",
+         "CustomerPostCode" : "99096",
+         "CustomerCity" : "Erfurt",
+         "CustomerAddress" : "CENSORED",
+         "CustomerPhone" : "",
+         "CustomerCountry" : ""
+      }
+   ],
+   "Acknowledged" : false,
+   "OrderDate" : "2017-10-27",
+   "MyallocatorModificationDate" : "2017-10-27",
+   "PaymentCollect" : "Property",
+   "OrderId" : "42",
+   "EndDate" : "2017-10-28",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "MyallocatorId" : "7b148e02160f9dea0e9e43a05",
+   "TotalPrice" : "164.90",
+   "CommissionCurrency" : "EUR",
+   "MyallocatorCreationDate" : "2017-10-27",
+   "IsModification" : false,
+   "MyallocatorModificationTime" : "11:15:18",
+   "PropertyId" : "08174",
+   "StartDate" : "2017-10-27",
+   "MyallocatorCreationTime" : "11:15:18",
+   "MarkedAsRead" : false,
+   "Channel" : "stya",
+   "Commission" : "1.65",
+   "TotalCurrency" : "EUR",
+   "Rooms" : [
+      {
+         "DayRates" : [
+            {
+               "Currency" : "EUR",
+               "RateId" : "42",
+               "Rate" : "82.45",
+               "Date" : "2017-10-27",
+               "Description" : "\u00dcbernachtung"
+            },
+            {
+               "Currency" : "EUR",
+               "RateId" : "42",
+               "Rate" : "82.45",
+               "Date" : "2017-10-28",
+               "Description" : "\u00dcbernachtung"
+            }
+         ],
+         "OccupantLName" : "Brown",
+         "Units" : "1",
+         "StartDate" : "2017-10-27",
+         "EndDate" : "2017-10-28",
+         "RoomTypeIds" : [
+            115076
+         ],
+         "RateDesc" : "\u00dcbernachtung",
+         "Price" : "164.90",
+         "RateId" : "42",
+         "RoomDesc" : "Doppelzimmer Standard",
+         "Currency" : "EUR",
+         "OccupantNote" : "",
+         "Policy" : "",
+         "ChannelRoomType" : "2",
+         "MyallocatorRateplanIds" : []
+      }
+   ]
+}

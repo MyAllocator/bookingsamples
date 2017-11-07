@@ -1,0 +1,72 @@
+{
+   "OrderTime" : "08:44:06",
+   "DepositDue" : "0.00",
+   "Deposit" : "0.00",
+   "Customers" : [
+      {
+         "CustomerLName" : "Jackson",
+         "CustomerCompany" : "",
+         "CustomerNote" : "",
+         "CustomerEmail" : "jacob.jackson@hushmail.com",
+         "CustomerFName" : "Jacob",
+         "CustomerCity" : "",
+         "CustomerPostCode" : "",
+         "CustomerAddress" : "CENSORED",
+         "CustomerPhone" : "810263247",
+         "CustomerCountry" : "ES"
+      }
+   ],
+   "Acknowledged" : false,
+   "OrderDate" : "2017-10-23",
+   "TotalTaxesCurrency" : "EUR",
+   "MyallocatorModificationDate" : "2017-10-23",
+   "EndDate" : "2017-10-23",
+   "OrderId" : "2001958828",
+   "IsCancellation" : false,
+   "MyallocatorCreditCardDetailsPresent" : true,
+   "Version" : 0,
+   "MyallocatorId" : "e6b9127846d06c4f28ae3d54f",
+   "TotalPrice" : "93.00",
+   "CommissionCurrency" : "EUR",
+   "MyallocatorCreationDate" : "2017-10-23",
+   "IsModification" : false,
+   "MyallocatorModificationTime" : "08:44:09",
+   "PropertyId" : "42105",
+   "StartDate" : "2017-10-23",
+   "MyallocatorCreationTime" : "08:44:09",
+   "MarkedAsRead" : false,
+   "Channel" : "mcs",
+   "Commission" : 0,
+   "TotalCurrency" : "EUR",
+   "TotalTaxes" : 0,
+   "Rooms" : [
+      {
+         "DayRates" : [
+            {
+               "RateId" : "50471",
+               "Date" : "2017-10-23",
+               "Rate" : 93,
+               "Description" : null
+            }
+         ],
+         "OccupantLName" : "",
+         "Units" : "1",
+         "Occupancy" : 2,
+         "StartDate" : "2017-10-23",
+         "EndDate" : "2017-10-23",
+         "OccupantFName" : "",
+         "RoomTypeIds" : [
+            83982
+         ],
+         "RateId" : "50471",
+         "RoomDesc" : "1 Bedroom for 2-4pax",
+         "Price" : "93.00",
+         "RateDesc" : "",
+         "Currency" : "EUR",
+         "OccupantNote" : "",
+         "Policy" : "",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "83552"
+      }
+   ]
+}

@@ -1,0 +1,46 @@
+{
+   "OrderTime" : "15:35:00",
+   "DepositCurrency" : "EUR",
+   "Deposit" : 0,
+   "Customers" : [
+      {
+         "CustomerFName" : "Noah",
+         "CustomerLName" : "Smith",
+         "CustomerNote" : "",
+         "CustomerEmail" : "noah.smith@aol.com"
+      }
+   ],
+   "Acknowledged" : false,
+   "OrderDate" : "2017-10-16",
+   "MyallocatorModificationDate" : "2017-10-16",
+   "EndDate" : "2017-10-18",
+   "OrderId" : "jxtzzhin",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "MyallocatorId" : "4be4206b9901d75f9347f4dc0",
+   "TotalPrice" : "27.00",
+   "MyallocatorCreationDate" : "2017-10-16",
+   "IsModification" : false,
+   "MyallocatorModificationTime" : "15:36:37",
+   "PropertyId" : "4168",
+   "StartDate" : "2017-10-17",
+   "MyallocatorCreationTime" : "15:36:37",
+   "MarkedAsRead" : false,
+   "Channel" : "ote",
+   "TotalCurrency" : "EUR",
+   "Rooms" : [
+      {
+         "EndDate" : "2017-10-18",
+         "RoomTypeIds" : [
+            22649
+         ],
+         "RoomDesc" : "\t8-persons mixed shared ",
+         "Price" : 27,
+         "Currency" : "EUR",
+         "Units" : "1",
+         "StartDate" : "2017-10-17",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "2986"
+      }
+   ]
+}

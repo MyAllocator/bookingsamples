@@ -1,0 +1,56 @@
+{
+   "OrderTime" : "12:12:43",
+   "Deposit" : "4.6",
+   "Customers" : [
+      {
+         "CustomerLName" : "White",
+         "CustomerNote" : "",
+         "CustomerEmail" : "white@hotmail.com"
+      }
+   ],
+   "Acknowledged" : false,
+   "OrderDate" : "2017-05-26",
+   "MyallocatorModificationDate" : "2017-05-26",
+   "EndDate" : "2017-05-28",
+   "OrderId" : "5z2ojhjcvryrd6nevjz1klh",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "MyallocatorId" : "068ef9cc799b2c9b5c30e7665",
+   "TotalPrice" : "46.00",
+   "MyallocatorCreationDate" : "2017-05-26",
+   "OrderCustomers" : "1",
+   "MyallocatorModificationTime" : "11:10:15",
+   "PropertyId" : "557",
+   "StartDate" : "2017-05-27",
+   "MyallocatorCreationTime" : "11:10:15",
+   "MarkedAsRead" : true,
+   "Channel" : "hcu",
+   "Rooms" : [
+      {
+         "EndDate" : "2017-05-27",
+         "RoomTypeIds" : [
+            -1
+         ],
+         "Price" : "24.00",
+         "RoomDesc" : "8 Bed Mixed Standard No Bunk style",
+         "Units" : "1",
+         "Occupancy" : "1",
+         "StartDate" : "2017-05-27",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "5472"
+      },
+      {
+         "EndDate" : "2017-05-28",
+         "RoomTypeIds" : [
+            -1
+         ],
+         "Price" : "22.00",
+         "RoomDesc" : "8 Bed Mixed Standard No Bunk style",
+         "Units" : "1",
+         "Occupancy" : "1",
+         "StartDate" : "2017-05-28",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "7275"
+      }
+   ]
+}

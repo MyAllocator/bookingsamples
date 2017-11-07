@@ -1,0 +1,136 @@
+{
+   "OrderVersion" : 1,
+   "OrderTime" : "20:14:20",
+   "DepositDue" : "0.00",
+   "Deposit" : "0.00",
+   "Customers" : [
+      {
+         "CustomerLName" : "Brown",
+         "CustomerCompany" : "",
+         "CustomerNote" : "",
+         "CustomerEmail" : "ava.brown@outlook.com",
+         "CustomerFName" : "Ava",
+         "CustomerPostCode" : "",
+         "CustomerCity" : "",
+         "CustomerAddress" : "CENSORED",
+         "CustomerPhone" : "1609841768858",
+         "CustomerCountry" : "DE"
+      }
+   ],
+   "Acknowledged" : false,
+   "OrderDate" : "2017-01-10",
+   "TotalTaxesCurrency" : "PLN",
+   "MyallocatorModificationDate" : "2017-01-10",
+   "EndDate" : "2017-10-25",
+   "OrderId" : "1985657272",
+   "IsCancellation" : false,
+   "MyallocatorCreditCardDetailsPresent" : true,
+   "Version" : 0,
+   "MyallocatorId" : "69aa6a72670fbce5995cc5f59",
+   "TotalPrice" : "1216.80",
+   "CommissionCurrency" : "PLN",
+   "MyallocatorCreationDate" : "2017-01-10",
+   "MyallocatorModificationTime" : "20:18:13",
+   "PropertyId" : "2503",
+   "StartDate" : "2017-10-22",
+   "MyallocatorCreationTime" : "20:18:13",
+   "MarkedAsRead" : false,
+   "Channel" : "flh",
+   "Commission" : 0,
+   "TotalCurrency" : "PLN",
+   "TotalTaxes" : 0,
+   "Rooms" : [
+      {
+         "DayRates" : [
+            {
+               "RateId" : "12089",
+               "Date" : "2017-10-22",
+               "Rate" : 152.1,
+               "Description" : ""
+            },
+            {
+               "RateId" : "12089",
+               "Date" : "2017-10-23",
+               "Rate" : 152.1,
+               "Description" : ""
+            },
+            {
+               "RateId" : "12089",
+               "Date" : "2017-10-24",
+               "Rate" : 152.1,
+               "Description" : ""
+            },
+            {
+               "RateId" : "12089",
+               "Date" : "2017-10-25",
+               "Rate" : 152.1,
+               "Description" : ""
+            }
+         ],
+         "OccupantLName" : "",
+         "Units" : 1,
+         "Occupancy" : 2,
+         "StartDate" : "2017-10-22",
+         "EndDate" : "2017-10-25",
+         "OccupantFName" : "",
+         "RoomTypeIds" : [
+            11985
+         ],
+         "RateDesc" : "",
+         "RateId" : "12089",
+         "RoomDesc" : "TWIN ROOM WITH BATHROOM",
+         "Price" : "608.40",
+         "Currency" : "PLN",
+         "OccupantNote" : "",
+         "Policy" : "",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "8812"
+      },
+      {
+         "DayRates" : [
+            {
+               "RateId" : "12090",
+               "Date" : "2017-10-22",
+               "Rate" : 152.1,
+               "Description" : ""
+            },
+            {
+               "RateId" : "12090",
+               "Date" : "2017-10-23",
+               "Rate" : 152.1,
+               "Description" : ""
+            },
+            {
+               "RateId" : "12090",
+               "Date" : "2017-10-24",
+               "Rate" : 152.1,
+               "Description" : ""
+            },
+            {
+               "RateId" : "12090",
+               "Date" : "2017-10-25",
+               "Rate" : 152.1,
+               "Description" : ""
+            }
+         ],
+         "OccupantLName" : "",
+         "Units" : 1,
+         "Occupancy" : 2,
+         "StartDate" : "2017-10-22",
+         "EndDate" : "2017-10-25",
+         "OccupantFName" : "",
+         "RoomTypeIds" : [
+            15558
+         ],
+         "RateDesc" : "",
+         "RateId" : "12090",
+         "RoomDesc" : "DOUBLE ROOM WITH BATHROOM",
+         "Price" : "608.40",
+         "Currency" : "PLN",
+         "OccupantNote" : "",
+         "Policy" : "",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "6336"
+      }
+   ]
+}

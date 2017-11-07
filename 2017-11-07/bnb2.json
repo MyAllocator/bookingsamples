@@ -1,0 +1,56 @@
+{
+   "OrderVersion" : 1,
+   "OrderTime" : "01:59:13",
+   "Customers" : [
+      {
+         "CustomerLName" : "Moore",
+         "CustomerNote" : "",
+         "CustomerEmail" : "isabella.moore@lycos.com",
+         "CustomerFName" : "Isabella",
+         "CustomerCity" : "",
+         "CustomerPostCode" : "",
+         "CustomerAddress" : "",
+         "CustomerPhone" : "45335032518",
+         "CustomerCountry" : ""
+      }
+   ],
+   "Acknowledged" : false,
+   "TotalTaxesCurrency" : "USD",
+   "OrderDate" : "2017-11-07",
+   "MyallocatorModificationDate" : "2017-11-07",
+   "OrderSource" : "Expedia - Expedia",
+   "EndDate" : "2017-12-01",
+   "OrderId" : "181051230",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "MyallocatorId" : "e7c92e8adda54236dc819ff5f",
+   "ma_callback_qbid" : 7904019,
+   "TotalPrice" : "134.97",
+   "MyallocatorCreationDate" : "2017-11-07",
+   "IsModification" : false,
+   "MyallocatorModificationTime" : "08:00:28",
+   "PropertyId" : "11375",
+   "StartDate" : "2017-12-01",
+   "MyallocatorCreationTime" : "08:00:28",
+   "MarkedAsRead" : false,
+   "Channel" : "bnb2",
+   "TotalCurrency" : "USD",
+   "TotalTaxes" : 15.9698,
+   "Rooms" : [
+      {
+         "EndDate" : "2017-12-01",
+         "RoomTypeIds" : [
+            112972
+         ],
+         "Children" : 0,
+         "RoomDesc" : "Twin Room - Mountain Side",
+         "Price" : 134.9698,
+         "Currency" : "USD",
+         "Adults" : 2,
+         "Units" : "1",
+         "StartDate" : "2017-12-01",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "705398"
+      }
+   ]
+}

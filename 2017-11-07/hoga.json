@@ -1,0 +1,69 @@
+{
+   "OrderTime" : "14:49:15",
+   "DepositCurrency" : "EUR",
+   "Deposit" : "6.60",
+   "Customers" : [
+      {
+         "CustomerLName" : "Young",
+         "CustomerCompany" : "",
+         "CustomerNote" : "",
+         "CustomerEmail" : "harper.young@inbox.com",
+         "CustomerFName" : "Harper",
+         "CustomerPostCode" : "",
+         "CustomerCity" : "Budapest",
+         "CustomerAddress" : "",
+         "CustomerPhone" : "4u4p5ogursb07h5g6",
+         "CustomerCountry" : "us"
+      }
+   ],
+   "Acknowledged" : false,
+   "OrderDate" : "2017-10-26",
+   "MyallocatorModificationDate" : "2017-10-26",
+   "OrderId" : "7426qy1dbo4oq1wxobbdto2nz1xoiygmsztz",
+   "EndDate" : "2017-10-28",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "MyallocatorId" : "1b6b0eec558c30f32bc97abf2",
+   "TotalPrice" : "66.00",
+   "MyallocatorCreationDate" : "2017-10-26",
+   "IsModification" : false,
+   "MyallocatorModificationTime" : "12:49:13",
+   "BalanceCurrency" : "EUR",
+   "Balance" : "59.40",
+   "PropertyId" : "7122",
+   "StartDate" : "2017-10-27",
+   "MyallocatorCreationTime" : "12:49:13",
+   "MarkedAsRead" : true,
+   "Channel" : "hoga",
+   "TotalCurrency" : "EUR",
+   "Rooms" : [
+      {
+         "EndDate" : "2017-10-28",
+         "RoomTypeIds" : [
+            5177
+         ],
+         "RateId" : "",
+         "Price" : "66.00",
+         "DayRates" : [
+            {
+               "Currency" : "EUR",
+               "Date" : "2017-10-27",
+               "Rate" : "33.00",
+               "Description" : null
+            },
+            {
+               "Currency" : "EUR",
+               "Description" : null,
+               "Rate" : "33.00",
+               "Date" : "2017-10-28"
+            }
+         ],
+         "RateDesc" : "",
+         "RoomDesc" : "6 Bed Dorm Ensuite (6 Bed Dorm Ensuite)",
+         "Units" : "1",
+         "StartDate" : "2017-10-27",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "kdsfvdgy494unb6hwggke83fgx75mpbfg6v8"
+      }
+   ]
+}

@@ -1,0 +1,57 @@
+{
+   "OrderTime" : "01:38:33",
+   "DepositCurrency" : "USD",
+   "Deposit" : "9.5",
+   "Customers" : [
+      {
+         "CustomerLName" : "Miller",
+         "CustomerState" : "CA",
+         "CustomerCompany" : "CENSORED",
+         "CustomerNote" : "",
+         "CustomerEmail" : "miller@outlook.com",
+         "CustomerCity" : "Palo Alto",
+         "CustomerPostCode" : "94306",
+         "CustomerAddress" : "CENSORED",
+         "CustomerPhone" : "3191844653",
+         "CustomerCountry" : "US"
+      }
+   ],
+   "Acknowledged" : true,
+   "OrderDate" : "2017-11-07",
+   "MyallocatorModificationDate" : "2017-11-07",
+   "EndDate" : "2017-11-25",
+   "OrderId" : "54701363",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "CommissionIncludedInTotal" : false,
+   "MyallocatorId" : "c7ffcc322c802dabfd6f6e8b8",
+   "OrderChildren" : "0",
+   "CommissionCurrency" : "USD",
+   "TotalPrice" : "95.00",
+   "MyallocatorCreationDate" : "2017-11-07",
+   "OrderAdults" : "1",
+   "IsModification" : false,
+   "MyallocatorModificationTime" : "06:43:21",
+   "PropertyId" : "3896",
+   "StartDate" : "2017-11-23",
+   "MyallocatorCreationTime" : "06:43:21",
+   "MarkedAsRead" : true,
+   "Channel" : "iwb",
+   "Commission" : "0",
+   "TotalCurrency" : "USD",
+   "Rooms" : [
+      {
+         "EndDate" : "2017-11-25",
+         "RoomTypeIds" : [
+            13904
+         ],
+         "Price" : "31.67",
+         "RoomDesc" : "Student Dorm Mixed",
+         "Currency" : "USD",
+         "Units" : "1",
+         "StartDate" : "2017-11-23",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "y4s6lc2k"
+      }
+   ]
+}

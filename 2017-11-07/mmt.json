@@ -1,0 +1,42 @@
+{
+   "OrderTime" : "00:00:00",
+   "Customers" : [
+      {
+         "CustomerLName" : "White",
+         "CustomerNote" : ""
+      }
+   ],
+   "Acknowledged" : false,
+   "OrderDate" : "2017-11-07",
+   "MyallocatorModificationDate" : "2017-11-06",
+   "EndDate" : "2017-11-08",
+   "OrderId" : "0qv03l9clryowjy",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "MyallocatorId" : "f9c8bf22796d4d4a30830a0e1",
+   "ma_callback_qbid" : 7893276,
+   "TotalPrice" : "495.84",
+   "MyallocatorCreationDate" : "2017-11-06",
+   "OrderAdults" : "1",
+   "IsModification" : false,
+   "MyallocatorModificationTime" : "19:39:49",
+   "PropertyId" : "37746",
+   "StartDate" : "2017-11-08",
+   "MyallocatorCreationTime" : "19:39:49",
+   "MarkedAsRead" : false,
+   "Channel" : "mmt",
+   "TotalCurrency" : "INR",
+   "Policy" : "From 2017-11-01 14:00:00 to 2017-11-08 14:00:00,100% penalty will be charged.In case of no show : no refund.Booking cannot be cancelled/modified on or after the check in date and time mentioned in the Hotel Confirmation Voucher. All time mentioned above is in destination time.",
+   "Rooms" : [
+      {
+         "EndDate" : "2017-11-08",
+         "RoomTypeIds" : [
+            -1
+         ],
+         "Units" : "1",
+         "StartDate" : "2017-11-08",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "404"
+      }
+   ]
+}

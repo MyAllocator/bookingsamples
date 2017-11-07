@@ -1,0 +1,79 @@
+{
+   "OrderTime" : "07:54:03",
+   "Customers" : [
+      {
+         "CustomerLName" : "Young",
+         "CustomerFName" : "Harper",
+         "CustomerNote" : ""
+      }
+   ],
+   "Acknowledged" : false,
+   "OrderDate" : "2017-11-07",
+   "MyallocatorModificationDate" : "2017-11-07",
+   "EndDate" : "2017-11-20",
+   "OrderId" : "fwb2van5cj2uwz88njko4tgf0a8hht581cuq",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "MyallocatorId" : "cd4d3c87e6574a492528aaf9d",
+   "OrderChildren" : 0,
+   "TotalPrice" : "50000.00",
+   "MyallocatorCreationDate" : "2017-11-07",
+   "OrderAdults" : 1,
+   "IsModification" : false,
+   "MyallocatorModificationTime" : "07:54:06",
+   "PropertyId" : "3902",
+   "StartDate" : "2017-11-17",
+   "MyallocatorCreationTime" : "07:54:06",
+   "MarkedAsRead" : false,
+   "Channel" : "ost",
+   "TotalCurrency" : "KRW",
+   "Rooms" : [
+      {
+         "EndDate" : "2017-11-20",
+         "RoomTypeIds" : [
+            22259,
+            88691
+         ],
+         "DayRates" : [
+            {
+               "Currency" : "KRW",
+               "RateId" : "483773",
+               "Date" : "2017-11-17",
+               "Description" : "Standard rate",
+               "Rate" : 15000
+            },
+            {
+               "Currency" : "KRW",
+               "RateId" : "483773",
+               "Rate" : 15000,
+               "Description" : "Standard rate",
+               "Date" : "2017-11-18"
+            },
+            {
+               "Currency" : "KRW",
+               "RateId" : "483773",
+               "Description" : "Standard rate",
+               "Date" : "2017-11-19",
+               "Rate" : 10000
+            },
+            {
+               "Currency" : "KRW",
+               "RateId" : "483773",
+               "Rate" : 10000,
+               "Date" : "2017-11-20",
+               "Description" : "Standard rate"
+            }
+         ],
+         "RoomDesc" : "Bed in Dormitory with 8 beds",
+         "RateId" : "483773",
+         "Price" : 50000,
+         "RateDesc" : "Standard rate",
+         "Currency" : "KRW",
+         "Units" : "1",
+         "StartDate" : "2017-11-17",
+         "Occupancy" : 0,
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "858811"
+      }
+   ]
+}

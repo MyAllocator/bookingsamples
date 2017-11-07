@@ -1,0 +1,47 @@
+{
+   "Customers" : [
+      {
+         "CustomerLName" : "Williams",
+         "CustomerNote" : "",
+         "CustomerEmail" : "william.williams@lycos.com",
+         "CustomerFName" : "William",
+         "CustomerPostCode" : "06010",
+         "CustomerCity" : "bristol",
+         "CustomerAddress" : "CENSORED",
+         "CustomerPhone" : "262508655659"
+      }
+   ],
+   "Acknowledged" : false,
+   "OrderDate" : "2017-10-20",
+   "MyallocatorModificationDate" : "2017-10-19",
+   "OrderId" : "nzydufjotrvsm",
+   "EndDate" : "2017-11-10",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "MyallocatorId" : "7a850c1bd50a4a5a804468351",
+   "TotalPrice" : "179.00",
+   "MyallocatorCreationDate" : "2017-10-19",
+   "IsModification" : false,
+   "OrderCustomers" : "2",
+   "MyallocatorModificationTime" : "22:15:21",
+   "PropertyId" : "74425",
+   "StartDate" : "2017-11-10",
+   "MyallocatorCreationTime" : "22:15:21",
+   "MarkedAsRead" : false,
+   "Channel" : "skd",
+   "TotalCurrency" : "USD",
+   "Rooms" : [
+      {
+         "EndDate" : "2017-11-10",
+         "RoomTypeIds" : [
+            62731
+         ],
+         "RoomDesc" : "<p><span>This bright, cheerful, cozy, and quiet room at the back of the main inn is decorated with light colored linens, floral wallpaper, and white wicker furniture.&nbsp;</span>Deyett offers a lovely queen bed, a full size en-suite bathroom, and views of the inn's garden. This room does <span style=\"text-decoration: underline;\" >not</span> offer a mini fridge.</p>\r\n<p><strong>CHECK-IN: 3pm-7pm. Pre-paid early/late check-in and late check-out options may be available - please inquire before booking.</strong></p>",
+         "Adults" : 2,
+         "Units" : "1",
+         "StartDate" : "2017-11-10",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "sBWhDka"
+      }
+   ]
+}

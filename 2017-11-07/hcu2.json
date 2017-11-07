@@ -1,0 +1,49 @@
+{
+   "OrderTime" : "14:15:34",
+   "DepositCurrency" : "EUR",
+   "Deposit" : 4.6,
+   "Customers" : [
+      {
+         "CustomerLName" : "Harris",
+         "CustomerNote" : "",
+         "CustomerEmail" : "harris@gmail.com"
+      }
+   ],
+   "Acknowledged" : true,
+   "OrderDate" : "2017-10-30",
+   "MyallocatorModificationDate" : "2017-10-30",
+   "OrderId" : "nsc8y0gz8ue20kd84cxcrkz",
+   "EndDate" : "2017-11-01",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "MyallocatorId" : "383f46c8f63c304a9786b509c",
+   "TotalPrice" : "46.00",
+   "CommissionCurrency" : "EUR",
+   "MyallocatorCreationDate" : "2017-10-30",
+   "IsModification" : false,
+   "MyallocatorModificationTime" : "14:10:18",
+   "BalanceCurrency" : "EUR",
+   "Balance" : 41.4,
+   "PropertyId" : "2940",
+   "StartDate" : "2017-10-30",
+   "MyallocatorCreationTime" : "14:10:18",
+   "MarkedAsRead" : true,
+   "Channel" : "hcu2",
+   "Commission" : 4.6,
+   "TotalCurrency" : "EUR",
+   "Rooms" : [
+      {
+         "EndDate" : "2017-11-01",
+         "RoomTypeIds" : [
+            25146
+         ],
+         "RoomDesc" : "12 Bed Mixed Ensuite",
+         "Price" : 46,
+         "Currency" : "EUR",
+         "Units" : "1",
+         "StartDate" : "2017-10-30",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "636"
+      }
+   ]
+}

@@ -1,0 +1,102 @@
+{
+   "OrderTime" : "09:00",
+   "Customers" : [
+      {
+         "CustomerLName" : "White",
+         "CustomerFName" : "Charlotte",
+         "CustomerNote" : "",
+         "CustomerPhone" : "d6r4ap2ctecpvs9mlkk0ah6",
+         "CustomerEmail" : "charlotte.white@yahoo.com",
+         "CustomerCountry" : "SE"
+      }
+   ],
+   "Acknowledged" : false,
+   "OrderDate" : "2017-11-06",
+   "MyallocatorModificationDate" : "2017-11-06",
+   "EndDate" : "2017-11-21",
+   "OrderId" : "l9h5bg",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "CommissionIncludedInTotal" : false,
+   "MyallocatorId" : "5436610889a9b2bc5a472d60d",
+   "TotalPrice" : "900.00",
+   "CommissionCurrency" : "SEK",
+   "MyallocatorCreationDate" : "2017-11-06",
+   "IsModification" : false,
+   "MyallocatorModificationTime" : "08:04:24",
+   "BalanceCurrency" : "SEK",
+   "Balance" : "0",
+   "PropertyId" : "28108",
+   "StartDate" : "2017-11-20",
+   "MyallocatorCreationTime" : "08:04:24",
+   "MarkedAsRead" : false,
+   "Channel" : "cb",
+   "Commission" : "70.3125",
+   "TotalCurrency" : "SEK",
+   "ExtraServices" : [
+      {
+         "EndDate" : "2017-11-21",
+         "Currency" : "SEK",
+         "IncludedInTotal" : "0",
+         "Price" : "75",
+         "Units" : 1,
+         "StartDate" : "2017-11-20",
+         "Description" : "S\u00e4nglinne Enkelrum"
+      },
+      {
+         "EndDate" : "2017-11-21",
+         "Currency" : "SEK",
+         "IncludedInTotal" : "0",
+         "Price" : "150",
+         "Units" : 1,
+         "Description" : "Slutst\u00e4dning Enkelrum",
+         "StartDate" : "2017-11-20"
+      },
+      {
+         "EndDate" : "2017-11-21",
+         "Currency" : "SEK",
+         "IncludedInTotal" : "1",
+         "Price" : "0",
+         "Units" : 1,
+         "Description" : "Frukost Enkelrum",
+         "StartDate" : "2017-11-20"
+      }
+   ],
+   "Rooms" : [
+      {
+         "DayRates" : [
+            {
+               "Currency" : "SEK",
+               "RateId" : "72563",
+               "Date" : "2017-11-20",
+               "Rate" : 337.5,
+               "Description" : "Prisavtal standard"
+            },
+            {
+               "Currency" : "SEK",
+               "RateId" : "72563",
+               "Date" : "2017-11-21",
+               "Rate" : 337.5,
+               "Description" : "Prisavtal standard"
+            }
+         ],
+         "Children" : "0",
+         "OccupantLName" : "White",
+         "Adults" : "1",
+         "Units" : "1",
+         "StartDate" : "2017-11-20",
+         "EndDate" : "2017-11-21",
+         "RoomTypeIds" : [
+            54260
+         ],
+         "RateDesc" : "Prisavtal standard",
+         "RateId" : "72563",
+         "Price" : "675",
+         "RoomDesc" : "Enkelrum",
+         "Currency" : "SEK",
+         "OccupantNote" : "CENSORED",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "98559"
+      }
+   ]
+}
