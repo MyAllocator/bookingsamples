@@ -1,0 +1,48 @@
+{
+   "OrderTime" : "06:06:55",
+   "DepositCurrency" : "USD",
+   "Deposit" : 0,
+   "Customers" : [
+      {
+         "CustomerFName" : "Noah",
+         "CustomerLName" : "Smith",
+         "CustomerNote" : ""
+      }
+   ],
+   "Acknowledged" : false,
+   "OrderDate" : "2017-12-11",
+   "MyallocatorModificationDate" : "2017-12-11",
+   "EndDate" : "2018-01-05",
+   "OrderId" : "9734917023",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "CommissionIncludedInTotal" : false,
+   "MyallocatorId" : "b67d83dcc4205c055b3d92c9f",
+   "TotalPrice" : "111.72",
+   "MyallocatorCreationDate" : "2017-12-11",
+   "OrderAdults" : "1",
+   "IsModification" : false,
+   "MyallocatorModificationTime" : "06:08:22",
+   "BalanceCurrency" : "USD",
+   "Balance" : "111.7200",
+   "PropertyId" : "76621",
+   "StartDate" : "2017-12-31",
+   "MyallocatorCreationTime" : "06:08:22",
+   "MarkedAsRead" : false,
+   "Channel" : "deco",
+   "TotalCurrency" : "USD",
+   "Rooms" : [
+      {
+         "EndDate" : "2018-01-05",
+         "RoomTypeIds" : [
+            89489
+         ],
+         "RoomDesc" : "Habitaci\u00f3n mixta 6 camas",
+         "Price" : 111.72,
+         "Units" : "1",
+         "StartDate" : "2017-12-31",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "6219601"
+      }
+   ]
+}

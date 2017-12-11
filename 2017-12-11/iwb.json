@@ -1,0 +1,57 @@
+{
+   "OrderTime" : "23:48:49",
+   "DepositCurrency" : "USD",
+   "Deposit" : "2.5",
+   "Customers" : [
+      {
+         "CustomerLName" : "Wilson",
+         "CustomerState" : "TX",
+         "CustomerCompany" : "CENSORED",
+         "CustomerNote" : "",
+         "CustomerEmail" : "wilson@gmx.com",
+         "CustomerCity" : "Austin",
+         "CustomerPostCode" : "78704",
+         "CustomerAddress" : "CENSORED",
+         "CustomerPhone" : "9338214512",
+         "CustomerCountry" : "US"
+      }
+   ],
+   "Acknowledged" : false,
+   "OrderDate" : "2017-12-10",
+   "MyallocatorModificationDate" : "2017-12-11",
+   "EndDate" : "2018-12-16",
+   "OrderId" : "41914522",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "CommissionIncludedInTotal" : false,
+   "MyallocatorId" : "238f9fbca323c71cfa0b09ff4",
+   "OrderChildren" : "0",
+   "CommissionCurrency" : "USD",
+   "TotalPrice" : "25.00",
+   "MyallocatorCreationDate" : "2017-12-11",
+   "OrderAdults" : "1",
+   "IsModification" : false,
+   "MyallocatorModificationTime" : "04:49:46",
+   "PropertyId" : "2090",
+   "StartDate" : "2018-12-16",
+   "MyallocatorCreationTime" : "04:49:46",
+   "MarkedAsRead" : false,
+   "Channel" : "iwb",
+   "Commission" : "0",
+   "TotalCurrency" : "USD",
+   "Rooms" : [
+      {
+         "EndDate" : "2018-12-16",
+         "RoomTypeIds" : [
+            13904
+         ],
+         "RoomDesc" : "Student Dorm Mixed",
+         "Price" : "25",
+         "Currency" : "USD",
+         "Units" : "1",
+         "StartDate" : "2018-12-16",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "woq56chi"
+      }
+   ]
+}

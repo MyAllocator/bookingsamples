@@ -1,0 +1,59 @@
+{
+   "OrderTime" : "14:34",
+   "Customers" : [
+      {
+         "CustomerLName" : "Harris",
+         "CustomerNote" : "",
+         "CustomerEmail" : "michael.harris@hushmail.com",
+         "CustomerGender" : "FE",
+         "CustomerFName" : "Michael",
+         "CustomerPostCode" : "98527",
+         "CustomerCity" : "Suhl",
+         "CustomerAddress" : "CENSORED",
+         "CustomerPhone" : "73718129307",
+         "CustomerCountry" : "DE"
+      }
+   ],
+   "Acknowledged" : false,
+   "OrderDate" : "2017-12-09",
+   "MyallocatorModificationDate" : "2017-12-09",
+   "OrderSource" : "Gastgeber Homepage optimiert (OBY)",
+   "EndDate" : "2017-12-16",
+   "OrderId" : "nwp81zmoby",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "MyallocatorId" : "0b6766633d9ff8eb7bea39e54",
+   "OrderChildren" : 0,
+   "TotalPrice" : "57.00",
+   "MyallocatorCreationDate" : "2017-12-09",
+   "OrderAdults" : 2,
+   "IsModification" : false,
+   "MyallocatorModificationTime" : "13:37:45",
+   "PropertyId" : "41523",
+   "StartDate" : "2017-12-16",
+   "MyallocatorCreationTime" : "13:37:45",
+   "MarkedAsRead" : false,
+   "Channel" : "tom",
+   "TotalCurrency" : "EUR",
+   "Rooms" : [
+      {
+         "EndDate" : "2017-12-16",
+         "RoomTypeIds" : [
+            64614
+         ],
+         "Children" : 0,
+         "RateDesc" : "Standard",
+         "RateId" : "Standard",
+         "Price" : "57.00",
+         "RoomDesc" : "Standard",
+         "Breakfast" : true,
+         "Currency" : "EUR",
+         "Adults" : 2,
+         "Units" : "1",
+         "StartDate" : "2017-12-16",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "KH"
+      }
+   ],
+   "OrderSourceId" : "GER00020060329523943"
+}

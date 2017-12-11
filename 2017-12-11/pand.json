@@ -1,0 +1,51 @@
+{
+   "OrderTime" : "04:13:30 PM",
+   "DepositCurrency" : "INR",
+   "Deposit" : "599.00",
+   "Customers" : [
+      {
+         "CustomerFName" : "Ava",
+         "CustomerLName" : "Brown",
+         "CustomerNote" : "",
+         "CustomerPhone" : "8479536696939",
+         "CustomerEmail" : "ava.brown@zoho.com",
+         "CustomerCountry" : "India"
+      }
+   ],
+   "Acknowledged" : true,
+   "OrderDate" : "2017-12-11",
+   "MyallocatorModificationDate" : "2017-12-11",
+   "EndDate" : "2017-12-11",
+   "OrderId" : "4xma3asotd17bl3s",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "MyallocatorId" : "7f7c20171dca53372ecc2fa2b",
+   "OrderChildren" : 0,
+   "TotalPrice" : "599.00",
+   "MyallocatorCreationDate" : "2017-12-11",
+   "OrderAdults" : 1,
+   "IsModification" : false,
+   "MyallocatorModificationTime" : "10:43:47",
+   "BalanceCurrency" : "INR",
+   "Balance" : "0.00",
+   "PropertyId" : "77649",
+   "StartDate" : "2017-12-11",
+   "MyallocatorCreationTime" : "10:43:47",
+   "MarkedAsRead" : false,
+   "Channel" : "pand",
+   "TotalCurrency" : "INR",
+   "Rooms" : [
+      {
+         "EndDate" : "2017-12-11",
+         "RoomTypeIds" : [
+            101711
+         ],
+         "Price" : "599.00",
+         "RoomDesc" : "Female",
+         "Units" : "1",
+         "StartDate" : "2017-12-11",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "8"
+      }
+   ]
+}

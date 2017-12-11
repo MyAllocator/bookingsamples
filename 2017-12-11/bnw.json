@@ -1,0 +1,60 @@
+{
+   "OrderTime" : "12:11:22",
+   "Customers" : [
+      {
+         "CustomerLName" : "Taylor",
+         "CustomerPhoneMobile" : "3477760434",
+         "CustomerNote" : "CENSORED",
+         "CustomerEmail" : "benjamin.taylor@zoho.com",
+         "CustomerFName" : "Benjamin",
+         "CustomerNationality" : "Italia",
+         "CustomerArrivalTime" : "15:00",
+         "CustomerPhone" : "5888830867",
+         "CustomerIP" : "127.0.0.1"
+      }
+   ],
+   "Acknowledged" : false,
+   "OrderDate" : "2017-12-11",
+   "MyallocatorModificationDate" : "2017-12-11",
+   "OrderSource" : "BookNow Version 2",
+   "EndDate" : "2017-12-13",
+   "OrderId" : "bccsjplh2t8f0bqznecfy",
+   "IsCancellation" : false,
+   "MyallocatorCreditCardDetailsPresent" : true,
+   "Version" : 0,
+   "MyallocatorId" : "341c35c240653c58889899cf3",
+   "TotalPrice" : "20.00",
+   "MyallocatorCreationDate" : "2017-12-11",
+   "IsModification" : false,
+   "MyallocatorModificationTime" : "12:11:22",
+   "PropertyId" : "06821",
+   "StartDate" : "2017-12-13",
+   "MyallocatorCreationTime" : "12:11:22",
+   "MarkedAsRead" : false,
+   "Channel" : "bnw",
+   "TotalCurrency" : "EUR",
+   "Rooms" : [
+      {
+         "EndDate" : "2017-12-13",
+         "RoomTypeIds" : [
+            61278
+         ],
+         "Price" : 20,
+         "RateDesc" : "",
+         "DayRates" : [
+            {
+               "Currency" : "EUR",
+               "Description" : null,
+               "Rate" : 20,
+               "Date" : "2017-12-13"
+            }
+         ],
+         "RateId" : "",
+         "Currency" : "EUR",
+         "Units" : "1",
+         "StartDate" : "2017-12-13",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "88499"
+      }
+   ]
+}

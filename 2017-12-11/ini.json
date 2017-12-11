@@ -1,0 +1,41 @@
+{
+   "Customers" : [
+      {
+         "CustomerLName" : "Miller",
+         "CustomerNote" : ""
+      }
+   ],
+   "Acknowledged" : false,
+   "OrderDate" : "2017-12-03",
+   "MyallocatorModificationDate" : "2017-12-03",
+   "EndDate" : "2018-01-01",
+   "OrderId" : "072939428",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "MyallocatorId" : "9a4c0bb791f88665a65c06822",
+   "TotalPrice" : "202.00",
+   "MyallocatorCreationDate" : "2017-12-03",
+   "IsModification" : false,
+   "MyallocatorModificationTime" : "17:32:41",
+   "PropertyId" : "2567",
+   "StartDate" : "2017-12-31",
+   "MyallocatorCreationTime" : "17:32:41",
+   "MarkedAsRead" : false,
+   "Channel" : "ini",
+   "TotalCurrency" : "EUR",
+   "Rooms" : [
+      {
+         "EndDate" : "2018-01-01",
+         "RoomTypeIds" : [
+            -1
+         ],
+         "Price" : "204",
+         "RoomDesc" : "Economy Double",
+         "Currency" : "EUR",
+         "Units" : "1",
+         "StartDate" : "2017-12-31",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "987"
+      }
+   ]
+}

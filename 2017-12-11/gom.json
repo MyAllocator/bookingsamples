@@ -1,0 +1,49 @@
+{
+   "OrderTime" : "20:55:00",
+   "DepositCurrency" : "EUR",
+   "Deposit" : "1.2",
+   "Customers" : [
+      {
+         "CustomerFName" : "Mason",
+         "CustomerLName" : "Davis",
+         "CustomerNote" : "",
+         "CustomerArrivalTime" : "14:00",
+         "CustomerEmail" : "mason.davis@gmx.com",
+         "CustomerGender" : "FE",
+         "CustomerCountry" : "United States"
+      }
+   ],
+   "Acknowledged" : false,
+   "OrderDate" : "2017-12-10",
+   "MyallocatorModificationDate" : "2017-12-10",
+   "EndDate" : "2018-01-02",
+   "OrderId" : "hd8l6uv",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "MyallocatorId" : "99e2ec6919b59ab459c571c77",
+   "TotalPrice" : "24.00",
+   "MyallocatorCreationDate" : "2017-12-10",
+   "IsModification" : false,
+   "MyallocatorModificationTime" : "19:58:42",
+   "PropertyId" : "5857",
+   "StartDate" : "2018-01-02",
+   "MyallocatorCreationTime" : "19:58:42",
+   "MarkedAsRead" : false,
+   "Channel" : "gom",
+   "TotalCurrency" : "EUR",
+   "Rooms" : [
+      {
+         "EndDate" : "2018-01-02",
+         "RoomTypeIds" : [
+            29135
+         ],
+         "RoomDesc" : "5 Bed Mixed Dorm Ensuite Facilities",
+         "Price" : 24,
+         "Currency" : "EUR",
+         "Units" : "2",
+         "StartDate" : "2018-01-02",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "74665"
+      }
+   ]
+}

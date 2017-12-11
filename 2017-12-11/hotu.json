@@ -1,0 +1,43 @@
+{
+   "OrderTime" : "16:14:00",
+   "Customers" : [
+      {
+         "CustomerLName" : "Young",
+         "CustomerNote" : ""
+      }
+   ],
+   "Acknowledged" : false,
+   "OrderDate" : "2017-12-05",
+   "MyallocatorModificationDate" : "2017-12-05",
+   "EndDate" : "2017-12-09",
+   "OrderId" : "54628120",
+   "IsCancellation" : false,
+   "MyallocatorCreditCardDetailsPresent" : true,
+   "Version" : 0,
+   "MyallocatorId" : "a2bf0d39d42f7795c6519ecd4",
+   "TotalPrice" : "93.75",
+   "MyallocatorCreationDate" : "2017-12-05",
+   "IsModification" : false,
+   "MyallocatorModificationTime" : "15:16:11",
+   "PropertyId" : "08175",
+   "StartDate" : "2017-12-07",
+   "MyallocatorCreationTime" : "15:16:11",
+   "MarkedAsRead" : false,
+   "Channel" : "hotu",
+   "TotalCurrency" : "EUR",
+   "Rooms" : [
+      {
+         "EndDate" : "2017-12-09",
+         "RoomTypeIds" : [
+            83894
+         ],
+         "Price" : 93.75,
+         "RoomDesc" : "1bed (6women shared room&wc)",
+         "Currency" : "EUR",
+         "Units" : "1",
+         "StartDate" : "2017-12-07",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "3u"
+      }
+   ]
+}

@@ -1,0 +1,74 @@
+{
+   "OrderTime" : "10:08:00",
+   "Deposit" : 9.09,
+   "Customers" : [
+      {
+         "CustomerLName" : "Jackson",
+         "CustomerNote" : "",
+         "CustomerEmail" : "jackson@gmail.com"
+      }
+   ],
+   "Acknowledged" : false,
+   "OrderDate" : "2017-01-29",
+   "MyallocatorModificationDate" : "2017-01-30",
+   "EndDate" : "2017-06-11",
+   "OrderId" : "79447311",
+   "IsCancellation" : false,
+   "Version" : 1,
+   "MyallocatorId" : "492494b845c727c8b25cc5573",
+   "TotalPrice" : "69.96",
+   "MyallocatorCreationDate" : "2017-01-29",
+   "MyallocatorModificationTime" : "09:10:05",
+   "Balance" : "60.87",
+   "PropertyId" : "53222",
+   "StartDate" : "2017-06-08",
+   "MyallocatorCreationTime" : "09:10:04",
+   "MarkedAsRead" : true,
+   "Channel" : "bp",
+   "TotalCurrency" : "GBP",
+   "Rooms" : [
+      {
+         "EndDate" : "2017-06-11",
+         "RoomTypeIds" : [
+            56053
+         ],
+         "Price" : 69.96,
+         "DayRates" : [
+            {
+               "Currency" : "GBP",
+               "RateId" : "49813",
+               "Date" : "2017-06-08",
+               "Rate" : "14.99"
+            },
+            {
+               "Currency" : "GBP",
+               "RateId" : "49813",
+               "Date" : "2017-06-09",
+               "Rate" : "19.99"
+            },
+            {
+               "Currency" : "GBP",
+               "RateId" : "49813",
+               "Date" : "2017-06-10",
+               "Rate" : "19.99"
+            },
+            {
+               "Currency" : "GBP",
+               "RateId" : "49813",
+               "Date" : "2017-06-11",
+               "Rate" : "14.99"
+            }
+         ],
+         "RateId" : "49813",
+         "RateDesc" : "Rack with breakfast",
+         "RoomDesc" : "1 bed in a 14 bed dormitory",
+         "Breakfast" : true,
+         "Currency" : "GBP",
+         "Units" : "1",
+         "StartDate" : "2017-06-08",
+         "Occupancy" : "1",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "25495"
+      }
+   ]
+}

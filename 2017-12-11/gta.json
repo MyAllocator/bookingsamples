@@ -1,0 +1,57 @@
+{
+   "OrderTime" : "11:07:28",
+   "Customers" : [
+      {
+         "CustomerLName" : "Wilson",
+         "CustomerNote" : ""
+      }
+   ],
+   "Acknowledged" : false,
+   "OrderDate" : "2017-12-11",
+   "MyallocatorModificationDate" : "2017-12-11",
+   "EndDate" : "2017-12-14",
+   "OrderId" : "fra34gop4qbeu3",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "MyallocatorId" : "4683ceca4c9cb089145283e00",
+   "OrderChildren" : "0",
+   "TotalPrice" : "7799.00",
+   "MyallocatorCreationDate" : "2017-12-11",
+   "OrderAdults" : "1",
+   "IsModification" : false,
+   "MyallocatorModificationTime" : "11:13:55",
+   "PropertyId" : "9388",
+   "StartDate" : "2017-12-14",
+   "MyallocatorCreationTime" : "11:13:55",
+   "MarkedAsRead" : false,
+   "Channel" : "gta",
+   "TotalCurrency" : "KRW",
+   "Rooms" : [
+      {
+         "EndDate" : "2017-12-14",
+         "RoomTypeIds" : [
+            46955
+         ],
+         "RateId" : "256959",
+         "Price" : "11142.00",
+         "DayRates" : [
+            {
+               "Currency" : "KRW",
+               "RateId" : "256959",
+               "Date" : "2017-12-14",
+               "Rate" : "11142",
+               "Description" : "BAR Room Only Worldwide (Margin)"
+            }
+         ],
+         "RoomDesc" : "8 Bed Mixed Dormitory Room  (Category: OTHER)",
+         "RateDesc" : "BAR Room Only Worldwide (Margin)",
+         "Children" : "0",
+         "OccupantLName" : "Wilson",
+         "Units" : "1",
+         "Adults" : "1",
+         "StartDate" : "2017-12-14",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "989984"
+      }
+   ]
+}

@@ -1,0 +1,65 @@
+{
+   "DepositCurrency" : "IDR",
+   "Deposit" : "65286.00",
+   "Customers" : [
+      {
+         "CustomerLName" : "Brown",
+         "CustomerNote" : "",
+         "CustomerEmail" : "ava.brown@gmail.com",
+         "CustomerGender" : "MA",
+         "CustomerFName" : "Ava",
+         "CustomerNationality" : "Saudi Arabia",
+         "CustomerArrivalTime" : "20:00",
+         "CustomerPhone" : ""
+      }
+   ],
+   "Acknowledged" : false,
+   "MyallocatorModificationDate" : "2017-12-11",
+   "EndDate" : "2017-12-12",
+   "OrderId" : "ye68wf4zxv2e66v",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "OrderFemales" : "",
+   "MyallocatorId" : "d3d493ef65dae035455f85ff4",
+   "TotalPrice" : "362700.00",
+   "MyallocatorCreationDate" : "2017-12-11",
+   "IsModification" : false,
+   "MyallocatorModificationTime" : "12:21:27",
+   "OrderMales" : "1",
+   "PropertyId" : "6422",
+   "StartDate" : "2017-12-11",
+   "MyallocatorCreationTime" : "12:21:27",
+   "MarkedAsRead" : false,
+   "Channel" : "hw2",
+   "TotalCurrency" : "IDR",
+   "Rooms" : [
+      {
+         "EndDate" : "2017-12-11",
+         "RoomTypeIds" : [
+            16665
+         ],
+         "Price" : "181350.00",
+         "RoomDesc" : "Deluxe 1 Bed Single Private Ensuite (Single Private Ensuite G)",
+         "Currency" : "IDR",
+         "Units" : "1",
+         "StartDate" : "2017-12-11",
+         "Occupancy" : 1,
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "384651"
+      },
+      {
+         "EndDate" : "2017-12-12",
+         "RoomTypeIds" : [
+            16665
+         ],
+         "RoomDesc" : "Deluxe 1 Bed Single Private Ensuite (Single Private Ensuite G)",
+         "Price" : "181350.00",
+         "Currency" : "IDR",
+         "Units" : "1",
+         "Occupancy" : 1,
+         "StartDate" : "2017-12-12",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "337414"
+      }
+   ]
+}

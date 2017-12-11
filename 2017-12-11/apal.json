@@ -1,0 +1,75 @@
+{
+   "OrderTime" : "21:59:53",
+   "Customers" : [
+      {
+         "CustomerLName" : "Cain",
+         "CustomerNote" : "CENSORED",
+         "CustomerPhone" : "2957536420862",
+         "CustomerEmail" : "cain@yahoo.com"
+      }
+   ],
+   "Acknowledged" : false,
+   "OrderDate" : "2017-12-10",
+   "MyallocatorModificationDate" : "2017-12-11",
+   "EndDate" : "2017-12-20",
+   "OrderId" : "319k6oo499",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "MyallocatorId" : "4619a3ce4cef126a07b0c350e",
+   "TotalPrice" : "361919.98",
+   "MyallocatorCreationDate" : "2017-12-11",
+   "IsModification" : false,
+   "BalanceCurrency" : null,
+   "MyallocatorModificationTime" : "03:06:56",
+   "Balance" : null,
+   "PropertyId" : "63531",
+   "StartDate" : "2017-12-16",
+   "MyallocatorCreationTime" : "03:06:56",
+   "MarkedAsRead" : false,
+   "Channel" : "apal",
+   "TotalCurrency" : "COP",
+   "Rooms" : [
+      {
+         "EndDate" : "2017-12-20",
+         "RoomTypeIds" : [
+            124281
+         ],
+         "RateDesc" : "",
+         "RoomDesc" : "Asignada a la llegada",
+         "DayRates" : [
+            {
+               "Currency" : "COP",
+               "Date" : "2017-12-16",
+               "Description" : null,
+               "Rate" : 90480
+            },
+            {
+               "Currency" : "COP",
+               "Rate" : 90480,
+               "Description" : null,
+               "Date" : "2017-12-17"
+            },
+            {
+               "Currency" : "COP",
+               "Date" : "2017-12-18",
+               "Description" : null,
+               "Rate" : 90480
+            },
+            {
+               "Currency" : "COP",
+               "Description" : null,
+               "Rate" : 90480,
+               "Date" : "2017-12-19"
+            }
+         ],
+         "Children" : 0,
+         "RateId" : "",
+         "Breakfast" : true,
+         "Adults" : 2,
+         "Units" : "1",
+         "StartDate" : "2017-12-16",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "3573"
+      }
+   ]
+}
