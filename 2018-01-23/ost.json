@@ -1,0 +1,57 @@
+{
+   "OrderTime" : "10:20:32",
+   "Customers" : [
+      {
+         "CustomerLName" : "Johnson",
+         "CustomerFName" : "Emma",
+         "CustomerNote" : ""
+      }
+   ],
+   "Acknowledged" : false,
+   "OrderDate" : "2018-01-23",
+   "MyallocatorModificationDate" : "2018-01-23",
+   "EndDate" : "2018-01-26",
+   "OrderId" : "0mq47k68i72wsmzt3r3bzgtli668j5hau9dx",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "MyallocatorId" : "2a2fb039a81310807bf192c96",
+   "OrderChildren" : 0,
+   "TotalPrice" : "24.00",
+   "MyallocatorCreationDate" : "2018-01-23",
+   "OrderAdults" : 2,
+   "IsModification" : false,
+   "MyallocatorModificationTime" : "10:48:31",
+   "PropertyId" : "1819",
+   "StartDate" : "2018-01-26",
+   "MyallocatorCreationTime" : "10:48:31",
+   "MarkedAsRead" : false,
+   "Channel" : "ost",
+   "TotalCurrency" : "EUR",
+   "Rooms" : [
+      {
+         "EndDate" : "2018-01-26",
+         "RoomTypeIds" : [
+            17988
+         ],
+         "RateDesc" : "Non-refundable",
+         "Price" : 24,
+         "DayRates" : [
+            {
+               "Currency" : "EUR",
+               "RateId" : "566214",
+               "Rate" : 24,
+               "Description" : "Non-refundable",
+               "Date" : "2018-01-26"
+            }
+         ],
+         "RoomDesc" : "Economy Double Room (shared bathroom)",
+         "RateId" : "566214",
+         "Currency" : "EUR",
+         "Units" : "1",
+         "StartDate" : "2018-01-26",
+         "Occupancy" : 0,
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "287860"
+      }
+   ]
+}

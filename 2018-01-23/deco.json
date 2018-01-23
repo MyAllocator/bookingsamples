@@ -1,0 +1,48 @@
+{
+   "OrderTime" : "10:58:30",
+   "DepositCurrency" : "USD",
+   "Deposit" : 0,
+   "Customers" : [
+      {
+         "CustomerFName" : "Noah",
+         "CustomerLName" : "Smith",
+         "CustomerNote" : ""
+      }
+   ],
+   "Acknowledged" : false,
+   "OrderDate" : "2018-01-23",
+   "MyallocatorModificationDate" : "2018-01-23",
+   "EndDate" : "2018-01-26",
+   "OrderId" : "1458689400",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "CommissionIncludedInTotal" : false,
+   "MyallocatorId" : "e085ffd9c370a4b839022df87",
+   "TotalPrice" : "56.76",
+   "MyallocatorCreationDate" : "2018-01-23",
+   "OrderAdults" : "2",
+   "IsModification" : false,
+   "MyallocatorModificationTime" : "10:58:59",
+   "BalanceCurrency" : "USD",
+   "Balance" : "56.7600",
+   "PropertyId" : "7464",
+   "StartDate" : "2018-01-24",
+   "MyallocatorCreationTime" : "10:58:59",
+   "MarkedAsRead" : false,
+   "Channel" : "deco",
+   "TotalCurrency" : "USD",
+   "Rooms" : [
+      {
+         "EndDate" : "2018-01-26",
+         "RoomTypeIds" : [
+            20485
+         ],
+         "Price" : 56.76,
+         "RoomDesc" : "Jazz Room",
+         "Units" : "1",
+         "StartDate" : "2018-01-24",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "644150"
+      }
+   ]
+}

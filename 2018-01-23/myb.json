@@ -1,0 +1,71 @@
+{
+   "OrderTime" : "11:27:00",
+   "Deposit" : "1.80",
+   "DepositDue" : "0.00",
+   "Customers" : [
+      {
+         "CustomerLName" : "Martinez",
+         "CustomerCompany" : "",
+         "CustomerNote" : "CENSORED",
+         "CustomerEmail" : "elijah.martinez@gmail.com",
+         "CustomerFName" : "Elijah",
+         "CustomerPostCode" : "",
+         "CustomerCity" : "",
+         "CustomerAddress" : "CENSORED",
+         "CustomerPhone" : "24531829",
+         "CustomerCountry" : "my"
+      }
+   ],
+   "Acknowledged" : false,
+   "TotalTaxesCurrency" : "SGD",
+   "OrderDate" : "2018-01-23",
+   "MyallocatorModificationDate" : "2018-01-23",
+   "EndDate" : "2018-01-24",
+   "OrderId" : "8854762707",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "MyallocatorId" : "394c8eab13013828af410a9ec",
+   "CommissionCurrency" : "SGD",
+   "TotalPrice" : "18.00",
+   "MyallocatorCreationDate" : "2018-01-23",
+   "IsModification" : false,
+   "MyallocatorModificationTime" : "11:31:23",
+   "PropertyId" : "784",
+   "StartDate" : "2018-01-24",
+   "MyallocatorCreationTime" : "11:31:23",
+   "MarkedAsRead" : false,
+   "Channel" : "myb",
+   "Commission" : 0,
+   "TotalCurrency" : "SGD",
+   "TotalTaxes" : 0,
+   "Rooms" : [
+      {
+         "DayRates" : [
+            {
+               "RateId" : "21112",
+               "Rate" : 18,
+               "Date" : "2018-01-24",
+               "Description" : null
+            }
+         ],
+         "OccupantLName" : "",
+         "Units" : "1",
+         "StartDate" : "2018-01-24",
+         "Occupancy" : 1,
+         "EndDate" : "2018-01-24",
+         "OccupantFName" : "",
+         "RoomTypeIds" : [
+            2219
+         ],
+         "Price" : "18.00",
+         "RateId" : "21112",
+         "RateDesc" : "",
+         "RoomDesc" : "1 Bed in 6 Bed Mixed Dorm",
+         "Currency" : "SGD",
+         "OccupantNote" : "",
+         "Policy" : "",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "31691"
+      }
+   ]
+}

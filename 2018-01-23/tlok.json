@@ -1,0 +1,61 @@
+{
+   "OrderTime" : "11:58:01",
+   "Customers" : [
+      {
+         "CustomerLName" : "Jackson",
+         "CustomerFName" : "Jacob",
+         "CustomerNote" : "CENSORED"
+      }
+   ],
+   "Acknowledged" : false,
+   "OrderDate" : "2018-01-23",
+   "MyallocatorModificationDate" : "2018-01-23",
+   "PaymentCollect" : "Channel",
+   "EndDate" : "2018-01-23",
+   "OrderId" : "3451344478",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "CommissionIncludedInTotal" : true,
+   "MyallocatorId" : "473afa51cc6076902f6a6227a",
+   "ma_callback_qbid" : 10354019,
+   "CommissionCurrency" : "THB",
+   "TotalPrice" : "331.50",
+   "MyallocatorCreationDate" : "2018-01-23",
+   "IsModification" : false,
+   "MyallocatorModificationTime" : "11:58:02",
+   "PropertyId" : "69849",
+   "StartDate" : "2018-01-23",
+   "MyallocatorCreationTime" : "11:58:02",
+   "MarkedAsRead" : false,
+   "Channel" : "tlok",
+   "Commission" : 49.72,
+   "TotalCurrency" : "THB",
+   "TotalTaxes" : 49.85,
+   "Rooms" : [
+      {
+         "EndDate" : "2018-01-23",
+         "RoomTypeIds" : [
+            121838
+         ],
+         "RateId" : "LAST_MINUTE",
+         "Price" : "331.50",
+         "RateDesc" : "",
+         "DayRates" : [
+            {
+               "Currency" : "THB",
+               "RateId" : "LAST_MINUTE",
+               "Rate" : "331.50",
+               "Description" : null,
+               "Date" : "2018-01-23"
+            }
+         ],
+         "RoomDesc" : "Capsule in 16-bed Mixed Dormitory Room",
+         "Currency" : "THB",
+         "Adults" : "1",
+         "Units" : "1",
+         "StartDate" : "2018-01-23",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "69732449"
+      }
+   ]
+}

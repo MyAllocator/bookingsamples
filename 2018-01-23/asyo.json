@@ -1,0 +1,60 @@
+{
+   "OrderTime" : "11:26:11",
+   "Customers" : [
+      {
+         "CustomerFName" : "Olivia",
+         "CustomerLName" : "Abeln",
+         "CustomerNote" : "",
+         "CustomerPhoneMobile" : "+886 0920812787",
+         "CustomerArrivalTime" : "19:00",
+         "CustomerEmail" : "olivia.abeln@outlook.com"
+      }
+   ],
+   "Acknowledged" : false,
+   "OrderDate" : "2018-01-23",
+   "MyallocatorModificationDate" : "2018-01-23",
+   "PaymentCollect" : "Channel",
+   "EndDate" : "2018-02-17",
+   "OrderId" : "t98sgs6e7v26fbdr3",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "MyallocatorId" : "815f7bc086275a3b92df1f1cd",
+   "TotalPrice" : "557.00",
+   "MyallocatorCreationDate" : "2018-01-23",
+   "IsModification" : false,
+   "MyallocatorModificationTime" : "03:28:02",
+   "PropertyId" : "38477",
+   "StartDate" : "2018-02-17",
+   "MyallocatorCreationTime" : "03:28:02",
+   "MarkedAsRead" : false,
+   "Channel" : "asyo",
+   "TotalCurrency" : "TWD",
+   "Rooms" : [
+      {
+         "DayRates" : [
+            {
+               "RateId" : "26243",
+               "Description" : "Day Rates",
+               "Date" : "2018-02-17",
+               "Rate" : "557"
+            }
+         ],
+         "Children" : 0,
+         "Breakfast" : false,
+         "Adults" : 1,
+         "Units" : "1",
+         "Occupancy" : 1,
+         "StartDate" : "2018-02-17",
+         "EndDate" : "2018-02-17",
+         "RoomTypeIds" : [
+            91971
+         ],
+         "RateId" : "26243",
+         "RoomDesc" : "\u6d74\u5ba4\uff1a1\r\n\u81e5\u5ba4\uff1a1\r\n\u5e8a\u578b\uff1a2\u5f35\u4e0a\u4e0b\u8216\u5e8a",
+         "RateDesc" : "",
+         "Policy" : "Confirmed booking (Remember to make reply on AsiaYo. If already done,please ignore it)",
+         "ChannelRoomType" : "01893",
+         "MyallocatorRateplanIds" : []
+      }
+   ]
+}

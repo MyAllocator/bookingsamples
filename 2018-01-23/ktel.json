@@ -1,0 +1,43 @@
+{
+   "OrderTime" : "12:09:00",
+   "Customers" : [
+      {
+         "CustomerLName" : "Moore",
+         "CustomerNote" : ""
+      }
+   ],
+   "Acknowledged" : false,
+   "OrderDate" : "2018-01-16",
+   "MyallocatorModificationDate" : "2018-01-16",
+   "EndDate" : "2018-02-22",
+   "OrderId" : "51430828",
+   "IsCancellation" : false,
+   "MyallocatorCreditCardDetailsPresent" : true,
+   "Version" : 0,
+   "MyallocatorId" : "8a39a081365daf3eb4bfaf028",
+   "TotalPrice" : "59.99",
+   "MyallocatorCreationDate" : "2018-01-16",
+   "IsModification" : false,
+   "MyallocatorModificationTime" : "11:13:25",
+   "PropertyId" : "51544",
+   "StartDate" : "2018-02-22",
+   "MyallocatorCreationTime" : "11:13:25",
+   "MarkedAsRead" : false,
+   "Channel" : "ktel",
+   "TotalCurrency" : "EUR",
+   "Rooms" : [
+      {
+         "EndDate" : "2018-02-22",
+         "RoomTypeIds" : [
+            108279
+         ],
+         "Price" : "60.0",
+         "RoomDesc" : "Twin (2 beds)",
+         "Currency" : "EUR",
+         "Units" : "1",
+         "StartDate" : "2018-02-22",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "VO"
+      }
+   ]
+}

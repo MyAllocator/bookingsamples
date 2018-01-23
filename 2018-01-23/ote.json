@@ -1,0 +1,72 @@
+{
+   "OrderTime" : "12:29:18",
+   "DepositCurrency" : "EUR",
+   "Deposit" : 15.17,
+   "Customers" : [
+      {
+         "CustomerFName" : "Liam",
+         "CustomerLName" : "Cain",
+         "CustomerNote" : "",
+         "CustomerEmail" : "liam.cain@mail.com"
+      }
+   ],
+   "Acknowledged" : false,
+   "OrderDate" : "2018-01-18",
+   "MyallocatorModificationDate" : "2018-01-18",
+   "EndDate" : "2018-01-21",
+   "OrderId" : "mnbyhe4p",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "MyallocatorId" : "581876fc2de61e0a28c20f05d",
+   "TotalPrice" : "60.66",
+   "MyallocatorCreationDate" : "2018-01-18",
+   "IsModification" : false,
+   "MyallocatorModificationTime" : "12:33:49",
+   "PropertyId" : "239",
+   "StartDate" : "2018-01-19",
+   "MyallocatorCreationTime" : "12:33:49",
+   "MarkedAsRead" : false,
+   "Channel" : "ote",
+   "TotalCurrency" : "EUR",
+   "Rooms" : [
+      {
+         "EndDate" : "2018-01-19",
+         "RoomTypeIds" : [
+            4164
+         ],
+         "RoomDesc" : "8 Bed Mixed Dorm",
+         "Price" : 20.61,
+         "Currency" : "EUR",
+         "Units" : "1",
+         "StartDate" : "2018-01-19",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "2278"
+      },
+      {
+         "EndDate" : "2018-01-20",
+         "RoomTypeIds" : [
+            4164
+         ],
+         "RoomDesc" : "8 Bed Mixed Dorm",
+         "Price" : 22.95,
+         "Currency" : "EUR",
+         "Units" : "1",
+         "StartDate" : "2018-01-20",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "2146"
+      },
+      {
+         "EndDate" : "2018-01-21",
+         "RoomTypeIds" : [
+            4164
+         ],
+         "Price" : 17.1,
+         "RoomDesc" : "8 Bed Mixed Dorm",
+         "Currency" : "EUR",
+         "Units" : "1",
+         "StartDate" : "2018-01-21",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "9224"
+      }
+   ]
+}

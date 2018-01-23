@@ -1,0 +1,62 @@
+{
+   "OrderTime" : "21:30:00",
+   "Deposit" : 12.15,
+   "Customers" : [
+      {
+         "CustomerLName" : "Jackson",
+         "CustomerNote" : "",
+         "CustomerEmail" : "jackson@gmail.com"
+      }
+   ],
+   "Acknowledged" : true,
+   "OrderDate" : "2017-01-25",
+   "MyallocatorModificationDate" : "2017-01-25",
+   "EndDate" : "2017-07-30",
+   "OrderId" : "46278491",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "MyallocatorId" : "34d74a4d7756196c7ce98b004",
+   "TotalPrice" : "81.00",
+   "MyallocatorCreationDate" : "2017-01-25",
+   "MyallocatorModificationTime" : "20:32:04",
+   "Balance" : "68.85",
+   "PropertyId" : "0501",
+   "StartDate" : "2017-07-29",
+   "MyallocatorCreationTime" : "20:32:04",
+   "MarkedAsRead" : true,
+   "Channel" : "bp",
+   "TotalCurrency" : "EUR",
+   "Rooms" : [
+      {
+         "EndDate" : "2017-07-30",
+         "RoomTypeIds" : [
+            15776
+         ],
+         "Price" : 81,
+         "DayRates" : [
+            {
+               "Currency" : "EUR",
+               "RateId" : "54462",
+               "Date" : "2017-07-29",
+               "Rate" : "48.00"
+            },
+            {
+               "Currency" : "EUR",
+               "RateId" : "54462",
+               "Date" : "2017-07-30",
+               "Rate" : "33.00"
+            }
+         ],
+         "RateId" : "54462",
+         "RateDesc" : "",
+         "RoomDesc" : "Twin",
+         "Breakfast" : false,
+         "Currency" : "EUR",
+         "Units" : "1",
+         "StartDate" : "2017-07-29",
+         "Occupancy" : "2",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "853801"
+      }
+   ]
+}

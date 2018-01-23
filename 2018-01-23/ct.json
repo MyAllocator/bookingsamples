@@ -1,0 +1,68 @@
+{
+   "OrderTime" : "09:37:15",
+   "Customers" : [
+      {
+         "CustomerLName" : "Martinez",
+         "CustomerCompany" : "",
+         "CustomerNote" : "CENSORED",
+         "CustomerEmail" : "",
+         "CustomerFName" : "Elijah",
+         "CustomerCity" : "Hohne",
+         "CustomerPostCode" : "29362",
+         "CustomerAddress" : "CENSORED",
+         "CustomerPhone" : "0",
+         "CustomerCountry" : ""
+      },
+      {
+         "CustomerLName" : "Walker",
+         "CustomerCompany" : "",
+         "CustomerNote" : "CENSORED",
+         "CustomerEmail" : "",
+         "CustomerFName" : "Emily",
+         "CustomerCity" : "",
+         "CustomerPostCode" : "",
+         "CustomerAddress" : "",
+         "CustomerPhone" : "",
+         "CustomerCountry" : ""
+      }
+   ],
+   "Acknowledged" : false,
+   "OrderDate" : "2018-01-10",
+   "MyallocatorModificationDate" : "2018-01-10",
+   "OrderSource" : "Hotel Reservation Service (HRS 3.0)",
+   "EndDate" : "2018-04-27",
+   "OrderId" : "03070047",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "MyallocatorId" : "aa55f6f5711cbac91aa8b8d62",
+   "OrderChildren" : 1,
+   "TotalPrice" : "75.00",
+   "MyallocatorCreationDate" : "2018-01-10",
+   "OrderAdults" : 2,
+   "IsModification" : false,
+   "MyallocatorModificationTime" : "09:38:23",
+   "PropertyId" : "4962",
+   "StartDate" : "2018-04-27",
+   "MyallocatorCreationTime" : "09:38:23",
+   "MarkedAsRead" : false,
+   "OrderModifTime" : null,
+   "Channel" : "ct",
+   "TotalCurrency" : "EUR",
+   "OrderModifDate" : null,
+   "Rooms" : [
+      {
+         "EndDate" : "2018-04-27",
+         "RoomTypeIds" : [
+            10975
+         ],
+         "Price" : "75.00",
+         "RoomDesc" : "Doppelzimmer",
+         "Currency" : "EUR",
+         "Units" : "1",
+         "StartDate" : "2018-04-27",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "387866"
+      }
+   ],
+   "OrderSourceId" : "196948418"
+}

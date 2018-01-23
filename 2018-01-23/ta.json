@@ -1,0 +1,73 @@
+{
+   "OrderTime" : "02:40:55",
+   "DepositCurrency" : "USD",
+   "Deposit" : 0,
+   "Customers" : [
+      {
+         "CustomerLName" : "Taylor",
+         "CustomerFName" : "Benjamin",
+         "CustomerNote" : "",
+         "CustomerPhone" : "5597558852",
+         "CustomerEmail" : "benjamin.taylor@gmx.com",
+         "CustomerCountry" : "US"
+      }
+   ],
+   "Acknowledged" : false,
+   "OrderDate" : "2018-01-23",
+   "TotalTaxesCurrency" : "USD",
+   "MyallocatorModificationDate" : "2018-01-23",
+   "EndDate" : "2018-01-25",
+   "OrderId" : "2mr88ozht6rmd8gl2ogra0",
+   "IsCancellation" : false,
+   "MyallocatorCreditCardDetailsPresent" : true,
+   "Version" : 0,
+   "MyallocatorId" : "9a4727f5c6330dfaba54de6ef",
+   "ma_callback_qbid" : 10341243,
+   "OrderChildren" : 0,
+   "TotalPrice" : "223.99",
+   "MyallocatorCreationDate" : "2018-01-23",
+   "OrderAdults" : 2,
+   "IsModification" : false,
+   "MyallocatorModificationTime" : "02:40:56",
+   "BalanceCurrency" : "USD",
+   "OrderCustomers" : 2,
+   "PropertyId" : "026",
+   "Balance" : 223.99,
+   "StartDate" : "2018-01-25",
+   "MyallocatorCreationTime" : "02:40:56",
+   "MarkedAsRead" : false,
+   "Channel" : "ta",
+   "TotalCurrency" : "USD",
+   "TotalTaxes" : 24,
+   "Rooms" : [
+      {
+         "Children" : 0,
+         "DayRates" : [
+            {
+               "Currency" : "USD",
+               "Tax" : 24,
+               "Description" : null,
+               "Date" : "2018-01-25",
+               "Rate" : 223.99
+            }
+         ],
+         "OccupantLName" : "Taylor",
+         "Units" : "1",
+         "Adults" : 2,
+         "Occupancy" : 2,
+         "StartDate" : "2018-01-25",
+         "EndDate" : "2018-01-25",
+         "OccupantFName" : "Benjamin",
+         "RoomTypeIds" : [
+            1740
+         ],
+         "RateDesc" : "",
+         "Price" : 223.99,
+         "RateId" : "",
+         "Currency" : "USD",
+         "Policy" : "Cancellation policy: 72 hours before arrival date.\nRefund policy: None",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "8591"
+      }
+   ]
+}

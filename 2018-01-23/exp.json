@@ -1,0 +1,103 @@
+{
+   "OrderTime" : "11:57:00",
+   "Customers" : [
+      {
+         "CustomerLName" : "Abeln",
+         "CustomerFName" : "Olivia",
+         "CustomerNote" : "",
+         "CustomerPhone" : "137636924449413",
+         "CustomerSmoker" : false
+      }
+   ],
+   "Acknowledged" : false,
+   "TotalTaxesCurrency" : "JPY",
+   "OrderDate" : "2018-01-23",
+   "MyallocatorModificationDate" : "2018-01-23",
+   "PaymentCollect" : "Channel",
+   "OrderSource" : "Expedia",
+   "ChannelSpecific" : {
+      "PaymentType" : "Expedia Collect Booking"
+   },
+   "EndDate" : "2018-01-29",
+   "OrderId" : "694521273",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "MyallocatorId" : "851f0646065f6884b0509a32d",
+   "ma_callback_qbid" : 10353997,
+   "TotalPrice" : "7203.00",
+   "MyallocatorCreationDate" : "2018-01-23",
+   "OrderAdults" : 1,
+   "IsModification" : false,
+   "MyallocatorModificationTime" : "11:57:08",
+   "PropertyId" : "54774",
+   "StartDate" : "2018-01-25",
+   "MyallocatorCreationTime" : "11:57:08",
+   "MarkedAsRead" : false,
+   "Channel" : "exp",
+   "TotalCurrency" : "JPY",
+   "TotalTaxes" : "1140",
+   "ExtraServices" : [
+      {
+         "EndDate" : "2018-01-29",
+         "Units" : 1,
+         "StartDate" : "2018-01-25",
+         "Description" : "          3  "
+      }
+   ],
+   "Rooms" : [
+      {
+         "EndDate" : "2018-01-29",
+         "RoomTypeIds" : [
+            59890
+         ],
+         "RateId" : "207518311",
+         "RateDesc" : "Room Only - Derived S (Shared Dormitory, Mixed Dorm)",
+         "Price" : "7203",
+         "DayRates" : [
+            {
+               "Currency" : "JPY",
+               "RateId" : "207518311",
+               "Description" : "Room Only - Derived S (Shared Dormitory, Mixed Dorm)",
+               "Date" : "2018-01-25",
+               "Rate" : "1186"
+            },
+            {
+               "Currency" : "JPY",
+               "RateId" : "207518311",
+               "Date" : "2018-01-26",
+               "Rate" : "1186",
+               "Description" : "Room Only - Derived S (Shared Dormitory, Mixed Dorm)"
+            },
+            {
+               "Currency" : "JPY",
+               "RateId" : "207518311",
+               "Date" : "2018-01-27",
+               "Rate" : "1319",
+               "Description" : "Room Only - Derived S (Shared Dormitory, Mixed Dorm)"
+            },
+            {
+               "Currency" : "JPY",
+               "RateId" : "207518311",
+               "Description" : "Room Only - Derived S (Shared Dormitory, Mixed Dorm)",
+               "Rate" : "1186",
+               "Date" : "2018-01-28"
+            },
+            {
+               "Currency" : "JPY",
+               "RateId" : "207518311",
+               "Date" : "2018-01-29",
+               "Rate" : "1186",
+               "Description" : "Room Only - Derived S (Shared Dormitory, Mixed Dorm)"
+            }
+         ],
+         "RoomDesc" : "1 Bed in a 6 Bed Mix Dormitory (Shared Dormitory, Mixed Dorm)",
+         "Currency" : "JPY",
+         "Units" : "1",
+         "Adults" : 1,
+         "PromotionDesc" : "mobile 10  off",
+         "StartDate" : "2018-01-25",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "332304208"
+      }
+   ]
+}

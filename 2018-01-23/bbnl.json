@@ -1,0 +1,45 @@
+{
+   "OrderTime" : "17:47:12",
+   "Customers" : [
+      {
+         "CustomerLName" : "Davis",
+         "CustomerFName" : "Mason",
+         "CustomerNote" : "",
+         "CustomerPhone" : "1079757747620",
+         "CustomerEmail" : "mason.davis@inbox.com",
+         "CustomerCountry" : "Netherlands"
+      }
+   ],
+   "Acknowledged" : false,
+   "OrderDate" : "2018-01-15",
+   "MyallocatorModificationDate" : "2018-01-15",
+   "EndDate" : "2018-06-15",
+   "OrderId" : "0922094",
+   "IsCancellation" : false,
+   "Version" : 1,
+   "MyallocatorId" : "fb492acc7f6aba811b868f620",
+   "TotalPrice" : "480.00",
+   "MyallocatorCreationDate" : "2018-01-15",
+   "IsModification" : true,
+   "MyallocatorModificationTime" : "22:59:36",
+   "PropertyId" : "72845",
+   "StartDate" : "2018-06-11",
+   "MyallocatorCreationTime" : "16:49:18",
+   "MarkedAsRead" : false,
+   "Channel" : "bbnl",
+   "TotalCurrency" : "EUR",
+   "Rooms" : [
+      {
+         "EndDate" : "2018-06-15",
+         "RoomTypeIds" : [
+            91753
+         ],
+         "Price" : "480.00",
+         "RoomDesc" : "Ground Floor Apartment",
+         "Units" : "1",
+         "StartDate" : "2018-06-11",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "62708"
+      }
+   ]
+}

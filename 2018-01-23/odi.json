@@ -1,0 +1,63 @@
+{
+   "OrderTime" : "21:52:34",
+   "Customers" : [
+      {
+         "CustomerState" : "ES",
+         "CustomerLName" : "Young",
+         "CustomerNote" : "",
+         "CustomerEmail" : "harper.young@gmx.com",
+         "CustomerFName" : "Harper",
+         "CustomerPostCode" : "03130",
+         "CustomerCity" : "Alicante",
+         "CustomerAddress" : "CENSORED",
+         "CustomerPhone" : "113613009114",
+         "CustomerCountry" : "ES"
+      },
+      {
+         "CustomerFName" : "Noah",
+         "CustomerLName" : "Smith",
+         "CustomerNote" : "",
+         "CustomerPhone" : "",
+         "CustomerEmail" : ""
+      }
+   ],
+   "Acknowledged" : false,
+   "OrderDate" : "2018-01-22",
+   "MyallocatorModificationDate" : "2018-01-22",
+   "EndDate" : "2018-02-28",
+   "OrderId" : "8cb27e1569c0aa8d",
+   "IsCancellation" : false,
+   "MyallocatorCreditCardDetailsPresent" : true,
+   "Version" : 0,
+   "MyallocatorId" : "a3b9527bb42ebb410d74efc2e",
+   "OrderChildren" : 2,
+   "ma_callback_qbid" : 10328623,
+   "TotalPrice" : "94.50",
+   "MyallocatorCreationDate" : "2018-01-22",
+   "IsModification" : false,
+   "MyallocatorModificationTime" : "21:53:32",
+   "OrderCustomers" : 2,
+   "PropertyId" : "16792",
+   "StartDate" : "2018-02-26",
+   "MyallocatorCreationTime" : "21:53:32",
+   "MarkedAsRead" : false,
+   "Channel" : "odi",
+   "TotalCurrency" : "EUR",
+   "Rooms" : [
+      {
+         "EndDate" : "2018-02-28",
+         "RoomTypeIds" : [
+            118205,
+            118220
+         ],
+         "RoomDesc" : "Matrimoniale/doppia",
+         "Price" : "94.50",
+         "Currency" : "EUR",
+         "Units" : "1",
+         "Adults" : "2",
+         "StartDate" : "2018-02-26",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "nwk9ldv15ng46ud0"
+      }
+   ]
+}

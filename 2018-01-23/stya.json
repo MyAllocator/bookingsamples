@@ -1,0 +1,74 @@
+{
+   "OrderTime" : "15:44:15",
+   "Customers" : [
+      {
+         "CustomerLName" : "Wilson",
+         "CustomerCompany" : "",
+         "CustomerNote" : "",
+         "CustomerEmail" : "james.wilson@yahoo.com",
+         "CustomerFName" : "James",
+         "CustomerPostCode" : "28195",
+         "CustomerCity" : "Bremen",
+         "CustomerAddress" : "CENSORED",
+         "CustomerPhone" : "",
+         "CustomerCountry" : ""
+      }
+   ],
+   "Acknowledged" : false,
+   "OrderDate" : "2018-01-22",
+   "MyallocatorModificationDate" : "2018-01-22",
+   "PaymentCollect" : "Property",
+   "OrderId" : "41",
+   "EndDate" : "2018-06-02",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "MyallocatorId" : "b19ca30aa14587c2a98a2dc97",
+   "TotalPrice" : "144.20",
+   "CommissionCurrency" : "EUR",
+   "MyallocatorCreationDate" : "2018-01-22",
+   "IsModification" : false,
+   "MyallocatorModificationTime" : "15:24:47",
+   "PropertyId" : "36850",
+   "StartDate" : "2018-06-01",
+   "MyallocatorCreationTime" : "15:24:47",
+   "MarkedAsRead" : false,
+   "Channel" : "stya",
+   "Commission" : "0.72",
+   "TotalCurrency" : "EUR",
+   "Rooms" : [
+      {
+         "DayRates" : [
+            {
+               "Currency" : "EUR",
+               "RateId" : "51",
+               "Rate" : "72.1",
+               "Date" : "2018-06-01",
+               "Description" : "\u00dcbernachtung"
+            },
+            {
+               "Currency" : "EUR",
+               "RateId" : "51",
+               "Rate" : "72.1",
+               "Date" : "2018-06-02",
+               "Description" : "\u00dcbernachtung"
+            }
+         ],
+         "OccupantLName" : "Wilson",
+         "Units" : "1",
+         "StartDate" : "2018-06-01",
+         "EndDate" : "2018-06-02",
+         "RoomTypeIds" : [
+            83779
+         ],
+         "RateDesc" : "\u00dcbernachtung",
+         "Price" : "144.20",
+         "RateId" : "51",
+         "RoomDesc" : "Doppelzimmer",
+         "Currency" : "EUR",
+         "OccupantNote" : "",
+         "Policy" : "",
+         "ChannelRoomType" : "22",
+         "MyallocatorRateplanIds" : []
+      }
+   ]
+}

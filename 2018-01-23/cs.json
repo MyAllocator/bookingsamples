@@ -1,0 +1,48 @@
+{
+   "OrderTime" : "19:31:12",
+   "Customers" : [
+      {
+         "CustomerLName" : "Garcia",
+         "CustomerCompany" : "",
+         "CustomerNote" : "CENSORED",
+         "CustomerEmail" : "abigail.garcia@gmx.com",
+         "CustomerFName" : "Abigail",
+         "CustomerCity" : "Oakville",
+         "CustomerPostCode" : "L6M 0A5",
+         "CustomerAddress" : "CENSORED",
+         "CustomerPhone" : "196845019535",
+         "CustomerCountry" : "CA"
+      }
+   ],
+   "Acknowledged" : false,
+   "OrderDate" : "2018-01-19",
+   "MyallocatorModificationDate" : "2018-01-19",
+   "EndDate" : "2018-03-04",
+   "OrderId" : "860926",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "MyallocatorId" : "550e65b03078b1d674c48a1d4",
+   "TotalPrice" : "3790.30",
+   "MyallocatorCreationDate" : "2018-01-19",
+   "IsModification" : false,
+   "MyallocatorModificationTime" : "19:37:33",
+   "PropertyId" : "63605",
+   "StartDate" : "2018-03-02",
+   "MyallocatorCreationTime" : "19:37:33",
+   "MarkedAsRead" : false,
+   "Channel" : "cs",
+   "TotalCurrency" : "CAD",
+   "Rooms" : [
+      {
+         "EndDate" : "2018-03-04",
+         "RoomTypeIds" : [
+            97553
+         ],
+         "RoomDesc" : "51 Mountain St, The Yellow Mountains, Toronto- Ski Lifts Are Now OPEN",
+         "Units" : "1",
+         "StartDate" : "2018-03-02",
+         "ChannelRoomType" : "383570",
+         "MyallocatorRateplanIds" : []
+      }
+   ]
+}

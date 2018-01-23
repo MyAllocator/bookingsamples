@@ -1,0 +1,52 @@
+{
+   "OrderTime" : "17:17:13",
+   "Customers" : [
+      {
+         "CustomerLName" : "Brown",
+         "CustomerNote" : ""
+      }
+   ],
+   "Acknowledged" : true,
+   "OrderDate" : "2018-01-23",
+   "MyallocatorModificationDate" : "2018-01-23",
+   "OrderSource" : "Goibibo",
+   "PaymentCollect" : "Channel",
+   "EndDate" : "2018-01-27",
+   "OrderId" : "4872803065",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "MyallocatorId" : "27edbec0b7aed945b6ab2647f",
+   "TotalPrice" : "799.00",
+   "MyallocatorCreationDate" : "2018-01-23",
+   "OrderAdults" : 1,
+   "IsModification" : false,
+   "MyallocatorModificationTime" : "11:48:33",
+   "PropertyId" : "9937",
+   "StartDate" : "2018-01-27",
+   "MyallocatorCreationTime" : "11:48:33",
+   "MarkedAsRead" : false,
+   "Channel" : "goi",
+   "TotalCurrency" : "INR",
+   "ExtraServices" : [
+      {
+         "Units" : 1,
+         "Description" : "Accommodation"
+      }
+   ],
+   "Rooms" : [
+      {
+         "EndDate" : "2018-01-27",
+         "RoomTypeIds" : [
+            43319
+         ],
+         "RateDesc" : "Bed only",
+         "RateId" : "990000140244",
+         "RoomDesc" : "AC 6 Bed Female Dormatory",
+         "Currency" : "INR",
+         "Units" : "1",
+         "StartDate" : "2018-01-27",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "80616948445"
+      }
+   ]
+}

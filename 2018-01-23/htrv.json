@@ -1,0 +1,74 @@
+{
+   "OrderTime" : "08:22:33",
+   "Customers" : [
+      {
+         "CustomerLName" : "Cain",
+         "CustomerNote" : "",
+         "CustomerEmail" : "liam.cain@lycos.com",
+         "CustomerFName" : "Liam",
+         "CustomerCity" : "Phuket ",
+         "CustomerAddress" : "CENSORED",
+         "CustomerPhone" : "8832425390",
+         "CustomerCountry" : "TH"
+      },
+      {
+         "CustomerLName" : "Abeln",
+         "CustomerNote" : "",
+         "CustomerEmail" : "olivia.abeln@zoho.com",
+         "CustomerFName" : "Olivia",
+         "CustomerCity" : "Phuket ",
+         "CustomerAddress" : "CENSORED",
+         "CustomerPhone" : "8696691779",
+         "CustomerCountry" : "TH"
+      }
+   ],
+   "Acknowledged" : false,
+   "OrderDate" : "2017-09-20",
+   "MyallocatorModificationDate" : "2017-09-20",
+   "EndDate" : "2017-09-20",
+   "OrderId" : "5921242",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "CommissionIncludedInTotal" : true,
+   "MyallocatorId" : "7675993606f1212330fce05bc",
+   "CommissionCurrency" : "USD",
+   "TotalPrice" : "41.04",
+   "MyallocatorCreationDate" : "2017-09-20",
+   "IsModification" : false,
+   "MyallocatorModificationTime" : "02:56:43",
+   "PropertyId" : "06229",
+   "StartDate" : "2017-09-20",
+   "MyallocatorCreationTime" : "02:56:43",
+   "MarkedAsRead" : true,
+   "Channel" : "htrv",
+   "Commission" : 7.24,
+   "TotalCurrency" : "USD",
+   "Rooms" : [
+      {
+         "DayRates" : [
+            {
+               "Currency" : "USD",
+               "Description" : null,
+               "Date" : "2017-09-20",
+               "Rate" : "41.04"
+            }
+         ],
+         "OccupantLName" : "Cain, Abeln",
+         "Units" : "1",
+         "Adults" : 2,
+         "StartDate" : "2017-09-20",
+         "EndDate" : "2017-09-20",
+         "OccupantFName" : "Liam, Olivia",
+         "RoomTypeIds" : [
+            67006
+         ],
+         "RateId" : "",
+         "RateDesc" : "",
+         "RoomDesc" : "Deluxe Double Room",
+         "Price" : "41.04",
+         "Currency" : "USD",
+         "ChannelRoomType" : "012987",
+         "MyallocatorRateplanIds" : []
+      }
+   ]
+}

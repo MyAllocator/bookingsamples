@@ -1,0 +1,69 @@
+{
+   "OrderTime" : "13:33:58",
+   "Customers" : [
+      {
+         "CustomerLName" : "White",
+         "CustomerCompany" : "",
+         "CustomerNote" : "",
+         "CustomerEmail" : "charlotte.white@lycos.com",
+         "CustomerFName" : "Charlotte",
+         "CustomerPostCode" : "",
+         "CustomerCity" : "Toulon France",
+         "CustomerAddress" : "",
+         "CustomerArrivalTime" : "22:00:00",
+         "CustomerPhone" : "089592676302817",
+         "CustomerCountry" : "FR"
+      }
+   ],
+   "Acknowledged" : false,
+   "OrderDate" : "2018-01-23",
+   "MyallocatorModificationDate" : "2018-01-23",
+   "EndDate" : "2018-01-25",
+   "OrderId" : "avzjrbobwe0db7",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "MyallocatorId" : "fb59f05cee027ed42e2f682be",
+   "CommissionCurrency" : "EUR",
+   "TotalPrice" : "480.00",
+   "MyallocatorCreationDate" : "2018-01-23",
+   "IsModification" : false,
+   "MyallocatorModificationTime" : "11:56:47",
+   "PropertyId" : "2317",
+   "StartDate" : "2018-01-24",
+   "MyallocatorCreationTime" : "11:56:47",
+   "MarkedAsRead" : false,
+   "Channel" : "max",
+   "Commission" : "1.50",
+   "TotalCurrency" : "EGP",
+   "Rooms" : [
+      {
+         "EndDate" : "2018-01-25",
+         "RoomTypeIds" : [
+            23593
+         ],
+         "RateDesc" : "",
+         "RateId" : "",
+         "DayRates" : [
+            {
+               "Currency" : "EGP",
+               "Rate" : "240.00",
+               "Date" : "2018-01-24",
+               "Description" : null
+            },
+            {
+               "Currency" : "EGP",
+               "Description" : null,
+               "Date" : "2018-01-25",
+               "Rate" : "240.00"
+            }
+         ],
+         "Price" : "480.00",
+         "RoomDesc" : "Deluxe Double Room; Ensuite with A/C",
+         "Currency" : "EGP",
+         "Units" : "1",
+         "StartDate" : "2018-01-24",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "8067"
+      }
+   ]
+}

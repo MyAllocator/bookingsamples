@@ -1,0 +1,48 @@
+{
+   "Customers" : [
+      {
+         "CustomerFName" : "Emily",
+         "CustomerLName" : "Walker",
+         "CustomerNote" : "",
+         "CustomerPhone" : "08060073291",
+         "CustomerEmail" : "emily.walker@hotmail.com"
+      }
+   ],
+   "Acknowledged" : false,
+   "OrderDate" : "2018-01-16",
+   "TotalTaxesCurrency" : "RUB",
+   "MyallocatorModificationDate" : "2018-01-23",
+   "OrderSource" : "wix",
+   "EndDate" : "2018-08-27",
+   "OrderId" : "1133688163707413",
+   "IsCancellation" : false,
+   "Version" : 1,
+   "MyallocatorId" : "39bd69afb9f51fafadf7ef816",
+   "TotalPrice" : "37867.50",
+   "MyallocatorCreationDate" : "2018-01-16",
+   "IsModification" : true,
+   "MyallocatorModificationTime" : "10:31:40",
+   "PropertyId" : "8241",
+   "StartDate" : "2018-08-17",
+   "MyallocatorCreationTime" : "14:07:39",
+   "MarkedAsRead" : false,
+   "Channel" : "wix",
+   "TotalCurrency" : "RUB",
+   "TotalTaxes" : 0,
+   "Rooms" : [
+      {
+         "EndDate" : "2018-08-27",
+         "RoomTypeIds" : [
+            48930
+         ],
+         "Children" : "0",
+         "RoomDesc" : "\u0422\u0440\u0435\u0445\u043c\u0435\u0441\u0442\u043d\u044b\u0439 \u043d\u043e\u043c\u0435\u0440 \u0441 \u0431\u0430\u043b\u043a\u043e\u043d\u043e\u043c",
+         "Price" : 37867.5,
+         "Adults" : "3",
+         "Units" : "1",
+         "StartDate" : "2018-08-17",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "0zi06wljmglhlpjtdnmd5zenj3gnk7todeq8"
+      }
+   ]
+}

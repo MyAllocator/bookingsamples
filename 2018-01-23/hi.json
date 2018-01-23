@@ -1,0 +1,45 @@
+{
+   "DepositCurrency" : "ISK",
+   "Deposit" : "960.00",
+   "Customers" : [
+      {
+         "CustomerLName" : "Martinez",
+         "CustomerNote" : "",
+         "CustomerEmail" : "martinez@outlook.com",
+         "CustomerCountry" : "USA"
+      }
+   ],
+   "Acknowledged" : false,
+   "OrderDate" : "2018-01-23",
+   "MyallocatorModificationDate" : "2018-01-23",
+   "EndDate" : "2018-05-10",
+   "OrderId" : "2268956927",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "MyallocatorId" : "f2962d9a64af937aab2945e23",
+   "TotalPrice" : "12000.00",
+   "MyallocatorCreationDate" : "2018-01-23",
+   "IsModification" : false,
+   "MyallocatorModificationTime" : "03:17:14",
+   "PropertyId" : "86433",
+   "StartDate" : "2018-05-08",
+   "MyallocatorCreationTime" : "03:17:14",
+   "MarkedAsRead" : false,
+   "Channel" : "hi",
+   "TotalCurrency" : "ISK",
+   "Rooms" : [
+      {
+         "EndDate" : "2018-05-10",
+         "RoomTypeIds" : [
+            57452
+         ],
+         "RoomDesc" : "Coed/Mixed 8-12 Person Dorm - Coed/Mixed Bed",
+         "Price" : "12000",
+         "Currency" : "ISK",
+         "Units" : "1",
+         "StartDate" : "2018-05-08",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "741390"
+      }
+   ]
+}

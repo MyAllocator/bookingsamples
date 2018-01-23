@@ -1,0 +1,77 @@
+{
+   "OrderTime" : "05:46:00",
+   "Customers" : [
+      {
+         "CustomerLName" : "Miller",
+         "CustomerNote" : "",
+         "CustomerAddress" : "CENSORED",
+         "CustomerPhone" : "43292626995701477",
+         "CustomerCountry" : "ES",
+         "CustomerEmail" : "miller@mail.com"
+      }
+   ],
+   "Acknowledged" : false,
+   "OrderDate" : "2018-01-23",
+   "MyallocatorModificationDate" : "2018-01-23",
+   "EndDate" : "2018-01-27",
+   "OrderId" : "akk335lw94",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "MyallocatorId" : "9abab608c36f958b7629b5030",
+   "OrderChildren" : "0",
+   "TotalPrice" : "240.96",
+   "MyallocatorCreationDate" : "2018-01-23",
+   "OrderAdults" : "1",
+   "IsModification" : false,
+   "MyallocatorModificationTime" : "10:47:41",
+   "PropertyId" : "3528",
+   "StartDate" : "2018-01-25",
+   "MyallocatorCreationTime" : "10:47:41",
+   "MarkedAsRead" : false,
+   "Channel" : "bd",
+   "TotalCurrency" : "USD",
+   "Rooms" : [
+      {
+         "DayRates" : [
+            {
+               "Currency" : "USD",
+               "RateId" : "MAYORIST-5!CP",
+               "Date" : "2018-01-25",
+               "Rate" : "77.35",
+               "Description" : "Paquete - Continental Plan"
+            },
+            {
+               "Currency" : "USD",
+               "RateId" : "MAYORIST-5!CP",
+               "Description" : "Paquete - Continental Plan",
+               "Rate" : "81.31",
+               "Date" : "2018-01-26"
+            },
+            {
+               "Currency" : "USD",
+               "RateId" : "MAYORIST-5!CP",
+               "Description" : "Paquete - Continental Plan",
+               "Rate" : "82.30",
+               "Date" : "2018-01-27"
+            }
+         ],
+         "Children" : "0",
+         "OccupantSmoker" : true,
+         "Breakfast" : true,
+         "Units" : "1",
+         "Adults" : "1",
+         "StartDate" : "2018-01-25",
+         "EndDate" : "2018-01-27",
+         "RoomTypeIds" : [
+            53604
+         ],
+         "RateDesc" : "Continental Plan",
+         "RoomDesc" : "Suite Superior Family Plan/Continental Plan",
+         "Price" : null,
+         "RateId" : "CP",
+         "Currency" : "USD",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "FEODW"
+      }
+   ]
+}

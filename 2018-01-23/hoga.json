@@ -1,0 +1,75 @@
+{
+   "OrderTime" : "21:32:11",
+   "DepositCurrency" : "EUR",
+   "Deposit" : "2.59",
+   "Customers" : [
+      {
+         "CustomerLName" : "Young",
+         "CustomerCompany" : "",
+         "CustomerNote" : "",
+         "CustomerEmail" : "harper.young@inbox.com",
+         "CustomerFName" : "Harper",
+         "CustomerPostCode" : "",
+         "CustomerCity" : "Calgary",
+         "CustomerAddress" : "",
+         "CustomerPhone" : "768762742309",
+         "CustomerCountry" : "ca"
+      }
+   ],
+   "Acknowledged" : false,
+   "OrderDate" : "2018-01-19",
+   "MyallocatorModificationDate" : "2018-01-19",
+   "OrderId" : "t9enwwn8itovdnsaop602p86h2v6ubr5qhn9",
+   "EndDate" : "2018-01-24",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "MyallocatorId" : "e978ef880bc7651b91ea7b234",
+   "TotalPrice" : "25.94",
+   "MyallocatorCreationDate" : "2018-01-19",
+   "IsModification" : false,
+   "MyallocatorModificationTime" : "20:32:02",
+   "BalanceCurrency" : "EUR",
+   "PropertyId" : "9752",
+   "Balance" : "23.35",
+   "StartDate" : "2018-01-22",
+   "MyallocatorCreationTime" : "20:32:02",
+   "MarkedAsRead" : true,
+   "Channel" : "hoga",
+   "TotalCurrency" : "EUR",
+   "Rooms" : [
+      {
+         "EndDate" : "2018-01-24",
+         "RoomTypeIds" : [
+            37475
+         ],
+         "DayRates" : [
+            {
+               "Currency" : "EUR",
+               "Description" : null,
+               "Rate" : "9.98",
+               "Date" : "2018-01-22"
+            },
+            {
+               "Currency" : "EUR",
+               "Date" : "2018-01-23",
+               "Rate" : "7.98",
+               "Description" : null
+            },
+            {
+               "Currency" : "EUR",
+               "Date" : "2018-01-24",
+               "Description" : null,
+               "Rate" : "7.98"
+            }
+         ],
+         "RoomDesc" : "10 Bed Mixed Dorm Room - 3 bed Mixed Dorm (5BB) (3 bed Mixed Dorm (5BB))",
+         "Price" : "25.94",
+         "RateDesc" : "",
+         "RateId" : "",
+         "Units" : "1",
+         "StartDate" : "2018-01-22",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "z9mg8l33waxlelj1xdk2veabumr280zj19ck"
+      }
+   ]
+}

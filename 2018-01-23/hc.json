@@ -1,0 +1,106 @@
+{
+   "OrderTime" : "04:30:18+00:00",
+   "DepositCurrency" : "EUR",
+   "Deposit" : "11.44",
+   "Customers" : [
+      {
+         "CustomerLName" : "Jackson",
+         "CustomerFName" : "Jacob",
+         "CustomerNote" : "",
+         "CustomerArrivalTime" : "14:00",
+         "CustomerPhone" : "22139765692",
+         "CustomerEmail" : "jacob.jackson@zoho.com",
+         "CustomerCountry" : "CR"
+      }
+   ],
+   "Acknowledged" : false,
+   "OrderDate" : "2018-01-23",
+   "MyallocatorModificationDate" : "2018-01-23",
+   "EndDate" : "2018-02-15",
+   "OrderId" : "3819554",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "CommissionIncludedInTotal" : true,
+   "MyallocatorId" : "2b1ebafb5e75fc499e04b9c01",
+   "CommissionCurrency" : "EUR",
+   "TotalPrice" : "116.40",
+   "MyallocatorCreationDate" : "2018-01-23",
+   "IsModification" : false,
+   "MyallocatorModificationTime" : "04:30:23",
+   "BalanceCurrency" : "EUR",
+   "PropertyId" : "39741",
+   "Balance" : "102.96",
+   "StartDate" : "2018-02-11",
+   "MyallocatorCreationTime" : "04:30:23",
+   "MarkedAsRead" : false,
+   "Channel" : "hc",
+   "Commission" : 2,
+   "TotalCurrency" : "EUR",
+   "Rooms" : [
+      {
+         "EndDate" : "2018-02-11",
+         "RoomTypeIds" : [
+            85528
+         ],
+         "Price" : "31.20",
+         "RoomDesc" : "Single Room 1",
+         "Currency" : null,
+         "Units" : 1,
+         "StartDate" : "2018-02-11",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "27pzt"
+      },
+      {
+         "EndDate" : "2018-02-12",
+         "RoomTypeIds" : [
+            85528
+         ],
+         "RoomDesc" : "Single Room 1",
+         "Price" : "20.80",
+         "Currency" : null,
+         "Units" : 1,
+         "StartDate" : "2018-02-12",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "to8wn"
+      },
+      {
+         "EndDate" : "2018-02-13",
+         "RoomTypeIds" : [
+            85528
+         ],
+         "RoomDesc" : "Single Room 1",
+         "Price" : "20.80",
+         "Currency" : null,
+         "Units" : 1,
+         "StartDate" : "2018-02-13",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "jimw0"
+      },
+      {
+         "EndDate" : "2018-02-14",
+         "RoomTypeIds" : [
+            85528
+         ],
+         "Price" : "20.80",
+         "RoomDesc" : "Single Room 1",
+         "Currency" : null,
+         "Units" : 1,
+         "StartDate" : "2018-02-14",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "jaz69"
+      },
+      {
+         "EndDate" : "2018-02-15",
+         "RoomTypeIds" : [
+            85528
+         ],
+         "Price" : "20.80",
+         "RoomDesc" : "Single Room 1",
+         "Currency" : null,
+         "Units" : 1,
+         "StartDate" : "2018-02-15",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "81hyk"
+      }
+   ]
+}

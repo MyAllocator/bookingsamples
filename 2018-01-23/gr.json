@@ -1,0 +1,88 @@
+{
+   "OrderTime" : "00:30:47",
+   "DepositCurrency" : "GBP",
+   "Deposit" : "42.75",
+   "Customers" : [
+      {
+         "CustomerLName" : "Miller",
+         "CustomerCompany" : "",
+         "CustomerNote" : "",
+         "CustomerEmail" : "sophia.miller@aol.com",
+         "CustomerFName" : "Sophia",
+         "CustomerCity" : "",
+         "CustomerPostCode" : "",
+         "CustomerAddress" : "",
+         "CustomerPhone" : "0216321063",
+         "CustomerCountry" : "FR"
+      }
+   ],
+   "Acknowledged" : false,
+   "OrderDate" : "2018-01-23",
+   "MyallocatorModificationDate" : "2018-01-22",
+   "EndDate" : "2018-02-04",
+   "OrderId" : "7l5fw7qhm0zkrb",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "MyallocatorId" : "5334d4e242e397b217244ccde",
+   "TotalPrice" : "285.00",
+   "CommissionCurrency" : "GBP",
+   "MyallocatorCreationDate" : "2018-01-22",
+   "IsModification" : false,
+   "MyallocatorModificationTime" : "23:30:50",
+   "BalanceCurrency" : "GBP",
+   "PropertyId" : "17215",
+   "Balance" : "242.25",
+   "StartDate" : "2018-02-01",
+   "MyallocatorCreationTime" : "23:30:50",
+   "MarkedAsRead" : false,
+   "Channel" : "gr",
+   "Commission" : "42.75",
+   "TotalCurrency" : "GBP",
+   "Rooms" : [
+      {
+         "EndDate" : "2018-02-04",
+         "RoomTypeIds" : [
+            68292
+         ],
+         "Price" : 285,
+         "RoomDesc" : "6 bed dorm - Mixed - Standard - Shared bathroom (Shared hot shower)",
+         "RateDesc" : "",
+         "DayRates" : [
+            {
+               "Currency" : "GBP",
+               "RateId" : "6965",
+               "Description" : "Standard",
+               "Date" : "2018-02-01",
+               "Rate" : "23.00"
+            },
+            {
+               "Currency" : "GBP",
+               "RateId" : "6965",
+               "Date" : "2018-02-02",
+               "Description" : "Standard",
+               "Rate" : "25.00"
+            },
+            {
+               "Currency" : "GBP",
+               "RateId" : "6965",
+               "Description" : "Standard",
+               "Date" : "2018-02-03",
+               "Rate" : "25.00"
+            },
+            {
+               "Currency" : "GBP",
+               "RateId" : "6965",
+               "Description" : "Standard",
+               "Date" : "2018-02-04",
+               "Rate" : "22.00"
+            }
+         ],
+         "RateId" : "6965",
+         "Currency" : "GBP",
+         "Units" : "3",
+         "StartDate" : "2018-02-01",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "6102"
+      }
+   ]
+}

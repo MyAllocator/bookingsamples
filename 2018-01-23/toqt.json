@@ -1,0 +1,71 @@
+{
+   "OrderVersion" : 1,
+   "OrderTime" : "19:31:00",
+   "Customers" : [
+      {
+         "CustomerLName" : "Harris",
+         "CustomerCompany" : "",
+         "CustomerNote" : "",
+         "CustomerEmail" : "michael.harris@hushmail.com",
+         "CustomerFName" : "Michael",
+         "CustomerPostCode" : "",
+         "CustomerCity" : "",
+         "CustomerNationality" : "",
+         "CustomerAddress" : "",
+         "CustomerPhone" : "2220259988929",
+         "CustomerCountry" : ""
+      }
+   ],
+   "Acknowledged" : false,
+   "OrderDate" : "2017-11-25",
+   "MyallocatorModificationDate" : "2017-11-25",
+   "EndDate" : "2017-11-27",
+   "OrderId" : "rz5qig6tg",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "MyallocatorId" : "5252f47892d86e3c3384d444d",
+   "ma_callback_qbid" : 8306228,
+   "TotalPrice" : "1000.00",
+   "MyallocatorCreationDate" : "2017-11-25",
+   "OrderAdults" : "1",
+   "IsModification" : true,
+   "MyallocatorModificationTime" : "16:32:17",
+   "PropertyId" : "25078",
+   "StartDate" : "2017-11-25",
+   "MyallocatorCreationTime" : "16:32:17",
+   "MarkedAsRead" : false,
+   "Channel" : "toqt",
+   "TotalCurrency" : "SAR",
+   "Rooms" : [
+      {
+         "EndDate" : "2017-11-27",
+         "RoomTypeIds" : [
+            114259
+         ],
+         "RateId" : "1",
+         "Price" : "1000.0000",
+         "RoomDesc" : " Suite",
+         "DayRates" : [
+            {
+               "Currency" : "SAR",
+               "Rate" : "100",
+               "Date" : "2017-11-25",
+               "Description" : "Room"
+            },
+            {
+               "Currency" : "SAR",
+               "Rate" : "100",
+               "Date" : "2017-11-26",
+               "Description" : "Room"
+            }
+         ],
+         "RateDesc" : "",
+         "Currency" : "SAR",
+         "Policy" : "\u0627\u0644\u063a\u0627\u0621 \u0645\u062c\u0627\u0646\u064a",
+         "Units" : "5",
+         "StartDate" : "2017-11-25",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "5329"
+      }
+   ]
+}

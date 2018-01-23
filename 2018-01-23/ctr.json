@@ -1,0 +1,67 @@
+{
+   "Customers" : [
+      {
+         "CustomerFName" : "Ethan",
+         "CustomerLName" : "Hall",
+         "CustomerNote" : "CENSORED"
+      }
+   ],
+   "Acknowledged" : false,
+   "MyallocatorModificationDate" : "2018-01-23",
+   "EndDate" : "2018-02-13",
+   "OrderId" : "5544946247",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "MyallocatorId" : "61b3d93b28ab27772f1013e14",
+   "ma_callback_qbid" : 10353907,
+   "TotalPrice" : "9520.00",
+   "MyallocatorCreationDate" : "2018-01-23",
+   "IsModification" : false,
+   "MyallocatorModificationTime" : "11:53:34",
+   "PropertyId" : "95622",
+   "StartDate" : "2018-02-10",
+   "MyallocatorCreationTime" : "11:53:34",
+   "MarkedAsRead" : false,
+   "Channel" : "ctr",
+   "TotalCurrency" : "THB",
+   "Rooms" : [
+      {
+         "EndDate" : "2018-02-13",
+         "RoomTypeIds" : [
+            105617
+         ],
+         "DayRates" : [
+            {
+               "Currency" : "THB",
+               "Rate" : "2380.00",
+               "Date" : "2018-02-10",
+               "Description" : null
+            },
+            {
+               "Currency" : "THB",
+               "Rate" : "2380.00",
+               "Date" : "2018-02-11",
+               "Description" : null
+            },
+            {
+               "Currency" : "THB",
+               "Date" : "2018-02-12",
+               "Description" : null,
+               "Rate" : "2380.00"
+            },
+            {
+               "Currency" : "THB",
+               "Rate" : "2380.00",
+               "Date" : "2018-02-13",
+               "Description" : null
+            }
+         ],
+         "RoomDesc" : "Deluxe  King Room(pre-pay)[with breakfast]",
+         "RateDesc" : "Deluxe  King Room(pre-pay)[with breakfast]",
+         "Units" : "1",
+         "StartDate" : "2018-02-10",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "019830938"
+      }
+   ]
+}
