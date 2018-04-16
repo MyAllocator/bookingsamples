@@ -1,0 +1,68 @@
+{
+   "TotalPrice" : "54.94",
+   "MyallocatorModificationTime" : "18:44:45",
+   "StartDate" : "2018-06-02",
+   "Customers" : [
+      {
+         "CustomerEmail" : "william.williams@lycos.com",
+         "CustomerFName" : "William",
+         "CustomerLName" : "Williams",
+         "CustomerNote" : "",
+         "CustomerCountry" : "IE"
+      }
+   ],
+   "TotalCurrency" : "USD",
+   "Channel" : "pool",
+   "IsCancellation" : false,
+   "Rooms" : [
+      {
+         "MyallocatorRateplanIds" : [],
+         "EndDate" : "2018-06-05",
+         "RoomDesc" : "10 BED MIXED DORM EN-SUITE",
+         "Price" : null,
+         "RoomTypeIds" : [
+            126900
+         ],
+         "DayRates" : [
+            {
+               "Rate" : "NaN",
+               "Description" : "Refundable Rate",
+               "Date" : "rate"
+            },
+            {
+               "Rate" : "NaN",
+               "Description" : "Refundable Rate",
+               "Date" : "rate"
+            },
+            {
+               "Date" : "rate",
+               "Description" : "Refundable Rate",
+               "Rate" : "NaN"
+            },
+            {
+               "Rate" : "NaN",
+               "Description" : "Refundable Rate",
+               "Date" : "rate"
+            }
+         ],
+         "RateId" : "",
+         "Units" : "1",
+         "RateDesc" : "",
+         "ChannelRoomType" : "59",
+         "StartDate" : "2018-06-02",
+         "Currency" : "USD"
+      }
+   ],
+   "MyallocatorId" : "6cd5630a42241f0d5f961bf96",
+   "MarkedAsRead" : false,
+   "ma_callback_qbid" : 14726374,
+   "MyallocatorCreationDate" : "2018-04-06",
+   "OrderId" : "661",
+   "Acknowledged" : false,
+   "MyallocatorCreationTime" : "18:44:45",
+   "IsModification" : false,
+   "Version" : 0,
+   "PropertyId" : "95110",
+   "MyallocatorModificationDate" : "2018-04-06",
+   "EndDate" : "2018-06-05"
+}

@@ -1,0 +1,35 @@
+{
+   "Rooms" : [
+      {
+         "ChannelRoomType" : "https://www.homeaway.com/CENSORED",
+         "StartDate" : "2018-07-31",
+         "RoomTypeIds" : [
+            111120
+         ],
+         "EndDate" : "2018-08-02",
+         "MyallocatorRateplanIds" : [],
+         "Units" : "1"
+      }
+   ],
+   "MyallocatorCreationDate" : "2018-04-16",
+   "MarkedAsRead" : false,
+   "MyallocatorId" : "0516b012f2bd1d22706458293",
+   "StartDate" : "2018-07-31",
+   "MyallocatorModificationTime" : "05:10:51",
+   "IsCancellation" : false,
+   "Channel" : "vrbo",
+   "Customers" : [
+      {
+         "CustomerLName" : "Martinez",
+         "CustomerNote" : "CENSORED"
+      }
+   ],
+   "MyallocatorModificationDate" : "2018-04-16",
+   "PropertyId" : "74296",
+   "Version" : 0,
+   "EndDate" : "2018-08-02",
+   "Acknowledged" : false,
+   "OrderId" : "35r6xgy91bz743jxealbkv60h0bf4e8qwvs1",
+   "IsModification" : false,
+   "MyallocatorCreationTime" : "05:10:51"
+}

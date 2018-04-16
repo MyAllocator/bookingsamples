@@ -1,0 +1,60 @@
+{
+   "MyallocatorModificationDate" : "2018-04-13",
+   "PropertyId" : "4714",
+   "PaymentCollect" : "Channel",
+   "Version" : 0,
+   "OrderDate" : "2018-04-13",
+   "OrderTime" : "14:28:04",
+   "EndDate" : "2018-04-14",
+   "Acknowledged" : false,
+   "OrderId" : "sfoufi9k94n10mpjg",
+   "IsModification" : false,
+   "MyallocatorCreationTime" : "06:30:03",
+   "Rooms" : [
+      {
+         "RoomDesc" : "\u4e0a\u4e0b\u8216\u623f\u578b\uff0c\u885b\u6d74\u5171\u7528\u3002\r\n\r\n* \u9700\u81ea\u5099\u500b\u4eba\u76e5\u6d17\u7528\u54c1(\u672c\u4f4f\u5bbf\u4e0d\u63d0\u4f9b \" \u7259\u5237\u3001\u7259\u818f\u3001\u6bdb\u5dfe \" \u7b49\u7528\u54c1\u4ee5\u4e0a\u4e09\u9805\u81ea\u884c\u6e96\u5099)\uff0c\u6709\u63d0\u4f9b\u6d17\u9aee\u7cbe\u3001\u6c90\u6d74\u4e73\u3001\u5439\u98a8\u6a5f\u8207\u62d6\u978b\u7b49\u8a2d\u65bd\u3002\r\n\r\n",
+         "Breakfast" : false,
+         "MyallocatorRateplanIds" : [],
+         "DayRates" : [
+            {
+               "Date" : "2018-04-14",
+               "RateId" : "16159",
+               "Rate" : "450",
+               "Description" : "Day Rates"
+            }
+         ],
+         "RateId" : "16159",
+         "Policy" : "Confirmed booking (Remember to make reply on AsiaYo. If already done,please ignore it)",
+         "Occupancy" : 1,
+         "StartDate" : "2018-04-14",
+         "ChannelRoomType" : "80369",
+         "RoomTypeIds" : [
+            49357
+         ],
+         "EndDate" : "2018-04-14",
+         "Adults" : 1,
+         "Units" : "1",
+         "Children" : 0,
+         "RateDesc" : ""
+      }
+   ],
+   "MyallocatorCreationDate" : "2018-04-13",
+   "MarkedAsRead" : true,
+   "MyallocatorId" : "c287580e501162ceaaa5565db",
+   "StartDate" : "2018-04-14",
+   "MyallocatorModificationTime" : "06:30:03",
+   "TotalPrice" : "450.00",
+   "Channel" : "asyo",
+   "IsCancellation" : false,
+   "TotalCurrency" : "TWD",
+   "Customers" : [
+      {
+         "CustomerArrivalTime" : "21:00",
+         "CustomerEmail" : "william.williams@gmx.com",
+         "CustomerLName" : "Williams",
+         "CustomerPhoneMobile" : "+886 911673827",
+         "CustomerFName" : "William",
+         "CustomerNote" : ""
+      }
+   ]
+}

@@ -1,0 +1,37 @@
+{
+   "IsCancellation" : false,
+   "Channel" : "hipc",
+   "Customers" : [
+      {
+         "CustomerEmail" : "hall@aol.com",
+         "CustomerLName" : "Hall",
+         "CustomerNote" : "",
+         "CustomerPhone" : "icc2djgsrdr6j9"
+      }
+   ],
+   "StartDate" : "2018-06-16",
+   "MyallocatorModificationTime" : "21:42:00",
+   "MyallocatorCreationDate" : "2018-04-15",
+   "MyallocatorId" : "8baea3bb1b5cc1f4d8b69cf1a",
+   "MarkedAsRead" : false,
+   "Rooms" : [
+      {
+         "RoomTypeIds" : [
+            97933
+         ],
+         "EndDate" : "2018-06-16",
+         "MyallocatorRateplanIds" : [],
+         "Units" : "1",
+         "ChannelRoomType" : "https://www.hipcamp.com/CENSORED",
+         "StartDate" : "2018-06-16"
+      }
+   ],
+   "IsModification" : false,
+   "MyallocatorCreationTime" : "21:42:00",
+   "Acknowledged" : false,
+   "OrderId" : "93141",
+   "EndDate" : "2018-06-16",
+   "PropertyId" : "10026",
+   "MyallocatorModificationDate" : "2018-04-15",
+   "Version" : 0
+}

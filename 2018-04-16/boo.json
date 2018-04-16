@@ -1,0 +1,69 @@
+{
+   "StartDate" : "2018-04-21",
+   "MyallocatorModificationTime" : "13:17:51",
+   "TotalPrice" : "910.00",
+   "IsCancellation" : false,
+   "Channel" : "boo",
+   "Commission" : "136.5",
+   "TotalCurrency" : "PHP",
+   "Customers" : [
+      {
+         "CustomerCountry" : "ph",
+         "CustomerCompany" : "",
+         "CustomerPostCode" : "",
+         "CustomerLName" : "White",
+         "CustomerPhone" : "157172872587",
+         "CustomerCity" : "",
+         "CustomerAddress" : "",
+         "CustomerNote" : "CENSORED",
+         "CustomerFName" : "Charlotte",
+         "CustomerEmail" : "charlotte.white@yahoo.com"
+      }
+   ],
+   "CommissionCurrency" : "PHP",
+   "Rooms" : [
+      {
+         "RateDesc" : "Standard Rate",
+         "Currency" : "PHP",
+         "Units" : "1",
+         "OccupantSmoker" : false,
+         "EndDate" : "2018-04-21",
+         "RoomTypeIds" : [
+            98512
+         ],
+         "Occupancy" : "2",
+         "OccupantLName" : "White",
+         "StartDate" : "2018-04-21",
+         "ChannelRoomType" : "390433900",
+         "Policy" : "Enjoy a convenient The breakfast at the property for PHP 160 per person, per night.\nEnjoy a convenient Lunch at the property for PHP 250 per person, per night.\nEnjoy a convenient Dinner at the property for PHP 250 per person, per night. Children and Extra Bed Policy: All children are welcome. Up to two children under 12 years are charged  PHP 200 per night when using existing beds. All further older children or adults are charged  PHP 350 per night for extra beds. The maximum number of extra beds in a room is 1.  Deposit Policy: The total price of the reservation may be charged anytime after booking.  Cancellation Policy: If cancelled or modified up to 7 days before date of arrival,  no fee will be charged. If cancelled or modified later or in case of no-show, the total price of the reservation will be charged. \n\nMeal Plan: Enjoy a convenient The breakfast at the property for PHP 160 per person, per night.\nEnjoy a convenient Lunch at the property for PHP 250 per person, per night.\nEnjoy a convenient Dinner at the property for PHP 250 per person, per night.",
+         "RateId" : "10033627",
+         "DayRates" : [
+            {
+               "Date" : "2018-04-21",
+               "RateId" : "10033627",
+               "Currency" : "PHP",
+               "Rate" : "910",
+               "Description" : "Standard Rate"
+            }
+         ],
+         "MyallocatorRateplanIds" : [],
+         "Price" : 910,
+         "RoomDesc" : "Superior Double Room",
+         "OccupantNote" : ""
+      }
+   ],
+   "MyallocatorCreationDate" : "2018-04-16",
+   "MarkedAsRead" : false,
+   "MyallocatorId" : "ca6eb5bb87e0ecf7f82b6b442",
+   "Acknowledged" : false,
+   "OrderId" : "5491042388",
+   "IsModification" : false,
+   "MyallocatorCreationTime" : "13:17:51",
+   "MyallocatorModificationDate" : "2018-04-16",
+   "PropertyId" : "10698",
+   "PaymentCollect" : "Property",
+   "Version" : 0,
+   "OrderDate" : "2018-04-16",
+   "OrderTime" : "15:17:02",
+   "EndDate" : "2018-04-21"
+}

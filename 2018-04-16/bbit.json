@@ -1,0 +1,43 @@
+{
+   "MyallocatorId" : "0cc4914e50243911d3de421da",
+   "MarkedAsRead" : false,
+   "MyallocatorCreationDate" : "2018-04-14",
+   "Rooms" : [
+      {
+         "Currency" : "EUR",
+         "StartDate" : "2018-04-15",
+         "ChannelRoomType" : "93925",
+         "Units" : "1",
+         "Price" : "42.00",
+         "RoomDesc" : "Camera matrioniale 1",
+         "RoomTypeIds" : [
+            135085
+         ],
+         "MyallocatorRateplanIds" : [],
+         "EndDate" : "2018-04-15"
+      }
+   ],
+   "Customers" : [
+      {
+         "CustomerEmail" : "mason.davis@inbox.com",
+         "CustomerFName" : "Mason",
+         "CustomerLName" : "Davis",
+         "CustomerNote" : "",
+         "CustomerPhone" : "5634226943"
+      }
+   ],
+   "IsCancellation" : false,
+   "Channel" : "bbit",
+   "MyallocatorModificationTime" : "12:35:44",
+   "StartDate" : "2018-04-15",
+   "EndDate" : "2018-04-15",
+   "OrderTime" : "14:34:06",
+   "OrderDate" : "2018-04-14",
+   "Version" : 0,
+   "PropertyId" : "67653",
+   "MyallocatorModificationDate" : "2018-04-14",
+   "MyallocatorCreationTime" : "12:35:44",
+   "IsModification" : false,
+   "OrderId" : "697951138",
+   "Acknowledged" : false
+}

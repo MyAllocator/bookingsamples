@@ -1,0 +1,101 @@
+{
+   "MyallocatorCreationDate" : "2018-04-16",
+   "MarkedAsRead" : false,
+   "MyallocatorId" : "6b844dcf6399ad3c34c980ec9",
+   "Rooms" : [
+      {
+         "RateId" : "626583",
+         "Units" : "1",
+         "Currency" : "KRW",
+         "Policy" : "Cancellation policy: 3D1N_100P",
+         "RateDesc" : "Breakfast",
+         "ChannelRoomType" : "5406186",
+         "StartDate" : "2018-05-26",
+         "Price" : "709750.0",
+         "RoomDesc" : "Family Room A",
+         "RoomTypeIds" : [
+            34283
+         ],
+         "MyallocatorRateplanIds" : [],
+         "EndDate" : "2018-06-01",
+         "DayRates" : [
+            {
+               "Date" : "2018-05-26",
+               "Currency" : "KRW",
+               "Rate" : "110500.0",
+               "Description" : "Room"
+            },
+            {
+               "Date" : "2018-05-27",
+               "Rate" : "97750.0",
+               "Description" : "Room",
+               "Currency" : "KRW"
+            },
+            {
+               "Currency" : "KRW",
+               "Rate" : "97750.0",
+               "Description" : "Room",
+               "Date" : "2018-05-28"
+            },
+            {
+               "Currency" : "KRW",
+               "Description" : "Room",
+               "Rate" : "97750.0",
+               "Date" : "2018-05-29"
+            },
+            {
+               "Date" : "2018-05-30",
+               "Currency" : "KRW",
+               "Rate" : "97750.0",
+               "Description" : "Room"
+            },
+            {
+               "Currency" : "KRW",
+               "Rate" : "97750.0",
+               "Description" : "Room",
+               "Date" : "2018-05-31"
+            },
+            {
+               "Date" : "2018-06-01",
+               "Description" : "Room",
+               "Rate" : "110500.0",
+               "Currency" : "KRW"
+            }
+         ]
+      }
+   ],
+   "IsCancellation" : false,
+   "Channel" : "ago",
+   "Customers" : [
+      {
+         "CustomerLName" : "Johnson",
+         "CustomerFName" : "Emma",
+         "CustomerNationality" : "Taiwan",
+         "CustomerEmail" : "emma.johnson@gmail.com",
+         "CustomerPhone" : "9722452373",
+         "CustomerNote" : ""
+      }
+   ],
+   "TotalCurrency" : "KRW",
+   "StartDate" : "2018-05-26",
+   "MyallocatorModificationTime" : "13:17:32",
+   "TotalPrice" : "709750.00",
+   "OrderTime" : "20:16:00",
+   "EndDate" : "2018-06-01",
+   "MyallocatorModificationDate" : "2018-04-16",
+   "PropertyId" : "0309",
+   "PaymentCollect" : "Channel",
+   "Version" : 0,
+   "OrderDate" : "2018-04-16",
+   "IsModification" : false,
+   "OrderAdults" : "3",
+   "MyallocatorCreationTime" : "13:17:32",
+   "Acknowledged" : false,
+   "ExtraServices" : [
+      {
+         "Description" : "Breakfast",
+         "Units" : 1
+      }
+   ],
+   "OrderId" : "419416449"
+}

@@ -1,0 +1,59 @@
+{
+   "TotalCurrency" : "USD",
+   "Customers" : [
+      {
+         "CustomerLName" : "Brown",
+         "CustomerCountry" : "India",
+         "CustomerPostCode" : "411045",
+         "CustomerFName" : "Ava",
+         "CustomerEmail" : "ava.brown@gmail.com",
+         "CustomerPhone" : "9933124526910",
+         "CustomerCity" : "Pune",
+         "CustomerNote" : "",
+         "CustomerAddress" : "CENSORED"
+      }
+   ],
+   "IsCancellation" : false,
+   "Channel" : "ibc",
+   "TotalPrice" : "150.93",
+   "MyallocatorModificationTime" : "10:10:34",
+   "StartDate" : "2017-11-21",
+   "MyallocatorId" : "5e42f66a031bb95b7fc321a45",
+   "MarkedAsRead" : true,
+   "MyallocatorCreationDate" : "2017-03-17",
+   "Rooms" : [
+      {
+         "Units" : 1,
+         "RateId" : "",
+         "Currency" : "USD",
+         "Children" : 0,
+         "StartDate" : "2017-11-21",
+         "RateDesc" : "",
+         "ChannelRoomType" : "90866",
+         "RoomTypeIds" : [
+            69631
+         ],
+         "Price" : 150.93,
+         "RoomDesc" : "Cottage 3",
+         "EndDate" : "2017-11-21",
+         "MyallocatorRateplanIds" : [],
+         "Adults" : 1,
+         "DayRates" : [
+            {
+               "Date" : "2017-11-21",
+               "Rate" : 150.93
+            }
+         ]
+      }
+   ],
+   "MyallocatorCreationTime" : "10:10:34",
+   "OrderId" : "38636",
+   "Acknowledged" : false,
+   "EndDate" : "2017-11-21",
+   "OrderTime" : "12:00:00",
+   "OrderDate" : "2017-03-17",
+   "Version" : 0,
+   "PropertyId" : "55386",
+   "MyallocatorModificationDate" : "2017-03-17",
+   "OrderVersion" : 1
+}

@@ -1,0 +1,65 @@
+{
+   "Rooms" : [
+      {
+         "Adults" : "1",
+         "EndDate" : "2018-04-27",
+         "RoomTypeIds" : [
+            28720
+         ],
+         "RateDesc" : "",
+         "Currency" : "PHP",
+         "Children" : "0",
+         "Units" : "1",
+         "DayRates" : [
+            {
+               "Currency" : "PHP",
+               "Description" : null,
+               "Rate" : 860,
+               "Date" : "2018-04-27",
+               "RateId" : "**"
+            }
+         ],
+         "RoomOrderId" : "1",
+         "MyallocatorRateplanIds" : [],
+         "OccupantNote" : "",
+         "Breakfast" : false,
+         "Babies" : "0",
+         "Price" : 860,
+         "RoomDesc" : "DOUBLE STANDARD",
+         "StartDate" : "2018-04-27",
+         "ChannelRoomType" : "cd2po8buls6t132vesqkn",
+         "Occupancy" : 1,
+         "RateId" : "**"
+      }
+   ],
+   "MyallocatorId" : "439aa40e2d1341034ed4b4190",
+   "MarkedAsRead" : false,
+   "MyallocatorCreationDate" : "2018-04-16",
+   "TotalPrice" : "860.00",
+   "MyallocatorModificationTime" : "13:16:06",
+   "StartDate" : "2018-04-27",
+   "Customers" : [
+      {
+         "CustomerNote" : "",
+         "CustomerLName" : "Jackson"
+      },
+      {
+         "CustomerFName" : "Charlotte",
+         "CustomerLName" : "White",
+         "CustomerAge" : "30",
+         "CustomerNote" : ""
+      }
+   ],
+   "TotalCurrency" : "PHP",
+   "Channel" : "hbe",
+   "IsCancellation" : false,
+   "OrderDate" : "2018-04-16",
+   "Version" : 0,
+   "PropertyId" : "5420",
+   "MyallocatorModificationDate" : "2018-04-16",
+   "EndDate" : "2018-04-27",
+   "OrderId" : "fcroru29u7",
+   "Acknowledged" : false,
+   "MyallocatorCreationTime" : "13:16:06",
+   "IsModification" : false
+}

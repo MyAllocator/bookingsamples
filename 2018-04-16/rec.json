@@ -1,0 +1,55 @@
+{
+   "PropertyId" : "03892",
+   "MyallocatorModificationDate" : "2018-04-16",
+   "OrderDate" : "2018-04-16",
+   "Version" : 0,
+   "OrderTime" : "14:43:07 +02:00",
+   "EndDate" : "2018-04-17",
+   "Acknowledged" : false,
+   "OrderId" : "t89yd6x2w9m3",
+   "IsModification" : false,
+   "MyallocatorCreationTime" : "12:44:50",
+   "CommissionCurrency" : "USD",
+   "Rooms" : [
+      {
+         "Units" : "1",
+         "StartDate" : "2018-04-17",
+         "ChannelRoomType" : "QZ",
+         "Currency" : "USD",
+         "MyallocatorRateplanIds" : [],
+         "EndDate" : "2018-04-17",
+         "Breakfast" : true,
+         "RoomTypeIds" : [
+            99187
+         ],
+         "Price" : "109",
+         "RoomDesc" : "Non-Smoking, Two Double Beds,  Free Fast WiFi Inte"
+      }
+   ],
+   "MyallocatorCreationDate" : "2018-04-16",
+   "MyallocatorId" : "4e5cd7cc3657df1923884729b",
+   "MarkedAsRead" : false,
+   "StartDate" : "2018-04-17",
+   "TotalPrice" : "109.00",
+   "MyallocatorModificationTime" : "12:44:50",
+   "IsCancellation" : false,
+   "Channel" : "rec",
+   "Customers" : [
+      {
+         "CustomerCity" : "Miami Lakes",
+         "CustomerNote" : "CENSORED",
+         "CustomerAddress" : "CENSORED",
+         "CustomerPhone" : "7ljhqm1n5z9xln",
+         "CustomerEmail" : "ava.brown@zoho.com",
+         "CustomerFName" : "Ava",
+         "CustomerPostCode" : "33014",
+         "CustomerCompany" : "CENSORED",
+         "CustomerCountry" : "US",
+         "CustomerPhoneMobile" : null,
+         "CustomerLName" : "Brown",
+         "CustomerFax" : "1-305-913-7459"
+      }
+   ],
+   "TotalCurrency" : "USD",
+   "Commission" : "10"
+}

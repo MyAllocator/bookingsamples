@@ -1,0 +1,42 @@
+{
+   "OrderTime" : "13:23:00",
+   "EndDate" : "2018-04-16",
+   "PropertyId" : "79460",
+   "MyallocatorModificationDate" : "2018-04-16",
+   "OrderDate" : "2018-04-16",
+   "Version" : 0,
+   "IsModification" : false,
+   "MyallocatorCreationTime" : "11:29:46",
+   "Acknowledged" : false,
+   "OrderId" : "70068522",
+   "MyallocatorCreationDate" : "2018-04-16",
+   "MyallocatorId" : "5b6e71fa2998cdb78af15a417",
+   "MarkedAsRead" : false,
+   "Rooms" : [
+      {
+         "RoomTypeIds" : [
+            123680
+         ],
+         "Price" : "42.0",
+         "RoomDesc" : "Double Basic",
+         "EndDate" : "2018-04-16",
+         "MyallocatorRateplanIds" : [],
+         "Currency" : "EUR",
+         "StartDate" : "2018-04-16",
+         "ChannelRoomType" : "ie",
+         "Units" : "1"
+      }
+   ],
+   "IsCancellation" : false,
+   "Channel" : "hotu",
+   "Customers" : [
+      {
+         "CustomerNote" : "",
+         "CustomerLName" : "Johnson"
+      }
+   ],
+   "TotalCurrency" : "EUR",
+   "StartDate" : "2018-04-16",
+   "TotalPrice" : "42.00",
+   "MyallocatorModificationTime" : "11:29:46"
+}

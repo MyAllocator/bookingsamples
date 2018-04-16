@@ -1,0 +1,149 @@
+{
+   "OrderId" : "7688272384",
+   "Acknowledged" : false,
+   "MyallocatorCreationTime" : "12:02:23",
+   "IsModification" : false,
+   "Version" : 0,
+   "OrderDate" : "2018-04-16",
+   "MyallocatorModificationDate" : "2018-04-16",
+   "PropertyId" : "2112",
+   "EndDate" : "2018-07-22",
+   "TotalTaxesCurrency" : "KRW",
+   "Deposit" : "0.00",
+   "OrderTime" : "12:02:21",
+   "MyallocatorModificationTime" : "12:02:23",
+   "TotalPrice" : "504000.00",
+   "StartDate" : "2018-07-09",
+   "Commission" : 0,
+   "Customers" : [
+      {
+         "CustomerEmail" : "isabella.moore@aol.com",
+         "CustomerFName" : "Isabella",
+         "CustomerNote" : "CENSORED",
+         "CustomerCity" : "",
+         "CustomerAddress" : "CENSORED",
+         "CustomerPhone" : "908589398151411",
+         "CustomerLName" : "Moore",
+         "CustomerCompany" : "",
+         "CustomerPostCode" : "",
+         "CustomerCountry" : "cn"
+      }
+   ],
+   "TotalCurrency" : "KRW",
+   "DepositDue" : "0.00",
+   "IsCancellation" : false,
+   "Channel" : "kch",
+   "Rooms" : [
+      {
+         "RateDesc" : "",
+         "Currency" : "KRW",
+         "Units" : "1",
+         "EndDate" : "2018-07-22",
+         "RoomTypeIds" : [
+            7411
+         ],
+         "OccupantFName" : "",
+         "Occupancy" : 1,
+         "OccupantLName" : "",
+         "ChannelRoomType" : "94019",
+         "StartDate" : "2018-07-09",
+         "Policy" : "",
+         "RateId" : "91873",
+         "DayRates" : [
+            {
+               "Description" : null,
+               "Rate" : 36000,
+               "Date" : "2018-07-09",
+               "RateId" : "91873"
+            },
+            {
+               "RateId" : "91873",
+               "Date" : "2018-07-10",
+               "Description" : null,
+               "Rate" : 36000
+            },
+            {
+               "Description" : null,
+               "Rate" : 36000,
+               "Date" : "2018-07-11",
+               "RateId" : "91873"
+            },
+            {
+               "Description" : null,
+               "Rate" : 36000,
+               "Date" : "2018-07-12",
+               "RateId" : "91873"
+            },
+            {
+               "Rate" : 36000,
+               "Description" : null,
+               "Date" : "2018-07-13",
+               "RateId" : "91873"
+            },
+            {
+               "Rate" : 36000,
+               "Description" : null,
+               "Date" : "2018-07-14",
+               "RateId" : "91873"
+            },
+            {
+               "Description" : null,
+               "Rate" : 36000,
+               "RateId" : "91873",
+               "Date" : "2018-07-15"
+            },
+            {
+               "Date" : "2018-07-16",
+               "RateId" : "91873",
+               "Description" : null,
+               "Rate" : 36000
+            },
+            {
+               "Rate" : 36000,
+               "Description" : null,
+               "Date" : "2018-07-17",
+               "RateId" : "91873"
+            },
+            {
+               "RateId" : "91873",
+               "Date" : "2018-07-18",
+               "Description" : null,
+               "Rate" : 36000
+            },
+            {
+               "Rate" : 36000,
+               "Description" : null,
+               "Date" : "2018-07-19",
+               "RateId" : "91873"
+            },
+            {
+               "Description" : null,
+               "Rate" : 36000,
+               "RateId" : "91873",
+               "Date" : "2018-07-20"
+            },
+            {
+               "RateId" : "91873",
+               "Date" : "2018-07-21",
+               "Description" : null,
+               "Rate" : 36000
+            },
+            {
+               "RateId" : "91873",
+               "Date" : "2018-07-22",
+               "Rate" : 36000,
+               "Description" : null
+            }
+         ],
+         "MyallocatorRateplanIds" : [],
+         "Price" : "504000.00",
+         "RoomDesc" : "Single Private Room",
+         "OccupantNote" : ""
+      }
+   ],
+   "CommissionCurrency" : "KRW",
+   "TotalTaxes" : 0,
+   "MarkedAsRead" : false,
+   "MyallocatorId" : "2249abf8d83807f5f45fd28d0",
+   "MyallocatorCreationDate" : "2018-04-16"
+}

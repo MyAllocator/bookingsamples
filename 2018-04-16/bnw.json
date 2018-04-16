@@ -1,0 +1,85 @@
+{
+   "IsModification" : false,
+   "MyallocatorCreationTime" : "13:16:48",
+   "MyallocatorCreditCardDetailsPresent" : true,
+   "Acknowledged" : false,
+   "OrderId" : "mfq0anlb1e9w6vpxorau",
+   "OrderTime" : "13:16:48",
+   "EndDate" : "2018-04-16",
+   "MyallocatorModificationDate" : "2018-04-16",
+   "PropertyId" : "2128",
+   "Version" : 0,
+   "OrderDate" : "2018-04-16",
+   "IsCancellation" : false,
+   "Channel" : "bnw",
+   "Customers" : [
+      {
+         "CustomerPhone" : "2593404525",
+         "CustomerNote" : "",
+         "CustomerCity" : "Herford",
+         "CustomerAddress" : "CENSORED",
+         "CustomerFName" : "Mia",
+         "CustomerIP" : "127.0.0.1",
+         "CustomerEmail" : "mia.anderson@hotmail.com",
+         "CustomerArrivalTime" : "18:00",
+         "CustomerCountry" : "Deutschland ",
+         "CustomerPostCode" : "32052",
+         "CustomerLName" : "Anderson",
+         "CustomerNationality" : "deutsch"
+      }
+   ],
+   "TotalCurrency" : "EUR",
+   "StartDate" : "2018-04-16",
+   "MyallocatorModificationTime" : "13:16:48",
+   "TotalPrice" : "141.00",
+   "OrderSource" : "BookNow Version 2",
+   "MyallocatorCreationDate" : "2018-04-16",
+   "MarkedAsRead" : false,
+   "MyallocatorId" : "515fa76bceffd8a764bc88af7",
+   "Rooms" : [
+      {
+         "DayRates" : [
+            {
+               "Currency" : "EUR",
+               "Description" : null,
+               "Rate" : 66,
+               "Date" : "2018-04-16"
+            }
+         ],
+         "EndDate" : "2018-04-16",
+         "MyallocatorRateplanIds" : [],
+         "RoomTypeIds" : [
+            19966
+         ],
+         "Price" : 66,
+         "StartDate" : "2018-04-16",
+         "ChannelRoomType" : "99578",
+         "RateDesc" : "",
+         "Currency" : "EUR",
+         "Units" : "3",
+         "RateId" : ""
+      },
+      {
+         "DayRates" : [
+            {
+               "Date" : "2018-04-16",
+               "Currency" : "EUR",
+               "Description" : null,
+               "Rate" : 75
+            }
+         ],
+         "EndDate" : "2018-04-16",
+         "MyallocatorRateplanIds" : [],
+         "Price" : 75,
+         "RoomTypeIds" : [
+            48534
+         ],
+         "StartDate" : "2018-04-16",
+         "ChannelRoomType" : "51705",
+         "RateDesc" : "",
+         "Currency" : "EUR",
+         "RateId" : "",
+         "Units" : "1"
+      }
+   ]
+}

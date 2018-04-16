@@ -1,0 +1,68 @@
+{
+   "OrderAdults" : 2,
+   "IsModification" : false,
+   "OrderModifDate" : null,
+   "MyallocatorCreationTime" : "09:38:23",
+   "Acknowledged" : false,
+   "OrderChildren" : 1,
+   "OrderId" : "68619490",
+   "OrderTime" : "09:37:15",
+   "EndDate" : "2018-04-27",
+   "PropertyId" : "0092",
+   "MyallocatorModificationDate" : "2018-01-10",
+   "OrderDate" : "2018-01-10",
+   "Version" : 0,
+   "Channel" : "ct",
+   "IsCancellation" : false,
+   "OrderSourceId" : "196948418",
+   "TotalCurrency" : "EUR",
+   "Customers" : [
+      {
+         "CustomerPhone" : "0",
+         "CustomerCity" : "Hohne",
+         "CustomerNote" : "CENSORED",
+         "CustomerAddress" : "CENSORED",
+         "CustomerFName" : "Harper",
+         "CustomerEmail" : "",
+         "CustomerCountry" : "",
+         "CustomerCompany" : "",
+         "CustomerPostCode" : "29362",
+         "CustomerLName" : "Young"
+      },
+      {
+         "CustomerPhone" : "",
+         "CustomerCity" : "",
+         "CustomerAddress" : "",
+         "CustomerNote" : "CENSORED",
+         "CustomerFName" : "Noah",
+         "CustomerEmail" : "",
+         "CustomerCountry" : "",
+         "CustomerPostCode" : "",
+         "CustomerCompany" : "",
+         "CustomerLName" : "Smith"
+      }
+   ],
+   "OrderModifTime" : null,
+   "StartDate" : "2018-04-27",
+   "OrderSource" : "Hotel Reservation Service (HRS 3.0)",
+   "TotalPrice" : "75.00",
+   "MyallocatorModificationTime" : "09:38:23",
+   "MyallocatorCreationDate" : "2018-01-10",
+   "MyallocatorId" : "3a401ef15899411dde34462c5",
+   "MarkedAsRead" : false,
+   "Rooms" : [
+      {
+         "Currency" : "EUR",
+         "StartDate" : "2018-04-27",
+         "ChannelRoomType" : "238562",
+         "Units" : "1",
+         "Price" : "75.00",
+         "RoomDesc" : "Doppelzimmer",
+         "RoomTypeIds" : [
+            10975
+         ],
+         "EndDate" : "2018-04-27",
+         "MyallocatorRateplanIds" : []
+      }
+   ]
+}

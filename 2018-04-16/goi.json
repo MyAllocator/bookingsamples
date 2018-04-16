@@ -1,0 +1,52 @@
+{
+   "IsModification" : false,
+   "OrderAdults" : 3,
+   "MyallocatorCreationTime" : "13:16:41",
+   "Acknowledged" : false,
+   "OrderId" : "8414737940",
+   "ExtraServices" : [
+      {
+         "Description" : "Accommodation",
+         "Units" : 1
+      }
+   ],
+   "OrderTime" : "18:43:56",
+   "EndDate" : "2018-06-09",
+   "MyallocatorModificationDate" : "2018-04-16",
+   "PropertyId" : "42979",
+   "Version" : 0,
+   "PaymentCollect" : "Channel",
+   "OrderDate" : "2018-04-16",
+   "IsCancellation" : false,
+   "Channel" : "goi",
+   "Customers" : [
+      {
+         "CustomerNote" : "",
+         "CustomerLName" : "Wilson"
+      }
+   ],
+   "TotalCurrency" : "INR",
+   "StartDate" : "2018-06-09",
+   "MyallocatorModificationTime" : "13:16:41",
+   "TotalPrice" : "1903.00",
+   "OrderSource" : "Goibibo",
+   "MyallocatorCreationDate" : "2018-04-16",
+   "MarkedAsRead" : false,
+   "MyallocatorId" : "22531fa43de638b97cbcfdafd",
+   "Rooms" : [
+      {
+         "Units" : "1",
+         "RateId" : "990000482392",
+         "Currency" : "INR",
+         "ChannelRoomType" : "32754746737",
+         "RateDesc" : "EP",
+         "StartDate" : "2018-06-09",
+         "RoomTypeIds" : [
+            104630
+         ],
+         "RoomDesc" : "Non AC Double Superior  Private Room",
+         "EndDate" : "2018-06-09",
+         "MyallocatorRateplanIds" : []
+      }
+   ]
+}

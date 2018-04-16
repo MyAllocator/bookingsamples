@@ -1,0 +1,66 @@
+{
+   "OrderId" : "gga27tnq8xzej9",
+   "Acknowledged" : false,
+   "MyallocatorCreationTime" : "22:49:21",
+   "IsModification" : false,
+   "OrderDate" : "2018-04-15",
+   "Version" : 0,
+   "PropertyId" : "81726",
+   "MyallocatorModificationDate" : "2018-04-15",
+   "EndDate" : "2018-06-14",
+   "OrderTime" : "23:46:23",
+   "Deposit" : "0.00",
+   "TotalPrice" : "408.00",
+   "MyallocatorModificationTime" : "22:49:21",
+   "StartDate" : "2018-06-13",
+   "TotalCurrency" : "EUR",
+   "Customers" : [
+      {
+         "CustomerEmail" : "ethan.hall@outlook.com",
+         "CustomerFName" : "Ethan",
+         "CustomerCity" : null,
+         "CustomerAddress" : null,
+         "CustomerNote" : "",
+         "CustomerPhone" : "328881289050",
+         "CustomerLName" : "Hall",
+         "CustomerCompany" : null,
+         "CustomerPostCode" : null,
+         "CustomerCountry" : "Sweden"
+      }
+   ],
+   "DepositCurrency" : "EUR",
+   "Channel" : "net",
+   "IsCancellation" : false,
+   "Rooms" : [
+      {
+         "StartDate" : "2018-06-13",
+         "ChannelRoomType" : "90286",
+         "RateDesc" : "",
+         "Children" : 0,
+         "RateId" : "",
+         "Units" : "1",
+         "DayRates" : [
+            {
+               "Description" : null,
+               "Rate" : 204,
+               "Date" : "2018-06-13"
+            },
+            {
+               "Date" : "2018-06-14",
+               "Description" : null,
+               "Rate" : 204
+            }
+         ],
+         "Adults" : 2,
+         "MyallocatorRateplanIds" : [],
+         "EndDate" : "2018-06-14",
+         "RoomDesc" : "Twin Room",
+         "RoomTypeIds" : [
+            134753
+         ]
+      }
+   ],
+   "MyallocatorId" : "ad96fb651d4fd1b50c6bff624",
+   "MarkedAsRead" : false,
+   "MyallocatorCreationDate" : "2018-04-15"
+}

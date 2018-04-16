@@ -1,0 +1,77 @@
+{
+   "MyallocatorId" : "c9548285a63f27b1276cf7c55",
+   "MarkedAsRead" : false,
+   "MyallocatorCreationDate" : "2017-11-26",
+   "Rooms" : [
+      {
+         "DayRates" : [
+            {
+               "Rate" : 36000,
+               "Description" : null,
+               "RateId" : "92490",
+               "Date" : "2017-12-09"
+            },
+            {
+               "RateId" : "92490",
+               "Date" : "2017-12-10",
+               "Description" : null,
+               "Rate" : 27000
+            }
+         ],
+         "Price" : "63000.00",
+         "RoomDesc" : "Single Private Room",
+         "OccupantNote" : "",
+         "MyallocatorRateplanIds" : [],
+         "Policy" : "",
+         "OccupantLName" : "",
+         "Occupancy" : 1,
+         "StartDate" : "2017-12-09",
+         "ChannelRoomType" : "02445",
+         "RateId" : "92490",
+         "RoomTypeIds" : [
+            32751
+         ],
+         "OccupantFName" : "",
+         "EndDate" : "2017-12-10",
+         "Currency" : "KRW",
+         "RateDesc" : "",
+         "Units" : "1"
+      }
+   ],
+   "TotalTaxes" : 0,
+   "CommissionCurrency" : "KRW",
+   "Customers" : [
+      {
+         "CustomerPhone" : "0xl38kq2hwot",
+         "CustomerCity" : "",
+         "CustomerNote" : "",
+         "CustomerAddress" : "CENSORED",
+         "CustomerFName" : "Ethan",
+         "CustomerEmail" : "ethan.hall@gmail.com",
+         "CustomerCountry" : "us",
+         "CustomerPostCode" : "",
+         "CustomerCompany" : "",
+         "CustomerLName" : "Hall"
+      }
+   ],
+   "TotalCurrency" : "KRW",
+   "Commission" : 0,
+   "Channel" : "ya",
+   "IsCancellation" : false,
+   "DepositDue" : "0.00",
+   "TotalPrice" : "63000.00",
+   "MyallocatorModificationTime" : "07:45:03",
+   "StartDate" : "2017-12-09",
+   "EndDate" : "2017-12-10",
+   "TotalTaxesCurrency" : "KRW",
+   "OrderTime" : "07:45:00",
+   "Deposit" : "0.00",
+   "OrderDate" : "2017-11-26",
+   "Version" : 0,
+   "PropertyId" : "2650",
+   "MyallocatorModificationDate" : "2017-11-26",
+   "MyallocatorCreationTime" : "07:45:03",
+   "IsModification" : false,
+   "OrderId" : "0773402440",
+   "Acknowledged" : false
+}

@@ -1,0 +1,79 @@
+{
+   "Deposit" : "232.50",
+   "EndDate" : "2018-04-20",
+   "MyallocatorModificationDate" : "2018-04-16",
+   "PropertyId" : "1595",
+   "Version" : 0,
+   "IsModification" : false,
+   "MyallocatorCreationTime" : "13:30:17",
+   "OrderFemales" : "",
+   "Acknowledged" : false,
+   "OrderId" : "rpwlqp2dbv0wkge",
+   "MyallocatorCreationDate" : "2018-04-16",
+   "MarkedAsRead" : false,
+   "MyallocatorId" : "51f7cb40ac24989fefbf94ff3",
+   "OrderMales" : "1",
+   "Rooms" : [
+      {
+         "Price" : "500.00",
+         "RoomDesc" : "Standard 12 Bed Mixed Dorm Ensuite",
+         "RoomTypeIds" : [
+            12739
+         ],
+         "EndDate" : "2018-04-18",
+         "MyallocatorRateplanIds" : [],
+         "Units" : "1",
+         "Currency" : "CZK",
+         "Occupancy" : 1,
+         "ChannelRoomType" : "606211",
+         "StartDate" : "2018-04-18"
+      },
+      {
+         "EndDate" : "2018-04-19",
+         "MyallocatorRateplanIds" : [],
+         "RoomDesc" : "Standard 12 Bed Mixed Dorm Ensuite",
+         "Price" : "450.00",
+         "RoomTypeIds" : [
+            12739
+         ],
+         "Units" : "1",
+         "Occupancy" : 1,
+         "ChannelRoomType" : "714602",
+         "StartDate" : "2018-04-19",
+         "Currency" : "CZK"
+      },
+      {
+         "MyallocatorRateplanIds" : [],
+         "EndDate" : "2018-04-20",
+         "RoomDesc" : "Standard 12 Bed Mixed Dorm Ensuite",
+         "Price" : "600.00",
+         "RoomTypeIds" : [
+            12739
+         ],
+         "Occupancy" : 1,
+         "StartDate" : "2018-04-20",
+         "ChannelRoomType" : "973449",
+         "Currency" : "CZK",
+         "Units" : "1"
+      }
+   ],
+   "IsCancellation" : false,
+   "Channel" : "hw2",
+   "TotalCurrency" : "CZK",
+   "Customers" : [
+      {
+         "CustomerNote" : "",
+         "CustomerGender" : "MA",
+         "CustomerPhone" : "4716405015",
+         "CustomerEmail" : "william.williams@hotmail.com",
+         "CustomerArrivalTime" : "15:00",
+         "CustomerFName" : "William",
+         "CustomerNationality" : "Canada",
+         "CustomerLName" : "Williams"
+      }
+   ],
+   "DepositCurrency" : "CZK",
+   "StartDate" : "2018-04-18",
+   "MyallocatorModificationTime" : "13:30:17",
+   "TotalPrice" : "1550.00"
+}

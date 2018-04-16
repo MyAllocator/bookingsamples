@@ -1,0 +1,59 @@
+{
+   "IsCancellation" : false,
+   "Channel" : "lota",
+   "TotalCurrency" : "USD",
+   "Customers" : [
+      {
+         "CustomerNote" : "",
+         "CustomerPhone" : "",
+         "CustomerEmail" : "",
+         "CustomerLName" : "Jackson",
+         "CustomerFName" : "Jacob"
+      }
+   ],
+   "StartDate" : "2018-04-28",
+   "MyallocatorModificationTime" : "13:07:20",
+   "MyallocatorCreationDate" : "2018-04-13",
+   "MarkedAsRead" : false,
+   "MyallocatorId" : "fcb9f4ea939e2fc34fb3a258d",
+   "Rooms" : [
+      {
+         "EndDate" : "2018-04-29",
+         "MyallocatorRateplanIds" : [],
+         "Price" : "22.20",
+         "RoomDesc" : "4&nbsp;Bed Shared Bunk Room in Downtown Hostel. (Price is per person and each person gets a bed)",
+         "RoomTypeIds" : [
+            50667
+         ],
+         "DayRates" : [
+            {
+               "Rate" : "11.10",
+               "Description" : "Default Rate",
+               "Date" : "2018-04-28"
+            },
+            {
+               "Rate" : "11.10",
+               "Description" : "Default Rate",
+               "Date" : "2018-04-29"
+            }
+         ],
+         "Adults" : "1",
+         "RateId" : "",
+         "Units" : "1",
+         "ChannelRoomType" : "465",
+         "StartDate" : "2018-04-28",
+         "RateDesc" : "",
+         "Currency" : "USD"
+      }
+   ],
+   "IsModification" : false,
+   "MyallocatorCreationTime" : "13:07:20",
+   "Acknowledged" : false,
+   "OrderId" : "kzgzzrxjmk06p7eiow7",
+   "OrderTime" : "13:07:15",
+   "EndDate" : "2018-04-29",
+   "MyallocatorModificationDate" : "2018-04-13",
+   "PropertyId" : "99082",
+   "Version" : 0,
+   "OrderDate" : "2018-04-13"
+}

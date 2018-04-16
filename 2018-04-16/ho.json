@@ -1,0 +1,78 @@
+{
+   "StartDate" : "2018-04-17",
+   "TotalPrice" : "44.74",
+   "MyallocatorModificationTime" : "09:59:19",
+   "Channel" : "ho",
+   "IsCancellation" : false,
+   "DepositDue" : "22.37",
+   "TotalCurrency" : "EUR",
+   "Customers" : [
+      {
+         "CustomerCountry" : "ca",
+         "CustomerCompany" : "",
+         "CustomerPostCode" : "",
+         "CustomerLName" : "Young",
+         "CustomerPhone" : "02506779157",
+         "CustomerAddress" : "CENSORED",
+         "CustomerNote" : "CENSORED",
+         "CustomerCity" : "",
+         "CustomerFName" : "Harper",
+         "CustomerEmail" : "harper.young@inbox.com"
+      }
+   ],
+   "Commission" : 0,
+   "TotalTaxes" : 0,
+   "CommissionCurrency" : "EUR",
+   "Rooms" : [
+      {
+         "RateId" : "63085",
+         "ChannelRoomType" : "01975",
+         "StartDate" : "2018-04-17",
+         "OccupantLName" : "",
+         "Occupancy" : 1,
+         "Policy" : "",
+         "MyallocatorRateplanIds" : [],
+         "OccupantNote" : "",
+         "RoomDesc" : "4 Bed Dorm ",
+         "Price" : "44.74",
+         "DayRates" : [
+            {
+               "Description" : null,
+               "Rate" : 22.37,
+               "Date" : "2018-04-17",
+               "RateId" : "63085"
+            },
+            {
+               "RateId" : "63085",
+               "Date" : "2018-04-18",
+               "Description" : null,
+               "Rate" : 22.37
+            }
+         ],
+         "Units" : "1",
+         "RateDesc" : "",
+         "Currency" : "EUR",
+         "EndDate" : "2018-04-18",
+         "OccupantFName" : "",
+         "RoomTypeIds" : [
+            22540
+         ]
+      }
+   ],
+   "MyallocatorCreationDate" : "2018-04-16",
+   "MyallocatorId" : "138e0b1873797842bd55c219a",
+   "MarkedAsRead" : true,
+   "Acknowledged" : false,
+   "MyallocatorCreditCardDetailsPresent" : true,
+   "OrderId" : "5793026887",
+   "IsModification" : false,
+   "MyallocatorCreationTime" : "09:59:19",
+   "PropertyId" : "1363",
+   "MyallocatorModificationDate" : "2018-04-16",
+   "OrderDate" : "2018-04-16",
+   "Version" : 0,
+   "Deposit" : "0.00",
+   "OrderTime" : "09:59:17",
+   "TotalTaxesCurrency" : "EUR",
+   "EndDate" : "2018-04-18"
+}

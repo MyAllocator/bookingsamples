@@ -1,0 +1,47 @@
+{
+   "EndDate" : "2018-07-10",
+   "Version" : 0,
+   "OrderDate" : "2018-03-22",
+   "MyallocatorModificationDate" : "2018-03-22",
+   "PropertyId" : "8875",
+   "MyallocatorCreationTime" : "13:40:17",
+   "IsModification" : false,
+   "OrderId" : "kmdb6ilylk2vo3uwm2hg",
+   "Acknowledged" : false,
+   "MarkedAsRead" : false,
+   "MyallocatorId" : "2cd912e6d1b62dcbe46fde3bc",
+   "OrderCustomers" : "1",
+   "MyallocatorCreationDate" : "2018-03-22",
+   "Rooms" : [
+      {
+         "Adults" : 1,
+         "MyallocatorRateplanIds" : [],
+         "EndDate" : "2018-07-10",
+         "RoomDesc" : "<p>Airy high ceiling 4 bed mixed dorms, all with en-suite bathrooms on the first and second floor.</p>",
+         "RoomTypeIds" : [
+            46171
+         ],
+         "StartDate" : "2018-07-09",
+         "ChannelRoomType" : "thhag7",
+         "Units" : "1"
+      }
+   ],
+   "Customers" : [
+      {
+         "CustomerLName" : "Wilson",
+         "CustomerCountry" : "CA",
+         "CustomerPostCode" : "M4P1L9",
+         "CustomerFName" : "James",
+         "CustomerEmail" : "james.wilson@yahoo.com",
+         "CustomerAddress" : "CENSORED",
+         "CustomerCity" : "Toronto",
+         "CustomerNote" : ""
+      }
+   ],
+   "TotalCurrency" : "ZAR",
+   "IsCancellation" : false,
+   "Channel" : "skd",
+   "MyallocatorModificationTime" : "13:40:17",
+   "TotalPrice" : "425.00",
+   "StartDate" : "2018-07-09"
+}

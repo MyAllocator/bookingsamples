@@ -1,0 +1,72 @@
+{
+   "IsCancellation" : false,
+   "Channel" : "ote",
+   "DepositCurrency" : "EUR",
+   "Customers" : [
+      {
+         "CustomerNote" : "",
+         "CustomerEmail" : "liam.cain@mail.com",
+         "CustomerLName" : "Cain",
+         "CustomerFName" : "Liam"
+      }
+   ],
+   "TotalCurrency" : "EUR",
+   "StartDate" : "2018-06-29",
+   "TotalPrice" : "40.49",
+   "MyallocatorModificationTime" : "02:54:18",
+   "MyallocatorCreationDate" : "2018-03-12",
+   "MyallocatorId" : "3cefd6dce1cf694ce078aadb5",
+   "MarkedAsRead" : false,
+   "Rooms" : [
+      {
+         "Currency" : "EUR",
+         "StartDate" : "2018-06-29",
+         "ChannelRoomType" : "2147",
+         "Units" : "1",
+         "Price" : 12.82,
+         "RoomDesc" : "Emergency Room",
+         "RoomTypeIds" : [
+            31864
+         ],
+         "MyallocatorRateplanIds" : [],
+         "EndDate" : "2018-06-29"
+      },
+      {
+         "Units" : "1",
+         "Currency" : "EUR",
+         "ChannelRoomType" : "8728",
+         "StartDate" : "2018-06-30",
+         "Price" : 14.85,
+         "RoomDesc" : "Emergency Room",
+         "RoomTypeIds" : [
+            31864
+         ],
+         "MyallocatorRateplanIds" : [],
+         "EndDate" : "2018-06-30"
+      },
+      {
+         "RoomTypeIds" : [
+            31864
+         ],
+         "RoomDesc" : "Emergency Room",
+         "Price" : 12.82,
+         "MyallocatorRateplanIds" : [],
+         "EndDate" : "2018-07-01",
+         "Units" : "1",
+         "Currency" : "EUR",
+         "ChannelRoomType" : "3905",
+         "StartDate" : "2018-07-01"
+      }
+   ],
+   "IsModification" : false,
+   "MyallocatorCreationTime" : "02:54:18",
+   "Acknowledged" : false,
+   "OrderId" : "9q0r0509",
+   "OrderTime" : "02:53:00",
+   "Deposit" : 0,
+   "EndDate" : "2018-07-01",
+   "PropertyId" : "8953",
+   "MyallocatorModificationDate" : "2018-03-12",
+   "OrderDate" : "2018-03-12",
+   "Version" : 0
+}

@@ -1,0 +1,48 @@
+{
+   "PropertyId" : "70598",
+   "MyallocatorModificationDate" : "2018-04-16",
+   "OrderDate" : "2018-04-16",
+   "Version" : 0,
+   "TotalTaxesCurrency" : "EUR",
+   "EndDate" : "2018-04-17",
+   "Acknowledged" : false,
+   "OrderId" : "3869255960978348",
+   "IsModification" : false,
+   "MyallocatorCreationTime" : "13:25:35",
+   "TotalTaxes" : 0,
+   "Rooms" : [
+      {
+         "Adults" : "2",
+         "EndDate" : "2018-04-17",
+         "MyallocatorRateplanIds" : [],
+         "Price" : 68,
+         "RoomDesc" : "Triple Room with Private Bathroom",
+         "RoomTypeIds" : [
+            82647
+         ],
+         "ChannelRoomType" : "i8dn95lwuy9iw7h63e7vw2dkzrn9oyra5a47",
+         "StartDate" : "2018-04-17",
+         "Children" : "0",
+         "Units" : "1"
+      }
+   ],
+   "MyallocatorCreationDate" : "2018-04-16",
+   "MyallocatorId" : "5359081a68dbda0a5a89d0486",
+   "MarkedAsRead" : false,
+   "StartDate" : "2018-04-17",
+   "OrderSource" : "wix",
+   "TotalPrice" : "68.00",
+   "MyallocatorModificationTime" : "13:25:35",
+   "IsCancellation" : false,
+   "Channel" : "wix",
+   "TotalCurrency" : "EUR",
+   "Customers" : [
+      {
+         "CustomerEmail" : "emily.walker@hotmail.com",
+         "CustomerFName" : "Emily",
+         "CustomerLName" : "Walker",
+         "CustomerNote" : "",
+         "CustomerPhone" : "904010799"
+      }
+   ]
+}

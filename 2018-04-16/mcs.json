@@ -1,0 +1,72 @@
+{
+   "MyallocatorCreationDate" : "2018-04-12",
+   "MarkedAsRead" : false,
+   "MyallocatorId" : "f0bfee1e8da5073b0428d749b",
+   "CommissionCurrency" : "EUR",
+   "TotalTaxes" : 0,
+   "Rooms" : [
+      {
+         "RoomTypeIds" : [
+            83982
+         ],
+         "OccupantFName" : "",
+         "EndDate" : "2018-04-17",
+         "Currency" : "EUR",
+         "RateDesc" : "",
+         "Units" : "1",
+         "DayRates" : [
+            {
+               "Description" : null,
+               "Rate" : 85,
+               "RateId" : "50471",
+               "Date" : "2018-04-17"
+            }
+         ],
+         "OccupantNote" : "",
+         "RoomDesc" : "1 Bedroom for 2-4pax",
+         "Price" : "85.00",
+         "MyallocatorRateplanIds" : [],
+         "Policy" : "",
+         "StartDate" : "2018-04-17",
+         "ChannelRoomType" : "70284",
+         "Occupancy" : 1,
+         "OccupantLName" : "",
+         "RateId" : "50471"
+      }
+   ],
+   "DepositDue" : "0.00",
+   "IsCancellation" : false,
+   "Channel" : "mcs",
+   "Commission" : 0,
+   "Customers" : [
+      {
+         "CustomerEmail" : "abigail.garcia@hotmail.com",
+         "CustomerFName" : "Abigail",
+         "CustomerAddress" : "CENSORED",
+         "CustomerNote" : "",
+         "CustomerCity" : "",
+         "CustomerPhone" : "756228601",
+         "CustomerLName" : "Garcia",
+         "CustomerPostCode" : "",
+         "CustomerCompany" : "",
+         "CustomerCountry" : "es"
+      }
+   ],
+   "TotalCurrency" : "EUR",
+   "StartDate" : "2018-04-17",
+   "MyallocatorModificationTime" : "12:00:19",
+   "TotalPrice" : "85.00",
+   "TotalTaxesCurrency" : "EUR",
+   "OrderTime" : "12:00:17",
+   "Deposit" : "0.00",
+   "EndDate" : "2018-04-17",
+   "MyallocatorModificationDate" : "2018-04-12",
+   "PropertyId" : "43435",
+   "Version" : 0,
+   "OrderDate" : "2018-04-12",
+   "IsModification" : false,
+   "MyallocatorCreationTime" : "12:00:19",
+   "MyallocatorCreditCardDetailsPresent" : true,
+   "Acknowledged" : false,
+   "OrderId" : "0525973376"
+}

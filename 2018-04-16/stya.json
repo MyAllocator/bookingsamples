@@ -1,0 +1,74 @@
+{
+   "CommissionCurrency" : "EUR",
+   "Rooms" : [
+      {
+         "RateId" : "102",
+         "Policy" : "",
+         "OccupantLName" : "Moore",
+         "StartDate" : "2018-05-02",
+         "ChannelRoomType" : "02",
+         "RoomDesc" : "Einzelzimmer",
+         "Price" : "122.00",
+         "OccupantNote" : "",
+         "MyallocatorRateplanIds" : [],
+         "DayRates" : [
+            {
+               "Currency" : "EUR",
+               "Rate" : "61",
+               "Description" : "\u00dcbernachtung",
+               "Date" : "2018-05-02",
+               "RateId" : "102"
+            },
+            {
+               "RateId" : "102",
+               "Date" : "2018-05-03",
+               "Currency" : "EUR",
+               "Description" : "\u00dcbernachtung",
+               "Rate" : "61"
+            }
+         ],
+         "Units" : "1",
+         "Currency" : "EUR",
+         "RateDesc" : "\u00dcbernachtung",
+         "RoomTypeIds" : [
+            83778
+         ],
+         "EndDate" : "2018-05-03"
+      }
+   ],
+   "MyallocatorCreationDate" : "2018-04-16",
+   "MarkedAsRead" : false,
+   "MyallocatorId" : "7e75e5811659ac8609acf61f1",
+   "StartDate" : "2018-05-02",
+   "MyallocatorModificationTime" : "09:49:45",
+   "TotalPrice" : "122.00",
+   "IsCancellation" : false,
+   "Channel" : "stya",
+   "Commission" : "0.61",
+   "TotalCurrency" : "EUR",
+   "Customers" : [
+      {
+         "CustomerPhone" : "",
+         "CustomerNote" : "",
+         "CustomerAddress" : "CENSORED",
+         "CustomerCity" : "Ahrensfelde",
+         "CustomerFName" : "Isabella",
+         "CustomerEmail" : "isabella.moore@outlook.com",
+         "CustomerCountry" : "",
+         "CustomerCompany" : "",
+         "CustomerPostCode" : "16356",
+         "CustomerLName" : "Moore"
+      }
+   ],
+   "MyallocatorModificationDate" : "2018-04-16",
+   "PropertyId" : "99946",
+   "PaymentCollect" : "Property",
+   "Version" : 0,
+   "OrderDate" : "2018-04-16",
+   "OrderTime" : "11:44:17",
+   "EndDate" : "2018-05-03",
+   "Acknowledged" : false,
+   "OrderId" : "70",
+   "IsModification" : false,
+   "MyallocatorCreationTime" : "09:49:45"
+}

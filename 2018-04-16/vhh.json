@@ -1,0 +1,101 @@
+{
+   "OrderId" : "3461840288",
+   "Acknowledged" : true,
+   "MyallocatorCreationTime" : "00:44:47",
+   "IsModification" : false,
+   "OrderDate" : "2018-04-16",
+   "Version" : 0,
+   "PropertyId" : "7553",
+   "MyallocatorModificationDate" : "2018-04-16",
+   "EndDate" : "2018-04-24",
+   "TotalTaxesCurrency" : "USD",
+   "Deposit" : "48.00",
+   "OrderTime" : "00:42:57",
+   "TotalPrice" : "48.00",
+   "MyallocatorModificationTime" : "00:44:47",
+   "StartDate" : "2018-04-19",
+   "Customers" : [
+      {
+         "CustomerLName" : "Garcia",
+         "CustomerCountry" : "00",
+         "CustomerPostCode" : "",
+         "CustomerCompany" : "",
+         "CustomerFName" : "Abigail",
+         "CustomerEmail" : "abigail.garcia@lycos.com",
+         "CustomerPhone" : "",
+         "CustomerAddress" : "CENSORED",
+         "CustomerCity" : "",
+         "CustomerNote" : ""
+      }
+   ],
+   "TotalCurrency" : "USD",
+   "Commission" : 0,
+   "Channel" : "vhh",
+   "IsCancellation" : false,
+   "DepositDue" : "0.00",
+   "Rooms" : [
+      {
+         "OccupantFName" : "",
+         "RoomTypeIds" : [
+            129679
+         ],
+         "EndDate" : "2018-04-24",
+         "Units" : "1",
+         "Currency" : "USD",
+         "RateDesc" : "",
+         "OccupantNote" : "",
+         "RoomDesc" : "10 Bed Female Dorm",
+         "Price" : "48.00",
+         "MyallocatorRateplanIds" : [],
+         "DayRates" : [
+            {
+               "Rate" : 8,
+               "Description" : null,
+               "RateId" : "169559",
+               "Date" : "2018-04-19"
+            },
+            {
+               "Description" : null,
+               "Rate" : 8,
+               "RateId" : "169559",
+               "Date" : "2018-04-20"
+            },
+            {
+               "Rate" : 8,
+               "Description" : null,
+               "RateId" : "169559",
+               "Date" : "2018-04-21"
+            },
+            {
+               "RateId" : "169559",
+               "Date" : "2018-04-22",
+               "Rate" : 8,
+               "Description" : null
+            },
+            {
+               "Rate" : 8,
+               "Description" : null,
+               "Date" : "2018-04-23",
+               "RateId" : "169559"
+            },
+            {
+               "Date" : "2018-04-24",
+               "RateId" : "169559",
+               "Description" : null,
+               "Rate" : 8
+            }
+         ],
+         "RateId" : "169559",
+         "Policy" : "",
+         "ChannelRoomType" : "20631",
+         "StartDate" : "2018-04-19",
+         "OccupantLName" : "",
+         "Occupancy" : 1
+      }
+   ],
+   "TotalTaxes" : 0,
+   "CommissionCurrency" : "USD",
+   "MyallocatorId" : "18b1065bfe568ab3b756f4742",
+   "MarkedAsRead" : true,
+   "MyallocatorCreationDate" : "2018-04-16"
+}

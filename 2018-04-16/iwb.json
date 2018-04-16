@@ -1,0 +1,57 @@
+{
+   "Version" : 0,
+   "OrderDate" : "2018-04-16",
+   "MyallocatorModificationDate" : "2018-04-16",
+   "PropertyId" : "9484",
+   "EndDate" : "2018-05-02",
+   "OrderTime" : "06:06:23",
+   "Deposit" : "50.2",
+   "OrderChildren" : "0",
+   "OrderId" : "12726392",
+   "CommissionIncludedInTotal" : false,
+   "Acknowledged" : true,
+   "MyallocatorCreationTime" : "10:06:15",
+   "IsModification" : false,
+   "OrderAdults" : "1",
+   "Rooms" : [
+      {
+         "Currency" : "USD",
+         "ChannelRoomType" : "8sf5r3f6",
+         "StartDate" : "2018-04-23",
+         "Units" : "1",
+         "RoomTypeIds" : [
+            22871
+         ],
+         "RoomDesc" : "12 Person Mix Dorm Ensuite",
+         "Price" : "50.2",
+         "MyallocatorRateplanIds" : [],
+         "EndDate" : "2018-05-02"
+      }
+   ],
+   "CommissionCurrency" : "USD",
+   "MarkedAsRead" : true,
+   "MyallocatorId" : "6a1dbca16cf028339e8042dee",
+   "MyallocatorCreationDate" : "2018-04-16",
+   "MyallocatorModificationTime" : "10:06:15",
+   "TotalPrice" : "502.00",
+   "StartDate" : "2018-04-23",
+   "Commission" : "0",
+   "TotalCurrency" : "USD",
+   "Customers" : [
+      {
+         "CustomerState" : "WA",
+         "CustomerNote" : "",
+         "CustomerAddress" : "CENSORED",
+         "CustomerCity" : "Seattle",
+         "CustomerPhone" : "7739560238",
+         "CustomerEmail" : "wilson@gmx.com",
+         "CustomerPostCode" : "98102",
+         "CustomerCompany" : "CENSORED",
+         "CustomerCountry" : "US",
+         "CustomerLName" : "Wilson"
+      }
+   ],
+   "DepositCurrency" : "USD",
+   "Channel" : "iwb",
+   "IsCancellation" : false
+}

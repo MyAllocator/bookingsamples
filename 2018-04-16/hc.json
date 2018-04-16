@@ -1,0 +1,54 @@
+{
+   "Commission" : 2,
+   "TotalCurrency" : "EUR",
+   "DepositCurrency" : "EUR",
+   "Customers" : [
+      {
+         "CustomerNote" : "",
+         "CustomerPhone" : "8derrk9zq2fbx0gm",
+         "CustomerCountry" : "BY",
+         "CustomerArrivalTime" : "15:00",
+         "CustomerEmail" : "michael.harris@gmail.com",
+         "CustomerLName" : "Harris",
+         "CustomerFName" : "Michael"
+      }
+   ],
+   "Balance" : "25.20",
+   "IsCancellation" : false,
+   "Channel" : "hc",
+   "MyallocatorModificationTime" : "12:41:01",
+   "BalanceCurrency" : "EUR",
+   "TotalPrice" : "30.00",
+   "StartDate" : "2018-04-25",
+   "MarkedAsRead" : false,
+   "MyallocatorId" : "10c27a32994afcf54c0af494b",
+   "MyallocatorCreationDate" : "2018-04-16",
+   "Rooms" : [
+      {
+         "Price" : "28.00",
+         "RoomDesc" : "Double ensute",
+         "RoomTypeIds" : [
+            8315
+         ],
+         "MyallocatorRateplanIds" : [],
+         "EndDate" : "2018-04-25",
+         "Units" : 1,
+         "Currency" : "EUR",
+         "StartDate" : "2018-04-25",
+         "ChannelRoomType" : "dv6z4"
+      }
+   ],
+   "CommissionCurrency" : "EUR",
+   "MyallocatorCreationTime" : "12:41:01",
+   "IsModification" : false,
+   "OrderId" : "1363889",
+   "CommissionIncludedInTotal" : true,
+   "Acknowledged" : false,
+   "EndDate" : "2018-04-25",
+   "OrderTime" : "12:40:56+00:00",
+   "Deposit" : "2.80",
+   "Version" : 0,
+   "OrderDate" : "2018-04-16",
+   "MyallocatorModificationDate" : "2018-04-16",
+   "PropertyId" : "4588"
+}

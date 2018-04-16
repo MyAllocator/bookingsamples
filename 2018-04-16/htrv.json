@@ -1,0 +1,82 @@
+{
+   "EndDate" : "2017-10-15",
+   "OrderTime" : "15:38:08",
+   "Version" : 0,
+   "OrderDate" : "2017-07-28",
+   "MyallocatorModificationDate" : "2017-07-28",
+   "PropertyId" : "90900",
+   "MyallocatorCreationTime" : "10:10:07",
+   "IsModification" : false,
+   "OrderId" : "5253584",
+   "CommissionIncludedInTotal" : true,
+   "Acknowledged" : false,
+   "MarkedAsRead" : true,
+   "MyallocatorId" : "8708c734a6875ad48ca57b5a4",
+   "MyallocatorCreationDate" : "2017-07-28",
+   "Rooms" : [
+      {
+         "RateId" : "",
+         "OccupantLName" : "Abeln",
+         "StartDate" : "2017-10-12",
+         "ChannelRoomType" : "707380",
+         "MyallocatorRateplanIds" : [],
+         "Price" : "165.76",
+         "RoomDesc" : "Deluxe Double Room",
+         "DayRates" : [
+            {
+               "Description" : null,
+               "Rate" : "41.44",
+               "Currency" : "USD",
+               "Date" : "2017-10-12"
+            },
+            {
+               "Date" : "2017-10-13",
+               "Rate" : "41.44",
+               "Description" : null,
+               "Currency" : "USD"
+            },
+            {
+               "Date" : "2017-10-14",
+               "Currency" : "USD",
+               "Rate" : "41.44",
+               "Description" : null
+            },
+            {
+               "Rate" : "41.44",
+               "Description" : null,
+               "Currency" : "USD",
+               "Date" : "2017-10-15"
+            }
+         ],
+         "Units" : "1",
+         "RateDesc" : "",
+         "Currency" : "USD",
+         "EndDate" : "2017-10-15",
+         "RoomTypeIds" : [
+            67006
+         ],
+         "OccupantFName" : "Olivia",
+         "Adults" : 1
+      }
+   ],
+   "CommissionCurrency" : "USD",
+   "Commission" : 29.24,
+   "Customers" : [
+      {
+         "CustomerLName" : "Abeln",
+         "CustomerCountry" : "TH",
+         "CustomerFName" : "Olivia",
+         "CustomerEmail" : "olivia.abeln@zoho.com",
+         "CustomerPhone" : "4662832873",
+         "CustomerNote" : "",
+         "CustomerAddress" : "CENSORED",
+         "CustomerCity" : "Phuket "
+      }
+   ],
+   "TotalCurrency" : "USD",
+   "Channel" : "htrv",
+   "IsCancellation" : false,
+   "MyallocatorModificationTime" : "10:10:07",
+   "TotalPrice" : "165.76",
+   "StartDate" : "2017-10-12"
+}

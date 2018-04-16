@@ -1,0 +1,69 @@
+{
+   "MyallocatorCreationDate" : "2018-04-13",
+   "MarkedAsRead" : false,
+   "MyallocatorId" : "95d453a95f5b8d65e332f644c",
+   "Rooms" : [
+      {
+         "EndDate" : "2018-10-03",
+         "MyallocatorRateplanIds" : [],
+         "RoomTypeIds" : [
+            91110
+         ],
+         "RoomDesc" : "Green Mountains, - Ski Lifts Are Now OPEN",
+         "Price" : 1461.03,
+         "DayRates" : [
+            {
+               "Rate" : 500,
+               "Description" : "Refundable Rate",
+               "Currency" : "CAD",
+               "Date" : "2018-10-02",
+               "RateId" : null
+            },
+            {
+               "RateId" : null,
+               "Date" : "2018-10-03",
+               "Rate" : 500,
+               "Description" : "Refundable Rate",
+               "Currency" : "CAD"
+            }
+         ],
+         "Units" : "1",
+         "RateId" : "",
+         "RateDesc" : "",
+         "ChannelRoomType" : "413543",
+         "StartDate" : "2018-10-02"
+      }
+   ],
+   "IsCancellation" : false,
+   "Channel" : "cs",
+   "TotalCurrency" : "CAD",
+   "Customers" : [
+      {
+         "CustomerFName" : "Ethan",
+         "CustomerEmail" : "ethan.hall@mail.com",
+         "CustomerPhone" : "147832270701",
+         "CustomerAddress" : "CENSORED",
+         "CustomerNote" : "CENSORED",
+         "CustomerCity" : "Waterdown",
+         "CustomerLName" : "Hall",
+         "CustomerCountry" : "CA",
+         "CustomerPostCode" : "L8B 0C1",
+         "CustomerCompany" : ""
+      }
+   ],
+   "StartDate" : "2018-10-02",
+   "MyallocatorModificationTime" : "20:34:13",
+   "TotalPrice" : "1461.03",
+   "OrderTime" : "20:06:44",
+   "EndDate" : "2018-10-03",
+   "MyallocatorModificationDate" : "2018-04-13",
+   "PropertyId" : "99219",
+   "Version" : 0,
+   "OrderDate" : "2018-04-13",
+   "IsModification" : false,
+   "OrderAdults" : 12,
+   "MyallocatorCreationTime" : "20:34:13",
+   "Acknowledged" : false,
+   "OrderChildren" : 0,
+   "OrderId" : "277478"
+}

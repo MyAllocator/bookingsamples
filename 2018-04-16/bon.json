@@ -1,0 +1,66 @@
+{
+   "Rooms" : [
+      {
+         "RateDesc" : "",
+         "ChannelRoomType" : "31044",
+         "StartDate" : "2018-03-01",
+         "Currency" : "USD",
+         "Units" : "1",
+         "RateId" : "31110",
+         "DayRates" : [
+            {
+               "Date" : "2018-03-01",
+               "RateId" : "31110",
+               "Rate" : "94.0500",
+               "Description" : "[31110] Double Room Non-refundable Room only "
+            },
+            {
+               "Description" : "[31110] Double Room Non-refundable Room only ",
+               "Rate" : "94.0500",
+               "Date" : "2018-03-02",
+               "RateId" : "31110"
+            }
+         ],
+         "MyallocatorRateplanIds" : [],
+         "EndDate" : "2018-03-02",
+         "RoomTypeIds" : [
+            126072
+         ],
+         "RoomDesc" : "Double Room",
+         "Price" : 188.1
+      }
+   ],
+   "MyallocatorId" : "17bd090f93f6eacb68e410f0d",
+   "MarkedAsRead" : true,
+   "MyallocatorCreationDate" : "2018-03-01",
+   "OrderCustomers" : 2,
+   "TotalPrice" : "188.10",
+   "MyallocatorModificationTime" : "21:08:21",
+   "StartDate" : "2018-03-01",
+   "TotalCurrency" : "USD",
+   "Customers" : [
+      {
+         "CustomerCountry" : "GB",
+         "CustomerPhone" : "63580246369",
+         "CustomerNote" : "",
+         "CustomerFName" : "Jacob",
+         "CustomerLName" : "Jackson",
+         "CustomerEmail" : "jacob.jackson@gmail.com"
+      }
+   ],
+   "IsCancellation" : false,
+   "Channel" : "bon",
+   "OrderDate" : "2018-03-01",
+   "Version" : 0,
+   "PaymentCollect" : "Property",
+   "PropertyId" : "56189",
+   "MyallocatorModificationDate" : "2018-03-01",
+   "EndDate" : "2018-03-02",
+   "OrderTime" : "20:47:50",
+   "OrderChildren" : "0",
+   "OrderId" : "d60hb9dyl2ahslmmdk25ruyi",
+   "Acknowledged" : false,
+   "MyallocatorCreationTime" : "21:08:21",
+   "OrderAdults" : "2",
+   "IsModification" : false
+}

@@ -1,0 +1,54 @@
+{
+   "EndDate" : "2018-08-12",
+   "TotalTaxesCurrency" : "USD",
+   "OrderTime" : "07:55:58",
+   "Version" : 0,
+   "OrderDate" : "2018-04-16",
+   "MyallocatorModificationDate" : "2018-04-16",
+   "PropertyId" : "57560",
+   "MyallocatorCreationTime" : "12:56:59",
+   "IsModification" : false,
+   "OrderId" : "233873631",
+   "Acknowledged" : false,
+   "ma_callback_qbid" : 15006007,
+   "MarkedAsRead" : false,
+   "MyallocatorId" : "e040e6fafe4777f478d45e8ee",
+   "MyallocatorCreationDate" : "2018-04-16",
+   "Rooms" : [
+      {
+         "RoomTypeIds" : [
+            64403
+         ],
+         "RoomDesc" : "04) King with Private Bath",
+         "Price" : 554.6165,
+         "EndDate" : "2018-08-12",
+         "MyallocatorRateplanIds" : [],
+         "Adults" : 2,
+         "Units" : "1",
+         "Children" : 0,
+         "ChannelRoomType" : "70104",
+         "StartDate" : "2018-08-11"
+      }
+   ],
+   "TotalTaxes" : 71.8165,
+   "Customers" : [
+      {
+         "CustomerPostCode" : null,
+         "CustomerCountry" : null,
+         "CustomerLName" : "Taylor",
+         "CustomerNote" : "",
+         "CustomerAddress" : null,
+         "CustomerCity" : null,
+         "CustomerPhone" : "267486258807",
+         "CustomerEmail" : "benjamin.taylor@zoho.com",
+         "CustomerFName" : "Benjamin"
+      }
+   ],
+   "TotalCurrency" : "USD",
+   "IsCancellation" : false,
+   "Channel" : "bnb2",
+   "MyallocatorModificationTime" : "12:56:59",
+   "TotalPrice" : "554.62",
+   "OrderSource" : "Expedia - Hotels.com",
+   "StartDate" : "2018-08-11"
+}

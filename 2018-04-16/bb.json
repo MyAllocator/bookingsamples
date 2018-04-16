@@ -1,0 +1,41 @@
+{
+   "TotalPrice" : "68.00",
+   "MyallocatorModificationTime" : "14:03:36",
+   "StartDate" : "2017-10-15",
+   "TotalCurrency" : "EUR",
+   "Customers" : [
+      {
+         "CustomerNote" : "",
+         "CustomerLName" : "Brown"
+      }
+   ],
+   "Channel" : "bb",
+   "IsCancellation" : false,
+   "Rooms" : [
+      {
+         "Units" : "1",
+         "Currency" : "EUR",
+         "StartDate" : "2017-10-15",
+         "ChannelRoomType" : null,
+         "Occupancy" : "2",
+         "RoomTypeIds" : [
+            -1
+         ],
+         "Price" : "68.00",
+         "MyallocatorRateplanIds" : [],
+         "EndDate" : "2017-10-15"
+      }
+   ],
+   "MyallocatorId" : "64d8b78201d6c574174f78ba4",
+   "MarkedAsRead" : false,
+   "MyallocatorCreationDate" : "2017-10-09",
+   "OrderId" : "535879",
+   "Acknowledged" : false,
+   "MyallocatorCreationTime" : "14:03:36",
+   "IsModification" : false,
+   "OrderDate" : "2017-10-09",
+   "Version" : 0,
+   "PropertyId" : "9139",
+   "MyallocatorModificationDate" : "2017-10-09",
+   "EndDate" : "2017-10-15"
+}

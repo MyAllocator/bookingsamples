@@ -1,0 +1,61 @@
+{
+   "MyallocatorCreationTime" : "12:45:56",
+   "OrderAdults" : 1,
+   "IsModification" : false,
+   "OrderId" : "ih7g88j95dk9unjj",
+   "OrderChildren" : 0,
+   "Acknowledged" : true,
+   "EndDate" : "2018-04-16",
+   "OrderTime" : "06:15:46 PM",
+   "Deposit" : "854.01",
+   "OrderDate" : "2018-04-16",
+   "Discounts" : [
+      {
+         "EndDate" : "2018-04-16",
+         "Discount" : 94.99,
+         "IncludedInTotal" : true,
+         "StartDate" : "2018-04-16",
+         "Description" : "BEATTHEHEAT ",
+         "Currency" : "INR"
+      }
+   ],
+   "Version" : 0,
+   "PropertyId" : "88136",
+   "MyallocatorModificationDate" : "2018-04-16",
+   "Customers" : [
+      {
+         "CustomerPhone" : "8301177097058",
+         "CustomerCountry" : "India",
+         "CustomerNote" : "",
+         "CustomerLName" : "Abeln",
+         "CustomerFName" : "Olivia",
+         "CustomerEmail" : "olivia.abeln@hushmail.com"
+      }
+   ],
+   "DepositCurrency" : "INR",
+   "TotalCurrency" : "INR",
+   "Channel" : "pand",
+   "IsCancellation" : false,
+   "Balance" : "0.00",
+   "TotalPrice" : "949.00",
+   "BalanceCurrency" : "INR",
+   "MyallocatorModificationTime" : "12:45:56",
+   "StartDate" : "2018-04-16",
+   "MyallocatorId" : "9a57181b4c4cfe11ecdfa9c43",
+   "MarkedAsRead" : false,
+   "MyallocatorCreationDate" : "2018-04-16",
+   "Rooms" : [
+      {
+         "RoomDesc" : "8 Bed Mix",
+         "Price" : "949.00",
+         "RoomTypeIds" : [
+            128713
+         ],
+         "EndDate" : "2018-04-16",
+         "MyallocatorRateplanIds" : [],
+         "StartDate" : "2018-04-16",
+         "ChannelRoomType" : "7",
+         "Units" : "1"
+      }
+   ]
+}

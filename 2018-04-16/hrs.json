@@ -1,0 +1,65 @@
+{
+   "Version" : 0,
+   "OrderDate" : "2018-04-16",
+   "MyallocatorModificationDate" : "2018-04-16",
+   "PropertyId" : "39812",
+   "EndDate" : "2018-04-24",
+   "OrderTime" : "15:14:00",
+   "OrderChildren" : 0,
+   "OrderId" : "681690010",
+   "Acknowledged" : false,
+   "MyallocatorCreationTime" : "13:19:48",
+   "IsModification" : false,
+   "OrderAdults" : 1,
+   "Rooms" : [
+      {
+         "Currency" : "EUR",
+         "RateDesc" : "",
+         "StartDate" : "2018-04-24",
+         "ChannelRoomType" : "skrpyp",
+         "Units" : "1",
+         "RateId" : "",
+         "DayRates" : [
+            {
+               "Currency" : "EUR",
+               "Description" : "HRS rate",
+               "Rate" : "100",
+               "Date" : "2018-04-24"
+            }
+         ],
+         "Breakfast" : true,
+         "RoomTypeIds" : [
+            82847
+         ],
+         "Price" : 100,
+         "RoomDesc" : "Single Room",
+         "MyallocatorRateplanIds" : [],
+         "EndDate" : "2018-04-24"
+      }
+   ],
+   "MarkedAsRead" : false,
+   "MyallocatorId" : "d998bec631d0d4f585110c70d",
+   "MyallocatorCreationDate" : "2018-04-16",
+   "MyallocatorModificationTime" : "13:19:48",
+   "TotalPrice" : "100.00",
+   "StartDate" : "2018-04-24",
+   "TotalCurrency" : "EUR",
+   "Customers" : [
+      {
+         "CustomerBirthday" : null,
+         "CustomerPhone" : null,
+         "CustomerNote" : "",
+         "CustomerCity" : "90000 BELFORT",
+         "CustomerAddress" : "CENSORED",
+         "CustomerTitle" : "MR",
+         "CustomerFName" : "Liam",
+         "CustomerEmail" : null,
+         "CustomerCountry" : "fra",
+         "CustomerCompany" : "CENSORED",
+         "CustomerPostCode" : null,
+         "CustomerLName" : "Cain"
+      }
+   ],
+   "IsCancellation" : false,
+   "Channel" : "hrs"
+}

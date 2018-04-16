@@ -1,0 +1,54 @@
+{
+   "TotalPrice" : "1796.00",
+   "MyallocatorModificationTime" : "18:10:04",
+   "StartDate" : "2018-06-11",
+   "TotalCurrency" : "INR",
+   "Customers" : [
+      {
+         "CustomerLName" : "Martinez",
+         "CustomerNote" : ""
+      }
+   ],
+   "Channel" : "clt",
+   "IsCancellation" : false,
+   "Rooms" : [
+      {
+         "RateId" : "5378598",
+         "Units" : "1",
+         "Children" : "0",
+         "RateDesc" : "1Bed in a 4Bed Dormitory Room (Sell, 13/11/2017 - 28/03/2020)",
+         "StartDate" : "2018-06-11",
+         "ChannelRoomType" : "11967529609",
+         "RoomDesc" : "4-Bed Dormitory Room",
+         "RoomTypeIds" : [
+            127843,
+            127844,
+            127845,
+            130038,
+            130039
+         ],
+         "Breakfast" : null,
+         "OccupantNote" : "",
+         "MyallocatorRateplanIds" : [],
+         "EndDate" : "2018-06-14",
+         "Adults" : "1",
+         "DayRates" : []
+      }
+   ],
+   "TotalTaxes" : "0.0",
+   "MyallocatorId" : "81bffe48d22aa9d6f361abeeb",
+   "MarkedAsRead" : false,
+   "MyallocatorCreationDate" : "2018-04-15",
+   "OrderId" : "23762688963",
+   "Acknowledged" : false,
+   "CommissionIncludedInTotal" : true,
+   "MyallocatorCreationTime" : "18:10:04",
+   "IsModification" : false,
+   "OrderDate" : "2018-04-15",
+   "Version" : 0,
+   "PropertyId" : "63794",
+   "MyallocatorModificationDate" : "2018-04-15",
+   "EndDate" : "2018-06-14",
+   "OrderTime" : "23:37:44",
+   "TotalTaxesCurrency" : "INR"
+}

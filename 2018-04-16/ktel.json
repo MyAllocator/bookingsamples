@@ -1,0 +1,42 @@
+{
+   "Version" : 0,
+   "OrderDate" : "2018-01-16",
+   "MyallocatorModificationDate" : "2018-01-16",
+   "PropertyId" : "61356",
+   "EndDate" : "2018-02-22",
+   "OrderTime" : "12:09:00",
+   "OrderId" : "56849452",
+   "Acknowledged" : false,
+   "MyallocatorCreationTime" : "11:13:25",
+   "IsModification" : false,
+   "Rooms" : [
+      {
+         "EndDate" : "2018-02-22",
+         "MyallocatorRateplanIds" : [],
+         "Price" : "60.0",
+         "RoomDesc" : "Twin (2 beds)",
+         "RoomTypeIds" : [
+            108279
+         ],
+         "Units" : "1",
+         "ChannelRoomType" : "HL",
+         "StartDate" : "2018-02-22",
+         "Currency" : "EUR"
+      }
+   ],
+   "MarkedAsRead" : false,
+   "MyallocatorId" : "2be7c24365751dd4c82e8c283",
+   "MyallocatorCreationDate" : "2018-01-16",
+   "MyallocatorModificationTime" : "11:13:25",
+   "TotalPrice" : "59.99",
+   "StartDate" : "2018-02-22",
+   "TotalCurrency" : "EUR",
+   "Customers" : [
+      {
+         "CustomerLName" : "Taylor",
+         "CustomerNote" : ""
+      }
+   ],
+   "IsCancellation" : false,
+   "Channel" : "ktel"
+}

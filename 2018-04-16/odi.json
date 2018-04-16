@@ -1,0 +1,55 @@
+{
+   "StartDate" : "2018-05-09",
+   "TotalPrice" : "43.84",
+   "MyallocatorModificationTime" : "20:20:09",
+   "Channel" : "odi",
+   "IsCancellation" : false,
+   "Customers" : [
+      {
+         "CustomerPhone" : "203409509414",
+         "CustomerAddress" : "CENSORED",
+         "CustomerNote" : "",
+         "CustomerCity" : "Barcelona",
+         "CustomerState" : "Barcelona",
+         "CustomerFName" : "Noah",
+         "CustomerEmail" : "noah.smith@aol.com",
+         "CustomerCountry" : "ES",
+         "CustomerPostCode" : "08009",
+         "CustomerLName" : "Smith"
+      }
+   ],
+   "TotalCurrency" : "EUR",
+   "Rooms" : [
+      {
+         "RoomTypeIds" : [
+            1123
+         ],
+         "Price" : "43.85",
+         "RoomDesc" : "6 Bed Dorm",
+         "EndDate" : "2018-05-10",
+         "MyallocatorRateplanIds" : [],
+         "Adults" : "1",
+         "Units" : "1",
+         "Currency" : "EUR",
+         "ChannelRoomType" : "l8g1fylej",
+         "StartDate" : "2018-05-09"
+      }
+   ],
+   "OrderCustomers" : 1,
+   "MyallocatorCreationDate" : "2018-04-15",
+   "MyallocatorId" : "ada35086f251ef2babc29fedf",
+   "MarkedAsRead" : false,
+   "ma_callback_qbid" : 14976166,
+   "Acknowledged" : false,
+   "MyallocatorCreditCardDetailsPresent" : true,
+   "OrderId" : "83a54b0f1a3f55c4",
+   "OrderChildren" : 1,
+   "IsModification" : false,
+   "MyallocatorCreationTime" : "20:20:09",
+   "PropertyId" : "172",
+   "MyallocatorModificationDate" : "2018-04-15",
+   "OrderDate" : "2018-04-15",
+   "Version" : 0,
+   "OrderTime" : "20:19:52",
+   "EndDate" : "2018-05-10"
+}

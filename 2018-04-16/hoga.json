@@ -1,0 +1,69 @@
+{
+   "OrderId" : "v71wdnen8x5l7xyy9unuqi9g4spv37tllri9",
+   "Acknowledged" : false,
+   "MyallocatorCreationTime" : "10:39:45",
+   "IsModification" : false,
+   "Version" : 0,
+   "OrderDate" : "2018-04-16",
+   "MyallocatorModificationDate" : "2018-04-16",
+   "PropertyId" : "9752",
+   "EndDate" : "2018-05-05",
+   "OrderTime" : "12:35:17",
+   "Deposit" : "33.00",
+   "BalanceCurrency" : "EUR",
+   "MyallocatorModificationTime" : "10:39:45",
+   "TotalPrice" : "330.00",
+   "StartDate" : "2018-05-04",
+   "Customers" : [
+      {
+         "CustomerLName" : "Smith",
+         "CustomerCountry" : "de",
+         "CustomerCompany" : null,
+         "CustomerPostCode" : null,
+         "CustomerFName" : "Noah",
+         "CustomerEmail" : "noah.smith@mail.com",
+         "CustomerPhone" : "87045653199",
+         "CustomerNote" : "",
+         "CustomerAddress" : null,
+         "CustomerCity" : "M\u00fcnchen "
+      }
+   ],
+   "DepositCurrency" : "EUR",
+   "TotalCurrency" : "EUR",
+   "IsCancellation" : false,
+   "Channel" : "hoga",
+   "Balance" : "297.00",
+   "Rooms" : [
+      {
+         "EndDate" : "2018-05-05",
+         "MyallocatorRateplanIds" : [],
+         "RoomTypeIds" : [
+            5177
+         ],
+         "Price" : "330.00",
+         "RoomDesc" : "Bett im Gemischten Schlafsaal mit 6 Betten - Habitaci\u00f3n Compartida Mixta de 6 camas con ba\u00f1o privado (Habitaci&oacute;n Compartida Mixta de 6 camas con ba&ntilde;o privado)",
+         "DayRates" : [
+            {
+               "Date" : "2018-05-04",
+               "Currency" : "EUR",
+               "Description" : null,
+               "Rate" : "33.00"
+            },
+            {
+               "Currency" : "EUR",
+               "Description" : null,
+               "Rate" : "33.00",
+               "Date" : "2018-05-05"
+            }
+         ],
+         "Units" : "5",
+         "RateId" : "",
+         "ChannelRoomType" : "2nolt1kbrnwxzenw1jjd7g4ak0vbopvdfr0u",
+         "StartDate" : "2018-05-04",
+         "RateDesc" : ""
+      }
+   ],
+   "MarkedAsRead" : true,
+   "MyallocatorId" : "ff845d4da8e25b1ea2e75e460",
+   "MyallocatorCreationDate" : "2018-04-16"
+}

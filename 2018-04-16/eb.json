@@ -1,0 +1,43 @@
+{
+   "MyallocatorCreationDate" : "2018-04-15",
+   "MarkedAsRead" : false,
+   "MyallocatorId" : "75dc3be403d58ddcc78de726f",
+   "Rooms" : [
+      {
+         "Units" : "1",
+         "ChannelRoomType" : "7621",
+         "StartDate" : "2018-04-19",
+         "Currency" : "GBP",
+         "MyallocatorRateplanIds" : [],
+         "EndDate" : "2018-04-19",
+         "RoomTypeIds" : [
+            9808
+         ],
+         "RoomDesc" : "Prospect",
+         "Price" : 75
+      }
+   ],
+   "IsCancellation" : false,
+   "Channel" : "eb",
+   "TotalCurrency" : "GBP",
+   "Customers" : [
+      {
+         "CustomerNote" : "",
+         "CustomerEmail" : "williams@yahoo.com",
+         "CustomerLName" : "Williams"
+      }
+   ],
+   "StartDate" : "2018-04-19",
+   "MyallocatorModificationTime" : "20:43:13",
+   "TotalPrice" : "75.00",
+   "OrderTime" : "21:33:00",
+   "EndDate" : "2018-04-19",
+   "MyallocatorModificationDate" : "2018-04-15",
+   "PropertyId" : "5397",
+   "Version" : 0,
+   "OrderDate" : "2018-04-15",
+   "IsModification" : false,
+   "MyallocatorCreationTime" : "20:43:13",
+   "Acknowledged" : false,
+   "OrderId" : "5985065"
+}

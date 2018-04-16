@@ -1,0 +1,101 @@
+{
+   "IsCancellation" : false,
+   "Channel" : "hhb",
+   "DepositDue" : "100.00",
+   "Customers" : [
+      {
+         "CustomerLName" : "Martinez",
+         "CustomerCompany" : "",
+         "CustomerPostCode" : "",
+         "CustomerCountry" : "br",
+         "CustomerEmail" : "elijah.martinez@outlook.com",
+         "CustomerFName" : "Elijah",
+         "CustomerNote" : "",
+         "CustomerCity" : "",
+         "CustomerAddress" : "CENSORED",
+         "CustomerPhone" : "19876215678"
+      }
+   ],
+   "TotalCurrency" : "BRL",
+   "Commission" : 0,
+   "StartDate" : "2018-03-23",
+   "TotalPrice" : "200.00",
+   "MyallocatorModificationTime" : "13:28:33",
+   "MyallocatorCreationDate" : "2018-03-14",
+   "MyallocatorId" : "5ed6e2be76357daee6f1cacdd",
+   "MarkedAsRead" : true,
+   "TotalTaxes" : 0,
+   "CommissionCurrency" : "BRL",
+   "Rooms" : [
+      {
+         "Price" : "200.00",
+         "RoomDesc" : "coletivo 4 camas fem/ 4 bed dorm",
+         "OccupantNote" : "",
+         "MyallocatorRateplanIds" : [],
+         "DayRates" : [
+            {
+               "Rate" : 40,
+               "Description" : null,
+               "Date" : "2018-03-23",
+               "RateId" : "38301"
+            },
+            {
+               "Description" : null,
+               "Rate" : 40,
+               "RateId" : "38301",
+               "Date" : "2018-03-24"
+            },
+            {
+               "RateId" : "38301",
+               "Date" : "2018-03-25",
+               "Description" : null,
+               "Rate" : 30
+            },
+            {
+               "Description" : null,
+               "Rate" : 30,
+               "Date" : "2018-03-26",
+               "RateId" : "38301"
+            },
+            {
+               "Description" : null,
+               "Rate" : 30,
+               "RateId" : "38301",
+               "Date" : "2018-03-27"
+            },
+            {
+               "Date" : "2018-03-28",
+               "RateId" : "38301",
+               "Rate" : 30,
+               "Description" : null
+            }
+         ],
+         "RateId" : "38301",
+         "Policy" : "",
+         "OccupantLName" : "",
+         "Occupancy" : 1,
+         "StartDate" : "2018-03-23",
+         "ChannelRoomType" : "31734",
+         "RoomTypeIds" : [
+            4925
+         ],
+         "OccupantFName" : "",
+         "EndDate" : "2018-03-28",
+         "Units" : "1",
+         "Currency" : "BRL",
+         "RateDesc" : ""
+      }
+   ],
+   "IsModification" : false,
+   "MyallocatorCreationTime" : "13:28:33",
+   "Acknowledged" : true,
+   "OrderId" : "5298772018",
+   "TotalTaxesCurrency" : "BRL",
+   "Deposit" : "0.00",
+   "OrderTime" : "13:28:13",
+   "EndDate" : "2018-03-28",
+   "PropertyId" : "2969",
+   "MyallocatorModificationDate" : "2018-03-14",
+   "OrderDate" : "2018-03-14",
+   "Version" : 0
+}

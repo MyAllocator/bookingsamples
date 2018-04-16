@@ -1,0 +1,64 @@
+{
+   "OrderId" : "2ovns1zq0amg08f1bmi5l55",
+   "Acknowledged" : false,
+   "MyallocatorCreationTime" : "20:31:55",
+   "IsModification" : false,
+   "Version" : 0,
+   "OrderDate" : "2018-04-10",
+   "MyallocatorModificationDate" : "2018-04-10",
+   "PropertyId" : "386",
+   "EndDate" : "2018-04-29",
+   "Deposit" : 16,
+   "OrderTime" : "21:38:44",
+   "BalanceCurrency" : "EUR",
+   "MyallocatorModificationTime" : "20:31:55",
+   "TotalPrice" : "160.00",
+   "StartDate" : "2018-04-28",
+   "Commission" : 16,
+   "Customers" : [
+      {
+         "CustomerLName" : "Garcia",
+         "CustomerFName" : "Abigail",
+         "CustomerEmail" : "abigail.garcia@yahoo.com",
+         "CustomerNote" : ""
+      }
+   ],
+   "DepositCurrency" : "EUR",
+   "TotalCurrency" : "EUR",
+   "IsCancellation" : false,
+   "Channel" : "hcu2",
+   "Balance" : 144,
+   "Rooms" : [
+      {
+         "RateId" : "",
+         "Units" : "2",
+         "RateDesc" : "",
+         "StartDate" : "2018-04-28",
+         "ChannelRoomType" : "2022",
+         "Currency" : "EUR",
+         "MyallocatorRateplanIds" : [],
+         "EndDate" : "2018-04-29",
+         "RoomDesc" : "4 Bed Mixed Ensuite",
+         "Price" : 80,
+         "RoomTypeIds" : [
+            1765
+         ],
+         "DayRates" : [
+            {
+               "Date" : "2018-04-28",
+               "Rate" : "40.00",
+               "Description" : "Refundable Rate"
+            },
+            {
+               "Description" : "Refundable Rate",
+               "Rate" : "40.00",
+               "Date" : "2018-04-29"
+            }
+         ]
+      }
+   ],
+   "CommissionCurrency" : "EUR",
+   "MarkedAsRead" : false,
+   "MyallocatorId" : "848d78fd6b2fa76e57a8cd5f9",
+   "MyallocatorCreationDate" : "2018-04-10"
+}
