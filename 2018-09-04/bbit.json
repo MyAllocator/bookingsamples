@@ -1,0 +1,45 @@
+{
+   "TotalCurrency" : "EUR",
+   "EndDate" : "2018-09-06",
+   "Customers" : [
+      {
+         "CustomerNote" : "",
+         "CustomerPhone" : "5300044454",
+         "CustomerFName" : "Mason",
+         "CustomerEmail" : "mason.davis@inbox.com",
+         "CustomerLName" : "Davis"
+      }
+   ],
+   "PropertyId" : "71919",
+   "Rooms" : [
+      {
+         "RoomDesc" : "",
+         "EndDate" : "2018-09-06",
+         "Units" : "1",
+         "MyallocatorRateplanIds" : [],
+         "StartDate" : "2018-09-04",
+         "ChannelRoomType" : "97158",
+         "RoomTypeIds" : [
+            116418
+         ]
+      }
+   ],
+   "IsModification" : false,
+   "MarkedAsRead" : true,
+   "MyallocatorModificationDate" : "2018-09-02",
+   "MyallocatorCreationTime" : "20:54:33",
+   "OrderDate" : "2018-09-02",
+   "Version" : 0,
+   "Acknowledged" : true,
+   "IsTentative" : 0,
+   "TotalPrice" : "166.00",
+   "MyallocatorPIIRemoved" : null,
+   "OrderId" : "609907743",
+   "MyallocatorModificationTime" : "20:54:33",
+   "MyallocatorId" : "0eb0bee036cfc3885cf7da576",
+   "IsCancellation" : false,
+   "MyallocatorCreationDate" : "2018-09-02",
+   "Channel" : "bbit",
+   "StartDate" : "2018-09-04",
+   "OrderTime" : "22:53:24"
+}

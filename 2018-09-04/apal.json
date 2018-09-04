@@ -1,0 +1,83 @@
+{
+   "Channel" : "apal",
+   "StartDate" : "2018-12-02",
+   "OrderTime" : "14:30:35",
+   "MyallocatorCreationDate" : "2018-08-25",
+   "IsCancellation" : false,
+   "MyallocatorId" : "101dc8a2d6f5e1876908c75bc",
+   "MyallocatorModificationTime" : "17:38:28",
+   "MyallocatorPIIRemoved" : null,
+   "OrderId" : "pi6004ank2",
+   "TotalPrice" : "6881.29",
+   "BalanceCurrency" : "ARS",
+   "IsTentative" : 0,
+   "Acknowledged" : true,
+   "OrderDate" : "2018-08-25",
+   "Version" : 0,
+   "MyallocatorCreationTime" : "17:38:28",
+   "MyallocatorModificationDate" : "2018-08-25",
+   "MarkedAsRead" : true,
+   "IsModification" : false,
+   "Balance" : "6881.29",
+   "Rooms" : [
+      {
+         "RateDesc" : "",
+         "StartDate" : "2018-12-02",
+         "EndDate" : "2018-12-07",
+         "Units" : "1",
+         "MyallocatorRateplanIds" : [],
+         "RoomDesc" : "",
+         "RoomTypeIds" : [
+            4958
+         ],
+         "RateId" : "",
+         "Adults" : 2,
+         "DayRates" : [
+            {
+               "Date" : "2018-12-02",
+               "Rate" : 1374.81,
+               "Currency" : "ARS",
+               "Description" : null
+            },
+            {
+               "Date" : "2018-12-03",
+               "Rate" : 1376.62,
+               "Currency" : "ARS",
+               "Description" : null
+            },
+            {
+               "Date" : "2018-12-04",
+               "Rate" : 1376.62,
+               "Currency" : "ARS",
+               "Description" : null
+            },
+            {
+               "Description" : null,
+               "Currency" : "ARS",
+               "Rate" : 1376.62,
+               "Date" : "2018-12-05"
+            },
+            {
+               "Description" : null,
+               "Currency" : "ARS",
+               "Rate" : 1376.62,
+               "Date" : "2018-12-06"
+            }
+         ],
+         "Breakfast" : false,
+         "Children" : 0,
+         "ChannelRoomType" : "7"
+      }
+   ],
+   "PropertyId" : "5479",
+   "Customers" : [
+      {
+         "CustomerEmail" : "abeln@outlook.com",
+         "CustomerLName" : "Abeln",
+         "CustomerNote" : "CENSORED",
+         "CustomerPhone" : "40135022769303"
+      }
+   ],
+   "EndDate" : "2018-12-07",
+   "TotalCurrency" : "ARS"
+}

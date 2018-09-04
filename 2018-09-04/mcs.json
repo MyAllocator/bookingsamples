@@ -1,0 +1,80 @@
+{
+   "IsTentative" : 0,
+   "TotalPrice" : "150.00",
+   "Deposit" : "0.00",
+   "MyallocatorPIIRemoved" : null,
+   "OrderId" : "2816977857",
+   "MyallocatorModificationTime" : "18:21:11",
+   "MyallocatorId" : "c02813420b20785de7c482112",
+   "DepositDue" : "0.00",
+   "IsCancellation" : false,
+   "MyallocatorCreationDate" : "2018-09-02",
+   "Channel" : "mcs",
+   "StartDate" : "2018-09-03",
+   "TotalTaxes" : 0,
+   "OrderTime" : "18:21:08",
+   "TotalCurrency" : "EUR",
+   "Commission" : 0,
+   "Customers" : [
+      {
+         "CustomerPhone" : "690692458",
+         "CustomerCity" : "",
+         "CustomerCountry" : "es",
+         "CustomerCompany" : "",
+         "CustomerLName" : "Jackson",
+         "CustomerFName" : "Jacob",
+         "CustomerEmail" : "jacob.jackson@hushmail.com",
+         "CustomerAddress" : "CENSORED",
+         "CustomerNote" : "",
+         "CustomerPostCode" : ""
+      }
+   ],
+   "EndDate" : "2018-09-04",
+   "MyallocatorCreditCardDetailsPresent" : true,
+   "PropertyId" : "18596",
+   "Rooms" : [
+      {
+         "RoomDesc" : "",
+         "Units" : "1",
+         "MyallocatorRateplanIds" : [],
+         "OccupantFName" : "",
+         "EndDate" : "2018-09-04",
+         "RateDesc" : "",
+         "ChannelRoomType" : "81542",
+         "Price" : "150.00",
+         "OccupantLName" : "",
+         "OccupantNote" : "",
+         "Policy" : "",
+         "StartDate" : "2018-09-03",
+         "Occupancy" : 3,
+         "Currency" : "EUR",
+         "DayRates" : [
+            {
+               "Description" : null,
+               "RateId" : "30137",
+               "Rate" : 75,
+               "Date" : "2018-09-03"
+            },
+            {
+               "Date" : "2018-09-04",
+               "Rate" : 75,
+               "RateId" : "30137",
+               "Description" : null
+            }
+         ],
+         "RateId" : "30137",
+         "RoomTypeIds" : [
+            58334
+         ]
+      }
+   ],
+   "IsModification" : false,
+   "MarkedAsRead" : true,
+   "MyallocatorModificationDate" : "2018-09-02",
+   "CommissionCurrency" : "EUR",
+   "MyallocatorCreationTime" : "18:21:11",
+   "OrderDate" : "2018-09-02",
+   "Version" : 0,
+   "TotalTaxesCurrency" : "EUR",
+   "Acknowledged" : false
+}

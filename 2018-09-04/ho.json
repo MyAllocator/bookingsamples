@@ -1,0 +1,86 @@
+{
+   "MyallocatorCreationDate" : "2018-09-04",
+   "Channel" : "ho",
+   "StartDate" : "2018-10-01",
+   "TotalTaxes" : 0,
+   "OrderTime" : "14:29:43",
+   "IsCancellation" : false,
+   "MyallocatorModificationTime" : "14:29:45",
+   "MyallocatorId" : "0a70fe83da6c37ce8be20a97d",
+   "DepositDue" : "74.58",
+   "TotalPrice" : "223.74",
+   "Deposit" : "0.00",
+   "IsTentative" : 0,
+   "MyallocatorPIIRemoved" : null,
+   "OrderId" : "4636524009",
+   "TotalTaxesCurrency" : "EUR",
+   "Version" : 0,
+   "OrderDate" : "2018-09-04",
+   "Acknowledged" : false,
+   "MarkedAsRead" : false,
+   "CommissionCurrency" : "EUR",
+   "MyallocatorCreationTime" : "14:29:45",
+   "MyallocatorModificationDate" : "2018-09-04",
+   "EndDate" : "2018-10-03",
+   "Customers" : [
+      {
+         "CustomerAddress" : "CENSORED",
+         "CustomerNote" : "",
+         "CustomerPostCode" : "",
+         "CustomerCompany" : "",
+         "CustomerFName" : "Emily",
+         "CustomerEmail" : "emily.walker@gmx.com",
+         "CustomerLName" : "Walker",
+         "CustomerPhone" : "9490344814",
+         "CustomerCity" : "",
+         "CustomerCountry" : "ca"
+      }
+   ],
+   "Commission" : 0,
+   "MyallocatorCreditCardDetailsPresent" : true,
+   "IsModification" : false,
+   "Rooms" : [
+      {
+         "RoomDesc" : "",
+         "EndDate" : "2018-10-03",
+         "OccupantFName" : "",
+         "MyallocatorRateplanIds" : [],
+         "Units" : "1",
+         "RateDesc" : "",
+         "Price" : "223.74",
+         "ChannelRoomType" : "53105",
+         "OccupantLName" : "",
+         "OccupantNote" : "",
+         "Policy" : "",
+         "StartDate" : "2018-10-01",
+         "Currency" : "EUR",
+         "Occupancy" : 2,
+         "DayRates" : [
+            {
+               "Description" : null,
+               "RateId" : "62161",
+               "Rate" : 74.58,
+               "Date" : "2018-10-01"
+            },
+            {
+               "Date" : "2018-10-02",
+               "Rate" : 74.58,
+               "RateId" : "62161",
+               "Description" : null
+            },
+            {
+               "Rate" : 74.58,
+               "Date" : "2018-10-03",
+               "Description" : null,
+               "RateId" : "62161"
+            }
+         ],
+         "RateId" : "62161",
+         "RoomTypeIds" : [
+            1120
+         ]
+      }
+   ],
+   "PropertyId" : "951",
+   "TotalCurrency" : "EUR"
+}

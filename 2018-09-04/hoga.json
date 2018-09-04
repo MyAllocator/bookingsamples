@@ -1,0 +1,63 @@
+{
+   "Acknowledged" : false,
+   "OrderDate" : "2018-09-04",
+   "Version" : 0,
+   "MyallocatorModificationDate" : "2018-09-04",
+   "MyallocatorCreationTime" : "00:33:56",
+   "MarkedAsRead" : false,
+   "Balance" : "19.80",
+   "Rooms" : [
+      {
+         "StartDate" : "2018-09-25",
+         "RateDesc" : "",
+         "Currency" : "EUR",
+         "RoomDesc" : "",
+         "MyallocatorRateplanIds" : [],
+         "Units" : "1",
+         "EndDate" : "2018-09-25",
+         "RateId" : "",
+         "RoomTypeIds" : [
+            5177
+         ],
+         "ChannelRoomType" : "gleav1g1cgrteprxljc2rsg6maqynu5d1204",
+         "Price" : "22.00",
+         "DayRates" : [
+            {
+               "Currency" : "EUR",
+               "Rate" : "22.00",
+               "Date" : "2018-09-25",
+               "Description" : null
+            }
+         ]
+      }
+   ],
+   "PropertyId" : "4831",
+   "IsModification" : false,
+   "Customers" : [
+      {
+         "CustomerNote" : "",
+         "CustomerPhone" : "2893540946970",
+         "CustomerCity" : "Sao Paulo",
+         "CustomerCountry" : "es",
+         "CustomerLName" : "Hall",
+         "CustomerFName" : "Ethan",
+         "CustomerEmail" : "ethan.hall@aol.com"
+      }
+   ],
+   "EndDate" : "2018-09-25",
+   "TotalCurrency" : "EUR",
+   "OrderTime" : "02:34:16",
+   "Channel" : "hoga",
+   "StartDate" : "2018-09-25",
+   "MyallocatorCreationDate" : "2018-09-04",
+   "IsCancellation" : false,
+   "MyallocatorId" : "c31f11c27c26425a264086f38",
+   "MyallocatorModificationTime" : "00:33:56",
+   "OrderId" : "pknq8tlytu4o4reabflu0g263ximx9xagrb2",
+   "MyallocatorPIIRemoved" : null,
+   "IsTentative" : 0,
+   "DepositCurrency" : "EUR",
+   "Deposit" : "2.20",
+   "BalanceCurrency" : "EUR",
+   "TotalPrice" : "22.00"
+}

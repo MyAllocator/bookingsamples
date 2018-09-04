@@ -1,0 +1,47 @@
+{
+   "Channel" : "ysh",
+   "StartDate" : "2018-09-05",
+   "MyallocatorCreationDate" : "2018-09-04",
+   "IsCancellation" : false,
+   "MyallocatorId" : "f98849627978a3d604632aafe",
+   "MyallocatorModificationTime" : "12:35:01",
+   "OrderId" : "985044017291641",
+   "MyallocatorPIIRemoved" : null,
+   "DepositCurrency" : "EUR",
+   "IsTentative" : 0,
+   "Deposit" : "0.00",
+   "TotalPrice" : "95.00",
+   "Acknowledged" : false,
+   "OrderDate" : "2018-09-04",
+   "Version" : 0,
+   "MyallocatorModificationDate" : "2018-09-04",
+   "MyallocatorCreationTime" : "12:35:01",
+   "MarkedAsRead" : false,
+   "Rooms" : [
+      {
+         "Price" : "95",
+         "ChannelRoomType" : "5874",
+         "RoomTypeIds" : [
+            106298
+         ],
+         "EndDate" : "2018-09-06",
+         "Units" : "1",
+         "MyallocatorRateplanIds" : [],
+         "RoomDesc" : "",
+         "Currency" : "EUR",
+         "StartDate" : "2018-09-05"
+      }
+   ],
+   "PropertyId" : "56005",
+   "IsModification" : false,
+   "Customers" : [
+      {
+         "CustomerNote" : "",
+         "CustomerPhone" : "511742980",
+         "CustomerEmail" : "martinez@zoho.com",
+         "CustomerLName" : "Martinez"
+      }
+   ],
+   "EndDate" : "2018-09-06",
+   "TotalCurrency" : "EUR"
+}

@@ -1,0 +1,65 @@
+{
+   "IsCancellation" : false,
+   "StartDate" : "2018-09-04",
+   "Channel" : "bd",
+   "OrderTime" : "08:22:00",
+   "MyallocatorCreationDate" : "2018-09-04",
+   "MyallocatorPIIRemoved" : null,
+   "OrderId" : "76zwnjv2hi",
+   "OrderChildren" : "0",
+   "TotalPrice" : "108066.20",
+   "IsTentative" : 0,
+   "MyallocatorId" : "9517912adccd9437b9c90ba4d",
+   "MyallocatorModificationTime" : "12:25:27",
+   "MyallocatorCreationTime" : "12:25:27",
+   "MyallocatorModificationDate" : "2018-09-04",
+   "MarkedAsRead" : false,
+   "Acknowledged" : false,
+   "Version" : 0,
+   "OrderDate" : "2018-09-04",
+   "TotalCurrency" : "COP",
+   "IsModification" : false,
+   "PropertyId" : "4982",
+   "Rooms" : [
+      {
+         "StartDate" : "2018-09-04",
+         "Currency" : "COP",
+         "RateId" : "BB",
+         "RoomTypeIds" : [
+            19777
+         ],
+         "OccupantSmoker" : true,
+         "DayRates" : [
+            {
+               "RateId" : "INTER2-5!BB",
+               "Description" : "",
+               "Date" : "2018-09-04",
+               "Currency" : "COP",
+               "Rate" : "108066.2"
+            }
+         ],
+         "RateDesc" : "",
+         "RoomDesc" : "",
+         "Units" : "1",
+         "MyallocatorRateplanIds" : [],
+         "EndDate" : "2018-09-04",
+         "ChannelRoomType" : "LI",
+         "Children" : "0",
+         "Price" : 108066.2,
+         "Adults" : "2",
+         "Breakfast" : true
+      }
+   ],
+   "OrderAdults" : "2",
+   "Customers" : [
+      {
+         "CustomerPhone" : "95013981372820920",
+         "CustomerAddress" : "CENSORED",
+         "CustomerNote" : "",
+         "CustomerCountry" : "MX",
+         "CustomerLName" : "Wilson",
+         "CustomerEmail" : "wilson@hushmail.com"
+      }
+   ],
+   "EndDate" : "2018-09-04"
+}

@@ -1,0 +1,117 @@
+{
+   "MarkedAsRead" : false,
+   "MyallocatorModificationDate" : "2018-09-04",
+   "MyallocatorCreationTime" : "14:33:17",
+   "Version" : 0,
+   "OrderDate" : "2018-09-04",
+   "ExtraServices" : [
+      {
+         "Description" : "",
+         "IncludedInTotal" : "1",
+         "Currency" : "EUR",
+         "Price" : "0.00"
+      }
+   ],
+   "Acknowledged" : false,
+   "TotalCurrency" : "EUR",
+   "Customers" : [
+      {
+         "CustomerLName" : "Moore",
+         "CustomerNote" : ""
+      }
+   ],
+   "EndDate" : "2018-10-12",
+   "PropertyId" : "4204",
+   "Rooms" : [
+      {
+         "RoomDesc" : "",
+         "MyallocatorRateplanIds" : [],
+         "Units" : "1",
+         "EndDate" : "2018-10-12",
+         "RateDesc" : "",
+         "ChannelRoomType" : "001109",
+         "Price" : "74.40",
+         "Children" : "0",
+         "Adults" : "1",
+         "OccupantLName" : "Moore",
+         "StartDate" : "2018-10-05",
+         "Currency" : "EUR",
+         "DayRates" : [
+            {
+               "Currency" : "EUR",
+               "Rate" : "10.8",
+               "Date" : "2018-10-05",
+               "Description" : "",
+               "RateId" : "159538"
+            },
+            {
+               "Rate" : "10.8",
+               "Currency" : "EUR",
+               "Date" : "2018-10-06",
+               "Description" : "",
+               "RateId" : "159538"
+            },
+            {
+               "Description" : "",
+               "RateId" : "159538",
+               "Currency" : "EUR",
+               "Rate" : "8.4",
+               "Date" : "2018-10-07"
+            },
+            {
+               "Date" : "2018-10-08",
+               "Currency" : "EUR",
+               "Rate" : "8.4",
+               "RateId" : "159538",
+               "Description" : ""
+            },
+            {
+               "Date" : "2018-10-09",
+               "Currency" : "EUR",
+               "Rate" : "8.4",
+               "RateId" : "159538",
+               "Description" : ""
+            },
+            {
+               "Date" : "2018-10-10",
+               "Currency" : "EUR",
+               "Rate" : "8.4",
+               "RateId" : "159538",
+               "Description" : ""
+            },
+            {
+               "Description" : "",
+               "RateId" : "159538",
+               "Rate" : "8.4",
+               "Currency" : "EUR",
+               "Date" : "2018-10-11"
+            },
+            {
+               "RateId" : "159538",
+               "Description" : "",
+               "Date" : "2018-10-12",
+               "Rate" : "10.8",
+               "Currency" : "EUR"
+            }
+         ],
+         "RateId" : "159538",
+         "RoomTypeIds" : [
+            26150
+         ]
+      }
+   ],
+   "OrderAdults" : "1",
+   "IsModification" : false,
+   "IsCancellation" : false,
+   "MyallocatorCreationDate" : "2018-09-04",
+   "Channel" : "gta",
+   "StartDate" : "2018-10-05",
+   "OrderTime" : "15:23:34",
+   "IsTentative" : 0,
+   "TotalPrice" : "74.40",
+   "MyallocatorPIIRemoved" : null,
+   "OrderChildren" : "0",
+   "OrderId" : "7umhfno10hrshx",
+   "MyallocatorModificationTime" : "14:33:17",
+   "MyallocatorId" : "d0dd3c14b8f8880d2d196dbea"
+}

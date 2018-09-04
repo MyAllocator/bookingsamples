@@ -1,0 +1,86 @@
+{
+   "MyallocatorPIIRemoved" : null,
+   "OrderId" : "9999054127",
+   "IsTentative" : 0,
+   "TotalPrice" : "56.25",
+   "Deposit" : "0.00",
+   "MyallocatorId" : "54a30c3916b928ec606791699",
+   "MyallocatorModificationTime" : "14:27:30",
+   "DepositDue" : "0.00",
+   "IsCancellation" : false,
+   "TotalTaxes" : 0,
+   "Channel" : "myb",
+   "StartDate" : "2018-10-09",
+   "OrderTime" : "14:15:01",
+   "MyallocatorCreationDate" : "2018-09-04",
+   "TotalCurrency" : "USD",
+   "Rooms" : [
+      {
+         "RoomDesc" : "",
+         "MyallocatorRateplanIds" : [],
+         "OccupantFName" : "",
+         "Units" : "1",
+         "EndDate" : "2018-10-11",
+         "RateDesc" : "",
+         "ChannelRoomType" : "998465",
+         "Price" : "56.25",
+         "OccupantLName" : "",
+         "OccupantNote" : "",
+         "Policy" : "",
+         "StartDate" : "2018-10-09",
+         "Currency" : "USD",
+         "Occupancy" : 1,
+         "DayRates" : [
+            {
+               "Date" : "2018-10-09",
+               "Rate" : 18.75,
+               "RateId" : "195288",
+               "Description" : null
+            },
+            {
+               "Date" : "2018-10-10",
+               "Rate" : 18.75,
+               "RateId" : "195288",
+               "Description" : null
+            },
+            {
+               "Date" : "2018-10-11",
+               "Rate" : 18.75,
+               "RateId" : "195288",
+               "Description" : null
+            }
+         ],
+         "RateId" : "195288",
+         "RoomTypeIds" : [
+            103022
+         ]
+      }
+   ],
+   "PropertyId" : "40472",
+   "IsModification" : false,
+   "Customers" : [
+      {
+         "CustomerPostCode" : "",
+         "CustomerNote" : "",
+         "CustomerAddress" : "CENSORED",
+         "CustomerCountry" : "de",
+         "CustomerCity" : "",
+         "CustomerPhone" : "4396406682614",
+         "CustomerFName" : "Charlotte",
+         "CustomerLName" : "White",
+         "CustomerEmail" : "charlotte.white@lycos.com",
+         "CustomerCompany" : ""
+      }
+   ],
+   "Commission" : 0,
+   "EndDate" : "2018-10-11",
+   "MyallocatorCreditCardDetailsPresent" : true,
+   "MyallocatorModificationDate" : "2018-09-04",
+   "CommissionCurrency" : "USD",
+   "MyallocatorCreationTime" : "14:27:30",
+   "MarkedAsRead" : false,
+   "Acknowledged" : false,
+   "OrderDate" : "2018-09-04",
+   "Version" : 0,
+   "TotalTaxesCurrency" : "USD"
+}

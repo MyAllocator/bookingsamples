@@ -1,0 +1,86 @@
+{
+   "Acknowledged" : false,
+   "OrderDate" : "2018-09-04",
+   "Version" : 0,
+   "CommissionCurrency" : "THB",
+   "PaymentCollect" : "Property",
+   "MyallocatorCreationTime" : "14:35:31",
+   "MyallocatorModificationDate" : "2018-09-04",
+   "MarkedAsRead" : false,
+   "IsModification" : false,
+   "Rooms" : [
+      {
+         "RoomTypeIds" : [
+            133633
+         ],
+         "RateId" : "1028890",
+         "DayRates" : [
+            {
+               "Rate" : "1768",
+               "Currency" : "THB",
+               "Date" : "2018-09-05",
+               "Description" : "",
+               "RateId" : "1028890"
+            },
+            {
+               "Date" : "2018-09-06",
+               "Currency" : "THB",
+               "Rate" : "1768",
+               "RateId" : "1028890",
+               "Description" : ""
+            },
+            {
+               "RateId" : "1028890",
+               "Description" : "",
+               "Date" : "2018-09-07",
+               "Rate" : "1768",
+               "Currency" : "THB"
+            }
+         ],
+         "OccupantSmoker" : false,
+         "Currency" : "THB",
+         "Occupancy" : "2",
+         "StartDate" : "2018-09-05",
+         "Policy" : "",
+         "OccupantNote" : "",
+         "OccupantLName" : "White",
+         "Price" : 5304,
+         "ChannelRoomType" : "78017874",
+         "RateDesc" : "66% - 3-9-2018",
+         "EndDate" : "2018-09-07",
+         "Units" : "1",
+         "MyallocatorRateplanIds" : [],
+         "RoomDesc" : ""
+      }
+   ],
+   "PropertyId" : "51098",
+   "Customers" : [
+      {
+         "CustomerCompany" : "",
+         "CustomerLName" : "White",
+         "CustomerEmail" : "charlotte.white@yahoo.com",
+         "CustomerFName" : "Charlotte",
+         "CustomerCountry" : "us",
+         "CustomerCity" : "",
+         "CustomerPhone" : "696793214953502",
+         "CustomerNote" : "CENSORED",
+         "CustomerAddress" : "",
+         "CustomerPostCode" : ""
+      }
+   ],
+   "Commission" : "795.6",
+   "EndDate" : "2018-09-07",
+   "MyallocatorCreditCardDetailsPresent" : true,
+   "TotalCurrency" : "THB",
+   "Channel" : "boo",
+   "StartDate" : "2018-09-05",
+   "OrderTime" : "16:33:41",
+   "MyallocatorCreationDate" : "2018-09-04",
+   "IsCancellation" : false,
+   "MyallocatorId" : "59aaeb6404dc2a3221ac4e181",
+   "MyallocatorModificationTime" : "14:35:31",
+   "MyallocatorPIIRemoved" : null,
+   "OrderId" : "0246251163",
+   "TotalPrice" : "5304.00",
+   "IsTentative" : 0
+}

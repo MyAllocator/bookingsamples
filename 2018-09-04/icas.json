@@ -1,0 +1,59 @@
+{
+   "PropertyId" : "27910",
+   "Rooms" : [
+      {
+         "EndDate" : "2018-08-03",
+         "MyallocatorRateplanIds" : [],
+         "Units" : "1",
+         "Currency" : "EUR",
+         "RateDesc" : "",
+         "StartDate" : "2018-08-02",
+         "DayRates" : [
+            {
+               "Date" : "2018-08-02",
+               "Rate" : "270.00",
+               "RateId" : "12",
+               "Description" : ""
+            },
+            {
+               "Description" : "",
+               "RateId" : "12",
+               "Rate" : "270.00",
+               "Date" : "2018-08-03"
+            }
+         ],
+         "Price" : "540.00",
+         "ChannelRoomType" : "4901",
+         "RoomTypeIds" : [
+            -1
+         ],
+         "RateId" : "12"
+      }
+   ],
+   "IsModification" : false,
+   "Customers" : [
+      {
+         "CustomerNote" : "",
+         "CustomerCountry" : "FR",
+         "CustomerEmail" : "liam@lycos.com",
+         "CustomerLName" : "",
+         "CustomerFName" : "Liam"
+      }
+   ],
+   "EndDate" : "2018-08-03",
+   "TotalCurrency" : "EUR",
+   "Acknowledged" : false,
+   "Version" : 0,
+   "MyallocatorModificationDate" : "2018-04-19",
+   "MyallocatorCreationTime" : "09:16:34",
+   "MarkedAsRead" : false,
+   "MyallocatorId" : "99b1b42737b357b8b506e1b8c",
+   "MyallocatorModificationTime" : "09:16:34",
+   "OrderId" : "6895870627",
+   "MyallocatorPIIRemoved" : null,
+   "TotalPrice" : "540.00",
+   "Channel" : "icas",
+   "StartDate" : "2018-08-02",
+   "MyallocatorCreationDate" : "2018-04-19",
+   "IsCancellation" : false
+}

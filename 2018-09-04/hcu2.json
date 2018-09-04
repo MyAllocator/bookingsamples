@@ -1,0 +1,66 @@
+{
+   "TotalCurrency" : "EUR",
+   "PropertyId" : "716",
+   "Rooms" : [
+      {
+         "RoomDesc" : "",
+         "EndDate" : "2018-09-02",
+         "Units" : "2",
+         "MyallocatorRateplanIds" : [],
+         "StartDate" : "2018-09-01",
+         "Currency" : "EUR",
+         "RateDesc" : "",
+         "Price" : 66,
+         "ChannelRoomType" : "8477",
+         "DayRates" : [
+            {
+               "Description" : "",
+               "Date" : "2018-09-01",
+               "Rate" : "40.00"
+            },
+            {
+               "Rate" : "26.00",
+               "Date" : "2018-09-02",
+               "Description" : ""
+            }
+         ],
+         "RateId" : "",
+         "RoomTypeIds" : [
+            1765
+         ]
+      }
+   ],
+   "Balance" : 118.8,
+   "IsModification" : false,
+   "Commission" : 13.2,
+   "Customers" : [
+      {
+         "CustomerNote" : "",
+         "CustomerLName" : "White",
+         "CustomerFName" : "Charlotte",
+         "CustomerEmail" : "charlotte.white@hotmail.com"
+      }
+   ],
+   "EndDate" : "2018-09-02",
+   "MyallocatorModificationDate" : "2018-08-31",
+   "CommissionCurrency" : "EUR",
+   "MyallocatorCreationTime" : "17:33:40",
+   "MarkedAsRead" : false,
+   "Acknowledged" : false,
+   "OrderDate" : "2018-08-31",
+   "Version" : 0,
+   "MyallocatorPIIRemoved" : null,
+   "OrderId" : "ua65c824sf0ape06uzcd5j8",
+   "DepositCurrency" : "EUR",
+   "IsTentative" : 0,
+   "TotalPrice" : "132.00",
+   "BalanceCurrency" : "EUR",
+   "Deposit" : 13.2,
+   "MyallocatorId" : "94c21e70f248c79f9409e0632",
+   "MyallocatorModificationTime" : "17:33:40",
+   "IsCancellation" : false,
+   "Channel" : "hcu2",
+   "StartDate" : "2018-09-01",
+   "OrderTime" : "18:47:32",
+   "MyallocatorCreationDate" : "2018-08-31"
+}

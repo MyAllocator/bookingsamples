@@ -1,0 +1,85 @@
+{
+   "OrderTime" : "09:06:07",
+   "Channel" : "sur",
+   "StartDate" : "2018-09-05",
+   "MyallocatorCreationDate" : "2018-09-03",
+   "IsCancellation" : false,
+   "MyallocatorId" : "26103670b56fc6d8c1a3e7313",
+   "MyallocatorModificationTime" : "09:05:20",
+   "OrderId" : "wunj9302acbjzeagd1",
+   "MyallocatorPIIRemoved" : null,
+   "IsTentative" : 0,
+   "TotalPrice" : "200.00",
+   "Acknowledged" : false,
+   "Version" : 0,
+   "OrderDate" : "2018-09-03",
+   "MyallocatorModificationDate" : "2018-09-03",
+   "MyallocatorCreationTime" : "09:05:20",
+   "CommissionCurrency" : "EUR",
+   "MarkedAsRead" : false,
+   "PropertyId" : "05350",
+   "Rooms" : [
+      {
+         "StartDate" : "2018-09-05",
+         "RateDesc" : "",
+         "Currency" : "EUR",
+         "RoomDesc" : "",
+         "MyallocatorRateplanIds" : [],
+         "Units" : "1",
+         "EndDate" : "2018-09-08",
+         "RateId" : "1",
+         "RoomTypeIds" : [
+            94832
+         ],
+         "ChannelRoomType" : "1019",
+         "Children" : "",
+         "Price" : "200.00",
+         "DayRates" : [
+            {
+               "Rate" : "50",
+               "Currency" : "EUR",
+               "Date" : "2018-09-05",
+               "Description" : "",
+               "RateId" : "1"
+            },
+            {
+               "RateId" : "1",
+               "Description" : "",
+               "Date" : "2018-09-06",
+               "Rate" : "50",
+               "Currency" : "EUR"
+            },
+            {
+               "Date" : "2018-09-07",
+               "Currency" : "EUR",
+               "Rate" : "50",
+               "RateId" : "1",
+               "Description" : ""
+            },
+            {
+               "Date" : "2018-09-08",
+               "Currency" : "EUR",
+               "Rate" : "50",
+               "RateId" : "1",
+               "Description" : ""
+            }
+         ],
+         "Adults" : "1"
+      }
+   ],
+   "IsModification" : false,
+   "EndDate" : "2018-09-08",
+   "Customers" : [
+      {
+         "CustomerNote" : "",
+         "CustomerCountry" : "US",
+         "CustomerCity" : "Panama City",
+         "CustomerPhone" : "3949822793578",
+         "CustomerLName" : "Miller",
+         "CustomerEmail" : "sophia.miller@gmail.com",
+         "CustomerFName" : "Sophia"
+      }
+   ],
+   "Commission" : "40.00",
+   "TotalCurrency" : "EUR"
+}

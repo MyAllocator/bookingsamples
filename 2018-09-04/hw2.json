@@ -1,0 +1,56 @@
+{
+   "MyallocatorCreationTime" : "14:35:37",
+   "OrderMales" : "1",
+   "MyallocatorModificationDate" : "2018-09-04",
+   "MarkedAsRead" : false,
+   "Acknowledged" : false,
+   "Version" : 0,
+   "TotalCurrency" : "USD",
+   "IsModification" : false,
+   "Rooms" : [
+      {
+         "Price" : "14.85",
+         "ChannelRoomType" : "670873",
+         "RoomTypeIds" : [
+            117249
+         ],
+         "RateId" : "312506",
+         "EndDate" : "2018-09-09",
+         "MyallocatorRateplanIds" : [],
+         "Units" : "1",
+         "RoomDesc" : "",
+         "Currency" : "USD",
+         "Occupancy" : 1,
+         "RateDesc" : "",
+         "StartDate" : "2018-09-09"
+      }
+   ],
+   "PropertyId" : "43623",
+   "Customers" : [
+      {
+         "CustomerGender" : "MA",
+         "CustomerNote" : "",
+         "CustomerNationality" : "Ireland",
+         "CustomerPhone" : "",
+         "CustomerArrivalTime" : "18:00",
+         "CustomerEmail" : "emma.johnson@hushmail.com",
+         "CustomerLName" : "Johnson",
+         "CustomerFName" : "Emma"
+      }
+   ],
+   "EndDate" : "2018-09-09",
+   "OrderFemales" : "",
+   "IsCancellation" : false,
+   "StartDate" : "2018-09-09",
+   "Channel" : "hw2",
+   "MyallocatorCreationDate" : "2018-09-04",
+   "Policy" : "",
+   "OrderId" : "1iuha15o2df8o0yi",
+   "MyallocatorPIIRemoved" : null,
+   "Deposit" : "2.23",
+   "TotalPrice" : "14.85",
+   "IsTentative" : 0,
+   "DepositCurrency" : "USD",
+   "MyallocatorId" : "0269757a7b2566dac5bd784d1",
+   "MyallocatorModificationTime" : "14:35:37"
+}

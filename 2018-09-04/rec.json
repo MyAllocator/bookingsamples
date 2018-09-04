@@ -1,0 +1,56 @@
+{
+   "IsTentative" : 0,
+   "TotalPrice" : "258.00",
+   "MyallocatorPIIRemoved" : null,
+   "OrderId" : "x4ai188l2jgo",
+   "MyallocatorModificationTime" : "13:40:01",
+   "MyallocatorId" : "715670c352c87e9af8763cbb2",
+   "IsCancellation" : false,
+   "MyallocatorCreationDate" : "2018-09-04",
+   "Channel" : "rec",
+   "StartDate" : "2018-09-24",
+   "OrderTime" : "13:38:40",
+   "TotalCurrency" : "USD",
+   "Commission" : "0",
+   "Customers" : [
+      {
+         "CustomerCompany" : "CENSORED",
+         "CustomerLName" : "Cain",
+         "CustomerFName" : "Liam",
+         "CustomerEmail" : "liam.cain@mail.com",
+         "CustomerPhone" : "cjk4aczpnw8hly",
+         "CustomerCountry" : "US",
+         "CustomerCity" : "Phoenix",
+         "CustomerAddress" : "CENSORED",
+         "CustomerFax" : "--",
+         "CustomerNote" : "CENSORED",
+         "CustomerPostCode" : "85034-7245"
+      }
+   ],
+   "EndDate" : "2018-09-25",
+   "Rooms" : [
+      {
+         "Units" : "1",
+         "MyallocatorRateplanIds" : [],
+         "EndDate" : "2018-09-25",
+         "RoomDesc" : "",
+         "Currency" : "USD",
+         "StartDate" : "2018-09-24",
+         "Breakfast" : false,
+         "ChannelRoomType" : "HEB",
+         "Price" : "258",
+         "RoomTypeIds" : [
+            97465
+         ]
+      }
+   ],
+   "PropertyId" : "30223",
+   "IsModification" : false,
+   "MarkedAsRead" : false,
+   "MyallocatorModificationDate" : "2018-09-04",
+   "CommissionCurrency" : "USD",
+   "MyallocatorCreationTime" : "13:40:01",
+   "OrderDate" : "2018-09-04",
+   "Version" : 0,
+   "Acknowledged" : false
+}

@@ -1,0 +1,60 @@
+{
+   "MarkedAsRead" : false,
+   "MyallocatorModificationDate" : "2018-08-31",
+   "MyallocatorCreationTime" : "17:53:04",
+   "Version" : 0,
+   "OrderDate" : "2018-08-31",
+   "TotalTaxesCurrency" : "USD",
+   "Acknowledged" : false,
+   "TotalCurrency" : "USD",
+   "Customers" : [
+      {
+         "CustomerPhone" : "839582974249",
+         "CustomerNote" : "",
+         "CustomerEmail" : "ava.brown@outlook.com",
+         "CustomerFName" : "Ava",
+         "CustomerLName" : "Brown"
+      }
+   ],
+   "EndDate" : "2018-09-01",
+   "Rooms" : [
+      {
+         "EndDate" : "2018-09-01",
+         "Units" : "2",
+         "MyallocatorRateplanIds" : [],
+         "RoomDesc" : "",
+         "Currency" : "USD",
+         "RateDesc" : "",
+         "StartDate" : "2018-09-01",
+         "Adults" : "2",
+         "DayRates" : [
+            {
+               "Rate" : "35.00",
+               "Date" : "2018-09-01",
+               "Description" : "",
+               "Tax" : "3.47"
+            }
+         ],
+         "Price" : "70.00",
+         "ChannelRoomType" : "281",
+         "RoomTypeIds" : [
+            50667
+         ],
+         "RateId" : ""
+      }
+   ],
+   "PropertyId" : "86157",
+   "IsModification" : false,
+   "IsCancellation" : false,
+   "MyallocatorCreationDate" : "2018-08-31",
+   "TotalTaxes" : "6.94",
+   "Channel" : "goho",
+   "StartDate" : "2018-09-01",
+   "OrderTime" : "17:53:01",
+   "IsTentative" : 0,
+   "TotalPrice" : "70.00",
+   "MyallocatorPIIRemoved" : null,
+   "OrderId" : "3dx9ikljju9ia6i51mo",
+   "MyallocatorId" : "9fd95446e40a453f81bc8c1be",
+   "MyallocatorModificationTime" : "17:53:04"
+}

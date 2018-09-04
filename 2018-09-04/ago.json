@@ -1,0 +1,61 @@
+{
+   "EndDate" : "2018-09-08",
+   "Customers" : [
+      {
+         "CustomerNote" : "CENSORED",
+         "CustomerPhone" : "8179430869686",
+         "CustomerLName" : "Johnson",
+         "CustomerEmail" : "emma.johnson@gmail.com",
+         "CustomerFName" : "Emma",
+         "CustomerNationality" : "Hong Kong"
+      }
+   ],
+   "OrderAdults" : "2",
+   "PropertyId" : "799",
+   "Rooms" : [
+      {
+         "Policy" : "",
+         "MyallocatorRateplanIds" : [],
+         "Units" : "1",
+         "EndDate" : "2018-09-08",
+         "RoomDesc" : "",
+         "RateDesc" : "Room Only",
+         "Currency" : "HKD",
+         "StartDate" : "2018-09-08",
+         "DayRates" : [
+            {
+               "Description" : "Room",
+               "Currency" : "HKD",
+               "Rate" : "336.96",
+               "Date" : "2018-09-08"
+            }
+         ],
+         "ChannelRoomType" : "7487065",
+         "Price" : "336.96",
+         "RoomTypeIds" : [
+            91267
+         ],
+         "RateId" : "624241"
+      }
+   ],
+   "IsModification" : false,
+   "TotalCurrency" : "HKD",
+   "OrderDate" : "2018-09-04",
+   "Version" : 0,
+   "Acknowledged" : false,
+   "MarkedAsRead" : false,
+   "MyallocatorModificationDate" : "2018-09-04",
+   "MyallocatorCreationTime" : "14:35:28",
+   "PaymentCollect" : "Channel",
+   "MyallocatorModificationTime" : "14:35:28",
+   "MyallocatorId" : "063ccd7ea6a74aeb37d9dacca",
+   "IsTentative" : 0,
+   "TotalPrice" : "336.96",
+   "OrderId" : "311285322",
+   "MyallocatorPIIRemoved" : null,
+   "MyallocatorCreationDate" : "2018-09-04",
+   "OrderTime" : "21:31:00",
+   "Channel" : "ago",
+   "StartDate" : "2018-09-08",
+   "IsCancellation" : false
+}

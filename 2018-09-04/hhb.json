@@ -1,0 +1,102 @@
+{
+   "MyallocatorPIIRemoved" : null,
+   "OrderId" : "9835243132",
+   "TotalPrice" : "200.00",
+   "Deposit" : "0.00",
+   "MyallocatorId" : "01a18070d54d4a456f9d57b2e",
+   "MyallocatorModificationTime" : "13:28:33",
+   "DepositDue" : "100.00",
+   "IsCancellation" : false,
+   "Channel" : "hhb",
+   "TotalTaxes" : 0,
+   "StartDate" : "2018-03-23",
+   "OrderTime" : "13:28:13",
+   "MyallocatorCreationDate" : "2018-03-14",
+   "TotalCurrency" : "BRL",
+   "Rooms" : [
+      {
+         "OccupantLName" : "",
+         "ChannelRoomType" : "55480",
+         "Price" : "200.00",
+         "RateDesc" : "",
+         "MyallocatorRateplanIds" : [],
+         "Units" : "1",
+         "OccupantFName" : "",
+         "EndDate" : "2018-03-28",
+         "RoomDesc" : "",
+         "RoomTypeIds" : [
+            4925
+         ],
+         "RateId" : "38301",
+         "DayRates" : [
+            {
+               "Description" : null,
+               "RateId" : "38301",
+               "Rate" : 40,
+               "Date" : "2018-03-23"
+            },
+            {
+               "RateId" : "38301",
+               "Description" : null,
+               "Date" : "2018-03-24",
+               "Rate" : 40
+            },
+            {
+               "Date" : "2018-03-25",
+               "Rate" : 30,
+               "RateId" : "38301",
+               "Description" : null
+            },
+            {
+               "Description" : null,
+               "RateId" : "38301",
+               "Rate" : 30,
+               "Date" : "2018-03-26"
+            },
+            {
+               "Rate" : 30,
+               "Date" : "2018-03-27",
+               "Description" : null,
+               "RateId" : "38301"
+            },
+            {
+               "RateId" : "38301",
+               "Description" : null,
+               "Date" : "2018-03-28",
+               "Rate" : 30
+            }
+         ],
+         "Occupancy" : 1,
+         "Currency" : "BRL",
+         "StartDate" : "2018-03-23",
+         "Policy" : "",
+         "OccupantNote" : ""
+      }
+   ],
+   "PropertyId" : "4825",
+   "IsModification" : false,
+   "Customers" : [
+      {
+         "CustomerAddress" : "CENSORED",
+         "CustomerNote" : "",
+         "CustomerPostCode" : "",
+         "CustomerPhone" : "94053055654",
+         "CustomerCountry" : "br",
+         "CustomerCity" : "",
+         "CustomerCompany" : "",
+         "CustomerEmail" : "michael.harris@gmail.com",
+         "CustomerFName" : "Michael",
+         "CustomerLName" : "Harris"
+      }
+   ],
+   "Commission" : 0,
+   "EndDate" : "2018-03-28",
+   "MyallocatorModificationDate" : "2018-03-14",
+   "CommissionCurrency" : "BRL",
+   "MyallocatorCreationTime" : "13:28:33",
+   "MarkedAsRead" : true,
+   "Acknowledged" : true,
+   "OrderDate" : "2018-03-14",
+   "Version" : 0,
+   "TotalTaxesCurrency" : "BRL"
+}

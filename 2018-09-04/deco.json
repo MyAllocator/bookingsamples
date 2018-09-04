@@ -1,0 +1,106 @@
+{
+   "MyallocatorModificationTime" : "14:02:14",
+   "MyallocatorId" : "d3dae287054062499e9cb66b3",
+   "TotalPrice" : "18147.76",
+   "Deposit" : "18147.7615",
+   "BalanceCurrency" : "ARS",
+   "IsTentative" : 0,
+   "DepositCurrency" : "ARS",
+   "MyallocatorPIIRemoved" : null,
+   "OrderId" : "6064562079",
+   "MyallocatorCreationDate" : "2018-09-04",
+   "StartDate" : "2019-02-16",
+   "Channel" : "deco",
+   "TotalTaxes" : "3149.6115",
+   "OrderTime" : "14:00:55",
+   "IsCancellation" : false,
+   "Customers" : [
+      {
+         "CustomerLName" : "Smith",
+         "CustomerFName" : "Noah",
+         "CustomerNote" : ""
+      }
+   ],
+   "EndDate" : "2019-02-22",
+   "IsModification" : false,
+   "Balance" : 0,
+   "Rooms" : [
+      {
+         "RateId" : "753718",
+         "RoomTypeIds" : [
+            130932
+         ],
+         "Price" : "18147.7615",
+         "ChannelRoomType" : "3251573",
+         "DayRates" : [
+            {
+               "RateId" : "753718",
+               "Description" : "",
+               "Date" : "2019-02-16",
+               "Currency" : "ARS",
+               "Rate" : "2791.2280"
+            },
+            {
+               "Date" : "2019-02-17",
+               "Rate" : "2791.2280",
+               "Currency" : "ARS",
+               "RateId" : "753718",
+               "Description" : ""
+            },
+            {
+               "Description" : "",
+               "RateId" : "753718",
+               "Rate" : "2327.6165",
+               "Currency" : "ARS",
+               "Date" : "2019-02-18"
+            },
+            {
+               "Date" : "2019-02-19",
+               "Currency" : "ARS",
+               "Rate" : "2327.6165",
+               "RateId" : "753718",
+               "Description" : ""
+            },
+            {
+               "RateId" : "753718",
+               "Description" : "",
+               "Date" : "2019-02-20",
+               "Currency" : "ARS",
+               "Rate" : "2327.6165"
+            },
+            {
+               "RateId" : "753718",
+               "Description" : "",
+               "Date" : "2019-02-21",
+               "Currency" : "ARS",
+               "Rate" : "2791.2280"
+            },
+            {
+               "RateId" : "753718",
+               "Description" : "",
+               "Date" : "2019-02-22",
+               "Rate" : "2791.2280",
+               "Currency" : "ARS"
+            }
+         ],
+         "StartDate" : "2019-02-16",
+         "Currency" : "ARS",
+         "RateDesc" : "",
+         "RoomDesc" : "",
+         "EndDate" : "2019-02-22",
+         "Units" : "1",
+         "MyallocatorRateplanIds" : []
+      }
+   ],
+   "PropertyId" : "27298",
+   "OrderAdults" : 2,
+   "TotalCurrency" : "ARS",
+   "TotalTaxesCurrency" : "ARS",
+   "Version" : 0,
+   "OrderDate" : "2018-09-04",
+   "ma_callback_qbid" : 1,
+   "Acknowledged" : false,
+   "MarkedAsRead" : false,
+   "MyallocatorCreationTime" : "14:02:14",
+   "MyallocatorModificationDate" : "2018-09-04"
+}

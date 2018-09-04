@@ -1,0 +1,75 @@
+{
+   "TotalTaxesCurrency" : "USD",
+   "Version" : 0,
+   "OrderDate" : "2018-09-04",
+   "ma_callback_qbid" : 18884757,
+   "Acknowledged" : false,
+   "MarkedAsRead" : false,
+   "MyallocatorCreationTime" : "01:52:22",
+   "MyallocatorModificationDate" : "2018-09-04",
+   "EndDate" : "2018-09-08",
+   "Customers" : [
+      {
+         "CustomerPhone" : "3744893852",
+         "CustomerNote" : "",
+         "CustomerCountry" : "US",
+         "CustomerEmail" : "james.wilson@yahoo.com",
+         "CustomerFName" : "James",
+         "CustomerLName" : "Wilson"
+      }
+   ],
+   "MyallocatorCreditCardDetailsPresent" : true,
+   "IsModification" : false,
+   "Rooms" : [
+      {
+         "EndDate" : "2018-09-08",
+         "MyallocatorRateplanIds" : [],
+         "OccupantFName" : "James",
+         "Units" : "1",
+         "RateDesc" : "",
+         "Children" : 0,
+         "Price" : 169.22,
+         "ChannelRoomType" : "73940",
+         "Adults" : 2,
+         "OccupantLName" : "Wilson",
+         "Policy" : "",
+         "StartDate" : "2018-09-08",
+         "Currency" : "USD",
+         "Occupancy" : 2,
+         "DayRates" : [
+            {
+               "Tax" : 0.22,
+               "Rate" : 169.22,
+               "Currency" : "USD",
+               "Date" : "2018-09-08",
+               "Description" : null
+            }
+         ],
+         "RateId" : "",
+         "RoomTypeIds" : [
+            89944
+         ]
+      }
+   ],
+   "Balance" : 169.22,
+   "PropertyId" : "90436",
+   "OrderAdults" : 2,
+   "TotalCurrency" : "USD",
+   "MyallocatorCreationDate" : "2018-09-04",
+   "TotalTaxes" : 0.22,
+   "Channel" : "ta",
+   "StartDate" : "2018-09-08",
+   "OrderTime" : "01:52:22",
+   "IsCancellation" : false,
+   "OrderCustomers" : 2,
+   "MyallocatorId" : "58545c493ba042b7890971ee2",
+   "MyallocatorModificationTime" : "01:52:22",
+   "TotalPrice" : "169.22",
+   "Deposit" : 0,
+   "BalanceCurrency" : "USD",
+   "IsTentative" : 0,
+   "DepositCurrency" : "USD",
+   "MyallocatorPIIRemoved" : null,
+   "OrderChildren" : 0,
+   "OrderId" : "hwuvgebjwobhg0v5dxqc5zu7v"
+}

@@ -1,0 +1,35 @@
+{
+   "Version" : 0,
+   "Acknowledged" : false,
+   "MarkedAsRead" : false,
+   "MyallocatorModificationDate" : "2016-09-13",
+   "MyallocatorCreationTime" : "03:59:20",
+   "EndDate" : "2018-09-12",
+   "Customers" : [
+      {
+         "CustomerLName" : "Williams",
+         "CustomerNote" : "CENSORED"
+      }
+   ],
+   "PropertyId" : "3079",
+   "Rooms" : [
+      {
+         "StartDate" : "2016-09-29",
+         "RoomTypeIds" : [
+            13582
+         ],
+         "ChannelRoomType" : "http://ws.flipkey.com/CENSORED",
+         "MyallocatorRateplanIds" : [],
+         "Units" : 1,
+         "EndDate" : "2018-09-12"
+      }
+   ],
+   "MyallocatorCreationDate" : "2016-09-13",
+   "StartDate" : "2016-09-29",
+   "Channel" : "fk",
+   "IsCancellation" : false,
+   "MyallocatorModificationTime" : "03:59:20",
+   "MyallocatorId" : "f891668fe26c9c3a6f3547d8a",
+   "OrderId" : "149fb2a1f5",
+   "MyallocatorPIIRemoved" : null
+}

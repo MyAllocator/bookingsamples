@@ -1,0 +1,47 @@
+{
+   "TotalPrice" : "120.00",
+   "IsTentative" : 0,
+   "OrderId" : "873226",
+   "MyallocatorPIIRemoved" : null,
+   "MyallocatorId" : "354d155458ddefc3ed36bf534",
+   "MyallocatorModificationTime" : "15:08:28",
+   "IsCancellation" : false,
+   "MyallocatorCreationDate" : "2018-09-03",
+   "OrderTime" : "17:03:58",
+   "Channel" : "bnb",
+   "StartDate" : "2018-11-29",
+   "TotalCurrency" : "USD",
+   "EndDate" : "2018-12-01",
+   "Customers" : [
+      {
+         "CustomerPhone" : "",
+         "CustomerNote" : "",
+         "CustomerCountry" : "Germany",
+         "CustomerEmail" : "isabella.moore@lycos.com",
+         "CustomerLName" : "Moore",
+         "CustomerFName" : "Isabella"
+      }
+   ],
+   "IsModification" : false,
+   "Rooms" : [
+      {
+         "StartDate" : "2018-11-29",
+         "RoomDesc" : "",
+         "EndDate" : "2018-12-01",
+         "MyallocatorRateplanIds" : [],
+         "Units" : "1",
+         "RoomTypeIds" : [
+            122392
+         ],
+         "Price" : "120.00",
+         "ChannelRoomType" : "0452055"
+      }
+   ],
+   "PropertyId" : "77625",
+   "MarkedAsRead" : true,
+   "MyallocatorCreationTime" : "15:08:28",
+   "MyallocatorModificationDate" : "2018-09-03",
+   "Version" : 0,
+   "OrderDate" : "2018-09-03",
+   "Acknowledged" : true
+}

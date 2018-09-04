@@ -1,0 +1,68 @@
+{
+   "TotalCurrency" : "SEK",
+   "Rooms" : [
+      {
+         "OccupantLName" : "Harris",
+         "Adults" : "2",
+         "ChannelRoomType" : "795451",
+         "Price" : "450",
+         "Children" : "0",
+         "RateDesc" : "",
+         "Units" : "1",
+         "MyallocatorRateplanIds" : [],
+         "EndDate" : "2018-09-07",
+         "RoomDesc" : "",
+         "RoomTypeIds" : [
+            47921
+         ],
+         "RateId" : "170042",
+         "DayRates" : [
+            {
+               "Description" : "",
+               "RateId" : "170042",
+               "Currency" : "SEK",
+               "Rate" : 450,
+               "Date" : "2018-09-07"
+            }
+         ],
+         "Currency" : "SEK",
+         "StartDate" : "2018-09-07",
+         "OccupantNote" : ""
+      }
+   ],
+   "Balance" : "0",
+   "PropertyId" : "3426",
+   "IsModification" : false,
+   "Customers" : [
+      {
+         "CustomerLName" : "Harris",
+         "CustomerFName" : "Michael",
+         "CustomerEmail" : "michael.harris@outlook.com",
+         "CustomerCountry" : "DK",
+         "CustomerNote" : "",
+         "CustomerPhone" : "fwn208rl68fhj0wkvuuvd"
+      }
+   ],
+   "Commission" : "40.1785714285714",
+   "EndDate" : "2018-09-07",
+   "MyallocatorModificationDate" : "2018-09-04",
+   "CommissionCurrency" : "SEK",
+   "MyallocatorCreationTime" : "07:12:20",
+   "MarkedAsRead" : false,
+   "Acknowledged" : false,
+   "Version" : 0,
+   "OrderDate" : "2018-09-04",
+   "MyallocatorPIIRemoved" : null,
+   "OrderId" : "btqees",
+   "IsTentative" : 0,
+   "TotalPrice" : "450.00",
+   "BalanceCurrency" : "SEK",
+   "MyallocatorId" : "3106ba1d20dcdadc157267034",
+   "MyallocatorModificationTime" : "07:12:20",
+   "CommissionIncludedInTotal" : false,
+   "IsCancellation" : false,
+   "Channel" : "cb",
+   "StartDate" : "2018-09-07",
+   "OrderTime" : "09:10",
+   "MyallocatorCreationDate" : "2018-09-04"
+}

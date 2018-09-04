@@ -1,0 +1,77 @@
+{
+   "OrderSource" : "Expedia",
+   "MarkedAsRead" : false,
+   "PaymentCollect" : "Channel",
+   "MyallocatorCreationTime" : "14:35:49",
+   "MyallocatorModificationDate" : "2018-09-04",
+   "TotalTaxesCurrency" : "KRW",
+   "ExtraServices" : [
+      {
+         "EndDate" : "2018-12-30",
+         "Units" : 1,
+         "StartDate" : "2018-12-30",
+         "Description" : ""
+      }
+   ],
+   "OrderDate" : "2018-09-04",
+   "Version" : 0,
+   "ma_callback_qbid" : 18896787,
+   "Acknowledged" : false,
+   "ChannelSpecific" : {
+      "PaymentType" : "Expedia Collect Booking"
+   },
+   "TotalCurrency" : "KRW",
+   "EndDate" : "2018-12-30",
+   "Customers" : [
+      {
+         "CustomerLName" : "Abeln",
+         "CustomerFName" : "Olivia",
+         "CustomerEmail" : "olivia.abeln@gmail.com",
+         "CustomerNote" : "",
+         "CustomerSmoker" : false,
+         "CustomerPhone" : "9522162116116286"
+      }
+   ],
+   "IsModification" : false,
+   "OrderAdults" : 2,
+   "Rooms" : [
+      {
+         "RoomDesc" : "",
+         "EndDate" : "2018-12-30",
+         "Units" : "1",
+         "MyallocatorRateplanIds" : [],
+         "StartDate" : "2018-12-30",
+         "Currency" : "KRW",
+         "RateDesc" : "",
+         "Price" : "29877",
+         "ChannelRoomType" : "720049970",
+         "DayRates" : [
+            {
+               "Date" : "2018-12-30",
+               "Rate" : "27161",
+               "Currency" : "KRW",
+               "RateId" : "210639589",
+               "Description" : ""
+            }
+         ],
+         "Adults" : 2,
+         "RateId" : "210639589",
+         "RoomTypeIds" : [
+            66649
+         ]
+      }
+   ],
+   "PropertyId" : "70111",
+   "IsCancellation" : false,
+   "MyallocatorCreationDate" : "2018-09-04",
+   "OrderTime" : "14:36:00",
+   "Channel" : "exp",
+   "StartDate" : "2018-12-30",
+   "TotalTaxes" : "2716",
+   "TotalPrice" : "29877.00",
+   "IsTentative" : 0,
+   "OrderId" : "6589052813",
+   "MyallocatorPIIRemoved" : null,
+   "MyallocatorId" : "f02311abec2312a1035f3a1a7",
+   "MyallocatorModificationTime" : "14:35:49"
+}

@@ -1,0 +1,60 @@
+{
+   "IsCancellation" : false,
+   "MyallocatorCreationDate" : "2018-09-03",
+   "OrderTime" : "15:35:36",
+   "Channel" : "iwb",
+   "StartDate" : "2018-10-24",
+   "IsTentative" : 0,
+   "DepositCurrency" : "USD",
+   "Deposit" : "8.33",
+   "TotalPrice" : "83.34",
+   "OrderChildren" : "1",
+   "OrderId" : "58825309",
+   "MyallocatorPIIRemoved" : null,
+   "MyallocatorModificationTime" : "19:37:01",
+   "MyallocatorId" : "8d0bfdaf49fc8a7bc75d3e358",
+   "CommissionIncludedInTotal" : false,
+   "MarkedAsRead" : false,
+   "MyallocatorModificationDate" : "2018-09-03",
+   "MyallocatorCreationTime" : "19:37:01",
+   "CommissionCurrency" : "USD",
+   "OrderDate" : "2018-09-03",
+   "Version" : 0,
+   "Acknowledged" : false,
+   "TotalCurrency" : "USD",
+   "Commission" : "0",
+   "Customers" : [
+      {
+         "CustomerAddress" : "CENSORED",
+         "CustomerNote" : "",
+         "CustomerPostCode" : "0000",
+         "CustomerCompany" : "CENSORED",
+         "CustomerEmail" : "williams@hotmail.com",
+         "CustomerLName" : "Williams",
+         "CustomerPhone" : "892078014443",
+         "CustomerCity" : "cali",
+         "CustomerCountry" : "CO",
+         "CustomerArrivalTime" : "17:00:00",
+         "CustomerState" : "HASH(0x8721530)"
+      }
+   ],
+   "EndDate" : "2018-10-24",
+   "OrderAdults" : "2",
+   "Rooms" : [
+      {
+         "EndDate" : "2018-10-24",
+         "Units" : "1",
+         "MyallocatorRateplanIds" : [],
+         "RoomDesc" : "",
+         "Currency" : "USD",
+         "StartDate" : "2018-10-24",
+         "Price" : "83.34",
+         "ChannelRoomType" : "l71sk426",
+         "RoomTypeIds" : [
+            12086
+         ]
+      }
+   ],
+   "PropertyId" : "8139",
+   "IsModification" : false
+}

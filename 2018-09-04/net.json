@@ -1,0 +1,70 @@
+{
+   "TotalCurrency" : "EUR",
+   "IsModification" : false,
+   "PropertyId" : "42555",
+   "Rooms" : [
+      {
+         "RateDesc" : "",
+         "Currency" : "EUR",
+         "StartDate" : "2018-09-08",
+         "MyallocatorRateplanIds" : [],
+         "Units" : "1",
+         "EndDate" : "2018-09-10",
+         "RoomDesc" : "",
+         "RoomTypeIds" : [
+            134751
+         ],
+         "RateId" : "",
+         "DayRates" : [
+            {
+               "Date" : "2018-09-08",
+               "Rate" : 214,
+               "Description" : null
+            },
+            {
+               "Date" : "2018-09-09",
+               "Rate" : 144,
+               "Description" : null
+            },
+            {
+               "Description" : null,
+               "Rate" : 144,
+               "Date" : "2018-09-10"
+            }
+         ],
+         "Adults" : 2,
+         "ChannelRoomType" : "76696",
+         "Children" : 0
+      }
+   ],
+   "Customers" : [
+      {
+         "CustomerNote" : "",
+         "CustomerCountry" : "United Kingdom",
+         "CustomerPhone" : "53102001135735",
+         "CustomerFName" : "Michael",
+         "CustomerLName" : "Harris",
+         "CustomerEmail" : "michael.harris@zoho.com"
+      }
+   ],
+   "EndDate" : "2018-09-10",
+   "MyallocatorCreationTime" : "11:03:15",
+   "MyallocatorModificationDate" : "2018-09-04",
+   "MarkedAsRead" : false,
+   "Acknowledged" : false,
+   "Version" : 0,
+   "OrderDate" : "2018-09-04",
+   "OrderId" : "2z8k4p0926ai5q",
+   "MyallocatorPIIRemoved" : null,
+   "Deposit" : "0.00",
+   "TotalPrice" : "502.00",
+   "DepositCurrency" : "EUR",
+   "IsTentative" : 0,
+   "MyallocatorId" : "2a0629e68f4ddc3d04d5175d6",
+   "MyallocatorModificationTime" : "11:03:15",
+   "IsCancellation" : false,
+   "OrderTime" : "11:58:49",
+   "StartDate" : "2018-09-08",
+   "Channel" : "net",
+   "MyallocatorCreationDate" : "2018-09-04"
+}

@@ -1,0 +1,41 @@
+{
+   "EndDate" : "2018-09-06",
+   "Customers" : [
+      {
+         "CustomerPhone" : "1398702555792160",
+         "CustomerNote" : "",
+         "CustomerLName" : "Cain",
+         "CustomerEmail" : "cain@yahoo.com"
+      }
+   ],
+   "IsModification" : false,
+   "PropertyId" : "83898",
+   "Rooms" : [
+      {
+         "StartDate" : "2018-09-05",
+         "Units" : "1",
+         "MyallocatorRateplanIds" : [],
+         "EndDate" : "2018-09-06",
+         "RoomDesc" : "",
+         "RoomTypeIds" : [
+            156124
+         ],
+         "ChannelRoomType" : "https://www.airbnb.com/CENSORED"
+      }
+   ],
+   "MarkedAsRead" : false,
+   "MyallocatorCreationTime" : "14:33:32",
+   "MyallocatorModificationDate" : "2018-09-04",
+   "Version" : 0,
+   "ma_callback_qbid" : 18896772,
+   "Acknowledged" : false,
+   "IsTentative" : 0,
+   "OrderId" : "wgrlhjsm2d",
+   "MyallocatorPIIRemoved" : null,
+   "MyallocatorModificationTime" : "14:33:32",
+   "MyallocatorId" : "741a87de3dc800ff4f8becc15",
+   "IsCancellation" : false,
+   "MyallocatorCreationDate" : "2018-09-04",
+   "Channel" : "air",
+   "StartDate" : "2018-09-05"
+}
