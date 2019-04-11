@@ -1,0 +1,84 @@
+{
+   "OrderTime" : "11:28:10",
+   "Customers" : [
+      {
+         "CustomerLName" : "Walker",
+         "CustomerCompany" : "",
+         "CustomerNote" : "",
+         "CustomerEmail" : "emily.walker@yahoo.com",
+         "CustomerFName" : "Emily",
+         "CustomerPostCode" : "",
+         "CustomerCity" : "Madrid",
+         "CustomerAddress" : "",
+         "CustomerPhone" : "332217323",
+         "CustomerCountry" : "es"
+      }
+   ],
+   "Acknowledged" : false,
+   "OrderDate" : "2017-12-04",
+   "MyallocatorModificationDate" : "2017-12-04",
+   "OrderId" : "809125",
+   "EndDate" : "2017-12-09",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "MyallocatorId" : "f78aa461676fba0afbdbdf14d",
+   "CommissionCurrency" : null,
+   "TotalPrice" : "319.20",
+   "MyallocatorCreationDate" : "2017-12-04",
+   "IsModification" : false,
+   "MyallocatorModificationTime" : "10:30:19",
+   "PropertyId" : "52274",
+   "StartDate" : "2017-12-07",
+   "MyallocatorCreationTime" : "10:30:19",
+   "MarkedAsRead" : false,
+   "Channel" : "oa",
+   "Commission" : null,
+   "TotalCurrency" : "EUR",
+   "Rooms" : [
+      {
+         "EndDate" : "2017-12-07",
+         "RoomTypeIds" : [
+            77919
+         ],
+         "Price" : "106.40",
+         "Children" : 3,
+         "RoomDesc" : "PALMIRA TERRAZA MODERNO APARTAMENTO CON TERRAZA Y BARBACOA",
+         "Currency" : "EUR",
+         "Adults" : 3,
+         "Units" : "1",
+         "StartDate" : "2017-12-07",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "411852"
+      },
+      {
+         "EndDate" : "2017-12-08",
+         "RoomTypeIds" : [
+            77919
+         ],
+         "RoomDesc" : "PALMIRA TERRAZA MODERNO APARTAMENTO CON TERRAZA Y BARBACOA",
+         "Children" : 3,
+         "Price" : "106.40",
+         "Currency" : "EUR",
+         "Adults" : 3,
+         "Units" : "1",
+         "StartDate" : "2017-12-08",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "134807"
+      },
+      {
+         "EndDate" : "2017-12-09",
+         "RoomTypeIds" : [
+            77919
+         ],
+         "RoomDesc" : "PALMIRA TERRAZA MODERNO APARTAMENTO CON TERRAZA Y BARBACOA",
+         "Children" : 3,
+         "Price" : "106.40",
+         "Currency" : "EUR",
+         "Units" : "1",
+         "Adults" : 3,
+         "StartDate" : "2017-12-09",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "920642"
+      }
+   ]
+}

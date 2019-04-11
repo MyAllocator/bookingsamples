@@ -1,0 +1,65 @@
+{
+   "OrderTime" : "18:43:00",
+   "Customers" : [
+      {
+         "CustomerLName" : "Smith",
+         "CustomerFName" : "Noah",
+         "CustomerNote" : "CENSORED",
+         "CustomerNationality" : "Taiwan",
+         "CustomerPhone" : "",
+         "CustomerEmail" : ""
+      }
+   ],
+   "Acknowledged" : false,
+   "OrderDate" : "2018-01-23",
+   "MyallocatorModificationDate" : "2018-01-23",
+   "PaymentCollect" : "Channel",
+   "EndDate" : "2018-01-25",
+   "OrderId" : "939650050",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "MyallocatorId" : "9c10cd490ca564355413751f2",
+   "TotalPrice" : "2804.40",
+   "MyallocatorCreationDate" : "2018-01-23",
+   "OrderAdults" : "2",
+   "IsModification" : false,
+   "MyallocatorModificationTime" : "11:46:13",
+   "PropertyId" : "82442",
+   "StartDate" : "2018-01-24",
+   "MyallocatorCreationTime" : "11:46:13",
+   "MarkedAsRead" : false,
+   "Channel" : "ago",
+   "TotalCurrency" : "TWD",
+   "Rooms" : [
+      {
+         "EndDate" : "2018-01-25",
+         "RoomTypeIds" : [
+            81023
+         ],
+         "RateId" : "627422",
+         "RoomDesc" : "Deluxe Double",
+         "Price" : "2804.4",
+         "DayRates" : [
+            {
+               "Currency" : "TWD",
+               "Date" : "2018-01-24",
+               "Description" : "Room",
+               "Rate" : "1402.2"
+            },
+            {
+               "Currency" : "TWD",
+               "Date" : "2018-01-25",
+               "Description" : "Room",
+               "Rate" : "1402.2"
+            }
+         ],
+         "RateDesc" : "Room Only",
+         "Currency" : "TWD",
+         "Policy" : "Cancellation policy: 7D1N_100P\nPromotion: Last Minute Special.  Rate includes 62% discount!",
+         "Units" : "1",
+         "StartDate" : "2018-01-24",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "3013942"
+      }
+   ]
+}

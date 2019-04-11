@@ -1,0 +1,61 @@
+{
+   "OrderTime" : "05:25:20",
+   "DepositCurrency" : "GBP",
+   "Deposit" : "11.33",
+   "Customers" : [
+      {
+         "CustomerLName" : "Walker",
+         "CustomerCompany" : "",
+         "CustomerNote" : "CENSORED",
+         "CustomerEmail" : "emily.walker@yahoo.com",
+         "CustomerFName" : "Emily",
+         "CustomerCity" : "london",
+         "CustomerPostCode" : "SW12 9qx",
+         "CustomerAddress" : "CENSORED",
+         "CustomerPhone" : "8499205412011",
+         "CustomerCountry" : "United Kingdom"
+      }
+   ],
+   "Acknowledged" : false,
+   "OrderDate" : "2018-01-23",
+   "MyallocatorModificationDate" : "2018-01-23",
+   "OrderId" : "b4ujvgbyny",
+   "EndDate" : "2018-01-23",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "MyallocatorId" : "e56b132f382612e7db78ffaf2",
+   "TotalPrice" : "11.33",
+   "MyallocatorCreationDate" : "2018-01-23",
+   "IsModification" : false,
+   "MyallocatorModificationTime" : "05:54:39",
+   "PropertyId" : "11959",
+   "StartDate" : "2018-01-23",
+   "MyallocatorCreationTime" : "05:54:39",
+   "MarkedAsRead" : false,
+   "Channel" : "net",
+   "TotalCurrency" : "GBP",
+   "Rooms" : [
+      {
+         "EndDate" : "2018-01-23",
+         "RoomTypeIds" : [
+            58224
+         ],
+         "Children" : 0,
+         "DayRates" : [
+            {
+               "Description" : null,
+               "Rate" : 11.33,
+               "Date" : "2018-01-23"
+            }
+         ],
+         "RoomDesc" : "1 Bed In A 9 Bed Mixed Dormitory",
+         "RateDesc" : "",
+         "RateId" : "",
+         "Units" : "1",
+         "Adults" : 1,
+         "StartDate" : "2018-01-23",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "92570"
+      }
+   ]
+}

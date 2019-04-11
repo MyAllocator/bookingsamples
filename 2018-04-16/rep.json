@@ -1,0 +1,71 @@
+{
+   "EndDate" : "2018-04-17",
+   "OrderTime" : "11:19",
+   "OrderDate" : "2018-04-16",
+   "Version" : 0,
+   "PropertyId" : "742",
+   "MyallocatorModificationDate" : "2018-04-16",
+   "MyallocatorCreationTime" : "10:22:45",
+   "OrderAdults" : 2,
+   "IsModification" : false,
+   "OrderChildren" : 0,
+   "OrderId" : "55921171",
+   "Acknowledged" : false,
+   "MyallocatorId" : "9594d963f91cebc335c09b3da",
+   "MarkedAsRead" : false,
+   "MyallocatorCreationDate" : "2018-04-16",
+   "Rooms" : [
+      {
+         "MyallocatorRateplanIds" : [],
+         "EndDate" : "2018-04-17",
+         "Breakfast" : true,
+         "RoomTypeIds" : [
+            4783
+         ],
+         "OccupantNote" : "CENSORED",
+         "RoomDesc" : "Single Bedroom",
+         "Price" : "32.8000",
+         "StartDate" : "2018-04-17",
+         "ChannelRoomType" : "6316350",
+         "Occupancy" : 1,
+         "OccupantLName" : "Davis",
+         "Currency" : "USD",
+         "Units" : "1"
+      },
+      {
+         "Units" : "1",
+         "OccupantLName" : "Davis",
+         "Occupancy" : 1,
+         "StartDate" : "2018-04-17",
+         "ChannelRoomType" : "9614405",
+         "Currency" : "USD",
+         "MyallocatorRateplanIds" : [],
+         "EndDate" : "2018-04-17",
+         "RoomDesc" : "Single Bedroom",
+         "Price" : "32.8000",
+         "OccupantNote" : "CENSORED",
+         "RoomTypeIds" : [
+            4783
+         ],
+         "Breakfast" : true
+      }
+   ],
+   "TotalCurrency" : "USD",
+   "Customers" : [
+      {
+         "CustomerPhoneMobile" : "",
+         "CustomerLName" : "Davis",
+         "CustomerCountry" : null,
+         "CustomerFName" : "Mason",
+         "CustomerEmail" : "",
+         "CustomerPhone" : "",
+         "CustomerTitle" : "Mr",
+         "CustomerNote" : ""
+      }
+   ],
+   "Channel" : "rep",
+   "IsCancellation" : false,
+   "TotalPrice" : "65.60",
+   "MyallocatorModificationTime" : "10:22:45",
+   "StartDate" : "2018-04-17"
+}

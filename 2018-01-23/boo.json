@@ -1,0 +1,70 @@
+{
+   "OrderTime" : "12:47:26",
+   "Customers" : [
+      {
+         "CustomerLName" : "Anderson",
+         "CustomerCompany" : "",
+         "CustomerNote" : "CENSORED",
+         "CustomerEmail" : "mia.anderson@hotmail.com",
+         "CustomerFName" : "Mia",
+         "CustomerCity" : "Volkel",
+         "CustomerPostCode" : "",
+         "CustomerAddress" : "CENSORED",
+         "CustomerPhone" : "3653217909656",
+         "CustomerCountry" : "nl"
+      }
+   ],
+   "Acknowledged" : false,
+   "OrderDate" : "2018-01-23",
+   "MyallocatorModificationDate" : "2018-01-23",
+   "PaymentCollect" : "Property",
+   "EndDate" : "2018-01-24",
+   "OrderId" : "0540627185",
+   "IsCancellation" : false,
+   "MyallocatorCreditCardDetailsPresent" : true,
+   "Version" : 0,
+   "MyallocatorId" : "edf29916471d5b1536939b9ae",
+   "TotalPrice" : "27.00",
+   "CommissionCurrency" : "MYR",
+   "MyallocatorCreationDate" : "2018-01-23",
+   "IsModification" : false,
+   "MyallocatorModificationTime" : "11:47:45",
+   "PropertyId" : "10296",
+   "StartDate" : "2018-01-24",
+   "MyallocatorCreationTime" : "11:47:45",
+   "MarkedAsRead" : false,
+   "Channel" : "boo",
+   "Commission" : "4.05",
+   "TotalCurrency" : "MYR",
+   "Rooms" : [
+      {
+         "DayRates" : [
+            {
+               "Currency" : "MYR",
+               "RateId" : "6477157",
+               "Date" : "2018-01-24",
+               "Description" : "PROMOTION",
+               "Rate" : "27"
+            }
+         ],
+         "OccupantSmoker" : null,
+         "OccupantLName" : "Anderson",
+         "Units" : "1",
+         "StartDate" : "2018-01-24",
+         "Occupancy" : "1",
+         "EndDate" : "2018-01-24",
+         "RoomTypeIds" : [
+            117114
+         ],
+         "RoomDesc" : "Bed in 8-Bed Female Dormitory Room",
+         "Price" : 27,
+         "RateId" : "6477157",
+         "RateDesc" : "PROMOTION",
+         "Currency" : "MYR",
+         "OccupantNote" : "",
+         "Policy" : "No meal is included in this room rate. Children and Extra Bed Policy: Children cannot be accommodated at the hotel. All further adults are charged  MYR 40 per night for extra beds. The maximum number of extra beds in a room is 1.  Deposit Policy: The total price of the reservation may be charged anytime after booking.  Cancellation Policy: Please note, if cancelled, modified or in case of no-show, the total price of the reservation will be charged. \n\nMeal Plan: No meal is included in this room rate.",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "718697908"
+      }
+   ]
+}

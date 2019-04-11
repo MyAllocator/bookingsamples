@@ -1,0 +1,43 @@
+{
+   "OrderTime" : "22:14:00",
+   "Customers" : [
+      {
+         "CustomerLName" : "Smith",
+         "CustomerNote" : ""
+      }
+   ],
+   "Acknowledged" : false,
+   "OrderDate" : "2018-01-22",
+   "MyallocatorModificationDate" : "2018-01-22",
+   "EndDate" : "2018-02-21",
+   "OrderId" : "85219465",
+   "IsCancellation" : false,
+   "MyallocatorCreditCardDetailsPresent" : true,
+   "Version" : 0,
+   "MyallocatorId" : "d7c9f4b7a4a1b1b7f0fada3ff",
+   "TotalPrice" : "481.80",
+   "MyallocatorCreationDate" : "2018-01-22",
+   "IsModification" : false,
+   "MyallocatorModificationTime" : "21:19:16",
+   "PropertyId" : "38910",
+   "StartDate" : "2018-02-10",
+   "MyallocatorCreationTime" : "21:19:16",
+   "MarkedAsRead" : false,
+   "Channel" : "hotu",
+   "TotalCurrency" : "EUR",
+   "Rooms" : [
+      {
+         "EndDate" : "2018-02-21",
+         "RoomTypeIds" : [
+            82468
+         ],
+         "Price" : 240.9,
+         "RoomDesc" : "1bed,shared room 8 pax",
+         "Currency" : "EUR",
+         "Units" : "2",
+         "StartDate" : "2018-02-10",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "kd"
+      }
+   ]
+}

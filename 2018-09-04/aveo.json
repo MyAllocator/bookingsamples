@@ -1,0 +1,55 @@
+{
+   "IsCancellation" : false,
+   "MyallocatorCreationDate" : "2018-07-02",
+   "OrderTime" : "11:04:25",
+   "Channel" : "aveo",
+   "StartDate" : "2018-07-09",
+   "IsTentative" : 0,
+   "TotalPrice" : "525.00",
+   "OrderId" : "2600302",
+   "MyallocatorPIIRemoved" : null,
+   "MyallocatorId" : "d122999c04ea61b9ac720215d",
+   "MyallocatorModificationTime" : "11:04:25",
+   "MarkedAsRead" : false,
+   "MyallocatorModificationDate" : "2018-07-02",
+   "MyallocatorCreationTime" : "11:04:25",
+   "Version" : 0,
+   "OrderDate" : "2018-07-02",
+   "Acknowledged" : false,
+   "TotalCurrency" : "EUR",
+   "Customers" : [
+      {
+         "CustomerCountry" : "DE",
+         "CustomerCity" : "D\u00c3\u00bcsseldorf",
+         "CustomerPhone" : "3645131583703",
+         "CustomerEmail" : "ava.brown@aol.com",
+         "CustomerFName" : "Ava",
+         "CustomerLName" : "Brown",
+         "CustomerPostCode" : "40468",
+         "CustomerNote" : "",
+         "CustomerAddress" : "CENSORED"
+      }
+   ],
+   "EndDate" : "2018-07-11",
+   "PropertyId" : "26611",
+   "Rooms" : [
+      {
+         "RoomTypeIds" : [
+            86393
+         ],
+         "OccupantLName" : "Brown",
+         "Price" : "525.00",
+         "ChannelRoomType" : "nzcjhk7aqtp8mgx2kxf3t6x394qwb1tsgz",
+         "Currency" : "EUR",
+         "Occupancy" : "3",
+         "StartDate" : "2018-07-09",
+         "EndDate" : "2018-07-11",
+         "MyallocatorRateplanIds" : [],
+         "OccupantFName" : "Ava",
+         "Units" : "1",
+         "OccupantNote" : "",
+         "RoomDesc" : ""
+      }
+   ],
+   "IsModification" : false
+}

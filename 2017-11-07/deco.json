@@ -1,0 +1,48 @@
+{
+   "OrderTime" : "04:07:45",
+   "DepositCurrency" : "USD",
+   "Deposit" : "398.0458",
+   "Customers" : [
+      {
+         "CustomerFName" : "Noah",
+         "CustomerLName" : "Smith",
+         "CustomerNote" : ""
+      }
+   ],
+   "Acknowledged" : false,
+   "OrderDate" : "2017-11-07",
+   "MyallocatorModificationDate" : "2017-11-07",
+   "EndDate" : "2018-01-04",
+   "OrderId" : "6797130173",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "CommissionIncludedInTotal" : true,
+   "MyallocatorId" : "8785eca18a678fb6a87f64c2a",
+   "TotalPrice" : "398.05",
+   "MyallocatorCreationDate" : "2017-11-07",
+   "OrderAdults" : "2",
+   "IsModification" : false,
+   "MyallocatorModificationTime" : "04:13:12",
+   "BalanceCurrency" : "USD",
+   "Balance" : 0,
+   "PropertyId" : "87665",
+   "StartDate" : "2017-12-27",
+   "MyallocatorCreationTime" : "04:13:12",
+   "MarkedAsRead" : false,
+   "Channel" : "deco",
+   "TotalCurrency" : "USD",
+   "Rooms" : [
+      {
+         "EndDate" : "2018-01-04",
+         "RoomTypeIds" : [
+            51181
+         ],
+         "Price" : 398.0458,
+         "RoomDesc" : "Est\u00e1ndar 1 King Size",
+         "Units" : "1",
+         "StartDate" : "2017-12-27",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "17838"
+      }
+   ]
+}

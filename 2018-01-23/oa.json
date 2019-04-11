@@ -1,0 +1,114 @@
+{
+   "OrderTime" : "10:44:33",
+   "Customers" : [
+      {
+         "CustomerLName" : "Hall",
+         "CustomerCompany" : "",
+         "CustomerNote" : "CENSORED",
+         "CustomerEmail" : "ethan.hall@outlook.com",
+         "CustomerFName" : "Ethan",
+         "CustomerPostCode" : "",
+         "CustomerCity" : "",
+         "CustomerAddress" : "",
+         "CustomerPhone" : "ezwu83fmwhs68oar",
+         "CustomerCountry" : "de"
+      }
+   ],
+   "Acknowledged" : false,
+   "OrderDate" : "2018-01-14",
+   "MyallocatorModificationDate" : "2018-01-14",
+   "EndDate" : "2018-02-08",
+   "OrderId" : "290707",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "MyallocatorId" : "dbd2a8d32666cb763ab53b66f",
+   "CommissionCurrency" : null,
+   "TotalPrice" : "350.00",
+   "MyallocatorCreationDate" : "2018-01-14",
+   "IsModification" : false,
+   "MyallocatorModificationTime" : "09:45:33",
+   "PropertyId" : "61212",
+   "StartDate" : "2018-02-04",
+   "MyallocatorCreationTime" : "09:45:33",
+   "MarkedAsRead" : true,
+   "Channel" : "oa",
+   "Commission" : null,
+   "TotalCurrency" : "EUR",
+   "Rooms" : [
+      {
+         "EndDate" : "2018-02-04",
+         "RoomTypeIds" : [
+            124521
+         ],
+         "Children" : 0,
+         "Price" : "70.00",
+         "RoomDesc" : "Apartment",
+         "Currency" : "EUR",
+         "Adults" : 2,
+         "Units" : "1",
+         "StartDate" : "2018-02-04",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "758443"
+      },
+      {
+         "EndDate" : "2018-02-05",
+         "RoomTypeIds" : [
+            124521
+         ],
+         "Children" : 0,
+         "RoomDesc" : "Apartment",
+         "Price" : "70.00",
+         "Currency" : "EUR",
+         "Units" : "1",
+         "Adults" : 2,
+         "StartDate" : "2018-02-05",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "572780"
+      },
+      {
+         "EndDate" : "2018-02-06",
+         "RoomTypeIds" : [
+            124521
+         ],
+         "Children" : 0,
+         "Price" : "70.00",
+         "RoomDesc" : "Apartment",
+         "Currency" : "EUR",
+         "Adults" : 2,
+         "Units" : "1",
+         "StartDate" : "2018-02-06",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "285318"
+      },
+      {
+         "EndDate" : "2018-02-07",
+         "RoomTypeIds" : [
+            124521
+         ],
+         "Children" : 0,
+         "Price" : "70.00",
+         "RoomDesc" : "Apartment",
+         "Currency" : "EUR",
+         "Adults" : 2,
+         "Units" : "1",
+         "StartDate" : "2018-02-07",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "556080"
+      },
+      {
+         "EndDate" : "2018-02-08",
+         "RoomTypeIds" : [
+            124521
+         ],
+         "Price" : "70.00",
+         "RoomDesc" : "Apartment",
+         "Children" : 0,
+         "Currency" : "EUR",
+         "Adults" : 2,
+         "Units" : "1",
+         "StartDate" : "2018-02-08",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "549830"
+      }
+   ]
+}

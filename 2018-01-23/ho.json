@@ -1,0 +1,182 @@
+{
+   "OrderTime" : "08:35:09",
+   "DepositDue" : "42.00",
+   "Deposit" : "0.00",
+   "Customers" : [
+      {
+         "CustomerLName" : "Hall",
+         "CustomerCompany" : "",
+         "CustomerNote" : "",
+         "CustomerEmail" : "ethan.hall@aol.com",
+         "CustomerFName" : "Ethan",
+         "CustomerPostCode" : "",
+         "CustomerCity" : "",
+         "CustomerAddress" : "CENSORED",
+         "CustomerPhone" : "3581946031250",
+         "CustomerCountry" : "it"
+      }
+   ],
+   "Acknowledged" : false,
+   "OrderDate" : "2018-01-23",
+   "TotalTaxesCurrency" : "EUR",
+   "MyallocatorModificationDate" : "2018-01-23",
+   "OrderId" : "3497451673",
+   "EndDate" : "2018-01-31",
+   "IsCancellation" : false,
+   "MyallocatorCreditCardDetailsPresent" : true,
+   "Version" : 0,
+   "MyallocatorId" : "6112e8dbf4666fe36b6ffcfcb",
+   "CommissionCurrency" : "EUR",
+   "TotalPrice" : "168.00",
+   "MyallocatorCreationDate" : "2018-01-23",
+   "IsModification" : false,
+   "MyallocatorModificationTime" : "08:35:13",
+   "PropertyId" : "339",
+   "StartDate" : "2018-01-28",
+   "MyallocatorCreationTime" : "08:35:13",
+   "MarkedAsRead" : true,
+   "Channel" : "ho",
+   "Commission" : 0,
+   "TotalCurrency" : "EUR",
+   "TotalTaxes" : 0,
+   "Rooms" : [
+      {
+         "DayRates" : [
+            {
+               "RateId" : "62162",
+               "Rate" : 14,
+               "Date" : "2018-01-28",
+               "Description" : null
+            },
+            {
+               "RateId" : "62162",
+               "Rate" : 14,
+               "Description" : null,
+               "Date" : "2018-01-29"
+            },
+            {
+               "RateId" : "62162",
+               "Description" : null,
+               "Date" : "2018-01-30",
+               "Rate" : 14
+            },
+            {
+               "RateId" : "62162",
+               "Rate" : 14,
+               "Description" : null,
+               "Date" : "2018-01-31"
+            }
+         ],
+         "OccupantLName" : "",
+         "Units" : "1",
+         "StartDate" : "2018-01-28",
+         "Occupancy" : 1,
+         "EndDate" : "2018-01-31",
+         "OccupantFName" : "",
+         "RoomTypeIds" : [
+            1121
+         ],
+         "Price" : "56.00",
+         "RateId" : "62162",
+         "RoomDesc" : "3 Bed Dorm",
+         "RateDesc" : "",
+         "Currency" : "EUR",
+         "OccupantNote" : "",
+         "Policy" : "",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "79223"
+      },
+      {
+         "DayRates" : [
+            {
+               "RateId" : "62162",
+               "Rate" : 14,
+               "Description" : null,
+               "Date" : "2018-01-28"
+            },
+            {
+               "RateId" : "62162",
+               "Rate" : 14,
+               "Description" : null,
+               "Date" : "2018-01-29"
+            },
+            {
+               "RateId" : "62162",
+               "Description" : null,
+               "Date" : "2018-01-30",
+               "Rate" : 14
+            },
+            {
+               "RateId" : "62162",
+               "Date" : "2018-01-31",
+               "Description" : null,
+               "Rate" : 14
+            }
+         ],
+         "OccupantLName" : "",
+         "Units" : "1",
+         "Occupancy" : 1,
+         "StartDate" : "2018-01-28",
+         "EndDate" : "2018-01-31",
+         "OccupantFName" : "",
+         "RoomTypeIds" : [
+            1121
+         ],
+         "RoomDesc" : "3 Bed Dorm",
+         "RateDesc" : "",
+         "Price" : "56.00",
+         "RateId" : "62162",
+         "Currency" : "EUR",
+         "OccupantNote" : "",
+         "Policy" : "",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "10662"
+      },
+      {
+         "DayRates" : [
+            {
+               "RateId" : "62162",
+               "Rate" : 14,
+               "Description" : null,
+               "Date" : "2018-01-28"
+            },
+            {
+               "RateId" : "62162",
+               "Description" : null,
+               "Date" : "2018-01-29",
+               "Rate" : 14
+            },
+            {
+               "RateId" : "62162",
+               "Rate" : 14,
+               "Date" : "2018-01-30",
+               "Description" : null
+            },
+            {
+               "RateId" : "62162",
+               "Date" : "2018-01-31",
+               "Description" : null,
+               "Rate" : 14
+            }
+         ],
+         "OccupantLName" : "",
+         "Units" : "1",
+         "Occupancy" : 1,
+         "StartDate" : "2018-01-28",
+         "EndDate" : "2018-01-31",
+         "OccupantFName" : "",
+         "RoomTypeIds" : [
+            1121
+         ],
+         "RateDesc" : "",
+         "RoomDesc" : "3 Bed Dorm",
+         "RateId" : "62162",
+         "Price" : "56.00",
+         "Currency" : "EUR",
+         "OccupantNote" : "",
+         "Policy" : "",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "39873"
+      }
+   ]
+}

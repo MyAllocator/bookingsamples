@@ -1,0 +1,42 @@
+{
+   "OrderTime" : "17:16:18",
+   "Customers" : [
+      {
+         "CustomerLName" : "Johnson",
+         "CustomerNote" : "",
+         "CustomerEmail" : "johnson@zoho.com"
+      }
+   ],
+   "Acknowledged" : false,
+   "OrderDate" : "2018-01-22",
+   "MyallocatorModificationDate" : "2018-01-23",
+   "EndDate" : "2018-05-24",
+   "OrderId" : "2524600",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "MyallocatorId" : "d053649581c8e1512107defec",
+   "MyallocatorCreationDate" : "2018-01-23",
+   "IsModification" : false,
+   "MyallocatorModificationTime" : "11:31:01",
+   "PropertyId" : "23763",
+   "StartDate" : "2018-05-24",
+   "MyallocatorCreationTime" : "11:31:01",
+   "MarkedAsRead" : false,
+   "Channel" : "eb",
+   "TotalCurrency" : "GBP",
+   "Rooms" : [
+      {
+         "EndDate" : "2018-05-24",
+         "RoomTypeIds" : [
+            106138
+         ],
+         "Price" : 0,
+         "RoomDesc" : " Room 6",
+         "Currency" : "GBP",
+         "Units" : "1",
+         "StartDate" : "2018-05-24",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "6471"
+      }
+   ]
+}

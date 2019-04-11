@@ -1,0 +1,79 @@
+{
+   "Acknowledged" : true,
+   "Version" : 0,
+   "OrderDate" : "2018-09-04",
+   "MyallocatorModificationDate" : "2018-09-04",
+   "MyallocatorCreationTime" : "13:23:44",
+   "CommissionCurrency" : "EUR",
+   "MarkedAsRead" : true,
+   "Rooms" : [
+      {
+         "RoomTypeIds" : [
+            6691
+         ],
+         "RateId" : "7566",
+         "DayRates" : [
+            {
+               "Description" : "",
+               "RateId" : "7566",
+               "Rate" : "43.00",
+               "Currency" : "EUR",
+               "Date" : "2018-09-05"
+            },
+            {
+               "Date" : "2018-09-06",
+               "Rate" : "45.00",
+               "Currency" : "EUR",
+               "RateId" : "7566",
+               "Description" : ""
+            },
+            {
+               "Description" : "",
+               "RateId" : "7566",
+               "Rate" : "49.00",
+               "Currency" : "EUR",
+               "Date" : "2018-09-07"
+            }
+         ],
+         "Price" : 137,
+         "ChannelRoomType" : "74532",
+         "Currency" : "EUR",
+         "RateDesc" : "",
+         "StartDate" : "2018-09-05",
+         "EndDate" : "2018-09-07",
+         "Units" : "1",
+         "MyallocatorRateplanIds" : [],
+         "RoomDesc" : ""
+      }
+   ],
+   "Balance" : "111.72",
+   "PropertyId" : "3545",
+   "IsModification" : false,
+   "Customers" : [
+      {
+         "CustomerPhone" : "93604305819",
+         "CustomerCountry" : "FR",
+         "CustomerEmail" : "james.wilson@inbox.com",
+         "CustomerFName" : "James",
+         "CustomerLName" : "Wilson",
+         "CustomerNote" : "CENSORED"
+      }
+   ],
+   "Commission" : "20.55",
+   "EndDate" : "2018-09-07",
+   "TotalCurrency" : "EUR",
+   "OrderTime" : "15:23:40",
+   "StartDate" : "2018-09-05",
+   "Channel" : "gr",
+   "MyallocatorCreationDate" : "2018-09-04",
+   "IsCancellation" : false,
+   "MyallocatorId" : "4b2ba48a4555f3e2af1b30cda",
+   "MyallocatorModificationTime" : "13:23:44",
+   "OrderId" : "9qus0m6cprhfp8",
+   "MyallocatorPIIRemoved" : null,
+   "DepositCurrency" : "EUR",
+   "IsTentative" : 0,
+   "Deposit" : "25.28",
+   "BalanceCurrency" : "EUR",
+   "TotalPrice" : "137.00"
+}

@@ -1,0 +1,51 @@
+{
+   "OrderTime" : "17:21:47",
+   "Customers" : [
+      {
+         "CustomerLName" : "Taylor",
+         "CustomerNote" : "",
+         "CustomerEmail" : "taylor@inbox.com",
+         "CustomerCity" : "Hounslow",
+         "CustomerPostCode" : "TW4 5QN",
+         "CustomerAddress" : "CENSORED",
+         "CustomerPhone" : "28609183075",
+         "CustomerCountry" : "UK"
+      }
+   ],
+   "Acknowledged" : false,
+   "OrderDate" : "2017-11-06",
+   "MyallocatorModificationDate" : "2017-11-06",
+   "EndDate" : "2017-11-27",
+   "OrderId" : "k14fwhg4d",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "MyallocatorId" : "521462278f35c72589d1de5fe",
+   "ma_callback_qbid" : 7890663,
+   "TotalPrice" : "90.00",
+   "MyallocatorCreationDate" : "2017-11-06",
+   "IsModification" : false,
+   "MyallocatorModificationTime" : "17:22:28",
+   "PropertyId" : "04545",
+   "StartDate" : "2017-11-24",
+   "MyallocatorCreationTime" : "17:22:28",
+   "MarkedAsRead" : false,
+   "Channel" : "lr",
+   "TotalCurrency" : "GBP",
+   "Rooms" : [
+      {
+         "EndDate" : "2017-11-27",
+         "OccupantFName" : "",
+         "RoomTypeIds" : [
+            79748
+         ],
+         "RoomDesc" : "Male Dormitory - Single Bed Single Room sleeps 1. Breakfast included.  Non Smoking Requested, 1 Adult (One Bed in Air conditioned  spacious  room with a contract q)",
+         "Price" : "90.00",
+         "Currency" : "GBP",
+         "RoomSummary" : "Male Dormitory - Single Bed Single Room sleeps 1. Breakfast included.  Non Smoking Requested, 1 Adult",
+         "Units" : "1",
+         "StartDate" : "2017-11-24",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "2614134"
+      }
+   ]
+}

@@ -1,0 +1,62 @@
+{
+   "Version" : 0,
+   "OrderDate" : "2018-04-15",
+   "MyallocatorModificationDate" : "2018-04-16",
+   "PropertyId" : "08320",
+   "EndDate" : "2018-04-15",
+   "OrderId" : "isj95e1n83",
+   "OrderChildren" : "0",
+   "Acknowledged" : false,
+   "MyallocatorCreationTime" : "01:28:41",
+   "IsModification" : false,
+   "OrderAdults" : "3",
+   "Rooms" : [
+      {
+         "ChannelRoomType" : "ZLGPQJ",
+         "StartDate" : "2018-04-15",
+         "RateId" : "EP",
+         "DayRates" : [
+            {
+               "RateId" : "INTER-1!EP",
+               "Date" : "2018-04-15",
+               "Currency" : "MXN",
+               "Rate" : "670.50",
+               "Description" : "BasicRate - European Plan por Habitaci\u00f3n"
+            }
+         ],
+         "MyallocatorRateplanIds" : [],
+         "RoomDesc" : "Grand Suite/European Plan por Habitaci\u00f3n",
+         "Price" : 670.5,
+         "Breakfast" : true,
+         "RateDesc" : "European Plan por Habitaci\u00f3n",
+         "Children" : "0",
+         "Currency" : "MXN",
+         "Units" : "1",
+         "OccupantSmoker" : true,
+         "Adults" : "3",
+         "EndDate" : "2018-04-15",
+         "RoomTypeIds" : [
+            127328
+         ]
+      }
+   ],
+   "MarkedAsRead" : false,
+   "MyallocatorId" : "69d28ea9d32e99cb617ff0210",
+   "MyallocatorCreationDate" : "2018-04-16",
+   "MyallocatorModificationTime" : "01:28:41",
+   "TotalPrice" : "670.50",
+   "StartDate" : "2018-04-15",
+   "Customers" : [
+      {
+         "CustomerPhone" : "46802322778219544",
+         "CustomerCountry" : "MX",
+         "CustomerAddress" : null,
+         "CustomerNote" : "",
+         "CustomerLName" : "Wilson",
+         "CustomerEmail" : "wilson@hushmail.com"
+      }
+   ],
+   "TotalCurrency" : "MXN",
+   "IsCancellation" : false,
+   "Channel" : "bd"
+}

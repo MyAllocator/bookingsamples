@@ -1,0 +1,59 @@
+{
+   "Customers" : [
+      {
+         "CustomerNote" : "",
+         "CustomerFName" : "Mason",
+         "CustomerEmail" : "mason.davis@yahoo.com",
+         "CustomerLName" : "Davis"
+      }
+   ],
+   "EndDate" : "2018-08-11",
+   "Commission" : "1.9600000381469727",
+   "PropertyId" : "7392",
+   "Rooms" : [
+      {
+         "StartDate" : "2018-08-10",
+         "RateDesc" : "",
+         "Currency" : "USD",
+         "RoomDesc" : "",
+         "MyallocatorRateplanIds" : [],
+         "Units" : "1",
+         "EndDate" : "2018-08-11",
+         "RateId" : "548d0cec-ec78-4c81-85b5-4c3f9b922540",
+         "RoomTypeIds" : [
+            45018
+         ],
+         "ChannelRoomType" : "u4vk47xucwyu4jjy8pt118jt85kv7lahc3s6",
+         "DayRates" : [
+            {
+               "Date" : "2018-08-10",
+               "Currency" : "USD",
+               "Rate" : "19.600000381469727",
+               "RateId" : "548d0cec-ec78-4c81-85b5-4c3f9b922540",
+               "Description" : null
+            }
+         ],
+         "Adults" : 2
+      }
+   ],
+   "IsModification" : false,
+   "TotalCurrency" : "USD",
+   "Version" : 0,
+   "OrderDate" : "2018-08-08",
+   "Acknowledged" : true,
+   "MarkedAsRead" : true,
+   "MyallocatorModificationDate" : "2018-08-08",
+   "MyallocatorCreationTime" : "09:39:27",
+   "CommissionCurrency" : "USD",
+   "MyallocatorModificationTime" : "09:39:27",
+   "MyallocatorId" : "ba4e18943605a74cce9055058",
+   "IsTentative" : 0,
+   "TotalPrice" : "19.60",
+   "OrderId" : "16k9i5azdkbgk6hc3qi253uebclq6f3lce99",
+   "MyallocatorPIIRemoved" : null,
+   "MyallocatorCreationDate" : "2018-08-08",
+   "OrderTime" : "09:38:47",
+   "Channel" : "liko",
+   "StartDate" : "2018-08-10",
+   "IsCancellation" : false
+}

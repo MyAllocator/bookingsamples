@@ -1,0 +1,45 @@
+{
+   "OrderTime" : "18:59:45",
+   "Customers" : [
+      {
+         "CustomerLName" : "Wilson",
+         "CustomerFName" : "James",
+         "CustomerNote" : "",
+         "CustomerPhone" : "082850124947",
+         "CustomerCountry" : "France",
+         "CustomerEmail" : "james.wilson@hushmail.com"
+      }
+   ],
+   "Acknowledged" : false,
+   "OrderDate" : "2017-12-21",
+   "MyallocatorModificationDate" : "2017-12-21",
+   "EndDate" : "2018-04-03",
+   "OrderId" : "607920",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "MyallocatorId" : "9234238317d37987dda73710f",
+   "TotalPrice" : "307.00",
+   "MyallocatorCreationDate" : "2017-12-21",
+   "IsModification" : false,
+   "MyallocatorModificationTime" : "18:02:05",
+   "PropertyId" : "71180",
+   "StartDate" : "2018-03-31",
+   "MyallocatorCreationTime" : "18:02:05",
+   "MarkedAsRead" : false,
+   "Channel" : "bnb",
+   "TotalCurrency" : "EUR",
+   "Rooms" : [
+      {
+         "EndDate" : "2018-04-03",
+         "RoomTypeIds" : [
+            71943
+         ],
+         "Price" : "307.00",
+         "RoomDesc" : "Superior Room, River View, Private WC",
+         "Units" : "1",
+         "StartDate" : "2018-03-31",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "9348298"
+      }
+   ]
+}

@@ -1,0 +1,71 @@
+{
+   "OrderTime" : "10:02:22",
+   "Deposit" : "0.00",
+   "DepositDue" : "0.00",
+   "Customers" : [
+      {
+         "CustomerLName" : "Wilson",
+         "CustomerCompany" : "",
+         "CustomerNote" : "",
+         "CustomerEmail" : "james.wilson@gmx.com",
+         "CustomerFName" : "James",
+         "CustomerPostCode" : "",
+         "CustomerCity" : "",
+         "CustomerAddress" : "CENSORED",
+         "CustomerPhone" : "",
+         "CustomerCountry" : "tw"
+      }
+   ],
+   "Acknowledged" : false,
+   "TotalTaxesCurrency" : "KRW",
+   "OrderDate" : "2017-11-07",
+   "MyallocatorModificationDate" : "2017-11-07",
+   "OrderId" : "5677401128",
+   "EndDate" : "2017-11-21",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "MyallocatorId" : "18fa99858e97de1fd5dd1ae2a",
+   "CommissionCurrency" : "KRW",
+   "TotalPrice" : "10800.00",
+   "MyallocatorCreationDate" : "2017-11-07",
+   "IsModification" : false,
+   "MyallocatorModificationTime" : "10:02:24",
+   "PropertyId" : "64550",
+   "StartDate" : "2017-11-21",
+   "MyallocatorCreationTime" : "10:02:24",
+   "MarkedAsRead" : false,
+   "Channel" : "kch",
+   "Commission" : 0,
+   "TotalCurrency" : "KRW",
+   "TotalTaxes" : 0,
+   "Rooms" : [
+      {
+         "DayRates" : [
+            {
+               "RateId" : "97248",
+               "Description" : null,
+               "Date" : "2017-11-21",
+               "Rate" : 10800
+            }
+         ],
+         "OccupantLName" : "",
+         "Units" : "1",
+         "Occupancy" : 1,
+         "StartDate" : "2017-11-21",
+         "EndDate" : "2017-11-21",
+         "OccupantFName" : "",
+         "RoomTypeIds" : [
+            74068
+         ],
+         "Price" : "10800.00",
+         "RoomDesc" : "6 Bed Female Dormitory Bed",
+         "RateId" : "97248",
+         "RateDesc" : "",
+         "Currency" : "KRW",
+         "OccupantNote" : "",
+         "Policy" : "",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "76811"
+      }
+   ]
+}

@@ -1,0 +1,60 @@
+{
+   "IsCancellation" : false,
+   "OrderTime" : "16:22",
+   "StartDate" : "2018-09-04",
+   "Channel" : "tom",
+   "MyallocatorCreationDate" : "2018-09-04",
+   "OrderId" : "g530juppxo",
+   "OrderChildren" : 0,
+   "MyallocatorPIIRemoved" : null,
+   "IsTentative" : 0,
+   "TotalPrice" : "88.48",
+   "OrderSourceId" : "GER00020060215208943",
+   "MyallocatorId" : "cb7861f903230b79a48b6ea0a",
+   "MyallocatorModificationTime" : "14:25:00",
+   "MyallocatorModificationDate" : "2018-09-04",
+   "MyallocatorCreationTime" : "14:25:00",
+   "MarkedAsRead" : false,
+   "OrderSource" : "CallCenter (WUE)",
+   "Acknowledged" : false,
+   "OrderDate" : "2018-09-04",
+   "Version" : 0,
+   "TotalCurrency" : "EUR",
+   "OrderAdults" : 2,
+   "PropertyId" : "0392",
+   "Rooms" : [
+      {
+         "RoomDesc" : "",
+         "EndDate" : "2018-09-04",
+         "Units" : "1",
+         "MyallocatorRateplanIds" : [],
+         "StartDate" : "2018-09-04",
+         "Currency" : "EUR",
+         "RateDesc" : "",
+         "Children" : 0,
+         "Price" : "88.48",
+         "ChannelRoomType" : "ZRF",
+         "Adults" : 2,
+         "Breakfast" : true,
+         "RateId" : "Standard",
+         "RoomTypeIds" : [
+            12669
+         ]
+      }
+   ],
+   "IsModification" : false,
+   "Customers" : [
+      {
+         "CustomerAddress" : "CENSORED",
+         "CustomerNote" : "",
+         "CustomerGender" : "MA",
+         "CustomerPostCode" : "24214",
+         "CustomerFName" : "Mia",
+         "CustomerLName" : "Anderson",
+         "CustomerPhone" : "10566896246",
+         "CustomerCity" : "Neuwittenbek",
+         "CustomerCountry" : "DE"
+      }
+   ],
+   "EndDate" : "2018-09-04"
+}

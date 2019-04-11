@@ -1,0 +1,106 @@
+{
+   "OrderTime" : "09:18:40",
+   "Customers" : [
+      {
+         "CustomerLName" : "Moore",
+         "CustomerNote" : ""
+      }
+   ],
+   "Acknowledged" : false,
+   "OrderDate" : "2017-11-07",
+   "MyallocatorModificationDate" : "2017-11-07",
+   "EndDate" : "2017-12-17",
+   "OrderId" : "1g9yr82cjo67h",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "MyallocatorId" : "e5e6f78eaba10e4ae01adbdcc",
+   "OrderChildren" : "0",
+   "TotalPrice" : "115.44",
+   "MyallocatorCreationDate" : "2017-11-07",
+   "OrderAdults" : "1",
+   "IsModification" : false,
+   "MyallocatorModificationTime" : "09:31:31",
+   "PropertyId" : "58765",
+   "StartDate" : "2017-12-10",
+   "MyallocatorCreationTime" : "09:31:31",
+   "MarkedAsRead" : false,
+   "Channel" : "gta",
+   "TotalCurrency" : "GBP",
+   "Rooms" : [
+      {
+         "EndDate" : "2017-12-17",
+         "RoomTypeIds" : [
+            58223
+         ],
+         "RateDesc" : "MARO1 (Margin)",
+         "RateId" : "303365",
+         "Children" : "0",
+         "RoomDesc" : "1 Bed in a 8 Bed Mixed Dorm Ensuite Room  (Category: OTHER)",
+         "DayRates" : [
+            {
+               "Currency" : "GBP",
+               "RateId" : "303365",
+               "Rate" : "13.59",
+               "Date" : "2017-12-10",
+               "Description" : "MARO1 (Margin)"
+            },
+            {
+               "Currency" : "GBP",
+               "RateId" : "303365",
+               "Description" : "MARO1 (Margin)",
+               "Date" : "2017-12-11",
+               "Rate" : "13.59"
+            },
+            {
+               "Currency" : "GBP",
+               "RateId" : "303365",
+               "Date" : "2017-12-12",
+               "Rate" : "13.59",
+               "Description" : "MARO1 (Margin)"
+            },
+            {
+               "Currency" : "GBP",
+               "RateId" : "303365",
+               "Date" : "2017-12-13",
+               "Rate" : "13.59",
+               "Description" : "MARO1 (Margin)"
+            },
+            {
+               "Currency" : "GBP",
+               "RateId" : "303365",
+               "Description" : "MARO1 (Margin)",
+               "Rate" : "13.59",
+               "Date" : "2017-12-14"
+            },
+            {
+               "Currency" : "GBP",
+               "RateId" : "303365",
+               "Date" : "2017-12-15",
+               "Rate" : "19.99",
+               "Description" : "MARO1 (Margin)"
+            },
+            {
+               "Currency" : "GBP",
+               "RateId" : "303365",
+               "Description" : "MARO1 (Margin)",
+               "Rate" : "19.99",
+               "Date" : "2017-12-16"
+            },
+            {
+               "Currency" : "GBP",
+               "RateId" : "303365",
+               "Date" : "2017-12-17",
+               "Rate" : "13.59",
+               "Description" : "MARO1 (Margin)"
+            }
+         ],
+         "Price" : "121.52",
+         "OccupantLName" : "Moore",
+         "Units" : "1",
+         "Adults" : "1",
+         "StartDate" : "2017-12-10",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "287547"
+      }
+   ]
+}

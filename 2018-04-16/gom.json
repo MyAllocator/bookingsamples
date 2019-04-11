@@ -1,0 +1,49 @@
+{
+   "EndDate" : "2018-04-17",
+   "OrderTime" : "05:27:00",
+   "Deposit" : "3.7",
+   "OrderDate" : "2018-04-16",
+   "Version" : 0,
+   "PropertyId" : "156",
+   "MyallocatorModificationDate" : "2018-04-16",
+   "MyallocatorCreationTime" : "03:28:14",
+   "IsModification" : false,
+   "OrderId" : "mde6ko2",
+   "Acknowledged" : false,
+   "MyallocatorId" : "0ac08c75d98232df4d6467610",
+   "MarkedAsRead" : false,
+   "MyallocatorCreationDate" : "2018-04-16",
+   "Rooms" : [
+      {
+         "StartDate" : "2018-04-17",
+         "ChannelRoomType" : "81102",
+         "Currency" : "USD",
+         "Units" : "1",
+         "EndDate" : "2018-04-17",
+         "MyallocatorRateplanIds" : [],
+         "Price" : 37,
+         "RoomDesc" : "8 Bed Deluxe Mixed Shared Facilities",
+         "RoomTypeIds" : [
+            103615
+         ]
+      }
+   ],
+   "TotalCurrency" : "USD",
+   "DepositCurrency" : "USD",
+   "Customers" : [
+      {
+         "CustomerFName" : "Isabella",
+         "CustomerLName" : "Moore",
+         "CustomerArrivalTime" : "18:00",
+         "CustomerEmail" : "isabella.moore@mail.com",
+         "CustomerCountry" : "Canada",
+         "CustomerGender" : "MA",
+         "CustomerNote" : ""
+      }
+   ],
+   "IsCancellation" : false,
+   "Channel" : "gom",
+   "TotalPrice" : "37.00",
+   "MyallocatorModificationTime" : "03:28:14",
+   "StartDate" : "2018-04-17"
+}

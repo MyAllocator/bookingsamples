@@ -1,0 +1,58 @@
+{
+   "MyallocatorModificationDate" : "2018-06-19",
+   "MyallocatorCreationTime" : "13:21:39",
+   "MarkedAsRead" : false,
+   "OrderSource" : "Feratel Deskline 3.0",
+   "Acknowledged" : false,
+   "OrderDate" : "2018-06-19",
+   "Version" : 0,
+   "OrderModifDate" : null,
+   "TotalCurrency" : "EUR",
+   "PropertyId" : "5244",
+   "Rooms" : [
+      {
+         "Currency" : "EUR",
+         "StartDate" : "2018-06-19",
+         "Units" : "1",
+         "MyallocatorRateplanIds" : [],
+         "EndDate" : "2018-06-19",
+         "RoomDesc" : "",
+         "RoomTypeIds" : [
+            10975
+         ],
+         "ChannelRoomType" : "824509",
+         "Price" : "71.00"
+      }
+   ],
+   "OrderAdults" : 2,
+   "IsModification" : false,
+   "EndDate" : "2018-06-19",
+   "Customers" : [
+      {
+         "CustomerCompany" : "",
+         "CustomerFName" : "Emily",
+         "CustomerLName" : "Walker",
+         "CustomerEmail" : "",
+         "CustomerPhone" : "5qa0ht95o7x8g887v5",
+         "CustomerCity" : "Dachau",
+         "CustomerCountry" : "DE",
+         "CustomerAddress" : "CENSORED",
+         "CustomerNote" : "CENSORED",
+         "CustomerPostCode" : "85221"
+      }
+   ],
+   "IsCancellation" : false,
+   "OrderModifTime" : null,
+   "Channel" : "ct",
+   "StartDate" : "2018-06-19",
+   "OrderTime" : "13:21:29",
+   "MyallocatorCreationDate" : "2018-06-19",
+   "MyallocatorPIIRemoved" : null,
+   "OrderChildren" : 0,
+   "OrderId" : "92648053",
+   "IsTentative" : 0,
+   "TotalPrice" : "71.00",
+   "MyallocatorModificationTime" : "13:21:39",
+   "MyallocatorId" : "9179eb2d212d00cd73c1311d4",
+   "OrderSourceId" : "60761"
+}

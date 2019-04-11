@@ -1,0 +1,48 @@
+{
+   "OrderTime" : "21:09:47",
+   "Customers" : [
+      {
+         "CustomerLName" : "Garcia",
+         "CustomerCompany" : "",
+         "CustomerNote" : "CENSORED",
+         "CustomerEmail" : "abigail.garcia@gmx.com",
+         "CustomerFName" : "Abigail",
+         "CustomerPostCode" : "L2S3A1",
+         "CustomerCity" : "St. Catharines",
+         "CustomerAddress" : "CENSORED",
+         "CustomerPhone" : "434801359052",
+         "CustomerCountry" : "CA"
+      }
+   ],
+   "Acknowledged" : false,
+   "OrderDate" : "2017-11-06",
+   "MyallocatorModificationDate" : "2017-11-06",
+   "EndDate" : "2017-12-13",
+   "OrderId" : "621915",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "MyallocatorId" : "579a2e80b3ec3bf278468d026",
+   "TotalPrice" : "2451.25",
+   "MyallocatorCreationDate" : "2017-11-06",
+   "IsModification" : false,
+   "MyallocatorModificationTime" : "21:26:01",
+   "PropertyId" : "96259",
+   "StartDate" : "2017-12-10",
+   "MyallocatorCreationTime" : "21:26:01",
+   "MarkedAsRead" : false,
+   "Channel" : "cs",
+   "TotalCurrency" : "CAD",
+   "Rooms" : [
+      {
+         "EndDate" : "2017-12-13",
+         "RoomTypeIds" : [
+            97553
+         ],
+         "RoomDesc" : "Mountain Drive, Ontario",
+         "Units" : "1",
+         "StartDate" : "2017-12-10",
+         "ChannelRoomType" : "115097",
+         "MyallocatorRateplanIds" : []
+      }
+   ]
+}

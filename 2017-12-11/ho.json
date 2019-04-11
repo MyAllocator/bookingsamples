@@ -1,0 +1,78 @@
+{
+   "OrderTime" : "11:44:10",
+   "DepositDue" : "15.30",
+   "Deposit" : "0.00",
+   "Customers" : [
+      {
+         "CustomerLName" : "Walker",
+         "CustomerCompany" : "",
+         "CustomerNote" : "CENSORED",
+         "CustomerEmail" : "emily.walker@gmx.com",
+         "CustomerFName" : "Emily",
+         "CustomerCity" : "",
+         "CustomerPostCode" : "",
+         "CustomerAddress" : "CENSORED",
+         "CustomerPhone" : "28735557624194",
+         "CustomerCountry" : "ma"
+      }
+   ],
+   "Acknowledged" : false,
+   "TotalTaxesCurrency" : "EUR",
+   "OrderDate" : "2017-12-11",
+   "MyallocatorModificationDate" : "2017-12-11",
+   "EndDate" : "2017-12-12",
+   "OrderId" : "8767271843",
+   "IsCancellation" : false,
+   "MyallocatorCreditCardDetailsPresent" : true,
+   "Version" : 0,
+   "MyallocatorId" : "8daa665713413151cf48ac7d8",
+   "CommissionCurrency" : "EUR",
+   "TotalPrice" : "30.60",
+   "MyallocatorCreationDate" : "2017-12-11",
+   "IsModification" : false,
+   "MyallocatorModificationTime" : "11:44:16",
+   "PropertyId" : "5570",
+   "StartDate" : "2017-12-11",
+   "MyallocatorCreationTime" : "11:44:16",
+   "MarkedAsRead" : true,
+   "Channel" : "ho",
+   "Commission" : 0,
+   "TotalCurrency" : "EUR",
+   "TotalTaxes" : 0,
+   "Rooms" : [
+      {
+         "DayRates" : [
+            {
+               "RateId" : "63089",
+               "Rate" : 15.3,
+               "Description" : null,
+               "Date" : "2017-12-11"
+            },
+            {
+               "RateId" : "63089",
+               "Rate" : 15.3,
+               "Description" : null,
+               "Date" : "2017-12-12"
+            }
+         ],
+         "OccupantLName" : "",
+         "Units" : "1",
+         "StartDate" : "2017-12-11",
+         "Occupancy" : 1,
+         "EndDate" : "2017-12-12",
+         "OccupantFName" : "",
+         "RoomTypeIds" : [
+            22541
+         ],
+         "RateDesc" : "",
+         "RateId" : "63089",
+         "RoomDesc" : "5 Bed Dorm",
+         "Price" : "30.60",
+         "Currency" : "EUR",
+         "OccupantNote" : "",
+         "Policy" : "",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "57357"
+      }
+   ]
+}

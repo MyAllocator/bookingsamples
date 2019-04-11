@@ -1,0 +1,54 @@
+{
+   "OrderTime" : "05:02:41",
+   "Customers" : [
+      {
+         "CustomerLName" : "Moore",
+         "CustomerNote" : "",
+         "CustomerEmail" : "isabella.moore@lycos.com",
+         "CustomerFName" : "Isabella",
+         "CustomerCity" : "",
+         "CustomerPostCode" : "",
+         "CustomerAddress" : "",
+         "CustomerPhone" : "5555302199570",
+         "CustomerCountry" : ""
+      }
+   ],
+   "Acknowledged" : false,
+   "TotalTaxesCurrency" : "USD",
+   "OrderDate" : "2017-12-11",
+   "MyallocatorModificationDate" : "2017-12-11",
+   "OrderSource" : "Expedia - Hotels.com",
+   "OrderId" : "418132897",
+   "EndDate" : "2018-01-18",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "MyallocatorId" : "afc22c75f214da8db963b2c0c",
+   "ma_callback_qbid" : 8728161,
+   "TotalPrice" : "92.61",
+   "MyallocatorCreationDate" : "2017-12-11",
+   "IsModification" : false,
+   "MyallocatorModificationTime" : "11:03:55",
+   "PropertyId" : "21819",
+   "StartDate" : "2018-01-18",
+   "MyallocatorCreationTime" : "11:03:55",
+   "MarkedAsRead" : false,
+   "Channel" : "bnb2",
+   "TotalCurrency" : "USD",
+   "TotalTaxes" : 10.29,
+   "Rooms" : [
+      {
+         "EndDate" : "2018-01-18",
+         "RoomTypeIds" : [
+            104566
+         ],
+         "Price" : 92.61,
+         "Children" : 0,
+         "RoomDesc" : "Standard Double and Single Bed 213",
+         "Adults" : 2,
+         "Units" : "1",
+         "StartDate" : "2018-01-18",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "116001"
+      }
+   ]
+}

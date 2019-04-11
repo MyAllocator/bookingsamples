@@ -1,0 +1,90 @@
+{
+   "IsModification" : false,
+   "PropertyId" : "7725",
+   "Rooms" : [
+      {
+         "Price" : "126000.00",
+         "ChannelRoomType" : "63811",
+         "OccupantLName" : "",
+         "EndDate" : "2018-03-27",
+         "MyallocatorRateplanIds" : [],
+         "Units" : "1",
+         "OccupantFName" : "",
+         "RoomDesc" : "",
+         "RateDesc" : "",
+         "DayRates" : [
+            {
+               "Date" : "2018-03-24",
+               "Rate" : 31500,
+               "RateId" : "97267",
+               "Description" : null
+            },
+            {
+               "RateId" : "97267",
+               "Description" : null,
+               "Date" : "2018-03-25",
+               "Rate" : 31500
+            },
+            {
+               "Rate" : 31500,
+               "Date" : "2018-03-26",
+               "Description" : null,
+               "RateId" : "97267"
+            },
+            {
+               "Rate" : 31500,
+               "Date" : "2018-03-27",
+               "Description" : null,
+               "RateId" : "97267"
+            }
+         ],
+         "RoomTypeIds" : [
+            15637
+         ],
+         "RateId" : "97267",
+         "Policy" : "",
+         "OccupantNote" : "",
+         "Currency" : "KRW",
+         "Occupancy" : 1,
+         "StartDate" : "2018-03-24"
+      }
+   ],
+   "Customers" : [
+      {
+         "CustomerCity" : "",
+         "CustomerCountry" : "ph",
+         "CustomerPhone" : "6693307469822",
+         "CustomerCompany" : "",
+         "CustomerLName" : "Garcia",
+         "CustomerFName" : "Abigail",
+         "CustomerEmail" : "abigail.garcia@lycos.com",
+         "CustomerNote" : "",
+         "CustomerAddress" : "CENSORED",
+         "CustomerPostCode" : ""
+      }
+   ],
+   "EndDate" : "2018-03-27",
+   "Commission" : 0,
+   "TotalCurrency" : "KRW",
+   "Acknowledged" : false,
+   "TotalTaxesCurrency" : "KRW",
+   "Version" : 0,
+   "OrderDate" : "2017-11-20",
+   "CommissionCurrency" : "KRW",
+   "MyallocatorCreationTime" : "02:40:28",
+   "MyallocatorModificationDate" : "2017-11-20",
+   "MarkedAsRead" : false,
+   "MyallocatorId" : "7c0da2ef139544468ff983f60",
+   "MyallocatorModificationTime" : "02:40:28",
+   "DepositDue" : "0.00",
+   "MyallocatorPIIRemoved" : null,
+   "OrderId" : "2257122944",
+   "TotalPrice" : "126000.00",
+   "Deposit" : "0.00",
+   "StartDate" : "2018-03-24",
+   "Channel" : "ya",
+   "TotalTaxes" : 0,
+   "OrderTime" : "02:40:24",
+   "MyallocatorCreationDate" : "2017-11-20",
+   "IsCancellation" : false
+}

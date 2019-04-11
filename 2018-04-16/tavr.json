@@ -1,0 +1,37 @@
+{
+   "MarkedAsRead" : false,
+   "MyallocatorId" : "929341f680b53d67f896b577d",
+   "MyallocatorCreationDate" : "2018-04-16",
+   "Rooms" : [
+      {
+         "Units" : "1",
+         "ChannelRoomType" : "https://rentals.tripadvisor.com/CENSORED",
+         "StartDate" : "2018-11-20",
+         "Occupancy" : "3",
+         "RoomTypeIds" : [
+            132578
+         ],
+         "RoomDesc" : "View for Beach Front Villa (123456)",
+         "MyallocatorRateplanIds" : [],
+         "EndDate" : "2018-11-26"
+      }
+   ],
+   "Customers" : [
+      {
+         "CustomerLName" : "Jackson",
+         "CustomerNote" : ""
+      }
+   ],
+   "IsCancellation" : false,
+   "Channel" : "tavr",
+   "MyallocatorModificationTime" : "13:19:47",
+   "StartDate" : "2018-11-20",
+   "EndDate" : "2018-11-26",
+   "Version" : 0,
+   "MyallocatorModificationDate" : "2018-04-16",
+   "PropertyId" : "55192",
+   "MyallocatorCreationTime" : "13:19:47",
+   "IsModification" : false,
+   "OrderId" : "pov117jkbe",
+   "Acknowledged" : false
+}

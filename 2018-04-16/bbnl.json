@@ -1,0 +1,45 @@
+{
+   "OrderTime" : "10:19:08",
+   "EndDate" : "2018-03-29",
+   "MyallocatorModificationDate" : "2018-03-27",
+   "PropertyId" : "37740",
+   "Version" : 0,
+   "OrderDate" : "2018-03-27",
+   "IsModification" : false,
+   "MyallocatorCreationTime" : "08:19:16",
+   "Acknowledged" : false,
+   "OrderId" : "5800547",
+   "MyallocatorCreationDate" : "2018-03-27",
+   "MarkedAsRead" : false,
+   "MyallocatorId" : "3dc50eafac165ba9de9d355bb",
+   "Rooms" : [
+      {
+         "StartDate" : "2018-03-29",
+         "ChannelRoomType" : "2514",
+         "Units" : "1",
+         "MyallocatorRateplanIds" : [],
+         "EndDate" : "2018-03-29",
+         "RoomDesc" : "Former cupboard bedroom",
+         "Price" : "74.00",
+         "RoomTypeIds" : [
+            87638
+         ]
+      }
+   ],
+   "IsCancellation" : false,
+   "Channel" : "bbnl",
+   "TotalCurrency" : "EUR",
+   "Customers" : [
+      {
+         "CustomerNote" : "",
+         "CustomerCountry" : "Netherlands",
+         "CustomerPhone" : "2084648423870",
+         "CustomerEmail" : "sophia.miller@mail.com",
+         "CustomerFName" : "Sophia",
+         "CustomerLName" : "Miller"
+      }
+   ],
+   "StartDate" : "2018-03-29",
+   "MyallocatorModificationTime" : "08:19:16",
+   "TotalPrice" : "74.00"
+}

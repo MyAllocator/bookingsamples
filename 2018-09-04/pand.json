@@ -1,0 +1,77 @@
+{
+   "DepositCurrency" : "INR",
+   "IsTentative" : 0,
+   "TotalPrice" : "1196.00",
+   "BalanceCurrency" : "INR",
+   "Deposit" : "1196.00",
+   "MyallocatorPIIRemoved" : null,
+   "OrderId" : "hyghrb2o44fs4wt7",
+   "OrderChildren" : 0,
+   "Discounts" : [
+      {
+         "Currency" : "INR",
+         "Discount" : 0,
+         "Description" : "",
+         "StartDate" : "2018-09-03",
+         "IncludedInTotal" : true,
+         "EndDate" : "2018-09-03"
+      }
+   ],
+   "MyallocatorId" : "71bb3a66202afe5ac293d7532",
+   "MyallocatorModificationTime" : "14:06:18",
+   "IsCancellation" : false,
+   "MyallocatorCreationDate" : "2018-09-03",
+   "Channel" : "pand",
+   "StartDate" : "2018-09-05",
+   "OrderTime" : "11:32:27 PM",
+   "TotalCurrency" : "INR",
+   "Customers" : [
+      {
+         "CustomerCountry" : "India",
+         "CustomerNote" : "",
+         "CustomerPhone" : "9404311502846",
+         "CustomerLName" : "Smith",
+         "CustomerEmail" : "noah.smith@aol.com",
+         "CustomerFName" : "Noah"
+      }
+   ],
+   "EndDate" : "2018-09-05",
+   "Rooms" : [
+      {
+         "Price" : "698.00",
+         "ChannelRoomType" : "7",
+         "RoomTypeIds" : [
+            45336
+         ],
+         "EndDate" : "2018-09-05",
+         "MyallocatorRateplanIds" : [],
+         "Units" : "2",
+         "RoomDesc" : "",
+         "Currency" : "INR",
+         "StartDate" : "2018-09-05"
+      },
+      {
+         "RoomTypeIds" : [
+            45335
+         ],
+         "ChannelRoomType" : "4",
+         "Price" : "498.00",
+         "Currency" : "INR",
+         "StartDate" : "2018-09-05",
+         "MyallocatorRateplanIds" : [],
+         "Units" : "2",
+         "EndDate" : "2018-09-05",
+         "RoomDesc" : ""
+      }
+   ],
+   "Balance" : "0.00",
+   "PropertyId" : "9022",
+   "OrderAdults" : 4,
+   "IsModification" : true,
+   "MarkedAsRead" : false,
+   "MyallocatorModificationDate" : "2018-09-04",
+   "MyallocatorCreationTime" : "18:02:33",
+   "OrderDate" : "2018-09-03",
+   "Version" : 1,
+   "Acknowledged" : false
+}

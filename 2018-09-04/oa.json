@@ -1,0 +1,84 @@
+{
+   "TotalCurrency" : "EUR",
+   "IsModification" : false,
+   "Rooms" : [
+      {
+         "RoomTypeIds" : [
+            18812
+         ],
+         "Price" : "160.68",
+         "Children" : 1,
+         "ChannelRoomType" : "935602",
+         "Adults" : 6,
+         "StartDate" : "2018-09-13",
+         "Currency" : "EUR",
+         "RoomDesc" : "",
+         "EndDate" : "2018-09-13",
+         "MyallocatorRateplanIds" : [],
+         "Units" : "1"
+      },
+      {
+         "Price" : "160.68",
+         "Children" : 1,
+         "ChannelRoomType" : "055718",
+         "Adults" : 6,
+         "RoomTypeIds" : [
+            18812
+         ],
+         "RoomDesc" : "",
+         "EndDate" : "2018-09-14",
+         "Units" : "1",
+         "MyallocatorRateplanIds" : [],
+         "StartDate" : "2018-09-14",
+         "Currency" : "EUR"
+      },
+      {
+         "RoomTypeIds" : [
+            18812
+         ],
+         "Adults" : 6,
+         "ChannelRoomType" : "695634",
+         "Price" : "160.68",
+         "Children" : 1,
+         "Currency" : "EUR",
+         "StartDate" : "2018-09-15",
+         "Units" : "1",
+         "MyallocatorRateplanIds" : [],
+         "EndDate" : "2018-09-15",
+         "RoomDesc" : ""
+      }
+   ],
+   "PropertyId" : "9552",
+   "Customers" : [
+      {
+         "CustomerCompany" : "",
+         "CustomerLName" : "Garcia",
+         "CustomerEmail" : "abigail.garcia@hotmail.com",
+         "CustomerFName" : "Abigail",
+         "CustomerCountry" : "es",
+         "CustomerCity" : "Valencia",
+         "CustomerPhone" : "146933341",
+         "CustomerNote" : ""
+      }
+   ],
+   "EndDate" : "2018-09-15",
+   "Commission" : null,
+   "CommissionCurrency" : null,
+   "MyallocatorCreationTime" : "09:38:21",
+   "MyallocatorModificationDate" : "2018-08-28",
+   "MarkedAsRead" : false,
+   "Acknowledged" : false,
+   "Version" : 0,
+   "OrderDate" : "2018-08-28",
+   "MyallocatorPIIRemoved" : null,
+   "OrderId" : "8snk4oyg8kru79",
+   "TotalPrice" : "482.04",
+   "IsTentative" : 0,
+   "MyallocatorId" : "29908802a779a2f8a431ebd52",
+   "MyallocatorModificationTime" : "09:38:21",
+   "IsCancellation" : false,
+   "Channel" : "oa",
+   "StartDate" : "2018-09-13",
+   "OrderTime" : "11:21:36",
+   "MyallocatorCreationDate" : "2018-08-28"
+}

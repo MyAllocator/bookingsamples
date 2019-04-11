@@ -1,0 +1,83 @@
+{
+   "IsCancellation" : false,
+   "Channel" : "deco",
+   "Balance" : 0,
+   "Customers" : [
+      {
+         "CustomerLName" : "Abeln",
+         "CustomerFName" : "Olivia",
+         "CustomerNote" : ""
+      }
+   ],
+   "DepositCurrency" : "ARS",
+   "TotalCurrency" : "ARS",
+   "StartDate" : "2018-11-08",
+   "BalanceCurrency" : "ARS",
+   "MyallocatorModificationTime" : "13:01:03",
+   "TotalPrice" : "2670.85",
+   "MyallocatorCreationDate" : "2018-04-16",
+   "MarkedAsRead" : false,
+   "ma_callback_qbid" : 1,
+   "MyallocatorId" : "d9a1f622fdf6e82f6bdb32a63",
+   "TotalTaxes" : "463.5352",
+   "Rooms" : [
+      {
+         "RoomTypeIds" : [
+            102653
+         ],
+         "Price" : "2670.8458",
+         "RoomDesc" : "Standard Doble",
+         "MyallocatorRateplanIds" : [],
+         "EndDate" : "2018-11-11",
+         "DayRates" : [
+            {
+               "RateId" : "526",
+               "Date" : "2018-11-08",
+               "Currency" : "ARS",
+               "Description" : "NR Room Only Arg",
+               "Rate" : "591.9391"
+            },
+            {
+               "Currency" : "ARS",
+               "Rate" : "743.4838",
+               "Description" : "NR Room Only Arg",
+               "RateId" : "526",
+               "Date" : "2018-11-09"
+            },
+            {
+               "RateId" : "526",
+               "Date" : "2018-11-10",
+               "Description" : "NR Room Only Arg",
+               "Rate" : "743.4838",
+               "Currency" : "ARS"
+            },
+            {
+               "Currency" : "ARS",
+               "Rate" : "591.9391",
+               "Description" : "NR Room Only Arg",
+               "RateId" : "526",
+               "Date" : "2018-11-11"
+            }
+         ],
+         "Units" : "1",
+         "RateId" : "526",
+         "Currency" : "ARS",
+         "RateDesc" : "NR Room Only Arg",
+         "ChannelRoomType" : "139464",
+         "StartDate" : "2018-11-08"
+      }
+   ],
+   "IsModification" : false,
+   "OrderAdults" : 2,
+   "MyallocatorCreationTime" : "13:01:03",
+   "Acknowledged" : false,
+   "OrderId" : "2125322563",
+   "TotalTaxesCurrency" : "ARS",
+   "Deposit" : "2670.8458",
+   "OrderTime" : "12:57:40",
+   "EndDate" : "2018-11-11",
+   "MyallocatorModificationDate" : "2018-04-16",
+   "PropertyId" : "75242",
+   "Version" : 0,
+   "OrderDate" : "2018-04-16"
+}

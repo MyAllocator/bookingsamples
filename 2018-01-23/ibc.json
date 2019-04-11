@@ -1,0 +1,59 @@
+{
+   "OrderVersion" : 1,
+   "OrderTime" : "12:00:00",
+   "Customers" : [
+      {
+         "CustomerLName" : "Brown",
+         "CustomerNote" : "",
+         "CustomerEmail" : "ava.brown@gmail.com",
+         "CustomerFName" : "Ava",
+         "CustomerCity" : "Pune",
+         "CustomerPostCode" : "411045",
+         "CustomerAddress" : "CENSORED",
+         "CustomerPhone" : "8919162101834",
+         "CustomerCountry" : "India"
+      }
+   ],
+   "Acknowledged" : false,
+   "OrderDate" : "2017-03-17",
+   "MyallocatorModificationDate" : "2017-03-17",
+   "OrderId" : "10223",
+   "EndDate" : "2017-11-21",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "MyallocatorId" : "284927beef1679439c34802a2",
+   "TotalPrice" : "150.93",
+   "MyallocatorCreationDate" : "2017-03-17",
+   "MyallocatorModificationTime" : "10:10:34",
+   "PropertyId" : "90453",
+   "StartDate" : "2017-11-21",
+   "MyallocatorCreationTime" : "10:10:34",
+   "MarkedAsRead" : true,
+   "Channel" : "ibc",
+   "TotalCurrency" : "USD",
+   "Rooms" : [
+      {
+         "EndDate" : "2017-11-21",
+         "RoomTypeIds" : [
+            69631
+         ],
+         "DayRates" : [
+            {
+               "Rate" : 150.93,
+               "Date" : "2017-11-21"
+            }
+         ],
+         "Price" : 150.93,
+         "Children" : 0,
+         "RoomDesc" : "Cottage 3 - Gone Fishin",
+         "RateId" : "",
+         "RateDesc" : "",
+         "Currency" : "USD",
+         "Units" : 1,
+         "Adults" : 1,
+         "StartDate" : "2017-11-21",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "51928"
+      }
+   ]
+}

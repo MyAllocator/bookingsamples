@@ -1,0 +1,54 @@
+{
+   "OrderTime" : "05:31:47",
+   "Customers" : [
+      {
+         "CustomerFName" : "Mia",
+         "CustomerLName" : "Anderson",
+         "CustomerNote" : "",
+         "CustomerPhone" : "580995524770",
+         "CustomerEmail" : "mia.anderson@mail.com"
+      }
+   ],
+   "Acknowledged" : false,
+   "OrderDate" : "2017-12-16",
+   "MyallocatorModificationDate" : "2017-12-16",
+   "EndDate" : "2017-12-15",
+   "OrderId" : "zt6v6d1mj9hqgn4taor",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "MyallocatorId" : "220d3b0c1404cef9def13df9d",
+   "TotalPrice" : "1.00",
+   "MyallocatorCreationDate" : "2017-12-16",
+   "IsModification" : false,
+   "MyallocatorModificationTime" : "05:31:48",
+   "PropertyId" : "36412",
+   "StartDate" : "2017-12-15",
+   "MyallocatorCreationTime" : "05:31:48",
+   "MarkedAsRead" : false,
+   "Channel" : "lota",
+   "TotalCurrency" : "USD",
+   "Rooms" : [
+      {
+         "EndDate" : "2017-12-15",
+         "RoomTypeIds" : [
+            50680
+         ],
+         "RoomDesc" : "Rent a bed in our deluxe hostel dormitory bunk room. Shared lodge w/kitchen, lounge, game room, lakeview deck",
+         "RateId" : "",
+         "RateDesc" : "",
+         "DayRates" : [
+            {
+               "Currency" : "USD",
+               "Date" : "2017-12-15",
+               "Rate" : "1.00",
+               "Description" : null
+            }
+         ],
+         "Units" : "1",
+         "Adults" : "1",
+         "StartDate" : "2017-12-15",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "2501"
+      }
+   ]
+}

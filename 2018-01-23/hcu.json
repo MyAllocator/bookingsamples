@@ -1,0 +1,43 @@
+{
+   "OrderTime" : "12:13:26",
+   "Deposit" : "2.9",
+   "Customers" : [
+      {
+         "CustomerLName" : "White",
+         "CustomerNote" : "",
+         "CustomerEmail" : "white@hotmail.com"
+      }
+   ],
+   "Acknowledged" : false,
+   "OrderDate" : "2017-04-21",
+   "MyallocatorModificationDate" : "2017-04-21",
+   "EndDate" : "2017-10-13",
+   "OrderId" : "s7sqdhp3u3qwptxdm8dj27l",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "MyallocatorId" : "4242b2d214893d1ee1ba00d2a",
+   "TotalPrice" : "28.95",
+   "MyallocatorCreationDate" : "2017-04-21",
+   "OrderCustomers" : "1",
+   "MyallocatorModificationTime" : "11:14:00",
+   "PropertyId" : "4142",
+   "StartDate" : "2017-10-13",
+   "MyallocatorCreationTime" : "11:14:00",
+   "MarkedAsRead" : true,
+   "Channel" : "hcu",
+   "Rooms" : [
+      {
+         "EndDate" : "2017-10-13",
+         "RoomTypeIds" : [
+            16199
+         ],
+         "Price" : "28.95",
+         "RoomDesc" : "16 Bed Mixed Standard",
+         "Units" : 1,
+         "Occupancy" : "1",
+         "StartDate" : "2017-10-13",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "4542"
+      }
+   ]
+}

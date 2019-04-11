@@ -1,0 +1,90 @@
+{
+   "OrderTime" : "22:59:47",
+   "Deposit" : "0.00",
+   "DepositDue" : "0.00",
+   "Customers" : [
+      {
+         "CustomerLName" : "Harris",
+         "CustomerCompany" : "",
+         "CustomerNote" : "",
+         "CustomerEmail" : "michael.harris@zoho.com",
+         "CustomerFName" : "Michael",
+         "CustomerCity" : "",
+         "CustomerPostCode" : "",
+         "CustomerAddress" : "CENSORED",
+         "CustomerPhone" : "8495626454930",
+         "CustomerCountry" : "gb"
+      }
+   ],
+   "Acknowledged" : false,
+   "OrderDate" : "2018-01-18",
+   "TotalTaxesCurrency" : "EUR",
+   "MyallocatorModificationDate" : "2018-01-18",
+   "EndDate" : "2018-02-15",
+   "OrderId" : "4726790044",
+   "IsCancellation" : false,
+   "MyallocatorCreditCardDetailsPresent" : true,
+   "Version" : 0,
+   "MyallocatorId" : "5cca69827302cc74ea2b9caaa",
+   "CommissionCurrency" : "EUR",
+   "TotalPrice" : "540.00",
+   "MyallocatorCreationDate" : "2018-01-18",
+   "IsModification" : false,
+   "MyallocatorModificationTime" : "22:59:49",
+   "PropertyId" : "77985",
+   "StartDate" : "2018-02-12",
+   "MyallocatorCreationTime" : "22:59:49",
+   "MarkedAsRead" : false,
+   "Channel" : "mcs",
+   "Commission" : 0,
+   "TotalCurrency" : "EUR",
+   "TotalTaxes" : 0,
+   "Rooms" : [
+      {
+         "DayRates" : [
+            {
+               "RateId" : "50484",
+               "Date" : "2018-02-12",
+               "Rate" : 135,
+               "Description" : null
+            },
+            {
+               "RateId" : "50484",
+               "Date" : "2018-02-13",
+               "Description" : null,
+               "Rate" : 135
+            },
+            {
+               "RateId" : "50484",
+               "Date" : "2018-02-14",
+               "Description" : null,
+               "Rate" : 135
+            },
+            {
+               "RateId" : "50484",
+               "Date" : "2018-02-15",
+               "Rate" : 135,
+               "Description" : null
+            }
+         ],
+         "OccupantLName" : "",
+         "Units" : "1",
+         "Occupancy" : 4,
+         "StartDate" : "2018-02-12",
+         "EndDate" : "2018-02-15",
+         "OccupantFName" : "",
+         "RoomTypeIds" : [
+            83984
+         ],
+         "RateId" : "50484",
+         "RateDesc" : "",
+         "Price" : "540.00",
+         "RoomDesc" : "Exterior 2 Bedroom Apartment for 2-7pax",
+         "Currency" : "EUR",
+         "OccupantNote" : "",
+         "Policy" : "",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "94795"
+      }
+   ]
+}

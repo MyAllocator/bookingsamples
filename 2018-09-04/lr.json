@@ -1,0 +1,52 @@
+{
+   "EndDate" : "2018-09-04",
+   "Customers" : [
+      {
+         "CustomerPhone" : "41989236743",
+         "CustomerCity" : "Newcastle upon tyne",
+         "CustomerCountry" : "UK",
+         "CustomerEmail" : "taylor@inbox.com",
+         "CustomerLName" : "Taylor",
+         "CustomerAddress" : "CENSORED",
+         "CustomerNote" : "",
+         "CustomerPostCode" : "Ne15 6qe"
+      }
+   ],
+   "IsModification" : false,
+   "PropertyId" : "84182",
+   "Rooms" : [
+      {
+         "ChannelRoomType" : "7673591",
+         "Price" : "30.00",
+         "RoomTypeIds" : [
+            106799
+         ],
+         "RoomDesc" : "",
+         "MyallocatorRateplanIds" : [],
+         "Units" : "1",
+         "OccupantFName" : "",
+         "EndDate" : "2018-09-04",
+         "StartDate" : "2018-09-04",
+         "RoomSummary" : ""
+      }
+   ],
+   "TotalCurrency" : "GBP",
+   "Version" : 0,
+   "OrderDate" : "2018-09-04",
+   "ma_callback_qbid" : 18894832,
+   "Acknowledged" : false,
+   "MarkedAsRead" : true,
+   "MyallocatorCreationTime" : "11:19:04",
+   "MyallocatorModificationDate" : "2018-09-04",
+   "MyallocatorId" : "6e2ecb1fcfe86da017d8603bd",
+   "MyallocatorModificationTime" : "11:19:04",
+   "TotalPrice" : "30.00",
+   "IsTentative" : 0,
+   "MyallocatorPIIRemoved" : null,
+   "OrderId" : "e9pnuo1x8",
+   "MyallocatorCreationDate" : "2018-09-04",
+   "Channel" : "lr",
+   "StartDate" : "2018-09-04",
+   "OrderTime" : "11:18:33",
+   "IsCancellation" : false
+}

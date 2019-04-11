@@ -1,0 +1,51 @@
+{
+   "MyallocatorModificationDate" : "2018-04-16",
+   "PropertyId" : "16601",
+   "Version" : 0,
+   "EndDate" : "2018-05-01",
+   "Acknowledged" : false,
+   "OrderId" : "3093108798",
+   "IsModification" : false,
+   "MyallocatorCreationTime" : "13:25:25",
+   "Rooms" : [
+      {
+         "Currency" : "HKD",
+         "RateDesc" : "Standard Double[with breakfast]",
+         "ChannelRoomType" : "734876007",
+         "StartDate" : "2018-05-01",
+         "Units" : "1",
+         "DayRates" : [
+            {
+               "Currency" : "HKD",
+               "Description" : null,
+               "Rate" : "600.30",
+               "Date" : "2018-05-01"
+            }
+         ],
+         "Price" : 600.3,
+         "RoomDesc" : "Standard Double[with breakfast]",
+         "RoomTypeIds" : [
+            87153
+         ],
+         "EndDate" : "2018-05-01",
+         "MyallocatorRateplanIds" : []
+      }
+   ],
+   "MyallocatorCreationDate" : "2018-04-16",
+   "MarkedAsRead" : false,
+   "ma_callback_qbid" : 15006678,
+   "MyallocatorId" : "094251af0cb1167c944da2073",
+   "StartDate" : "2018-05-01",
+   "MyallocatorModificationTime" : "13:25:25",
+   "TotalPrice" : "600.30",
+   "Channel" : "ctr",
+   "IsCancellation" : false,
+   "TotalCurrency" : "HKD",
+   "Customers" : [
+      {
+         "CustomerNote" : "CENSORED",
+         "CustomerFName" : "Emma",
+         "CustomerLName" : "Johnson"
+      }
+   ]
+}

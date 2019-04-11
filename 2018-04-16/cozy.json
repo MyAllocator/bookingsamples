@@ -1,0 +1,61 @@
+{
+   "TotalCurrency" : "AUD",
+   "Customers" : [
+      {
+         "CustomerLName" : "Walker",
+         "CustomerFName" : "Emily",
+         "CustomerEmail" : "emily.walker@inbox.com",
+         "CustomerNote" : ""
+      }
+   ],
+   "IsCancellation" : false,
+   "Channel" : "cozy",
+   "MyallocatorModificationTime" : "21:15:05",
+   "TotalPrice" : "25.46",
+   "StartDate" : "2018-02-22",
+   "MarkedAsRead" : true,
+   "MyallocatorId" : "57c5657a43a176ad82f139793",
+   "MyallocatorCreationDate" : "2018-02-07",
+   "Rooms" : [
+      {
+         "Currency" : "AUD",
+         "StartDate" : "2018-02-22",
+         "RateDesc" : "",
+         "ChannelRoomType" : "89975103",
+         "RateId" : "",
+         "Units" : "1",
+         "DayRates" : [
+            {
+               "Date" : "2018-02-23",
+               "Description" : "Standard Rate",
+               "Rate" : 8.49
+            },
+            {
+               "Rate" : 8.49,
+               "Description" : "Standard Rate",
+               "Date" : "2018-02-24"
+            },
+            {
+               "Date" : "2018-02-25",
+               "Rate" : 8.49,
+               "Description" : "Standard Rate"
+            }
+         ],
+         "Price" : 25.46,
+         "RoomDesc" : "Debitis.",
+         "RoomTypeIds" : [
+            124279
+         ],
+         "MyallocatorRateplanIds" : [],
+         "EndDate" : "2018-02-24"
+      }
+   ],
+   "MyallocatorCreationTime" : "21:15:05",
+   "IsModification" : false,
+   "OrderId" : "742021213824734466204875",
+   "Acknowledged" : false,
+   "EndDate" : "2018-02-24",
+   "Version" : 0,
+   "MyallocatorModificationDate" : "2018-02-07",
+   "PropertyId" : "17394"
+}

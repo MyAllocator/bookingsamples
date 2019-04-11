@@ -1,0 +1,84 @@
+{
+   "OrderTime" : "10:20:07",
+   "Deposit" : "0.00",
+   "DepositDue" : "0.00",
+   "Customers" : [
+      {
+         "CustomerLName" : "Harris",
+         "CustomerCompany" : "",
+         "CustomerNote" : "CENSORED",
+         "CustomerEmail" : "michael.harris@zoho.com",
+         "CustomerFName" : "Michael",
+         "CustomerPostCode" : "",
+         "CustomerCity" : "",
+         "CustomerAddress" : "CENSORED",
+         "CustomerPhone" : "932472221",
+         "CustomerCountry" : "es"
+      }
+   ],
+   "Acknowledged" : false,
+   "TotalTaxesCurrency" : "EUR",
+   "OrderDate" : "2017-11-07",
+   "MyallocatorModificationDate" : "2017-11-07",
+   "OrderId" : "5146470389",
+   "EndDate" : "2017-11-30",
+   "IsCancellation" : false,
+   "MyallocatorCreditCardDetailsPresent" : true,
+   "Version" : 0,
+   "MyallocatorId" : "6d307af156c38227a9d7db2b3",
+   "CommissionCurrency" : "EUR",
+   "TotalPrice" : "183.75",
+   "MyallocatorCreationDate" : "2017-11-07",
+   "IsModification" : false,
+   "MyallocatorModificationTime" : "10:20:10",
+   "PropertyId" : "5102",
+   "StartDate" : "2017-11-28",
+   "MyallocatorCreationTime" : "10:20:10",
+   "MarkedAsRead" : false,
+   "Channel" : "myb",
+   "Commission" : 0,
+   "TotalCurrency" : "EUR",
+   "TotalTaxes" : 0,
+   "Rooms" : [
+      {
+         "DayRates" : [
+            {
+               "RateId" : "91313",
+               "Rate" : 61.25,
+               "Description" : null,
+               "Date" : "2017-11-28"
+            },
+            {
+               "RateId" : "91313",
+               "Date" : "2017-11-29",
+               "Description" : null,
+               "Rate" : 61.25
+            },
+            {
+               "RateId" : "91313",
+               "Rate" : 61.25,
+               "Date" : "2017-11-30",
+               "Description" : null
+            }
+         ],
+         "OccupantLName" : "",
+         "Units" : "1",
+         "Occupancy" : 1,
+         "StartDate" : "2017-11-28",
+         "EndDate" : "2017-11-30",
+         "OccupantFName" : "",
+         "RoomTypeIds" : [
+            37483
+         ],
+         "Price" : "183.75",
+         "RateDesc" : "",
+         "RateId" : "91313",
+         "RoomDesc" : "Habitaci\u00f3n doble ensuite",
+         "Currency" : "EUR",
+         "OccupantNote" : "",
+         "Policy" : "",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "49563"
+      }
+   ]
+}

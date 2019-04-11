@@ -1,0 +1,69 @@
+{
+   "OrderId" : "x1fq89yd3i",
+   "Acknowledged" : false,
+   "MyallocatorCreationTime" : "00:02:32",
+   "IsModification" : false,
+   "OrderDate" : "2018-04-07",
+   "Version" : 0,
+   "PropertyId" : "36969",
+   "MyallocatorModificationDate" : "2018-04-07",
+   "EndDate" : "2018-04-27",
+   "OrderTime" : "01:14:19",
+   "TotalPrice" : "177.12",
+   "BalanceCurrency" : null,
+   "MyallocatorModificationTime" : "00:02:32",
+   "StartDate" : "2018-04-24",
+   "Customers" : [
+      {
+         "CustomerEmail" : "abeln@outlook.com",
+         "CustomerLName" : "Abeln",
+         "CustomerNote" : "CENSORED",
+         "CustomerPhone" : "954871169642"
+      }
+   ],
+   "TotalCurrency" : "EUR",
+   "Channel" : "apal",
+   "IsCancellation" : false,
+   "Balance" : null,
+   "Rooms" : [
+      {
+         "RoomDesc" : "\u00c1tico con Terraza ",
+         "Breakfast" : false,
+         "RoomTypeIds" : [
+            107367
+         ],
+         "EndDate" : "2018-04-27",
+         "MyallocatorRateplanIds" : [],
+         "Adults" : 2,
+         "DayRates" : [
+            {
+               "Currency" : "EUR",
+               "Description" : null,
+               "Rate" : 59.04,
+               "Date" : "2018-04-24"
+            },
+            {
+               "Date" : "2018-04-25",
+               "Currency" : "EUR",
+               "Description" : null,
+               "Rate" : 59.04
+            },
+            {
+               "Date" : "2018-04-26",
+               "Description" : null,
+               "Rate" : 59.04,
+               "Currency" : "EUR"
+            }
+         ],
+         "RateId" : "",
+         "Units" : "1",
+         "Children" : 0,
+         "StartDate" : "2018-04-24",
+         "ChannelRoomType" : "1569",
+         "RateDesc" : ""
+      }
+   ],
+   "MyallocatorId" : "3472c8c88e370580090a68f20",
+   "MarkedAsRead" : false,
+   "MyallocatorCreationDate" : "2018-04-07"
+}

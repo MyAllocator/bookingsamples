@@ -1,0 +1,74 @@
+{
+   "PropertyId" : "0433",
+   "Rooms" : [
+      {
+         "MyallocatorRateplanIds" : [],
+         "Units" : "1",
+         "EndDate" : "2018-09-18",
+         "RateDesc" : "",
+         "Currency" : "SGD",
+         "StartDate" : "2018-09-16",
+         "DayRates" : [
+            {
+               "Date" : "2018-09-16",
+               "Rate" : 57,
+               "Currency" : "SGD",
+               "Description" : null
+            },
+            {
+               "Description" : null,
+               "Date" : "2018-09-17",
+               "Rate" : 26,
+               "Currency" : "SGD"
+            },
+            {
+               "Date" : "2018-09-18",
+               "Rate" : 26,
+               "Currency" : "SGD",
+               "Description" : null
+            }
+         ],
+         "ChannelRoomType" : "411566",
+         "Price" : 109,
+         "RoomTypeIds" : [
+            141862
+         ],
+         "RateId" : ""
+      }
+   ],
+   "IsModification" : false,
+   "EndDate" : "2018-09-18",
+   "Customers" : [
+      {
+         "CustomerNote" : "",
+         "CustomerNationality" : "THAI",
+         "CustomerArrivalTime" : "13:00",
+         "CustomerPhone" : "514614632778",
+         "CustomerIP" : "127.0.0.1",
+         "CustomerEmail" : "mia.anderson@hotmail.com",
+         "CustomerLName" : "Anderson",
+         "CustomerFName" : "Mia"
+      }
+   ],
+   "TotalCurrency" : "SGD",
+   "Acknowledged" : false,
+   "OrderDate" : "2018-09-04",
+   "Version" : 0,
+   "MyallocatorModificationDate" : "2018-09-04",
+   "MyallocatorCreationTime" : "14:34:17",
+   "MarkedAsRead" : false,
+   "OrderSource" : "BookNow Version 2",
+   "MyallocatorId" : "c6fa3dae9d398fe2d94db54b9",
+   "MyallocatorModificationTime" : "14:34:17",
+   "OrderId" : "02rf2221bnl4irejkirj",
+   "MyallocatorPIIRemoved" : null,
+   "IsTentative" : 0,
+   "DepositCurrency" : "SGD",
+   "Deposit" : 109,
+   "TotalPrice" : "109.00",
+   "OrderTime" : "14:29:09",
+   "Channel" : "bnw",
+   "StartDate" : "2018-09-16",
+   "MyallocatorCreationDate" : "2018-09-04",
+   "IsCancellation" : false
+}

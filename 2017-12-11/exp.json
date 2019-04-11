@@ -1,0 +1,75 @@
+{
+   "OrderTime" : "12:22:00",
+   "Customers" : [
+      {
+         "CustomerLName" : "Abeln",
+         "CustomerFName" : "Olivia",
+         "CustomerNote" : "",
+         "CustomerPhone" : "237052366970",
+         "CustomerSmoker" : false
+      }
+   ],
+   "Acknowledged" : false,
+   "TotalTaxesCurrency" : "UAH",
+   "OrderDate" : "2017-12-11",
+   "MyallocatorModificationDate" : "2017-12-11",
+   "OrderSource" : "A-Hotels.com",
+   "PaymentCollect" : "Property",
+   "ChannelSpecific" : {
+      "PaymentType" : "Hotel Collect Booking"
+   },
+   "EndDate" : "2017-12-11",
+   "OrderId" : "711067636",
+   "IsCancellation" : false,
+   "MyallocatorCreditCardDetailsPresent" : true,
+   "Version" : 0,
+   "MyallocatorId" : "c6a245c1dbc3f8f2f5e22f8e8",
+   "ma_callback_qbid" : 8729834,
+   "TotalPrice" : "800.00",
+   "MyallocatorCreationDate" : "2017-12-11",
+   "OrderAdults" : 1,
+   "IsModification" : false,
+   "MyallocatorModificationTime" : "12:22:32",
+   "PropertyId" : "2203",
+   "StartDate" : "2017-12-11",
+   "MyallocatorCreationTime" : "12:22:32",
+   "MarkedAsRead" : false,
+   "Channel" : "exp",
+   "TotalCurrency" : "UAH",
+   "TotalTaxes" : "0.00",
+   "ExtraServices" : [
+      {
+         "EndDate" : "2017-12-11",
+         "Units" : 1,
+         "StartDate" : "2017-12-11",
+         "Description" : "1 double and 1 sofa bed"
+      }
+   ],
+   "Rooms" : [
+      {
+         "EndDate" : "2017-12-11",
+         "RoomTypeIds" : [
+            28357
+         ],
+         "RateDesc" : "Room Only - SellRate S (Deluxe Suite)",
+         "Price" : "800.00",
+         "RoomDesc" : "Deluxe Suite, City View (Deluxe Suite)",
+         "DayRates" : [
+            {
+               "Currency" : "UAH",
+               "RateId" : "203248629A",
+               "Date" : "2017-12-11",
+               "Rate" : "800.00",
+               "Description" : "Room Only - SellRate S (Deluxe Suite)"
+            }
+         ],
+         "RateId" : "203248629A",
+         "Currency" : "UAH",
+         "Units" : "1",
+         "Adults" : 1,
+         "StartDate" : "2017-12-11",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "048239377"
+      }
+   ]
+}

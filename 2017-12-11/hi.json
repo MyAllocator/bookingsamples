@@ -1,0 +1,47 @@
+{
+   "DepositCurrency" : "USD",
+   "Deposit" : "5.60",
+   "Customers" : [
+      {
+         "CustomerLName" : "Garcia",
+         "CustomerNote" : "",
+         "CustomerEmail" : "garcia@yahoo.com",
+         "CustomerCountry" : "Germany"
+      }
+   ],
+   "Acknowledged" : false,
+   "OrderDate" : "2017-12-10",
+   "MyallocatorModificationDate" : "2017-12-10",
+   "EndDate" : "2018-01-11",
+   "OrderId" : "3237716184",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "MyallocatorId" : "f174e8f6a57485f2e3c4e2f32",
+   "TotalPrice" : "69.99",
+   "MyallocatorCreationDate" : "2017-12-10",
+   "IsModification" : false,
+   "MyallocatorModificationTime" : "22:38:24",
+   "PropertyId" : "15367",
+   "StartDate" : "2018-01-11",
+   "MyallocatorCreationTime" : "22:38:24",
+   "MarkedAsRead" : false,
+   "Channel" : "hi",
+   "TotalCurrency" : "USD",
+   "Rooms" : [
+      {
+         "EndDate" : "2018-01-11",
+         "RoomTypeIds" : [
+            83493,
+            83494
+         ],
+         "RoomDesc" : "Double Room, with shower and toilet, Sheets included, Breakfast included, mixed accommodation (coed)",
+         "Price" : "69.99",
+         "Currency" : "USD",
+         "Units" : "1",
+         "Occupancy" : 2,
+         "StartDate" : "2018-01-11",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "171917"
+      }
+   ]
+}

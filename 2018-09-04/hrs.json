@@ -1,0 +1,101 @@
+{
+   "TotalCurrency" : "EUR",
+   "OrderAdults" : 1,
+   "PropertyId" : "0942",
+   "Rooms" : [
+      {
+         "RateDesc" : "",
+         "Currency" : "EUR",
+         "StartDate" : "2018-09-13",
+         "Units" : "1",
+         "MyallocatorRateplanIds" : [],
+         "EndDate" : "2018-09-15",
+         "RoomDesc" : "",
+         "RoomTypeIds" : [
+            147476
+         ],
+         "RateId" : "",
+         "Breakfast" : true,
+         "DayRates" : [
+            {
+               "Description" : "",
+               "Currency" : "EUR",
+               "Rate" : "88",
+               "Date" : "2018-09-13"
+            },
+            {
+               "Currency" : "EUR",
+               "Rate" : "88",
+               "Date" : "2018-09-14",
+               "Description" : ""
+            },
+            {
+               "Description" : "",
+               "Date" : "2018-09-15",
+               "Rate" : "88",
+               "Currency" : "EUR"
+            }
+         ],
+         "ChannelRoomType" : "mlfxpk",
+         "Price" : 264
+      }
+   ],
+   "IsModification" : false,
+   "EndDate" : "2018-09-15",
+   "Customers" : [
+      {
+         "CustomerPostCode" : "51143",
+         "CustomerNote" : "CENSORED",
+         "CustomerAddress" : "CENSORED",
+         "CustomerFName" : "Noah",
+         "CustomerLName" : "Smith",
+         "CustomerCompany" : "CENSORED",
+         "CustomerCountry" : "deu",
+         "CustomerCity" : "K\u00f6ln"
+      }
+   ],
+   "MyallocatorModificationDate" : "2018-09-04",
+   "MyallocatorCreationTime" : "14:18:05",
+   "MarkedAsRead" : false,
+   "Acknowledged" : false,
+   "Version" : 0,
+   "OrderDate" : "2018-09-04",
+   "OrderChildren" : 0,
+   "OrderId" : "702648574",
+   "MyallocatorPIIRemoved" : null,
+   "IsTentative" : 0,
+   "TotalPrice" : "204.00",
+   "MyallocatorModificationTime" : "14:18:05",
+   "MyallocatorId" : "6e6f68aa728b800be7a8ef499",
+   "Discounts" : [
+      {
+         "Description" : "",
+         "StartDate" : "2018-09-13",
+         "IncludedInTotal" : 1,
+         "Discount" : 20,
+         "Currency" : "EUR",
+         "EndDate" : "2018-09-13"
+      },
+      {
+         "EndDate" : "2018-09-14",
+         "Description" : "",
+         "StartDate" : "2018-09-14",
+         "IncludedInTotal" : 1,
+         "Currency" : "EUR",
+         "Discount" : 20
+      },
+      {
+         "Discount" : 20,
+         "Currency" : "EUR",
+         "Description" : "",
+         "IncludedInTotal" : 1,
+         "StartDate" : "2018-09-15",
+         "EndDate" : "2018-09-15"
+      }
+   ],
+   "IsCancellation" : false,
+   "OrderTime" : "16:15:00",
+   "Channel" : "hrs",
+   "StartDate" : "2018-09-13",
+   "MyallocatorCreationDate" : "2018-09-04"
+}

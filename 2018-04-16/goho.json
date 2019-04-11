@@ -1,0 +1,59 @@
+{
+   "Channel" : "goho",
+   "IsCancellation" : false,
+   "Customers" : [
+      {
+         "CustomerPhone" : "2073489278600",
+         "CustomerNote" : "",
+         "CustomerLName" : "Miller",
+         "CustomerFName" : "Sophia",
+         "CustomerEmail" : "sophia.miller@aol.com"
+      }
+   ],
+   "TotalCurrency" : "USD",
+   "StartDate" : "2018-05-27",
+   "MyallocatorModificationTime" : "17:14:50",
+   "MyallocatorCreationDate" : "2018-04-13",
+   "MarkedAsRead" : true,
+   "MyallocatorId" : "dcf4c352d37d19e676bf7f8ca",
+   "Rooms" : [
+      {
+         "RoomDesc" : "4&nbsp;Bed Shared Bunk Room in Downtown Hostel. (Price is per person and each person gets a bed)",
+         "Price" : "53.99",
+         "RoomTypeIds" : [
+            50667
+         ],
+         "EndDate" : "2018-05-28",
+         "MyallocatorRateplanIds" : [],
+         "Adults" : "1",
+         "DayRates" : [
+            {
+               "Date" : "2018-05-27",
+               "Description" : "Default Rate",
+               "Rate" : "27.00"
+            },
+            {
+               "Rate" : "27.00",
+               "Description" : "Default Rate",
+               "Date" : "2018-05-28"
+            }
+         ],
+         "RateId" : "",
+         "Units" : "1",
+         "Currency" : "USD",
+         "StartDate" : "2018-05-27",
+         "RateDesc" : "",
+         "ChannelRoomType" : "640"
+      }
+   ],
+   "IsModification" : false,
+   "MyallocatorCreationTime" : "17:14:50",
+   "Acknowledged" : false,
+   "OrderId" : "78cjb75neqrpsj93fwi6u",
+   "OrderTime" : "17:14:47",
+   "EndDate" : "2018-05-28",
+   "MyallocatorModificationDate" : "2018-04-13",
+   "PropertyId" : "82330",
+   "Version" : 0,
+   "OrderDate" : "2018-04-13"
+}

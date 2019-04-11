@@ -1,0 +1,42 @@
+{
+   "OrderTime" : "15:58:30",
+   "Customers" : [
+      {
+         "CustomerLName" : "Davis",
+         "CustomerFName" : "Mason",
+         "CustomerNote" : ""
+      }
+   ],
+   "Acknowledged" : false,
+   "OrderDate" : "2017-11-07",
+   "MyallocatorModificationDate" : "2017-11-07",
+   "EndDate" : "2017-11-07",
+   "OrderId" : "6242740495",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "CommissionIncludedInTotal" : true,
+   "MyallocatorId" : "d4c4b23079bdef2502990c3c8",
+   "TotalPrice" : "649.00",
+   "MyallocatorCreationDate" : "2017-11-07",
+   "IsModification" : false,
+   "MyallocatorModificationTime" : "10:29:48",
+   "PropertyId" : "13802",
+   "StartDate" : "2017-11-07",
+   "MyallocatorCreationTime" : "10:29:48",
+   "MarkedAsRead" : false,
+   "Channel" : "goi",
+   "TotalCurrency" : "INR",
+   "Rooms" : [
+      {
+         "EndDate" : "2017-11-07",
+         "RoomTypeIds" : [
+            101710
+         ],
+         "RoomDesc" : "AC 6 Bed Mixed Ensuite room",
+         "Units" : "1",
+         "StartDate" : "2017-11-07",
+         "ChannelRoomType" : "13117833820",
+         "MyallocatorRateplanIds" : []
+      }
+   ]
+}

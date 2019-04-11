@@ -1,0 +1,73 @@
+{
+   "TotalCurrency" : "KRW",
+   "EndDate" : "2018-09-06",
+   "Customers" : [
+      {
+         "CustomerPostCode" : "",
+         "CustomerAddress" : "CENSORED",
+         "CustomerNote" : "",
+         "CustomerPhone" : "97097442528",
+         "CustomerCity" : "",
+         "CustomerCountry" : "kr",
+         "CustomerEmail" : "ava.brown@gmail.com",
+         "CustomerLName" : "Brown",
+         "CustomerFName" : "Ava",
+         "CustomerCompany" : ""
+      }
+   ],
+   "Commission" : 0,
+   "Rooms" : [
+      {
+         "Units" : "1",
+         "MyallocatorRateplanIds" : [],
+         "OccupantFName" : "",
+         "EndDate" : "2018-09-06",
+         "RoomDesc" : "",
+         "RateDesc" : "",
+         "ChannelRoomType" : "86133",
+         "Price" : "17100.00",
+         "OccupantLName" : "",
+         "Policy" : "",
+         "OccupantNote" : "",
+         "Occupancy" : 1,
+         "Currency" : "KRW",
+         "StartDate" : "2018-09-06",
+         "DayRates" : [
+            {
+               "Date" : "2018-09-06",
+               "Rate" : 17100,
+               "RateId" : "91875",
+               "Description" : null
+            }
+         ],
+         "RoomTypeIds" : [
+            7412
+         ],
+         "RateId" : "91875"
+      }
+   ],
+   "PropertyId" : "6524",
+   "IsModification" : false,
+   "MarkedAsRead" : false,
+   "MyallocatorModificationDate" : "2018-09-04",
+   "CommissionCurrency" : "KRW",
+   "MyallocatorCreationTime" : "13:22:30",
+   "Version" : 0,
+   "OrderDate" : "2018-09-04",
+   "TotalTaxesCurrency" : "KRW",
+   "Acknowledged" : false,
+   "IsTentative" : 0,
+   "TotalPrice" : "17100.00",
+   "Deposit" : "0.00",
+   "MyallocatorPIIRemoved" : null,
+   "OrderId" : "0842983575",
+   "MyallocatorModificationTime" : "13:22:30",
+   "MyallocatorId" : "75637e189a89cc63c6d4422da",
+   "DepositDue" : "0.00",
+   "IsCancellation" : false,
+   "MyallocatorCreationDate" : "2018-09-04",
+   "Channel" : "kch",
+   "StartDate" : "2018-09-06",
+   "TotalTaxes" : 0,
+   "OrderTime" : "13:22:27"
+}

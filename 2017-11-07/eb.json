@@ -1,0 +1,43 @@
+{
+   "OrderTime" : "10:41:32",
+   "Customers" : [
+      {
+         "CustomerLName" : "Johnson",
+         "CustomerNote" : "",
+         "CustomerEmail" : "johnson@zoho.com"
+      }
+   ],
+   "Acknowledged" : false,
+   "OrderDate" : "2017-11-06",
+   "MyallocatorModificationDate" : "2017-11-06",
+   "EndDate" : "2018-05-24",
+   "OrderId" : "7534595",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "MyallocatorId" : "9ecb1c260b47b980e502e9112",
+   "TotalPrice" : "75.00",
+   "MyallocatorCreationDate" : "2017-11-06",
+   "IsModification" : false,
+   "MyallocatorModificationTime" : "11:34:54",
+   "PropertyId" : "6799",
+   "StartDate" : "2018-05-24",
+   "MyallocatorCreationTime" : "11:34:54",
+   "MarkedAsRead" : false,
+   "Channel" : "eb",
+   "TotalCurrency" : "GBP",
+   "Rooms" : [
+      {
+         "EndDate" : "2018-05-24",
+         "RoomTypeIds" : [
+            9809
+         ],
+         "Price" : 75,
+         "RoomDesc" : "Witchfinder",
+         "Currency" : "GBP",
+         "Units" : "1",
+         "StartDate" : "2018-05-24",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "4348"
+      }
+   ]
+}

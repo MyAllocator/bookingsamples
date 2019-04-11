@@ -1,0 +1,69 @@
+{
+   "OrderTime" : "10:26:04",
+   "DepositCurrency" : "EUR",
+   "Deposit" : 0,
+   "Customers" : [
+      {
+         "CustomerLName" : "Wilson",
+         "CustomerCompany" : "",
+         "CustomerNote" : "",
+         "CustomerEmail" : "james.wilson@inbox.com",
+         "CustomerFName" : "James",
+         "CustomerPostCode" : "",
+         "CustomerCity" : "",
+         "CustomerAddress" : "",
+         "CustomerPhone" : "65650108263",
+         "CustomerCountry" : "FR"
+      }
+   ],
+   "Acknowledged" : false,
+   "OrderDate" : "2017-11-07",
+   "MyallocatorModificationDate" : "2017-11-07",
+   "OrderId" : "7gd8pu4x8zq852",
+   "EndDate" : "2017-11-21",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "MyallocatorId" : "808fb9c671c1504c9a96742b2",
+   "CommissionCurrency" : "EUR",
+   "TotalPrice" : "131.94",
+   "MyallocatorCreationDate" : "2017-11-07",
+   "IsModification" : false,
+   "MyallocatorModificationTime" : "09:26:08",
+   "BalanceCurrency" : "EUR",
+   "PropertyId" : "156",
+   "Balance" : 131.94,
+   "StartDate" : "2017-11-20",
+   "MyallocatorCreationTime" : "09:26:08",
+   "MarkedAsRead" : false,
+   "Channel" : "gr",
+   "Commission" : "0.00",
+   "TotalCurrency" : "EUR",
+   "Rooms" : [
+      {
+         "EndDate" : "2017-11-20",
+         "RoomTypeIds" : [
+            2938
+         ],
+         "RoomDesc" : "4 bed dorm - Female only - Standard - Private bathroom (Private hot shower)",
+         "Price" : 65.97,
+         "Currency" : "EUR",
+         "Units" : "3",
+         "StartDate" : "2017-11-20",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "7691"
+      },
+      {
+         "EndDate" : "2017-11-21",
+         "RoomTypeIds" : [
+            2938
+         ],
+         "Price" : 65.97,
+         "RoomDesc" : "4 bed dorm - Female only - Standard - Private bathroom (Private hot shower)",
+         "Currency" : "EUR",
+         "Units" : "3",
+         "StartDate" : "2017-11-21",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "4320"
+      }
+   ]
+}

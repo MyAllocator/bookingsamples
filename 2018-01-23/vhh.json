@@ -1,0 +1,77 @@
+{
+   "OrderTime" : "03:13:29",
+   "DepositDue" : "0.00",
+   "Deposit" : "14.00",
+   "Customers" : [
+      {
+         "CustomerLName" : "Garcia",
+         "CustomerCompany" : "",
+         "CustomerNote" : "",
+         "CustomerEmail" : "abigail.garcia@lycos.com",
+         "CustomerFName" : "Abigail",
+         "CustomerPostCode" : "",
+         "CustomerCity" : "",
+         "CustomerAddress" : "CENSORED",
+         "CustomerPhone" : "047880968571",
+         "CustomerCountry" : "00"
+      }
+   ],
+   "Acknowledged" : false,
+   "TotalTaxesCurrency" : "USD",
+   "OrderDate" : "2018-01-23",
+   "MyallocatorModificationDate" : "2018-01-23",
+   "EndDate" : "2018-01-25",
+   "OrderId" : "8809134941",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "MyallocatorId" : "97e9fb648ac88340f70f09859",
+   "TotalPrice" : "14.00",
+   "CommissionCurrency" : "USD",
+   "MyallocatorCreationDate" : "2018-01-23",
+   "IsModification" : false,
+   "MyallocatorModificationTime" : "03:22:40",
+   "PropertyId" : "8059",
+   "StartDate" : "2018-01-24",
+   "MyallocatorCreationTime" : "03:22:40",
+   "MarkedAsRead" : false,
+   "Channel" : "vhh",
+   "Commission" : 0,
+   "TotalCurrency" : "USD",
+   "TotalTaxes" : 0,
+   "Rooms" : [
+      {
+         "DayRates" : [
+            {
+               "RateId" : "117048",
+               "Date" : "2018-01-24",
+               "Description" : null,
+               "Rate" : 7
+            },
+            {
+               "RateId" : "117048",
+               "Date" : "2018-01-25",
+               "Description" : null,
+               "Rate" : 7
+            }
+         ],
+         "OccupantLName" : "",
+         "Units" : "1",
+         "Occupancy" : 1,
+         "StartDate" : "2018-01-24",
+         "EndDate" : "2018-01-25",
+         "OccupantFName" : "",
+         "RoomTypeIds" : [
+            118807
+         ],
+         "RoomDesc" : "12 Bed Mixed Dorm",
+         "RateDesc" : "",
+         "RateId" : "117048",
+         "Price" : "14.00",
+         "Currency" : "USD",
+         "OccupantNote" : "",
+         "Policy" : "",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "94686"
+      }
+   ]
+}

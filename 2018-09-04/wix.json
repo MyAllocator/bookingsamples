@@ -1,0 +1,51 @@
+{
+   "Channel" : "wix",
+   "StartDate" : "2018-11-03",
+   "TotalTaxes" : 31.85,
+   "MyallocatorCreationDate" : "2018-09-04",
+   "IsCancellation" : false,
+   "MyallocatorId" : "497c337a5b753d7514f16f9dc",
+   "MyallocatorModificationTime" : "14:35:19",
+   "OrderId" : "9184951203809047",
+   "MyallocatorPIIRemoved" : null,
+   "TotalPrice" : "276.85",
+   "IsTentative" : 0,
+   "Acknowledged" : false,
+   "TotalTaxesCurrency" : "CAD",
+   "Version" : 0,
+   "OrderDate" : "2018-09-04",
+   "MyallocatorCreationTime" : "14:35:19",
+   "MyallocatorModificationDate" : "2018-09-04",
+   "OrderSource" : "wix",
+   "MarkedAsRead" : false,
+   "IsModification" : false,
+   "PropertyId" : "50726",
+   "Rooms" : [
+      {
+         "RoomDesc" : "",
+         "Units" : "1",
+         "MyallocatorRateplanIds" : [],
+         "EndDate" : "2018-11-03",
+         "StartDate" : "2018-11-03",
+         "Currency" : "CAD",
+         "ChannelRoomType" : "0rkixqlzv3yhetozk5uk1yp0acdbvlf2qqft",
+         "Price" : 276.85,
+         "Children" : "0",
+         "Adults" : "2",
+         "RoomTypeIds" : [
+            73051
+         ]
+      }
+   ],
+   "EndDate" : "2018-11-03",
+   "Customers" : [
+      {
+         "CustomerEmail" : "michael.harris@hushmail.com",
+         "CustomerLName" : "Harris",
+         "CustomerFName" : "Michael",
+         "CustomerPhone" : "1026690660",
+         "CustomerNote" : ""
+      }
+   ],
+   "TotalCurrency" : "CAD"
+}

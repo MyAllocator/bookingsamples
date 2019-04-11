@@ -1,0 +1,51 @@
+{
+   "OrderTime" : "03:26:13 PM",
+   "DepositCurrency" : "INR",
+   "Deposit" : "3396.00",
+   "Customers" : [
+      {
+         "CustomerLName" : "Abeln",
+         "CustomerFName" : "Olivia",
+         "CustomerNote" : "",
+         "CustomerPhone" : "4565416893348",
+         "CustomerEmail" : "olivia.abeln@hushmail.com",
+         "CustomerCountry" : "India"
+      }
+   ],
+   "Acknowledged" : true,
+   "OrderDate" : "2018-01-23",
+   "MyallocatorModificationDate" : "2018-01-23",
+   "EndDate" : "2018-01-27",
+   "OrderId" : "tsnln4pjeu8xatgi",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "MyallocatorId" : "a1a7adf8f93fe21718d39bc4b",
+   "OrderChildren" : 0,
+   "TotalPrice" : "3396.00",
+   "MyallocatorCreationDate" : "2018-01-23",
+   "OrderAdults" : 2,
+   "IsModification" : false,
+   "MyallocatorModificationTime" : "09:56:30",
+   "BalanceCurrency" : "INR",
+   "Balance" : "0.00",
+   "PropertyId" : "07153",
+   "StartDate" : "2018-01-26",
+   "MyallocatorCreationTime" : "09:56:30",
+   "MarkedAsRead" : false,
+   "Channel" : "pand",
+   "TotalCurrency" : "INR",
+   "Rooms" : [
+      {
+         "EndDate" : "2018-01-27",
+         "RoomTypeIds" : [
+            63890
+         ],
+         "RoomDesc" : "6 Bed Mix dorm",
+         "Price" : "3396.00",
+         "Units" : "2",
+         "StartDate" : "2018-01-26",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "28"
+      }
+   ]
+}

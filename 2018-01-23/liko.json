@@ -1,0 +1,70 @@
+{
+   "OrderTime" : "16:11:30",
+   "Customers" : [
+      {
+         "CustomerLName" : "Taylor",
+         "CustomerFName" : "Benjamin",
+         "CustomerNote" : "",
+         "CustomerEmail" : "benjamin.taylor@inbox.com"
+      }
+   ],
+   "Acknowledged" : false,
+   "OrderDate" : "2018-01-04",
+   "MyallocatorModificationDate" : "2018-01-04",
+   "EndDate" : "2018-01-12",
+   "OrderId" : "pgdmvy3laspqzxruonyl4t6z7686182f7o1c",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "MyallocatorId" : "923cf230e4a58c19fa698caa3",
+   "CommissionCurrency" : "USD",
+   "TotalPrice" : "251.40",
+   "MyallocatorCreationDate" : "2018-01-04",
+   "IsModification" : false,
+   "MyallocatorModificationTime" : "16:16:49",
+   "PropertyId" : "3503",
+   "StartDate" : "2018-01-09",
+   "MyallocatorCreationTime" : "16:16:49",
+   "MarkedAsRead" : false,
+   "Channel" : "liko",
+   "Commission" : "25.13997",
+   "TotalCurrency" : "USD",
+   "Rooms" : [
+      {
+         "EndDate" : "2018-01-12",
+         "RoomTypeIds" : [
+            -1
+         ],
+         "RateId" : "2cd4c3db-2b55-40c1-8367-0daf243aed9a, 546b04f1-482f-4c85-854e-cc6c1a370226, ac44b1d7-c7c2-4e35-aa26-f853bf065d65",
+         "DayRates" : [
+            {
+               "Currency" : "USD",
+               "RateId" : "ac44b1d7-c7c2-4e35-aa26-f853bf065d65",
+               "Description" : null,
+               "Rate" : "83.7999",
+               "Date" : "2018-01-09"
+            },
+            {
+               "Currency" : "USD",
+               "RateId" : "546b04f1-482f-4c85-854e-cc6c1a370226",
+               "Date" : "2018-01-10",
+               "Description" : null,
+               "Rate" : "83.7999"
+            },
+            {
+               "Currency" : "USD",
+               "RateId" : "2cd4c3db-2b55-40c1-8367-0daf243aed9a",
+               "Date" : "2018-01-11",
+               "Description" : null,
+               "Rate" : "83.7999"
+            }
+         ],
+         "RateDesc" : "",
+         "RoomDesc" : "Base Rate",
+         "Units" : "1",
+         "Adults" : 1,
+         "StartDate" : "2018-01-09",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "xm1ayeu3u5grzpnjrft9saizitlj9j0p49qs"
+      }
+   ]
+}

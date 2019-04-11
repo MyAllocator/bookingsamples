@@ -1,0 +1,63 @@
+{
+   "MarkedAsRead" : false,
+   "MyallocatorModificationDate" : "2018-09-04",
+   "MyallocatorCreationTime" : "14:17:55",
+   "OrderDate" : "2018-09-04",
+   "Version" : 0,
+   "Acknowledged" : true,
+   "ma_callback_qbid" : 18896422,
+   "TotalCurrency" : "INR",
+   "Customers" : [
+      {
+         "CustomerArrivalTime" : "19:00",
+         "CustomerNote" : "",
+         "CustomerEmail" : "noah@hotmail.com",
+         "CustomerLName" : "",
+         "CustomerFName" : "Noah",
+         "CustomerPhoneMobile" : "7898013456"
+      }
+   ],
+   "EndDate" : "2018-09-04",
+   "Rooms" : [
+      {
+         "DayRates" : [
+            {
+               "Date" : "2018-09-04",
+               "Rate" : "2694",
+               "Currency" : "INR",
+               "Description" : "Day Rate"
+            }
+         ],
+         "RateId" : "",
+         "RoomTypeIds" : [
+            43318
+         ],
+         "Policy" : "",
+         "StartDate" : "2018-09-04",
+         "Occupancy" : 1,
+         "Currency" : "INR",
+         "ChannelRoomType" : "080",
+         "Children" : 0,
+         "Adults" : 1,
+         "Breakfast" : false,
+         "RoomDesc" : "",
+         "MyallocatorRateplanIds" : [],
+         "Units" : "6",
+         "EndDate" : "2018-09-04",
+         "RateDesc" : ""
+      }
+   ],
+   "PropertyId" : "0879",
+   "IsModification" : false,
+   "IsCancellation" : false,
+   "MyallocatorCreationDate" : "2018-09-04",
+   "StartDate" : "2018-09-04",
+   "Channel" : "aao",
+   "OrderTime" : "19:47:51",
+   "IsTentative" : 0,
+   "TotalPrice" : "2694.00",
+   "MyallocatorPIIRemoved" : null,
+   "OrderId" : "spo3wxtw",
+   "MyallocatorId" : "6ce88b58b7704a9a793937f6c",
+   "MyallocatorModificationTime" : "14:17:55"
+}

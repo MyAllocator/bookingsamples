@@ -1,0 +1,132 @@
+{
+   "MyallocatorPIIRemoved" : null,
+   "OrderId" : "oyf2ffc6062fl0x6sknm6kv",
+   "OrderChildren" : "0",
+   "TotalPrice" : "2356.00",
+   "MyallocatorId" : "c7913caee512b531c763d4e3f",
+   "MyallocatorModificationTime" : "17:01:42",
+   "OrderCustomers" : 4,
+   "IsCancellation" : false,
+   "Channel" : "bon",
+   "StartDate" : "2018-03-10",
+   "OrderTime" : "15:45:36",
+   "MyallocatorCreationDate" : "2018-01-23",
+   "TotalCurrency" : "USD",
+   "IsModification" : false,
+   "PropertyId" : "18922",
+   "Rooms" : [
+      {
+         "RateDesc" : "",
+         "Currency" : "USD",
+         "StartDate" : "2018-03-10",
+         "Units" : "1",
+         "MyallocatorRateplanIds" : [],
+         "EndDate" : "2018-03-14",
+         "RoomDesc" : "",
+         "RoomTypeIds" : [
+            128860
+         ],
+         "RateId" : "31111",
+         "DayRates" : [
+            {
+               "Rate" : "376.2000",
+               "Date" : "2018-03-10",
+               "Description" : "",
+               "RateId" : "31111"
+            },
+            {
+               "Description" : "",
+               "RateId" : "31111",
+               "Rate" : "376.2000",
+               "Date" : "2018-03-11"
+            },
+            {
+               "Date" : "2018-03-12",
+               "Rate" : "376.2000",
+               "RateId" : "31111",
+               "Description" : ""
+            },
+            {
+               "Rate" : "376.2000",
+               "Date" : "2018-03-13",
+               "Description" : "",
+               "RateId" : "31111"
+            },
+            {
+               "Date" : "2018-03-14",
+               "Rate" : "376.2000",
+               "RateId" : "31111",
+               "Description" : ""
+            }
+         ],
+         "ChannelRoomType" : "45292",
+         "Price" : 1881
+      },
+      {
+         "EndDate" : "2018-03-14",
+         "MyallocatorRateplanIds" : [],
+         "Units" : "1",
+         "RoomDesc" : "",
+         "Currency" : "USD",
+         "RateDesc" : "",
+         "StartDate" : "2018-03-10",
+         "DayRates" : [
+            {
+               "Rate" : "95.0000",
+               "Date" : "2018-03-10",
+               "Description" : "",
+               "RateId" : "31110"
+            },
+            {
+               "RateId" : "31110",
+               "Description" : "",
+               "Date" : "2018-03-11",
+               "Rate" : "95.0000"
+            },
+            {
+               "Rate" : "95.0000",
+               "Date" : "2018-03-12",
+               "Description" : "",
+               "RateId" : "31110"
+            },
+            {
+               "Rate" : "95.0000",
+               "Date" : "2018-03-13",
+               "Description" : "",
+               "RateId" : "31110"
+            },
+            {
+               "Rate" : "95.0000",
+               "Date" : "2018-03-14",
+               "Description" : "",
+               "RateId" : "31110"
+            }
+         ],
+         "Price" : 475,
+         "ChannelRoomType" : "72203",
+         "RoomTypeIds" : [
+            126072
+         ],
+         "RateId" : "31110"
+      }
+   ],
+   "OrderAdults" : "4",
+   "EndDate" : "2018-03-14",
+   "Customers" : [
+      {
+         "CustomerEmail" : "jacob.jackson@gmail.com",
+         "CustomerLName" : "Jackson",
+         "CustomerFName" : "Jacob",
+         "CustomerPhone" : "92396140068",
+         "CustomerCountry" : "GB",
+         "CustomerNote" : ""
+      }
+   ],
+   "MyallocatorCreationTime" : "17:01:42",
+   "PaymentCollect" : "Property",
+   "MyallocatorModificationDate" : "2018-01-23",
+   "MarkedAsRead" : true,
+   "Acknowledged" : false,
+   "OrderDate" : "2018-01-23",
+   "Version" : 0
+}

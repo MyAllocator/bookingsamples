@@ -1,0 +1,60 @@
+{
+   "DepositCurrency" : "EUR",
+   "Deposit" : "6.80",
+   "Customers" : [
+      {
+         "CustomerLName" : "Cain",
+         "CustomerNote" : "",
+         "CustomerArrivalTime" : "9:00:00 PM",
+         "CustomerPhone" : "9466055740784498",
+         "CustomerEmail" : "cain@lycos.com",
+         "CustomerCountry" : "Korea (South)"
+      }
+   ],
+   "Acknowledged" : true,
+   "MyallocatorModificationDate" : "2017-06-03",
+   "OrderSource" : "www.hosteltimes.com (Korean)",
+   "EndDate" : "2017-06-23",
+   "OrderId" : "sxm6bdrj2ft1",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "MyallocatorId" : "cde8dd7895af7b0a49dbf1bad",
+   "TotalPrice" : "68.01",
+   "MyallocatorCreationDate" : "2017-06-03",
+   "IsModification" : false,
+   "MyallocatorModificationTime" : "06:09:05",
+   "PropertyId" : "7949",
+   "StartDate" : "2017-06-22",
+   "MyallocatorCreationTime" : "06:09:05",
+   "MarkedAsRead" : true,
+   "Channel" : "ht",
+   "TotalCurrency" : "EUR",
+   "Rooms" : [
+      {
+         "EndDate" : "2017-06-22",
+         "RoomTypeIds" : [
+            24258
+         ],
+         "Price" : "34.00",
+         "RoomDesc" : "6 Bed Mixed Dorm (SIX MIXED DORM)",
+         "Currency" : "EUR",
+         "Units" : "2",
+         "StartDate" : "2017-06-22",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "08fpmek20ip9ygddeya"
+      },
+      {
+         "EndDate" : "2017-06-23",
+         "RoomTypeIds" : [
+            24258
+         ],
+         "Price" : "34.00",
+         "RoomDesc" : "6 Bed Mixed Dorm (SIX MIXED DORM)",
+         "Currency" : "EUR",
+         "Units" : "2",
+         "StartDate" : "2017-06-23",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "d4yux7lfa0cg3utsgxt"
+      }
+   ]
+}

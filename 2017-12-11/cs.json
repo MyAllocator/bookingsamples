@@ -1,0 +1,48 @@
+{
+   "OrderTime" : "03:15:45",
+   "Customers" : [
+      {
+         "CustomerLName" : "Garcia",
+         "CustomerCompany" : "",
+         "CustomerNote" : "CENSORED",
+         "CustomerEmail" : "abigail.garcia@gmx.com",
+         "CustomerFName" : "Abigail",
+         "CustomerCity" : "Vaughan",
+         "CustomerPostCode" : "L6A 0M5",
+         "CustomerAddress" : "CENSORED",
+         "CustomerPhone" : "450190187740",
+         "CustomerCountry" : "CA"
+      }
+   ],
+   "Acknowledged" : false,
+   "OrderDate" : "2017-12-08",
+   "MyallocatorModificationDate" : "2017-12-08",
+   "EndDate" : "2017-12-26",
+   "OrderId" : "565247",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "MyallocatorId" : "cc8d5234f1470e1401c7b451b",
+   "TotalPrice" : "2747.31",
+   "MyallocatorCreationDate" : "2017-12-08",
+   "IsModification" : false,
+   "MyallocatorModificationTime" : "03:40:41",
+   "PropertyId" : "96696",
+   "StartDate" : "2017-12-24",
+   "MyallocatorCreationTime" : "03:40:41",
+   "MarkedAsRead" : false,
+   "Channel" : "cs",
+   "TotalCurrency" : "CAD",
+   "Rooms" : [
+      {
+         "EndDate" : "2017-12-26",
+         "RoomTypeIds" : [
+            91110
+         ],
+         "RoomDesc" : "Summit Ridge",
+         "Units" : "1",
+         "StartDate" : "2017-12-24",
+         "ChannelRoomType" : "862204",
+         "MyallocatorRateplanIds" : []
+      }
+   ]
+}

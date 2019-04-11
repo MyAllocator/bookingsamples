@@ -1,0 +1,45 @@
+{
+   "OrderDate" : "2018-04-16",
+   "Version" : 0,
+   "PropertyId" : "93464",
+   "MyallocatorModificationDate" : "2018-04-16",
+   "EndDate" : "2018-04-28",
+   "Deposit" : "0.00",
+   "OrderId" : "261772628308934",
+   "Acknowledged" : false,
+   "MyallocatorCreationTime" : "13:00:19",
+   "IsModification" : false,
+   "Rooms" : [
+      {
+         "ChannelRoomType" : "4817",
+         "StartDate" : "2018-04-28",
+         "Currency" : "EUR",
+         "Units" : "1",
+         "EndDate" : "2018-04-28",
+         "MyallocatorRateplanIds" : [],
+         "RoomTypeIds" : [
+            65582
+         ],
+         "RoomDesc" : "Habitaci\u00f3n Triple",
+         "Price" : "93.1"
+      }
+   ],
+   "MyallocatorId" : "29e5bc946a41f54cb788f6c95",
+   "MarkedAsRead" : false,
+   "MyallocatorCreationDate" : "2018-04-16",
+   "TotalPrice" : "93.10",
+   "MyallocatorModificationTime" : "13:00:19",
+   "StartDate" : "2018-04-28",
+   "Customers" : [
+      {
+         "CustomerNote" : "",
+         "CustomerPhone" : "504029616",
+         "CustomerEmail" : "young@yahoo.com",
+         "CustomerLName" : "Young"
+      }
+   ],
+   "DepositCurrency" : "EUR",
+   "TotalCurrency" : "EUR",
+   "Channel" : "ysh",
+   "IsCancellation" : false
+}

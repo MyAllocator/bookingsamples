@@ -1,0 +1,54 @@
+{
+   "OrderTime" : "00:34:10",
+   "Customers" : [
+      {
+         "CustomerLName" : "Moore",
+         "CustomerNote" : "",
+         "CustomerEmail" : "isabella.moore@lycos.com",
+         "CustomerFName" : "Isabella",
+         "CustomerCity" : "",
+         "CustomerPostCode" : "",
+         "CustomerAddress" : "",
+         "CustomerPhone" : "750909030161",
+         "CustomerCountry" : ""
+      }
+   ],
+   "Acknowledged" : false,
+   "TotalTaxesCurrency" : "USD",
+   "OrderDate" : "2018-01-23",
+   "MyallocatorModificationDate" : "2018-01-23",
+   "OrderSource" : "Expedia - Hotels.com",
+   "EndDate" : "2018-01-25",
+   "OrderId" : "986107474",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "MyallocatorId" : "e87be55eebff8a9273da8187d",
+   "ma_callback_qbid" : 10347371,
+   "TotalPrice" : "133.40",
+   "MyallocatorCreationDate" : "2018-01-23",
+   "IsModification" : false,
+   "MyallocatorModificationTime" : "06:35:20",
+   "PropertyId" : "96969",
+   "StartDate" : "2018-01-25",
+   "MyallocatorCreationTime" : "06:35:20",
+   "MarkedAsRead" : false,
+   "Channel" : "bnb2",
+   "TotalCurrency" : "USD",
+   "TotalTaxes" : 17.4,
+   "Rooms" : [
+      {
+         "EndDate" : "2018-01-25",
+         "RoomTypeIds" : [
+            115553
+         ],
+         "Price" : 133.4,
+         "RoomDesc" : "Deluxe Queen- Lone Star",
+         "Children" : 0,
+         "Units" : "1",
+         "Adults" : 1,
+         "StartDate" : "2018-01-25",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "810883"
+      }
+   ]
+}

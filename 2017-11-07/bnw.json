@@ -1,0 +1,57 @@
+{
+   "OrderTime" : "10:24:02",
+   "Customers" : [
+      {
+         "CustomerLName" : "Taylor",
+         "CustomerFName" : "Benjamin",
+         "CustomerArrivalTime" : "23:00",
+         "CustomerNote" : "",
+         "CustomerPhone" : "832734964",
+         "CustomerIP" : "127.0.0.1",
+         "CustomerEmail" : "benjamin.taylor@zoho.com"
+      }
+   ],
+   "Acknowledged" : false,
+   "OrderDate" : "2017-11-07",
+   "MyallocatorModificationDate" : "2017-11-07",
+   "OrderSource" : "BookNow Version 2",
+   "EndDate" : "2017-11-09",
+   "OrderId" : "oco3p5j8p2sgk1rit4jm5",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "MyallocatorId" : "f206e523363f53bb59085c43f",
+   "TotalPrice" : "200.00",
+   "MyallocatorCreationDate" : "2017-11-07",
+   "IsModification" : false,
+   "MyallocatorModificationTime" : "10:24:03",
+   "PropertyId" : "43463",
+   "StartDate" : "2017-11-09",
+   "MyallocatorCreationTime" : "10:24:03",
+   "MarkedAsRead" : false,
+   "Channel" : "bnw",
+   "TotalCurrency" : "PLN",
+   "Rooms" : [
+      {
+         "EndDate" : "2017-11-09",
+         "RoomTypeIds" : [
+            100610
+         ],
+         "RateId" : "",
+         "RateDesc" : "",
+         "Price" : 200,
+         "DayRates" : [
+            {
+               "Currency" : "PLN",
+               "Rate" : 200,
+               "Description" : null,
+               "Date" : "2017-11-09"
+            }
+         ],
+         "Currency" : "PLN",
+         "Units" : "4",
+         "StartDate" : "2017-11-09",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "458739"
+      }
+   ]
+}

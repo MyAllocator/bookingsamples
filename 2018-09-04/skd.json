@@ -1,0 +1,50 @@
+{
+   "TotalCurrency" : "ZAR",
+   "Rooms" : [
+      {
+         "StartDate" : "2018-11-19",
+         "Currency" : "ZAR",
+         "RoomDesc" : "",
+         "EndDate" : "2018-11-19",
+         "Units" : "1",
+         "MyallocatorRateplanIds" : [],
+         "RoomTypeIds" : [
+            46170
+         ],
+         "ChannelRoomType" : "5s04jyew",
+         "Adults" : 1
+      }
+   ],
+   "PropertyId" : "2779",
+   "IsModification" : false,
+   "Customers" : [
+      {
+         "CustomerPostCode" : "M4M 2S1",
+         "CustomerNote" : "",
+         "CustomerAddress" : "CENSORED",
+         "CustomerEmail" : "ava.brown@zoho.com",
+         "CustomerFName" : "Ava",
+         "CustomerLName" : "Brown",
+         "CustomerCity" : "Toronto",
+         "CustomerCountry" : "CA"
+      }
+   ],
+   "EndDate" : "2018-11-19",
+   "MyallocatorModificationDate" : "2018-07-26",
+   "MyallocatorCreationTime" : "16:02:41",
+   "MarkedAsRead" : false,
+   "Acknowledged" : false,
+   "OrderDate" : "2018-07-26",
+   "Version" : 0,
+   "MyallocatorPIIRemoved" : null,
+   "OrderId" : "8l7cjudqt1clrebtfnn2",
+   "IsTentative" : 0,
+   "TotalPrice" : "977.50",
+   "MyallocatorId" : "91d84ae7d92a57bc4154b4888",
+   "MyallocatorModificationTime" : "16:02:41",
+   "OrderCustomers" : "1",
+   "IsCancellation" : false,
+   "StartDate" : "2018-11-19",
+   "Channel" : "skd",
+   "MyallocatorCreationDate" : "2018-07-26"
+}

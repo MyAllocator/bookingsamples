@@ -1,0 +1,41 @@
+{
+   "Customers" : [
+      {
+         "CustomerLName" : "Davis",
+         "CustomerNote" : ""
+      }
+   ],
+   "Acknowledged" : false,
+   "OrderDate" : "2018-01-23",
+   "MyallocatorModificationDate" : "2018-01-23",
+   "EndDate" : "2018-01-25",
+   "OrderId" : "482768676",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "MyallocatorId" : "88275961781fecd66560475bf",
+   "TotalPrice" : "39.00",
+   "MyallocatorCreationDate" : "2018-01-23",
+   "IsModification" : false,
+   "MyallocatorModificationTime" : "09:35:15",
+   "PropertyId" : "3657",
+   "StartDate" : "2018-01-25",
+   "MyallocatorCreationTime" : "09:35:15",
+   "MarkedAsRead" : false,
+   "Channel" : "ini",
+   "TotalCurrency" : "EUR",
+   "Rooms" : [
+      {
+         "EndDate" : "2018-01-25",
+         "RoomTypeIds" : [
+            13403
+         ],
+         "RoomDesc" : "Double",
+         "Price" : "39",
+         "Currency" : "EUR",
+         "Units" : "1",
+         "StartDate" : "2018-01-25",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "6"
+      }
+   ]
+}

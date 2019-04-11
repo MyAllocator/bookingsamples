@@ -1,0 +1,71 @@
+{
+   "Balance" : "98.84",
+   "IsCancellation" : false,
+   "Channel" : "bp",
+   "TotalCurrency" : "EUR",
+   "Customers" : [
+      {
+         "CustomerEmail" : "harris@outlook.com",
+         "CustomerLName" : "Harris",
+         "CustomerNote" : ""
+      }
+   ],
+   "StartDate" : "2017-10-27",
+   "TotalPrice" : "116.28",
+   "MyallocatorModificationTime" : "17:47:04",
+   "MyallocatorCreationDate" : "2016-10-27",
+   "MyallocatorId" : "f831793981eabcdd92f28e4e7",
+   "MarkedAsRead" : false,
+   "Rooms" : [
+      {
+         "DayRates" : [
+            {
+               "Currency" : "EUR",
+               "Rate" : "30.42",
+               "Date" : "2017-10-27",
+               "RateId" : "54934"
+            },
+            {
+               "Rate" : "30.42",
+               "Currency" : "EUR",
+               "Date" : "2017-10-28",
+               "RateId" : "54934"
+            },
+            {
+               "Date" : "2017-10-29",
+               "RateId" : "54934",
+               "Rate" : "27.76",
+               "Currency" : "EUR"
+            },
+            {
+               "Date" : "2017-10-30",
+               "RateId" : "54934",
+               "Currency" : "EUR",
+               "Rate" : "27.68"
+            }
+         ],
+         "RoomTypeIds" : [
+            3278
+         ],
+         "Breakfast" : false,
+         "Price" : 116.28,
+         "MyallocatorRateplanIds" : [],
+         "EndDate" : "2017-10-30",
+         "Currency" : "EUR",
+         "StartDate" : "2017-10-27",
+         "ChannelRoomType" : "283517",
+         "Occupancy" : "2",
+         "Units" : "1"
+      }
+   ],
+   "MyallocatorCreationTime" : "17:47:04",
+   "Acknowledged" : false,
+   "OrderId" : "75399699",
+   "OrderTime" : "19:45:00",
+   "Deposit" : 17.44,
+   "EndDate" : "2017-10-30",
+   "PropertyId" : "803",
+   "MyallocatorModificationDate" : "2016-10-27",
+   "OrderDate" : "2016-10-27",
+   "Version" : 0
+}

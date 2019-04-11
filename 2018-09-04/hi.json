@@ -1,0 +1,48 @@
+{
+   "IsModification" : false,
+   "PropertyId" : "52870",
+   "Rooms" : [
+      {
+         "RoomTypeIds" : [
+            149380
+         ],
+         "Price" : "50.00",
+         "ChannelRoomType" : "017528",
+         "Occupancy" : 2,
+         "Currency" : "EUR",
+         "StartDate" : "2018-12-13",
+         "EndDate" : "2018-12-13",
+         "MyallocatorRateplanIds" : [],
+         "Units" : "1",
+         "RoomDesc" : ""
+      }
+   ],
+   "Customers" : [
+      {
+         "CustomerEmail" : "garcia@yahoo.com",
+         "CustomerLName" : "Garcia",
+         "CustomerCountry" : "Germany",
+         "CustomerNote" : ""
+      }
+   ],
+   "EndDate" : "2018-12-13",
+   "TotalCurrency" : "EUR",
+   "Acknowledged" : false,
+   "Version" : 0,
+   "OrderDate" : "2018-09-04",
+   "MyallocatorCreationTime" : "13:28:35",
+   "MyallocatorModificationDate" : "2018-09-04",
+   "MarkedAsRead" : false,
+   "MyallocatorId" : "1fe18e7e6d3ce62c6bd612133",
+   "MyallocatorModificationTime" : "13:28:35",
+   "MyallocatorPIIRemoved" : null,
+   "OrderId" : "8716807964",
+   "TotalPrice" : "50.00",
+   "Deposit" : "7.50",
+   "IsTentative" : 0,
+   "DepositCurrency" : "EUR",
+   "StartDate" : "2018-12-13",
+   "Channel" : "hi",
+   "MyallocatorCreationDate" : "2018-09-04",
+   "IsCancellation" : false
+}

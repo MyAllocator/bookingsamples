@@ -1,0 +1,77 @@
+{
+   "OrderTime" : "11:58:20",
+   "DepositDue" : "0.00",
+   "Deposit" : "0.00",
+   "Customers" : [
+      {
+         "CustomerLName" : "Wilson",
+         "CustomerCompany" : "",
+         "CustomerNote" : "",
+         "CustomerEmail" : "james.wilson@gmx.com",
+         "CustomerFName" : "James",
+         "CustomerPostCode" : "",
+         "CustomerCity" : "",
+         "CustomerAddress" : "CENSORED",
+         "CustomerPhone" : "",
+         "CustomerCountry" : "mn"
+      }
+   ],
+   "Acknowledged" : false,
+   "TotalTaxesCurrency" : "KRW",
+   "OrderDate" : "2018-01-23",
+   "MyallocatorModificationDate" : "2018-01-23",
+   "EndDate" : "2018-03-03",
+   "OrderId" : "5344927437",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "MyallocatorId" : "f6dbf80bfd8a8710915d60e20",
+   "CommissionCurrency" : "KRW",
+   "TotalPrice" : "70000.00",
+   "MyallocatorCreationDate" : "2018-01-23",
+   "IsModification" : false,
+   "MyallocatorModificationTime" : "11:58:22",
+   "PropertyId" : "3060",
+   "StartDate" : "2018-03-02",
+   "MyallocatorCreationTime" : "11:58:22",
+   "MarkedAsRead" : false,
+   "Channel" : "kch",
+   "Commission" : 0,
+   "TotalCurrency" : "KRW",
+   "TotalTaxes" : 0,
+   "Rooms" : [
+      {
+         "DayRates" : [
+            {
+               "RateId" : "91873",
+               "Rate" : 35000,
+               "Description" : null,
+               "Date" : "2018-03-02"
+            },
+            {
+               "RateId" : "91873",
+               "Description" : null,
+               "Date" : "2018-03-03",
+               "Rate" : 35000
+            }
+         ],
+         "OccupantLName" : "",
+         "Units" : "1",
+         "StartDate" : "2018-03-02",
+         "Occupancy" : 1,
+         "EndDate" : "2018-03-03",
+         "OccupantFName" : "",
+         "RoomTypeIds" : [
+            7411
+         ],
+         "RoomDesc" : "Single Private Room",
+         "RateDesc" : "",
+         "Price" : "70000.00",
+         "RateId" : "91873",
+         "Currency" : "KRW",
+         "OccupantNote" : "",
+         "Policy" : "",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "12325"
+      }
+   ]
+}

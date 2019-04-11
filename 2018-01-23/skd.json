@@ -1,0 +1,43 @@
+{
+   "Customers" : [
+      {
+         "CustomerFName" : "Sophia",
+         "CustomerLName" : "Miller",
+         "CustomerNote" : "",
+         "CustomerEmail" : "sophia.miller@gmail.com"
+      }
+   ],
+   "Acknowledged" : false,
+   "OrderDate" : "2018-01-15",
+   "MyallocatorModificationDate" : "2018-01-15",
+   "OrderId" : "d3b81lma6po55rjegvsm",
+   "EndDate" : "2018-04-12",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "MyallocatorId" : "aebf92279114db43c6c2797f0",
+   "TotalPrice" : "7050.00",
+   "MyallocatorCreationDate" : "2018-01-15",
+   "IsModification" : false,
+   "OrderCustomers" : "2",
+   "MyallocatorModificationTime" : "13:54:23",
+   "PropertyId" : "0987",
+   "StartDate" : "2018-04-06",
+   "MyallocatorCreationTime" : "13:54:23",
+   "MarkedAsRead" : false,
+   "Channel" : "skd",
+   "TotalCurrency" : "ZAR",
+   "Rooms" : [
+      {
+         "EndDate" : "2018-04-12",
+         "RoomTypeIds" : [
+            46170
+         ],
+         "RoomDesc" : "<p>If you are looking for some alone time or just a little more luxury book one of our private rooms. Most rooms can be made up as a twin (two singles) or a double (king) so please let us know your preference when booking. All our beds are 2m long. Like all our rooms, the bathroom is ensuite and access is keycard controlled. Towels and linen are provided and your bed is made up for you every day. Upper floors are accessible by stairs only. There are sockets near all beds and free wifi is available</p>",
+         "Units" : "1",
+         "Adults" : 2,
+         "StartDate" : "2018-04-06",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "w4g4qhb2"
+      }
+   ]
+}

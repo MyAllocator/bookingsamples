@@ -1,0 +1,67 @@
+{
+   "OrderTime" : "18:16:26",
+   "Customers" : [
+      {
+         "CustomerLName" : "Moore",
+         "CustomerCompany" : "",
+         "CustomerNote" : "",
+         "CustomerEmail" : "isabella.moore@outlook.com",
+         "CustomerFName" : "Isabella",
+         "CustomerPostCode" : "49377",
+         "CustomerCity" : "Vechta",
+         "CustomerAddress" : "CENSORED",
+         "CustomerPhone" : "",
+         "CustomerCountry" : ""
+      }
+   ],
+   "Acknowledged" : false,
+   "OrderDate" : "2017-11-17",
+   "MyallocatorModificationDate" : "2017-11-17",
+   "PaymentCollect" : "Property",
+   "EndDate" : "2017-11-26",
+   "OrderId" : "19",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "MyallocatorId" : "ba910d5bea829d440056e6f26",
+   "TotalPrice" : "60.00",
+   "CommissionCurrency" : "EUR",
+   "MyallocatorCreationDate" : "2017-11-17",
+   "IsModification" : false,
+   "MyallocatorModificationTime" : "17:17:22",
+   "PropertyId" : "23803",
+   "StartDate" : "2017-11-26",
+   "MyallocatorCreationTime" : "17:17:22",
+   "MarkedAsRead" : false,
+   "Channel" : "stya",
+   "Commission" : "0.6",
+   "TotalCurrency" : "EUR",
+   "Rooms" : [
+      {
+         "DayRates" : [
+            {
+               "Currency" : "EUR",
+               "RateId" : "44",
+               "Rate" : "60",
+               "Date" : "2017-11-26",
+               "Description" : "\u00dcbernachtung"
+            }
+         ],
+         "OccupantLName" : "Moore",
+         "Units" : "1",
+         "StartDate" : "2017-11-26",
+         "EndDate" : "2017-11-26",
+         "RoomTypeIds" : [
+            83779
+         ],
+         "RoomDesc" : "Doppelzimmer",
+         "Price" : "60.00",
+         "RateId" : "44",
+         "RateDesc" : "\u00dcbernachtung",
+         "Currency" : "EUR",
+         "OccupantNote" : "",
+         "Policy" : "",
+         "ChannelRoomType" : "98",
+         "MyallocatorRateplanIds" : []
+      }
+   ]
+}

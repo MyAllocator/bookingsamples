@@ -1,0 +1,88 @@
+{
+   "OrderTime" : "00:26:00",
+   "DepositCurrency" : "HUF",
+   "Deposit" : "4101.18",
+   "Customers" : [
+      {
+         "CustomerLName" : "Davis",
+         "CustomerFName" : "Mason",
+         "CustomerNote" : "",
+         "CustomerArrivalTime" : "20:30",
+         "CustomerGender" : "",
+         "CustomerEmail" : "mason.davis@gmx.com",
+         "CustomerCountry" : "Canada"
+      }
+   ],
+   "Acknowledged" : false,
+   "OrderDate" : "2018-01-23",
+   "MyallocatorModificationDate" : "2018-01-22",
+   "EndDate" : "2018-05-25",
+   "OrderId" : "0utyam8",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "MyallocatorId" : "ce444f97a9c2810bb78fd98f1",
+   "TotalPrice" : "41000.00",
+   "MyallocatorCreationDate" : "2018-01-22",
+   "IsModification" : false,
+   "MyallocatorModificationTime" : "23:27:34",
+   "PropertyId" : "1096",
+   "StartDate" : "2018-05-22",
+   "MyallocatorCreationTime" : "23:27:34",
+   "MarkedAsRead" : true,
+   "Channel" : "gom",
+   "TotalCurrency" : "HUF",
+   "Rooms" : [
+      {
+         "EndDate" : "2018-05-22",
+         "RoomTypeIds" : [
+            34594
+         ],
+         "Price" : 10000,
+         "RoomDesc" : "Double Shared Facilities",
+         "Currency" : "HUF",
+         "Units" : "1",
+         "StartDate" : "2018-05-22",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "73124"
+      },
+      {
+         "EndDate" : "2018-05-23",
+         "RoomTypeIds" : [
+            34594
+         ],
+         "Price" : 10000,
+         "RoomDesc" : "Double Shared Facilities",
+         "Currency" : "HUF",
+         "Units" : "1",
+         "StartDate" : "2018-05-23",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "13505"
+      },
+      {
+         "EndDate" : "2018-05-24",
+         "RoomTypeIds" : [
+            34594
+         ],
+         "RoomDesc" : "Double Shared Facilities",
+         "Price" : 10000,
+         "Currency" : "HUF",
+         "Units" : "1",
+         "StartDate" : "2018-05-24",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "17548"
+      },
+      {
+         "EndDate" : "2018-05-25",
+         "RoomTypeIds" : [
+            34594
+         ],
+         "Price" : 11000,
+         "RoomDesc" : "Double Shared Facilities",
+         "Currency" : "HUF",
+         "Units" : "1",
+         "StartDate" : "2018-05-25",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "83940"
+      }
+   ]
+}

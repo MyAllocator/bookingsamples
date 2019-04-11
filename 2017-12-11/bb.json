@@ -1,0 +1,41 @@
+{
+   "Customers" : [
+      {
+         "CustomerLName" : "Williams",
+         "CustomerNote" : ""
+      }
+   ],
+   "Acknowledged" : false,
+   "OrderDate" : "2017-10-09",
+   "MyallocatorModificationDate" : "2017-10-09",
+   "EndDate" : "2017-10-15",
+   "OrderId" : "440422",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "MyallocatorId" : "6fbf532a58d50f751f215b0de",
+   "TotalPrice" : "68.00",
+   "MyallocatorCreationDate" : "2017-10-09",
+   "IsModification" : false,
+   "MyallocatorModificationTime" : "14:03:36",
+   "PropertyId" : "9619",
+   "StartDate" : "2017-10-15",
+   "MyallocatorCreationTime" : "14:03:36",
+   "MarkedAsRead" : false,
+   "Channel" : "bb",
+   "TotalCurrency" : "EUR",
+   "Rooms" : [
+      {
+         "EndDate" : "2017-10-15",
+         "RoomTypeIds" : [
+            -1
+         ],
+         "Price" : "68.00",
+         "Currency" : "EUR",
+         "Units" : "1",
+         "Occupancy" : "2",
+         "StartDate" : "2017-10-15",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : null
+      }
+   ]
+}

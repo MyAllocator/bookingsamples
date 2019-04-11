@@ -1,0 +1,50 @@
+{
+   "OrderTime" : "12:37:05",
+   "Customers" : [
+      {
+         "CustomerLName" : "Jackson",
+         "CustomerNote" : "",
+         "CustomerEmail" : "jackson@hushmail.com",
+         "CustomerCity" : "Falkirk",
+         "CustomerPostCode" : "FK1 5UP",
+         "CustomerAddress" : "CENSORED",
+         "CustomerPhone" : "91335609385",
+         "CustomerCountry" : "UK"
+      }
+   ],
+   "Acknowledged" : false,
+   "OrderDate" : "2066-02-13",
+   "MyallocatorModificationDate" : "2018-01-22",
+   "EndDate" : "2018-01-22",
+   "OrderId" : "0mw7zs49n",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "MyallocatorId" : "1bc033d2842e865fb338ee672",
+   "ma_callback_qbid" : 10322316,
+   "TotalPrice" : "99.00",
+   "MyallocatorCreationDate" : "2018-01-22",
+   "IsModification" : false,
+   "MyallocatorModificationTime" : "18:18:46",
+   "PropertyId" : "30191",
+   "StartDate" : "2018-01-22",
+   "MyallocatorCreationTime" : "18:18:46",
+   "MarkedAsRead" : false,
+   "Channel" : "lr",
+   "TotalCurrency" : "GBP",
+   "Rooms" : [
+      {
+         "EndDate" : "2018-01-22",
+         "OccupantFName" : "",
+         "RoomTypeIds" : [
+            62846
+         ],
+         "Price" : "99.00",
+         "RoomDesc" : "Executive Double Room sleeps 2. Breakfast included.  Non Smoking Requested, 2 Adults (Many are double-aspect with views over the Estate grounds an)",
+         "RoomSummary" : "Executive Double Room sleeps 2. Breakfast included.  Non Smoking Requested, 2 Adults",
+         "Units" : "1",
+         "StartDate" : "2018-01-22",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "2342160"
+      }
+   ]
+}

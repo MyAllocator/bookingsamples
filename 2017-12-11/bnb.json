@@ -1,0 +1,45 @@
+{
+   "OrderTime" : "19:19:01",
+   "Customers" : [
+      {
+         "CustomerFName" : "James",
+         "CustomerLName" : "Wilson",
+         "CustomerNote" : "",
+         "CustomerPhone" : "",
+         "CustomerCountry" : "United States of America",
+         "CustomerEmail" : "james.wilson@hushmail.com"
+      }
+   ],
+   "Acknowledged" : false,
+   "OrderDate" : "2017-11-26",
+   "MyallocatorModificationDate" : "2017-11-26",
+   "EndDate" : "2018-05-02",
+   "OrderId" : "190133",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "MyallocatorId" : "71db78aa1478001cc461b0470",
+   "TotalPrice" : "225.00",
+   "MyallocatorCreationDate" : "2017-11-26",
+   "IsModification" : false,
+   "MyallocatorModificationTime" : "18:22:08",
+   "PropertyId" : "4659",
+   "StartDate" : "2018-04-30",
+   "MyallocatorCreationTime" : "18:22:08",
+   "MarkedAsRead" : false,
+   "Channel" : "bnb",
+   "TotalCurrency" : "EUR",
+   "Rooms" : [
+      {
+         "EndDate" : "2018-05-02",
+         "RoomTypeIds" : [
+            37483
+         ],
+         "RoomDesc" : "Double Room",
+         "Price" : "225.00",
+         "Units" : "1",
+         "StartDate" : "2018-04-30",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "9754074"
+      }
+   ]
+}

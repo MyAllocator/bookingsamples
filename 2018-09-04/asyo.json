@@ -1,0 +1,69 @@
+{
+   "MyallocatorCreationDate" : "2018-09-04",
+   "OrderTime" : "21:26:25",
+   "Channel" : "asyo",
+   "StartDate" : "2018-12-17",
+   "IsCancellation" : false,
+   "MyallocatorId" : "b3f5862630e7cf067c6c67f18",
+   "MyallocatorModificationTime" : "13:36:03",
+   "TotalPrice" : "140000.00",
+   "IsTentative" : 0,
+   "OrderId" : "687839963652",
+   "MyallocatorPIIRemoved" : null,
+   "OrderDate" : "2018-09-04",
+   "Version" : 0,
+   "Acknowledged" : false,
+   "MarkedAsRead" : false,
+   "PaymentCollect" : "Channel",
+   "MyallocatorCreationTime" : "13:36:03",
+   "MyallocatorModificationDate" : "2018-09-04",
+   "EndDate" : "2018-12-18",
+   "Customers" : [
+      {
+         "CustomerEmail" : "william.williams@gmx.com",
+         "CustomerLName" : "Williams",
+         "CustomerFName" : "William",
+         "CustomerPhoneMobile" : "+886 928875578",
+         "CustomerArrivalTime" : "15:00",
+         "CustomerNote" : "CENSORED"
+      }
+   ],
+   "IsModification" : false,
+   "Rooms" : [
+      {
+         "RateDesc" : "",
+         "MyallocatorRateplanIds" : [],
+         "Units" : "1",
+         "EndDate" : "2018-12-18",
+         "RoomDesc" : "",
+         "Breakfast" : true,
+         "Adults" : 2,
+         "ChannelRoomType" : "09145",
+         "Children" : 0,
+         "Currency" : "KRW",
+         "Occupancy" : 2,
+         "StartDate" : "2018-12-17",
+         "Policy" : "",
+         "RoomTypeIds" : [
+            17979
+         ],
+         "RateId" : "15774",
+         "DayRates" : [
+            {
+               "Date" : "2018-12-17",
+               "Rate" : "70000",
+               "RateId" : "15774",
+               "Description" : "Day Rates"
+            },
+            {
+               "Date" : "2018-12-18",
+               "Rate" : "70000",
+               "RateId" : "15774",
+               "Description" : "Day Rates"
+            }
+         ]
+      }
+   ],
+   "PropertyId" : "1712",
+   "TotalCurrency" : "KRW"
+}

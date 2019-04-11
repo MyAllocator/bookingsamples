@@ -1,0 +1,43 @@
+{
+   "OrderTime" : "10:48:45",
+   "Customers" : [
+      {
+         "CustomerFName" : "Ava",
+         "CustomerLName" : "Brown",
+         "CustomerNote" : "",
+         "CustomerPhone" : "3828471012",
+         "CustomerEmail" : "ava.brown@aol.com"
+      }
+   ],
+   "Acknowledged" : false,
+   "OrderDate" : "2017-11-12",
+   "MyallocatorModificationDate" : "2017-11-12",
+   "EndDate" : "2018-01-17",
+   "OrderId" : "990764503",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "MyallocatorId" : "60d0d7fa8fd386d476a2f8836",
+   "MyallocatorCreationDate" : "2017-11-12",
+   "IsModification" : false,
+   "MyallocatorModificationTime" : "09:52:56",
+   "PropertyId" : "2964",
+   "StartDate" : "2018-01-17",
+   "MyallocatorCreationTime" : "09:52:56",
+   "MarkedAsRead" : false,
+   "Channel" : "bbit",
+   "Rooms" : [
+      {
+         "EndDate" : "2018-01-17",
+         "RoomTypeIds" : [
+            26472
+         ],
+         "RoomDesc" : "Camera Doppia",
+         "Price" : "44.00",
+         "Currency" : "EUR",
+         "Units" : "1",
+         "StartDate" : "2018-01-17",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "24967"
+      }
+   ]
+}

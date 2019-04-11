@@ -1,0 +1,57 @@
+{
+   "TotalPrice" : "7.00",
+   "MyallocatorModificationTime" : "12:55:44",
+   "StartDate" : "2018-04-22",
+   "TotalCurrency" : "EUR",
+   "Customers" : [
+      {
+         "CustomerNote" : "",
+         "CustomerFName" : "Emma",
+         "CustomerLName" : "Johnson"
+      }
+   ],
+   "IsCancellation" : false,
+   "Channel" : "ost",
+   "Rooms" : [
+      {
+         "Units" : "1",
+         "RateId" : "84616",
+         "RateDesc" : "Standard rate",
+         "StartDate" : "2018-04-22",
+         "ChannelRoomType" : "94584",
+         "Occupancy" : 0,
+         "Currency" : "EUR",
+         "MyallocatorRateplanIds" : [],
+         "EndDate" : "2018-04-22",
+         "RoomTypeIds" : [
+            17244
+         ],
+         "Price" : 7,
+         "RoomDesc" : "Bed in 8-Bed Dormitory (shared bathroom)",
+         "DayRates" : [
+            {
+               "Description" : "Standard rate",
+               "Rate" : 7,
+               "Currency" : "EUR",
+               "Date" : "2018-04-22",
+               "RateId" : "84616"
+            }
+         ]
+      }
+   ],
+   "MyallocatorId" : "97e2324f0b77b6778d8403913",
+   "MarkedAsRead" : false,
+   "MyallocatorCreationDate" : "2018-04-16",
+   "OrderChildren" : 0,
+   "OrderId" : "5jvqr51unn3m62dzqf56jm7knhblch5buk5b",
+   "Acknowledged" : false,
+   "MyallocatorCreationTime" : "12:55:44",
+   "OrderAdults" : 1,
+   "IsModification" : false,
+   "OrderDate" : "2018-04-16",
+   "Version" : 0,
+   "PropertyId" : "9747",
+   "MyallocatorModificationDate" : "2018-04-16",
+   "EndDate" : "2018-04-22",
+   "OrderTime" : "12:55:41"
+}

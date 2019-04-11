@@ -1,0 +1,123 @@
+{
+   "TotalCurrency" : "GBP",
+   "PropertyId" : "87995",
+   "Rooms" : [
+      {
+         "StartDate" : "2018-11-20",
+         "Currency" : "GBP",
+         "Occupancy" : 1,
+         "OccupantNote" : "",
+         "RoomOrderId" : "1",
+         "RateId" : "**",
+         "RoomTypeIds" : [
+            114002
+         ],
+         "DayRates" : [
+            {
+               "Description" : null,
+               "RateId" : "**",
+               "Rate" : 15,
+               "Currency" : "GBP",
+               "Date" : "2018-11-20"
+            },
+            {
+               "Date" : "2018-11-21",
+               "Rate" : 15,
+               "Currency" : "GBP",
+               "RateId" : "**",
+               "Description" : null
+            },
+            {
+               "Date" : "2018-11-22",
+               "Currency" : "GBP",
+               "Rate" : 15,
+               "RateId" : "**",
+               "Description" : null
+            },
+            {
+               "Description" : null,
+               "RateId" : "**",
+               "Currency" : "GBP",
+               "Rate" : 15,
+               "Date" : "2018-11-23"
+            },
+            {
+               "Date" : "2018-11-24",
+               "Rate" : 15,
+               "Currency" : "GBP",
+               "RateId" : "**",
+               "Description" : null
+            },
+            {
+               "Currency" : "GBP",
+               "Rate" : 15,
+               "Date" : "2018-11-25",
+               "Description" : null,
+               "RateId" : "**"
+            },
+            {
+               "Date" : "2018-11-26",
+               "Currency" : "GBP",
+               "Rate" : 15,
+               "RateId" : "**",
+               "Description" : null
+            },
+            {
+               "Date" : "2018-11-27",
+               "Rate" : 15,
+               "Currency" : "GBP",
+               "RateId" : "**",
+               "Description" : null
+            },
+            {
+               "Description" : null,
+               "RateId" : "**",
+               "Rate" : 15,
+               "Currency" : "GBP",
+               "Date" : "2018-11-28"
+            }
+         ],
+         "Babies" : "0",
+         "RateDesc" : "",
+         "RoomDesc" : "",
+         "MyallocatorRateplanIds" : [],
+         "Units" : "1",
+         "EndDate" : "2018-11-28",
+         "ChannelRoomType" : "nt9iv36nk8ul0ud6xi14bvwc",
+         "Price" : 135,
+         "Children" : "0",
+         "Breakfast" : false,
+         "Adults" : "1"
+      }
+   ],
+   "IsModification" : false,
+   "Customers" : [
+      {
+         "CustomerLName" : "Taylor",
+         "CustomerNote" : ""
+      },
+      {
+         "CustomerNote" : "",
+         "CustomerAge" : "30",
+         "CustomerLName" : "Anderson",
+         "CustomerFName" : "Mia"
+      }
+   ],
+   "EndDate" : "2018-11-28",
+   "MyallocatorModificationDate" : "2018-09-04",
+   "MyallocatorCreationTime" : "14:16:13",
+   "MarkedAsRead" : false,
+   "Acknowledged" : false,
+   "OrderDate" : "2018-09-04",
+   "Version" : 0,
+   "MyallocatorPIIRemoved" : null,
+   "OrderId" : "8pzhzoh8wy6",
+   "IsTentative" : 0,
+   "TotalPrice" : "135.00",
+   "MyallocatorModificationTime" : "14:16:13",
+   "MyallocatorId" : "1a29a32dd84318bbd445e483b",
+   "IsCancellation" : false,
+   "StartDate" : "2018-11-20",
+   "Channel" : "hbe",
+   "MyallocatorCreationDate" : "2018-09-04"
+}

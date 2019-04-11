@@ -1,0 +1,39 @@
+{
+   "Customers" : [
+      {
+         "CustomerLName" : "Johnson",
+         "CustomerNote" : "",
+         "CustomerPhone" : "dnqd55qzxw5p1ajkp",
+         "CustomerEmail" : "johnson@gmail.com"
+      }
+   ],
+   "Acknowledged" : false,
+   "MyallocatorModificationDate" : "2018-01-23",
+   "EndDate" : "2018-01-27",
+   "OrderId" : "ls4opfzq3h",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "MyallocatorId" : "3e793885f24fcefe5484811e2",
+   "ma_callback_qbid" : 10353691,
+   "MyallocatorCreationDate" : "2018-01-23",
+   "IsModification" : false,
+   "MyallocatorModificationTime" : "11:42:41",
+   "PropertyId" : "43588",
+   "StartDate" : "2018-01-27",
+   "MyallocatorCreationTime" : "11:42:41",
+   "MarkedAsRead" : false,
+   "Channel" : "air",
+   "Rooms" : [
+      {
+         "EndDate" : "2018-01-27",
+         "RoomTypeIds" : [
+            126052
+         ],
+         "RoomDesc" : "Entire Home for Ferry Travelers ",
+         "Units" : "1",
+         "StartDate" : "2018-01-27",
+         "ChannelRoomType" : "https://www.airbnb.com/CENSORED",
+         "MyallocatorRateplanIds" : []
+      }
+   ]
+}

@@ -1,0 +1,70 @@
+{
+   "MyallocatorCreationDate" : "2018-01-04",
+   "MyallocatorId" : "147bdc785ecb477a61fb9d96d",
+   "MarkedAsRead" : false,
+   "CommissionCurrency" : "USD",
+   "Rooms" : [
+      {
+         "StartDate" : "2018-01-09",
+         "ChannelRoomType" : "8k2qnm6cl0bxfcdk8gnonr1g766nrrbq0lxs",
+         "RateDesc" : "",
+         "RateId" : "2cd4c3db-2b55-40c1-8367-0daf243aed9a, 546b04f1-482f-4c85-854e-cc6c1a370226, ac44b1d7-c7c2-4e35-aa26-f853bf065d65",
+         "Units" : "1",
+         "Adults" : 1,
+         "DayRates" : [
+            {
+               "RateId" : "ac44b1d7-c7c2-4e35-aa26-f853bf065d65",
+               "Date" : "2018-01-09",
+               "Currency" : "USD",
+               "Description" : null,
+               "Rate" : "83.7999"
+            },
+            {
+               "Currency" : "USD",
+               "Rate" : "83.7999",
+               "Description" : null,
+               "Date" : "2018-01-10",
+               "RateId" : "546b04f1-482f-4c85-854e-cc6c1a370226"
+            },
+            {
+               "Rate" : "83.7999",
+               "Description" : null,
+               "Currency" : "USD",
+               "RateId" : "2cd4c3db-2b55-40c1-8367-0daf243aed9a",
+               "Date" : "2018-01-11"
+            }
+         ],
+         "RoomDesc" : "Base Rate",
+         "RoomTypeIds" : [
+            -1
+         ],
+         "EndDate" : "2018-01-12",
+         "MyallocatorRateplanIds" : []
+      }
+   ],
+   "Channel" : "liko",
+   "IsCancellation" : false,
+   "TotalCurrency" : "USD",
+   "Customers" : [
+      {
+         "CustomerNote" : "",
+         "CustomerFName" : "Mia",
+         "CustomerLName" : "Anderson",
+         "CustomerEmail" : "mia.anderson@mail.com"
+      }
+   ],
+   "Commission" : "25.13997",
+   "StartDate" : "2018-01-09",
+   "TotalPrice" : "251.40",
+   "MyallocatorModificationTime" : "16:16:49",
+   "OrderTime" : "16:11:30",
+   "EndDate" : "2018-01-12",
+   "PropertyId" : "5237",
+   "MyallocatorModificationDate" : "2018-01-04",
+   "OrderDate" : "2018-01-04",
+   "Version" : 0,
+   "IsModification" : false,
+   "MyallocatorCreationTime" : "16:16:49",
+   "Acknowledged" : false,
+   "OrderId" : "my3mp6qxq3nvp3gkisb9iqfxsytz8zwq9nm3"
+}

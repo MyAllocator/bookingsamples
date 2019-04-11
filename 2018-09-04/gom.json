@@ -1,0 +1,50 @@
+{
+   "IsTentative" : 0,
+   "DepositCurrency" : "EUR",
+   "Deposit" : "0.48",
+   "TotalPrice" : "16.00",
+   "OrderId" : "jpgq83k",
+   "MyallocatorPIIRemoved" : null,
+   "MyallocatorModificationTime" : "22:28:04",
+   "MyallocatorId" : "53c053c8e318e57ec956c5cc1",
+   "IsCancellation" : false,
+   "MyallocatorCreationDate" : "2018-09-03",
+   "OrderTime" : "00:25:00",
+   "StartDate" : "2018-09-04",
+   "Channel" : "gom",
+   "TotalCurrency" : "EUR",
+   "EndDate" : "2018-09-04",
+   "Customers" : [
+      {
+         "CustomerEmail" : "sophia.miller@aol.com",
+         "CustomerLName" : "Miller",
+         "CustomerFName" : "Sophia",
+         "CustomerCountry" : "Germany",
+         "CustomerArrivalTime" : "14:00",
+         "CustomerNote" : ""
+      }
+   ],
+   "Rooms" : [
+      {
+         "StartDate" : "2018-09-04",
+         "Currency" : "EUR",
+         "RoomDesc" : "",
+         "EndDate" : "2018-09-04",
+         "MyallocatorRateplanIds" : [],
+         "Units" : "1",
+         "RoomTypeIds" : [
+            25886
+         ],
+         "Price" : 16,
+         "ChannelRoomType" : "28099"
+      }
+   ],
+   "PropertyId" : "6650",
+   "IsModification" : false,
+   "MarkedAsRead" : true,
+   "MyallocatorModificationDate" : "2018-09-03",
+   "MyallocatorCreationTime" : "22:28:04",
+   "Version" : 0,
+   "OrderDate" : "2018-09-04",
+   "Acknowledged" : true
+}

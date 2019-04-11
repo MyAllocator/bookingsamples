@@ -1,0 +1,71 @@
+{
+   "OrderTime" : "22:11",
+   "Customers" : [
+      {
+         "CustomerLName" : "Brown",
+         "CustomerNote" : "",
+         "CustomerPhoneMobile" : "07951722143",
+         "CustomerTitle" : "MISS",
+         "CustomerEmail" : "ava.brown@zoho.com",
+         "CustomerFName" : "Ava",
+         "CustomerPhone" : "41510965774",
+         "CustomerCountry" : ""
+      }
+   ],
+   "Acknowledged" : false,
+   "OrderDate" : "2018-01-22",
+   "MyallocatorModificationDate" : "2018-01-22",
+   "EndDate" : "2018-08-05",
+   "OrderId" : "43340436",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "MyallocatorId" : "4a78f21e4084fc36b375a0cdc",
+   "OrderChildren" : 0,
+   "TotalPrice" : "1590.80",
+   "MyallocatorCreationDate" : "2018-01-22",
+   "OrderAdults" : 5,
+   "IsModification" : false,
+   "MyallocatorModificationTime" : "22:11:14",
+   "PropertyId" : "6721",
+   "StartDate" : "2018-07-30",
+   "MyallocatorCreationTime" : "22:11:14",
+   "MarkedAsRead" : false,
+   "Channel" : "rep",
+   "TotalCurrency" : "USD",
+   "Rooms" : [
+      {
+         "EndDate" : "2018-08-05",
+         "RoomTypeIds" : [
+            53589
+         ],
+         "RoomDesc" : "Double room, garden view",
+         "Price" : "795.4000",
+         "Breakfast" : false,
+         "Currency" : "USD",
+         "OccupantNote" : "CENSORED",
+         "OccupantLName" : "Brown",
+         "Units" : "1",
+         "Occupancy" : 3,
+         "StartDate" : "2018-07-30",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "3741506"
+      },
+      {
+         "EndDate" : "2018-08-05",
+         "RoomTypeIds" : [
+            53589
+         ],
+         "Price" : "795.4000",
+         "RoomDesc" : "Double room, garden view",
+         "Breakfast" : false,
+         "Currency" : "USD",
+         "OccupantNote" : "CENSORED",
+         "OccupantLName" : "Brown",
+         "Units" : "1",
+         "Occupancy" : 2,
+         "StartDate" : "2018-07-30",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "8745695"
+      }
+   ]
+}

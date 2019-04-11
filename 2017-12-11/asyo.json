@@ -1,0 +1,84 @@
+{
+   "OrderTime" : "02:18:58",
+   "Customers" : [
+      {
+         "CustomerLName" : "Abeln",
+         "CustomerFName" : "Olivia",
+         "CustomerNote" : "",
+         "CustomerArrivalTime" : "15:00",
+         "CustomerPhoneMobile" : "+886 0916235689",
+         "CustomerEmail" : "olivia.abeln@outlook.com"
+      }
+   ],
+   "Acknowledged" : false,
+   "OrderDate" : "2017-12-10",
+   "MyallocatorModificationDate" : "2017-12-10",
+   "PaymentCollect" : "Channel",
+   "EndDate" : "2018-01-31",
+   "OrderId" : "fuvq9qr7b16c1fobl",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "MyallocatorId" : "0e09bd0eb1cc9f52f9b3d2a87",
+   "TotalPrice" : "447375.00",
+   "MyallocatorCreationDate" : "2017-12-10",
+   "IsModification" : false,
+   "MyallocatorModificationTime" : "07:07:54",
+   "PropertyId" : "00655",
+   "StartDate" : "2018-01-27",
+   "MyallocatorCreationTime" : "07:07:54",
+   "MarkedAsRead" : false,
+   "Channel" : "asyo",
+   "TotalCurrency" : "KRW",
+   "Rooms" : [
+      {
+         "Children" : 0,
+         "DayRates" : [
+            {
+               "RateId" : "22145",
+               "Date" : "2018-01-27",
+               "Description" : "Day Rates",
+               "Rate" : "89475"
+            },
+            {
+               "RateId" : "22145",
+               "Description" : "Day Rates",
+               "Rate" : "89475",
+               "Date" : "2018-01-28"
+            },
+            {
+               "RateId" : "22145",
+               "Rate" : "89475",
+               "Description" : "Day Rates",
+               "Date" : "2018-01-29"
+            },
+            {
+               "RateId" : "22145",
+               "Rate" : "89475",
+               "Description" : "Day Rates",
+               "Date" : "2018-01-30"
+            },
+            {
+               "RateId" : "22145",
+               "Date" : "2018-01-31",
+               "Rate" : "89475",
+               "Description" : "Day Rates"
+            }
+         ],
+         "Breakfast" : true,
+         "Adults" : 6,
+         "Units" : "1",
+         "Occupancy" : 6,
+         "StartDate" : "2018-01-27",
+         "EndDate" : "2018-01-31",
+         "RoomTypeIds" : [
+            -1
+         ],
+         "RateDesc" : "",
+         "RoomDesc" : "Bathrooms\uff1a1\r\nBedrooms\uff1a1\r\nBed type\uff1a3 bunk bed",
+         "RateId" : "22145",
+         "Policy" : "Confirmed booking (Remember to make reply on AsiaYo. If already done,please ignore it)",
+         "ChannelRoomType" : "48194",
+         "MyallocatorRateplanIds" : []
+      }
+   ]
+}

@@ -1,0 +1,72 @@
+{
+   "Rooms" : [
+      {
+         "RateDesc" : "",
+         "Currency" : "INR",
+         "Units" : "1",
+         "EndDate" : "2018-05-15",
+         "RoomTypeIds" : [
+            27944
+         ],
+         "OccupantFName" : "",
+         "ChannelRoomType" : "3740",
+         "StartDate" : "2018-05-15",
+         "Occupancy" : 1,
+         "OccupantLName" : "",
+         "Policy" : "",
+         "RateId" : "11010",
+         "DayRates" : [
+            {
+               "Rate" : 400,
+               "Description" : null,
+               "RateId" : "11010",
+               "Date" : "2018-05-15"
+            }
+         ],
+         "MyallocatorRateplanIds" : [],
+         "OccupantNote" : "",
+         "RoomDesc" : "6 Bed AC Dorm",
+         "Price" : "400.00"
+      }
+   ],
+   "CommissionCurrency" : "INR",
+   "TotalTaxes" : 48,
+   "MarkedAsRead" : false,
+   "MyallocatorId" : "e3438230d525e6ca41fbb6efd",
+   "MyallocatorCreationDate" : "2018-04-14",
+   "MyallocatorModificationTime" : "12:13:20",
+   "TotalPrice" : "448.00",
+   "StartDate" : "2018-05-15",
+   "Commission" : 0,
+   "Customers" : [
+      {
+         "CustomerEmail" : "liam.cain@hotmail.com",
+         "CustomerFName" : "Liam",
+         "CustomerAddress" : "CENSORED",
+         "CustomerNote" : "",
+         "CustomerCity" : "",
+         "CustomerPhone" : "6325251492",
+         "CustomerLName" : "Cain",
+         "CustomerCompany" : "",
+         "CustomerPostCode" : "",
+         "CustomerCountry" : "in"
+      }
+   ],
+   "TotalCurrency" : "INR",
+   "DepositDue" : "0.00",
+   "IsCancellation" : false,
+   "Channel" : "cwd",
+   "Version" : 0,
+   "OrderDate" : "2018-04-14",
+   "MyallocatorModificationDate" : "2018-04-14",
+   "PropertyId" : "1672",
+   "EndDate" : "2018-05-15",
+   "TotalTaxesCurrency" : "INR",
+   "Deposit" : "0.00",
+   "OrderTime" : "12:13:18",
+   "OrderId" : "4361725667",
+   "MyallocatorCreditCardDetailsPresent" : true,
+   "Acknowledged" : false,
+   "MyallocatorCreationTime" : "12:13:20",
+   "IsModification" : false
+}

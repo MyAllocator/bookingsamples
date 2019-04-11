@@ -1,0 +1,79 @@
+{
+   "DepositCurrency" : "CZK",
+   "Deposit" : "169.20",
+   "Customers" : [
+      {
+         "CustomerLName" : "Williams",
+         "CustomerNote" : "",
+         "CustomerEmail" : "william.williams@hotmail.com",
+         "CustomerGender" : "MA",
+         "CustomerFName" : "William",
+         "CustomerArrivalTime" : "15:00",
+         "CustomerNationality" : "England",
+         "CustomerPhone" : ""
+      }
+   ],
+   "Acknowledged" : false,
+   "MyallocatorModificationDate" : "2018-01-23",
+   "EndDate" : "2018-02-17",
+   "OrderId" : "5f4e13kuykfqnil",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "OrderFemales" : "",
+   "MyallocatorId" : "4c7742df52ee5618995395cf4",
+   "TotalPrice" : "1410.00",
+   "MyallocatorCreationDate" : "2018-01-23",
+   "IsModification" : false,
+   "MyallocatorModificationTime" : "11:56:45",
+   "OrderMales" : "1",
+   "PropertyId" : "9819",
+   "StartDate" : "2018-02-15",
+   "MyallocatorCreationTime" : "11:56:45",
+   "MarkedAsRead" : false,
+   "Channel" : "hw2",
+   "TotalCurrency" : "CZK",
+   "Rooms" : [
+      {
+         "EndDate" : "2018-02-15",
+         "RoomTypeIds" : [
+            12739
+         ],
+         "Price" : "470.00",
+         "RoomDesc" : "Standard 12 Bed Mixed Dorm Ensuite",
+         "Currency" : "CZK",
+         "Units" : "1",
+         "Occupancy" : 1,
+         "StartDate" : "2018-02-15",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "799981"
+      },
+      {
+         "EndDate" : "2018-02-16",
+         "RoomTypeIds" : [
+            12739
+         ],
+         "Price" : "520.00",
+         "RoomDesc" : "Standard 12 Bed Mixed Dorm Ensuite",
+         "Currency" : "CZK",
+         "Units" : "1",
+         "StartDate" : "2018-02-16",
+         "Occupancy" : 1,
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "529629"
+      },
+      {
+         "EndDate" : "2018-02-17",
+         "RoomTypeIds" : [
+            12739
+         ],
+         "RoomDesc" : "Standard 12 Bed Mixed Dorm Ensuite",
+         "Price" : "420.00",
+         "Currency" : "CZK",
+         "Units" : "1",
+         "Occupancy" : 1,
+         "StartDate" : "2018-02-17",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "921436"
+      }
+   ]
+}

@@ -1,0 +1,69 @@
+{
+   "IsCancellation" : false,
+   "MyallocatorCreationDate" : "2018-09-04",
+   "Channel" : "stya",
+   "StartDate" : "2019-09-07",
+   "OrderTime" : "12:11:28",
+   "IsTentative" : 0,
+   "TotalPrice" : "60.00",
+   "MyallocatorPIIRemoved" : null,
+   "OrderId" : "137",
+   "MyallocatorModificationTime" : "12:33:14",
+   "MyallocatorId" : "95d72931d28cbf6971d27025a",
+   "MarkedAsRead" : false,
+   "MyallocatorModificationDate" : "2018-09-04",
+   "CommissionCurrency" : "EUR",
+   "PaymentCollect" : "Property",
+   "MyallocatorCreationTime" : "12:33:14",
+   "Version" : 0,
+   "OrderDate" : "2018-09-04",
+   "Acknowledged" : false,
+   "TotalCurrency" : "EUR",
+   "Customers" : [
+      {
+         "CustomerAddress" : "CENSORED",
+         "CustomerNote" : "",
+         "CustomerPostCode" : "49661",
+         "CustomerPhone" : "164795425",
+         "CustomerCity" : "Clopprnburg",
+         "CustomerCountry" : "",
+         "CustomerCompany" : "",
+         "CustomerFName" : "Mason",
+         "CustomerEmail" : "mason.davis@hotmail.com",
+         "CustomerLName" : "Davis"
+      }
+   ],
+   "EndDate" : "2019-09-07",
+   "Commission" : "0.3",
+   "PropertyId" : "13842",
+   "Rooms" : [
+      {
+         "ChannelRoomType" : "83",
+         "Price" : "60.00",
+         "OccupantLName" : "Davis",
+         "RoomDesc" : "",
+         "MyallocatorRateplanIds" : [],
+         "Units" : "1",
+         "EndDate" : "2019-09-07",
+         "RateDesc" : "",
+         "DayRates" : [
+            {
+               "RateId" : "182",
+               "Description" : "",
+               "Date" : "2019-09-07",
+               "Rate" : "60",
+               "Currency" : "EUR"
+            }
+         ],
+         "RateId" : "182",
+         "RoomTypeIds" : [
+            83778
+         ],
+         "OccupantNote" : "",
+         "Policy" : "",
+         "StartDate" : "2019-09-07",
+         "Currency" : "EUR"
+      }
+   ],
+   "IsModification" : false
+}

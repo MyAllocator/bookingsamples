@@ -1,0 +1,133 @@
+{
+   "MarkedAsRead" : false,
+   "MyallocatorId" : "4c317f06eff246aa06474f011",
+   "MyallocatorCreationDate" : "2018-04-16",
+   "Rooms" : [
+      {
+         "RoomTypeIds" : [
+            2765
+         ],
+         "Price" : 203.88,
+         "RoomDesc" : "8 bed dorm - Mixed - Standard - Shared bathroom on the same floor (Shared hot shower on the same floor) - with balcony",
+         "MyallocatorRateplanIds" : [],
+         "EndDate" : "2018-06-21",
+         "DayRates" : [
+            {
+               "Description" : "Standard",
+               "Rate" : "16.99",
+               "Currency" : "EUR",
+               "RateId" : "6165",
+               "Date" : "2018-06-18"
+            },
+            {
+               "RateId" : "6165",
+               "Date" : "2018-06-19",
+               "Description" : "Standard",
+               "Rate" : "16.99",
+               "Currency" : "EUR"
+            },
+            {
+               "Description" : "Standard",
+               "Rate" : "16.99",
+               "Currency" : "EUR",
+               "RateId" : "6165",
+               "Date" : "2018-06-20"
+            },
+            {
+               "Description" : "Standard",
+               "Rate" : "16.99",
+               "Currency" : "EUR",
+               "Date" : "2018-06-21",
+               "RateId" : "6165"
+            }
+         ],
+         "Units" : "3",
+         "RateId" : "6165",
+         "Currency" : "EUR",
+         "RateDesc" : "",
+         "ChannelRoomType" : "2196",
+         "StartDate" : "2018-06-18"
+      },
+      {
+         "StartDate" : "2018-06-18",
+         "ChannelRoomType" : "7743",
+         "RateDesc" : "",
+         "Currency" : "EUR",
+         "RateId" : "6165",
+         "Units" : "4",
+         "DayRates" : [
+            {
+               "Date" : "2018-06-18",
+               "RateId" : "6165",
+               "Description" : "Standard",
+               "Rate" : "17.99",
+               "Currency" : "EUR"
+            },
+            {
+               "RateId" : "6165",
+               "Date" : "2018-06-19",
+               "Currency" : "EUR",
+               "Description" : "Standard",
+               "Rate" : "17.99"
+            },
+            {
+               "RateId" : "6165",
+               "Date" : "2018-06-20",
+               "Rate" : "17.99",
+               "Description" : "Standard",
+               "Currency" : "EUR"
+            },
+            {
+               "Rate" : "17.99",
+               "Description" : "Standard",
+               "Currency" : "EUR",
+               "Date" : "2018-06-21",
+               "RateId" : "6165"
+            }
+         ],
+         "MyallocatorRateplanIds" : [],
+         "EndDate" : "2018-06-21",
+         "RoomDesc" : "6 bed dorm - Mixed - Standard - Shared bathroom on the same floor (Shared hot shower on the same floor) - with balcony",
+         "Price" : 287.84,
+         "RoomTypeIds" : [
+            2763
+         ]
+      }
+   ],
+   "CommissionCurrency" : "EUR",
+   "Commission" : "73.76",
+   "DepositCurrency" : "EUR",
+   "Customers" : [
+      {
+         "CustomerFName" : "Benjamin",
+         "CustomerEmail" : "benjamin.taylor@hushmail.com",
+         "CustomerPhone" : "6445049325",
+         "CustomerNote" : "",
+         "CustomerCity" : null,
+         "CustomerAddress" : null,
+         "CustomerLName" : "Taylor",
+         "CustomerCountry" : "FR",
+         "CustomerCompany" : null,
+         "CustomerPostCode" : null
+      }
+   ],
+   "TotalCurrency" : "EUR",
+   "IsCancellation" : false,
+   "Channel" : "gr",
+   "Balance" : "491.72",
+   "BalanceCurrency" : "EUR",
+   "MyallocatorModificationTime" : "11:08:20",
+   "TotalPrice" : "491.72",
+   "StartDate" : "2018-06-18",
+   "EndDate" : "2018-06-21",
+   "Deposit" : "0.00",
+   "OrderTime" : "13:08:17",
+   "Version" : 0,
+   "OrderDate" : "2018-04-16",
+   "MyallocatorModificationDate" : "2018-04-16",
+   "PropertyId" : "963",
+   "MyallocatorCreationTime" : "11:08:20",
+   "IsModification" : false,
+   "OrderId" : "ed51a90pjli8ei",
+   "Acknowledged" : false
+}

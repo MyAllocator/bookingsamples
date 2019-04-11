@@ -1,0 +1,57 @@
+{
+   "OrderTime" : "00:29:37",
+   "DepositCurrency" : "USD",
+   "Deposit" : "12.3",
+   "Customers" : [
+      {
+         "CustomerLName" : "Miller",
+         "CustomerState" : "FL",
+         "CustomerCompany" : "CENSORED",
+         "CustomerNote" : "",
+         "CustomerEmail" : "miller@outlook.com",
+         "CustomerPostCode" : "33624",
+         "CustomerCity" : "Tampa",
+         "CustomerAddress" : "CENSORED",
+         "CustomerPhone" : "4300162865",
+         "CustomerCountry" : "US"
+      }
+   ],
+   "Acknowledged" : false,
+   "OrderDate" : "2018-01-23",
+   "MyallocatorModificationDate" : "2018-01-23",
+   "EndDate" : "2018-01-28",
+   "OrderId" : "19786864",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "CommissionIncludedInTotal" : false,
+   "MyallocatorId" : "d57bc568710eef1462543c055",
+   "OrderChildren" : "0",
+   "CommissionCurrency" : "USD",
+   "TotalPrice" : "123.00",
+   "MyallocatorCreationDate" : "2018-01-23",
+   "OrderAdults" : "3",
+   "IsModification" : false,
+   "MyallocatorModificationTime" : "05:31:59",
+   "PropertyId" : "6027",
+   "StartDate" : "2018-01-27",
+   "MyallocatorCreationTime" : "05:31:59",
+   "MarkedAsRead" : false,
+   "Channel" : "iwb",
+   "Commission" : "0",
+   "TotalCurrency" : "USD",
+   "Rooms" : [
+      {
+         "EndDate" : "2018-01-28",
+         "RoomTypeIds" : [
+            22871
+         ],
+         "RoomDesc" : "12 Person Mix Dorm Ensuite",
+         "Price" : "20.5",
+         "Currency" : "USD",
+         "Units" : "3",
+         "StartDate" : "2018-01-27",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "vwr739ep"
+      }
+   ]
+}

@@ -1,0 +1,50 @@
+{
+   "OrderTime" : "01:03:27",
+   "Customers" : [
+      {
+         "CustomerLName" : "Harris",
+         "CustomerNote" : ""
+      }
+   ],
+   "Acknowledged" : false,
+   "TotalTaxesCurrency" : "INR",
+   "OrderDate" : "2017-12-11",
+   "MyallocatorModificationDate" : "2017-12-10",
+   "EndDate" : "2018-01-10",
+   "OrderId" : "74388077579",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "CommissionIncludedInTotal" : true,
+   "MyallocatorId" : "e801a10d9de8477400d29bed4",
+   "TotalPrice" : "10454.80",
+   "MyallocatorCreationDate" : "2017-12-10",
+   "IsModification" : false,
+   "MyallocatorModificationTime" : "19:40:04",
+   "PropertyId" : "30735",
+   "StartDate" : "2018-01-09",
+   "MyallocatorCreationTime" : "19:40:04",
+   "MarkedAsRead" : false,
+   "Channel" : "clt",
+   "TotalCurrency" : "INR",
+   "TotalTaxes" : "1594.8",
+   "Rooms" : [
+      {
+         "EndDate" : "2018-01-10",
+         "RoomTypeIds" : [
+            78399
+         ],
+         "DayRates" : [],
+         "RoomDesc" : "Deluxe Family Room",
+         "Children" : "1",
+         "RateDesc" : "Deluxe Family Room - With Breakfast (Sell, 27/11/2017 - 26/11/2019)",
+         "RateId" : "5374274",
+         "Breakfast" : null,
+         "OccupantNote" : "",
+         "Adults" : "3",
+         "Units" : "1",
+         "StartDate" : "2018-01-09",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "03066696771"
+      }
+   ]
+}

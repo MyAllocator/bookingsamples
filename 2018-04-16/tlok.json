@@ -1,0 +1,70 @@
+{
+   "MarkedAsRead" : false,
+   "ma_callback_qbid" : 15006603,
+   "MyallocatorId" : "ba6fe34a6fb25b15268745f15",
+   "MyallocatorCreationDate" : "2018-04-16",
+   "Rooms" : [
+      {
+         "OccupantNote" : "CENSORED",
+         "RoomTypeIds" : [
+            122883
+         ],
+         "Price" : "76.00",
+         "RoomDesc" : "Single Capsule with Continental Breakfast",
+         "MyallocatorRateplanIds" : [],
+         "EndDate" : "2018-05-01",
+         "Adults" : "1",
+         "DayRates" : [
+            {
+               "Date" : "2018-04-30",
+               "RateId" : "RETAIL",
+               "Rate" : "38.00",
+               "Description" : null,
+               "Currency" : "SGD"
+            },
+            {
+               "Currency" : "SGD",
+               "Description" : null,
+               "Rate" : "38.00",
+               "RateId" : "RETAIL",
+               "Date" : "2018-05-01"
+            }
+         ],
+         "Units" : "1",
+         "RateId" : "RETAIL",
+         "Currency" : "SGD",
+         "StartDate" : "2018-04-30",
+         "ChannelRoomType" : "67920348",
+         "RateDesc" : ""
+      }
+   ],
+   "CommissionCurrency" : "SGD",
+   "TotalTaxes" : 11.42,
+   "Commission" : 11.4,
+   "Customers" : [
+      {
+         "CustomerNote" : "CENSORED",
+         "CustomerFName" : "Charlotte",
+         "CustomerLName" : "White"
+      }
+   ],
+   "TotalCurrency" : "SGD",
+   "Channel" : "tlok",
+   "IsCancellation" : false,
+   "MyallocatorModificationTime" : "13:22:03",
+   "TotalPrice" : "76.00",
+   "StartDate" : "2018-04-30",
+   "EndDate" : "2018-05-01",
+   "TotalTaxesCurrency" : "SGD",
+   "OrderTime" : "13:22:02",
+   "PaymentCollect" : "Channel",
+   "Version" : 0,
+   "OrderDate" : "2018-04-16",
+   "MyallocatorModificationDate" : "2018-04-16",
+   "PropertyId" : "52457",
+   "MyallocatorCreationTime" : "13:22:03",
+   "IsModification" : false,
+   "OrderId" : "8837114736",
+   "CommissionIncludedInTotal" : true,
+   "Acknowledged" : false
+}

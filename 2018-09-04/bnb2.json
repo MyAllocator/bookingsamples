@@ -1,0 +1,53 @@
+{
+   "MyallocatorCreationDate" : "2018-09-04",
+   "TotalTaxes" : 31.331,
+   "StartDate" : "2018-09-11",
+   "Channel" : "bnb2",
+   "OrderTime" : "09:12:02",
+   "IsCancellation" : false,
+   "MyallocatorModificationTime" : "14:13:08",
+   "MyallocatorId" : "18feb778c49bfd3a9daa8a283",
+   "TotalPrice" : "354.33",
+   "IsTentative" : 0,
+   "MyallocatorPIIRemoved" : null,
+   "OrderId" : "830450746",
+   "TotalTaxesCurrency" : "USD",
+   "Version" : 0,
+   "OrderDate" : "2018-09-04",
+   "ma_callback_qbid" : 18896372,
+   "Acknowledged" : false,
+   "OrderSource" : "Expedia - Expedia",
+   "MarkedAsRead" : false,
+   "MyallocatorCreationTime" : "14:13:08",
+   "MyallocatorModificationDate" : "2018-09-04",
+   "Customers" : [
+      {
+         "CustomerLName" : "Taylor",
+         "CustomerFName" : "Benjamin",
+         "CustomerEmail" : "benjamin.taylor@zoho.com",
+         "CustomerPhone" : "82529736263",
+         "CustomerNote" : ""
+      }
+   ],
+   "EndDate" : "2018-09-12",
+   "IsModification" : false,
+   "Rooms" : [
+      {
+         "RoomTypeIds" : [
+            98661
+         ],
+         "Adults" : 2,
+         "Children" : 0,
+         "Price" : 354.331,
+         "ChannelRoomType" : "66898",
+         "Currency" : "USD",
+         "StartDate" : "2018-09-11",
+         "EndDate" : "2018-09-12",
+         "Units" : "1",
+         "MyallocatorRateplanIds" : [],
+         "RoomDesc" : ""
+      }
+   ],
+   "PropertyId" : "56326",
+   "TotalCurrency" : "USD"
+}

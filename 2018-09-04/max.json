@@ -1,0 +1,101 @@
+{
+   "EndDate" : "2018-09-27",
+   "Customers" : [
+      {
+         "CustomerAddress" : "",
+         "CustomerNote" : "",
+         "CustomerPostCode" : "",
+         "CustomerCompany" : "",
+         "CustomerFName" : "Mia",
+         "CustomerEmail" : "mia.anderson@mail.com",
+         "CustomerLName" : "Anderson",
+         "CustomerPhone" : "",
+         "CustomerCity" : "Wien",
+         "CustomerArrivalTime" : "21:00:00",
+         "CustomerCountry" : "AT"
+      }
+   ],
+   "Commission" : "1.50",
+   "Rooms" : [
+      {
+         "RoomDesc" : "",
+         "Units" : "1",
+         "MyallocatorRateplanIds" : [],
+         "EndDate" : "2018-09-27",
+         "StartDate" : "2018-09-21",
+         "RateDesc" : "",
+         "Currency" : "EGP",
+         "ChannelRoomType" : "9488",
+         "Price" : "1050.00",
+         "DayRates" : [
+            {
+               "Date" : "2018-09-21",
+               "Rate" : "150.00",
+               "Currency" : "EGP",
+               "Description" : null
+            },
+            {
+               "Description" : null,
+               "Rate" : "150.00",
+               "Currency" : "EGP",
+               "Date" : "2018-09-22"
+            },
+            {
+               "Description" : null,
+               "Date" : "2018-09-23",
+               "Rate" : "150.00",
+               "Currency" : "EGP"
+            },
+            {
+               "Description" : null,
+               "Date" : "2018-09-24",
+               "Currency" : "EGP",
+               "Rate" : "150.00"
+            },
+            {
+               "Description" : null,
+               "Currency" : "EGP",
+               "Rate" : "150.00",
+               "Date" : "2018-09-25"
+            },
+            {
+               "Description" : null,
+               "Rate" : "150.00",
+               "Currency" : "EGP",
+               "Date" : "2018-09-26"
+            },
+            {
+               "Description" : null,
+               "Currency" : "EGP",
+               "Rate" : "150.00",
+               "Date" : "2018-09-27"
+            }
+         ],
+         "RateId" : "",
+         "RoomTypeIds" : [
+            23590
+         ]
+      }
+   ],
+   "PropertyId" : "1847",
+   "IsModification" : false,
+   "TotalCurrency" : "EGP",
+   "Version" : 0,
+   "OrderDate" : "2018-09-04",
+   "Acknowledged" : false,
+   "MarkedAsRead" : false,
+   "MyallocatorModificationDate" : "2018-09-04",
+   "MyallocatorCreationTime" : "13:15:48",
+   "CommissionCurrency" : "EUR",
+   "MyallocatorId" : "39cdd09d6f7d94d758e27cba2",
+   "MyallocatorModificationTime" : "13:15:48",
+   "IsTentative" : 0,
+   "TotalPrice" : "1050.00",
+   "OrderId" : "6a0f5jjco0m9sf7",
+   "MyallocatorPIIRemoved" : null,
+   "MyallocatorCreationDate" : "2018-09-04",
+   "OrderTime" : "15:57:33",
+   "Channel" : "max",
+   "StartDate" : "2018-09-21",
+   "IsCancellation" : false
+}

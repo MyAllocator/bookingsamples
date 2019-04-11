@@ -1,0 +1,66 @@
+{
+   "MyallocatorModificationTime" : "11:10:45",
+   "BalanceCurrency" : "SEK",
+   "TotalPrice" : "195.00",
+   "StartDate" : "2018-05-31",
+   "Commission" : "15.234375",
+   "TotalCurrency" : "SEK",
+   "Customers" : [
+      {
+         "CustomerEmail" : "abigail.garcia@gmx.com",
+         "CustomerFName" : "Abigail",
+         "CustomerLName" : "Garcia",
+         "CustomerNote" : "",
+         "CustomerCountry" : "SE",
+         "CustomerPhone" : "ovd8oyq5e0mv0322cgbyqvouy1tx9gy1w6s"
+      }
+   ],
+   "Balance" : "0",
+   "Channel" : "cb",
+   "IsCancellation" : false,
+   "Rooms" : [
+      {
+         "Adults" : "1",
+         "EndDate" : "2018-05-31",
+         "RoomTypeIds" : [
+            54262
+         ],
+         "RateDesc" : "Prisavtal standard",
+         "Currency" : "SEK",
+         "Children" : "0",
+         "Units" : "1",
+         "DayRates" : [
+            {
+               "Currency" : "SEK",
+               "Description" : "Prisavtal standard",
+               "Rate" : 195,
+               "RateId" : "72563",
+               "Date" : "2018-05-31"
+            }
+         ],
+         "MyallocatorRateplanIds" : [],
+         "OccupantNote" : "",
+         "Price" : "195",
+         "RoomDesc" : "Room with a view",
+         "StartDate" : "2018-05-31",
+         "ChannelRoomType" : "222498",
+         "OccupantLName" : "Garcia",
+         "RateId" : "72563"
+      }
+   ],
+   "CommissionCurrency" : "SEK",
+   "MarkedAsRead" : false,
+   "MyallocatorId" : "8c1c3351cdb66f358ff1bc8b5",
+   "MyallocatorCreationDate" : "2018-04-16",
+   "OrderId" : "m9p6ee",
+   "CommissionIncludedInTotal" : false,
+   "Acknowledged" : false,
+   "MyallocatorCreationTime" : "11:10:45",
+   "IsModification" : false,
+   "Version" : 0,
+   "OrderDate" : "2018-04-16",
+   "MyallocatorModificationDate" : "2018-04-16",
+   "PropertyId" : "97316",
+   "EndDate" : "2018-05-31",
+   "OrderTime" : "13:10"
+}

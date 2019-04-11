@@ -1,0 +1,110 @@
+{
+   "MyallocatorModificationDate" : "2018-08-15",
+   "MyallocatorCreationTime" : "18:02:58",
+   "CommissionCurrency" : "INR",
+   "MarkedAsRead" : false,
+   "Acknowledged" : false,
+   "OrderDate" : "2018-08-15",
+   "Version" : 0,
+   "TotalTaxesCurrency" : "INR",
+   "TotalCurrency" : "INR",
+   "Rooms" : [
+      {
+         "Units" : "1",
+         "MyallocatorRateplanIds" : [],
+         "OccupantFName" : "",
+         "EndDate" : "2018-12-18",
+         "RoomDesc" : "",
+         "RateDesc" : "",
+         "ChannelRoomType" : "1599",
+         "Price" : "11200.00",
+         "OccupantLName" : "",
+         "Policy" : "",
+         "OccupantNote" : "",
+         "Occupancy" : 1,
+         "Currency" : "INR",
+         "StartDate" : "2018-12-12",
+         "DayRates" : [
+            {
+               "Date" : "2018-12-12",
+               "Rate" : 1600,
+               "RateId" : "11007",
+               "Description" : null
+            },
+            {
+               "Rate" : 1600,
+               "Date" : "2018-12-13",
+               "Description" : null,
+               "RateId" : "11007"
+            },
+            {
+               "RateId" : "11007",
+               "Description" : null,
+               "Date" : "2018-12-14",
+               "Rate" : 1600
+            },
+            {
+               "RateId" : "11007",
+               "Description" : null,
+               "Date" : "2018-12-15",
+               "Rate" : 1600
+            },
+            {
+               "RateId" : "11007",
+               "Description" : null,
+               "Date" : "2018-12-16",
+               "Rate" : 1600
+            },
+            {
+               "Rate" : 1600,
+               "Date" : "2018-12-17",
+               "Description" : null,
+               "RateId" : "11007"
+            },
+            {
+               "Description" : null,
+               "RateId" : "11007",
+               "Rate" : 1600,
+               "Date" : "2018-12-18"
+            }
+         ],
+         "RoomTypeIds" : [
+            27941
+         ],
+         "RateId" : "11007"
+      }
+   ],
+   "PropertyId" : "0762",
+   "IsModification" : false,
+   "MyallocatorCreditCardDetailsPresent" : true,
+   "EndDate" : "2018-12-18",
+   "Customers" : [
+      {
+         "CustomerNote" : "",
+         "CustomerAddress" : "CENSORED",
+         "CustomerPostCode" : "",
+         "CustomerCompany" : "",
+         "CustomerFName" : "Harper",
+         "CustomerLName" : "Young",
+         "CustomerEmail" : "harper.young@hushmail.com",
+         "CustomerCountry" : "IN",
+         "CustomerCity" : "",
+         "CustomerPhone" : "3117139711"
+      }
+   ],
+   "Commission" : 0,
+   "IsCancellation" : false,
+   "OrderTime" : "17:54:40",
+   "StartDate" : "2018-12-12",
+   "Channel" : "cwd",
+   "TotalTaxes" : 1344,
+   "MyallocatorCreationDate" : "2018-08-15",
+   "OrderId" : "0044436455",
+   "MyallocatorPIIRemoved" : null,
+   "IsTentative" : 0,
+   "Deposit" : "0.00",
+   "TotalPrice" : "12544.00",
+   "DepositDue" : "0.00",
+   "MyallocatorModificationTime" : "18:02:58",
+   "MyallocatorId" : "98c4345b6e2359a4cacf2d72f"
+}

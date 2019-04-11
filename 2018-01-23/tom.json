@@ -1,0 +1,59 @@
+{
+   "OrderTime" : "16:59",
+   "Customers" : [
+      {
+         "CustomerLName" : "White",
+         "CustomerNote" : "",
+         "CustomerGender" : "MA",
+         "CustomerEmail" : "charlotte.white@mail.com",
+         "CustomerFName" : "Charlotte",
+         "CustomerCity" : "K\u00f6ln",
+         "CustomerPostCode" : "99999",
+         "CustomerAddress" : "CENSORED",
+         "CustomerPhone" : "53885983175061",
+         "CustomerCountry" : "DE"
+      }
+   ],
+   "Acknowledged" : false,
+   "OrderDate" : "2018-01-22",
+   "MyallocatorModificationDate" : "2018-01-22",
+   "OrderSource" : "booking.com",
+   "EndDate" : "2018-04-14",
+   "OrderId" : "8w07z58p",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "MyallocatorId" : "cf1e05bf3166404d2ccdff3bb",
+   "OrderChildren" : 0,
+   "TotalPrice" : "144.00",
+   "MyallocatorCreationDate" : "2018-01-22",
+   "OrderAdults" : 6,
+   "IsModification" : false,
+   "MyallocatorModificationTime" : "15:59:15",
+   "PropertyId" : "20653",
+   "StartDate" : "2018-04-13",
+   "MyallocatorCreationTime" : "15:59:15",
+   "MarkedAsRead" : false,
+   "Channel" : "tom",
+   "TotalCurrency" : "EUR",
+   "Rooms" : [
+      {
+         "EndDate" : "2018-04-14",
+         "RoomTypeIds" : [
+            106631
+         ],
+         "Children" : 0,
+         "RoomDesc" : "booking.com",
+         "RateId" : "booking.com",
+         "RateDesc" : "",
+         "Price" : "144.00",
+         "Breakfast" : true,
+         "Currency" : "EUR",
+         "Adults" : 6,
+         "Units" : "6",
+         "StartDate" : "2018-04-13",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "UZH"
+      }
+   ],
+   "OrderSourceId" : "NDS00020140007008581"
+}

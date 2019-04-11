@@ -1,0 +1,140 @@
+{
+   "OrderTime" : "00:11:31",
+   "Customers" : [
+      {
+         "CustomerLName" : "Harris",
+         "CustomerNote" : ""
+      }
+   ],
+   "Acknowledged" : false,
+   "TotalTaxesCurrency" : "INR",
+   "OrderDate" : "2017-11-04",
+   "MyallocatorModificationDate" : "2017-11-03",
+   "EndDate" : "2017-12-23",
+   "OrderId" : "19336183538",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "CommissionIncludedInTotal" : true,
+   "MyallocatorId" : "934bd2eb3df2fd9da9cd423b4",
+   "TotalPrice" : "19671.92",
+   "MyallocatorCreationDate" : "2017-11-03",
+   "IsModification" : false,
+   "MyallocatorModificationTime" : "18:50:50",
+   "PropertyId" : "81364",
+   "StartDate" : "2017-12-23",
+   "MyallocatorCreationTime" : "18:50:50",
+   "MarkedAsRead" : false,
+   "Channel" : "clt",
+   "TotalCurrency" : "INR",
+   "TotalTaxes" : "2977.92",
+   "Rooms" : [
+      {
+         "EndDate" : "2017-12-23",
+         "RoomTypeIds" : [
+            116138
+         ],
+         "RoomDesc" : "Deluxe AC",
+         "Children" : "0",
+         "RateDesc" : "Deluxe AC Room (Sell, 16/12/2014 - 31/03/2018)",
+         "RateId" : "119527",
+         "DayRates" : [],
+         "Breakfast" : null,
+         "OccupantNote" : "CENSORED",
+         "Adults" : "3",
+         "Units" : "1",
+         "StartDate" : "2017-12-23",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "8372762"
+      },
+      {
+         "EndDate" : "2017-12-23",
+         "RoomTypeIds" : [
+            116138
+         ],
+         "RoomDesc" : "Deluxe AC",
+         "RateId" : "119527",
+         "RateDesc" : "Deluxe AC Room (Sell, 16/12/2014 - 31/03/2018)",
+         "Children" : "0",
+         "DayRates" : [],
+         "Breakfast" : null,
+         "OccupantNote" : "CENSORED",
+         "Adults" : "2",
+         "Units" : "1",
+         "StartDate" : "2017-12-23",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "1094552"
+      },
+      {
+         "EndDate" : "2017-12-23",
+         "RoomTypeIds" : [
+            116138
+         ],
+         "DayRates" : [],
+         "RateId" : "119527",
+         "Children" : "1",
+         "RateDesc" : "Deluxe AC Room (Sell, 16/12/2014 - 31/03/2018)",
+         "RoomDesc" : "Deluxe AC",
+         "Breakfast" : null,
+         "OccupantNote" : "CENSORED",
+         "Units" : "1",
+         "Adults" : "3",
+         "StartDate" : "2017-12-23",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "9248236"
+      },
+      {
+         "EndDate" : "2017-12-23",
+         "RoomTypeIds" : [
+            116138
+         ],
+         "RateId" : "119527",
+         "RateDesc" : "Deluxe AC Room (Sell, 16/12/2014 - 31/03/2018)",
+         "Children" : "0",
+         "DayRates" : [],
+         "RoomDesc" : "Deluxe AC",
+         "Breakfast" : null,
+         "OccupantNote" : "CENSORED",
+         "Adults" : "3",
+         "Units" : "1",
+         "StartDate" : "2017-12-23",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "3903658"
+      },
+      {
+         "EndDate" : "2017-12-23",
+         "RoomTypeIds" : [
+            116138
+         ],
+         "RoomDesc" : "Deluxe AC",
+         "RateId" : "119527",
+         "Children" : "0",
+         "RateDesc" : "Deluxe AC Room (Sell, 16/12/2014 - 31/03/2018)",
+         "DayRates" : [],
+         "Breakfast" : null,
+         "OccupantNote" : "CENSORED",
+         "Adults" : "2",
+         "Units" : "1",
+         "StartDate" : "2017-12-23",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "7765078"
+      },
+      {
+         "EndDate" : "2017-12-23",
+         "RoomTypeIds" : [
+            116138
+         ],
+         "RoomDesc" : "Deluxe AC",
+         "DayRates" : [],
+         "RateId" : "119527",
+         "Children" : "0",
+         "RateDesc" : "Deluxe AC Room (Sell, 16/12/2014 - 31/03/2018)",
+         "Breakfast" : null,
+         "OccupantNote" : "CENSORED",
+         "Units" : "1",
+         "Adults" : "2",
+         "StartDate" : "2017-12-23",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "2876623"
+      }
+   ]
+}

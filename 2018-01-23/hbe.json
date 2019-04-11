@@ -1,0 +1,57 @@
+{
+   "Customers" : [
+      {
+         "CustomerLName" : "Moore",
+         "CustomerNote" : ""
+      },
+      {
+         "CustomerLName" : "Taylor",
+         "CustomerFName" : "Benjamin",
+         "CustomerAge" : "30",
+         "CustomerNote" : ""
+      },
+      {
+         "CustomerLName" : "",
+         "CustomerFName" : "Mia",
+         "CustomerAge" : "",
+         "CustomerNote" : ""
+      }
+   ],
+   "Acknowledged" : false,
+   "OrderDate" : "2018-01-23",
+   "MyallocatorModificationDate" : "2018-01-23",
+   "EndDate" : "2018-02-23",
+   "OrderId" : "kfvu6hiw5h",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "MyallocatorId" : "11322c0e987aa82d743575203",
+   "MyallocatorCreationDate" : "2018-01-23",
+   "IsModification" : false,
+   "MyallocatorModificationTime" : "11:16:09",
+   "PropertyId" : "4885",
+   "StartDate" : "2018-02-22",
+   "MyallocatorCreationTime" : "11:16:09",
+   "MarkedAsRead" : true,
+   "Channel" : "hbe",
+   "Rooms" : [
+      {
+         "Children" : "0",
+         "Breakfast" : true,
+         "Units" : "1",
+         "Adults" : "2",
+         "Occupancy" : 2,
+         "StartDate" : "2018-02-22",
+         "EndDate" : "2018-02-23",
+         "RoomTypeIds" : [
+            40310
+         ],
+         "RateDesc" : "FIT RATE - ROOM/NIGHT",
+         "RoomDesc" : "DOUBLE Loft Room",
+         "Babies" : "0",
+         "OccupantNote" : "CENSORED",
+         "RoomOrderId" : "1",
+         "ChannelRoomType" : "t7mr4r8t57kvbss81a1qp",
+         "MyallocatorRateplanIds" : []
+      }
+   ]
+}

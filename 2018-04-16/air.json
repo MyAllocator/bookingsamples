@@ -1,0 +1,39 @@
+{
+   "Rooms" : [
+      {
+         "RoomTypeIds" : [
+            95736
+         ],
+         "RoomDesc" : "Stylish Studio in Back Bay",
+         "EndDate" : "2018-06-07",
+         "MyallocatorRateplanIds" : [],
+         "StartDate" : "2018-06-02",
+         "ChannelRoomType" : "https://www.airbnb.com/CENSORED",
+         "Units" : "1"
+      }
+   ],
+   "MyallocatorCreationDate" : "2018-04-16",
+   "MarkedAsRead" : false,
+   "ma_callback_qbid" : 15006123,
+   "MyallocatorId" : "efebcc427bf785b40f85ed07a",
+   "StartDate" : "2018-06-02",
+   "MyallocatorModificationTime" : "13:04:14",
+   "Channel" : "air",
+   "IsCancellation" : false,
+   "Customers" : [
+      {
+         "CustomerLName" : "Cain",
+         "CustomerEmail" : "cain@yahoo.com",
+         "CustomerPhone" : "63442067880261254",
+         "CustomerNote" : ""
+      }
+   ],
+   "MyallocatorModificationDate" : "2018-04-16",
+   "PropertyId" : "15927",
+   "Version" : 0,
+   "EndDate" : "2018-06-07",
+   "Acknowledged" : false,
+   "OrderId" : "GGIBYBQIGH",
+   "IsModification" : false,
+   "MyallocatorCreationTime" : "13:04:14"
+}

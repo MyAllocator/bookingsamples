@@ -1,0 +1,65 @@
+{
+   "Customers" : [
+      {
+         "CustomerLName" : "Moore",
+         "CustomerNote" : ""
+      },
+      {
+         "CustomerLName" : "Taylor",
+         "CustomerFName" : "Benjamin",
+         "CustomerAge" : "30",
+         "CustomerNote" : ""
+      }
+   ],
+   "Acknowledged" : false,
+   "OrderDate" : "2017-12-11",
+   "MyallocatorModificationDate" : "2017-12-11",
+   "EndDate" : "2017-12-14",
+   "OrderId" : "tk5z15ywzw",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "MyallocatorId" : "8d115299669472044097874bb",
+   "TotalPrice" : "61.80",
+   "MyallocatorCreationDate" : "2017-12-11",
+   "IsModification" : false,
+   "MyallocatorModificationTime" : "11:31:04",
+   "PropertyId" : "9734",
+   "StartDate" : "2017-12-14",
+   "MyallocatorCreationTime" : "11:31:04",
+   "MarkedAsRead" : true,
+   "Channel" : "hbe",
+   "TotalCurrency" : "EUR",
+   "Rooms" : [
+      {
+         "Children" : "0",
+         "DayRates" : [
+            {
+               "Currency" : "EUR",
+               "RateId" : "**",
+               "Description" : null,
+               "Rate" : 61.8,
+               "Date" : "2017-12-14"
+            }
+         ],
+         "Breakfast" : false,
+         "Units" : "1",
+         "Adults" : "1",
+         "Occupancy" : 1,
+         "StartDate" : "2017-12-14",
+         "EndDate" : "2017-12-14",
+         "RoomTypeIds" : [
+            25167
+         ],
+         "RateDesc" : "",
+         "RateId" : "**",
+         "Price" : 61.8,
+         "RoomDesc" : "SINGLE STANDARD",
+         "Babies" : "0",
+         "Currency" : "EUR",
+         "OccupantNote" : "",
+         "RoomOrderId" : "1",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "6nchgt48knof8l47h4z1x"
+      }
+   ]
+}

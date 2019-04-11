@@ -1,0 +1,85 @@
+{
+   "OrderTime" : "12:54:39",
+   "Customers" : [
+      {
+         "CustomerFName" : "Liam",
+         "CustomerLName" : "Cain",
+         "CustomerNote" : ""
+      }
+   ],
+   "Acknowledged" : false,
+   "OrderDate" : "2017-04-22",
+   "MyallocatorModificationDate" : "2017-04-22",
+   "OrderSource" : "EBC",
+   "EndDate" : "2017-07-01",
+   "OrderId" : "eh15rx1kffbcl",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "MyallocatorId" : "8e770501e472eed30d1f0f1f2",
+   "OrderChildren" : "0",
+   "TotalPrice" : "333.08",
+   "MyallocatorCreationDate" : "2017-04-22",
+   "OrderAdults" : 1,
+   "MyallocatorModificationTime" : "17:58:32",
+   "OrderCustomers" : 1,
+   "PropertyId" : "4819",
+   "StartDate" : "2017-06-26",
+   "MyallocatorCreationTime" : "17:58:32",
+   "MarkedAsRead" : true,
+   "Channel" : "orb",
+   "TotalCurrency" : "EUR",
+   "Rooms" : [
+      {
+         "EndDate" : "2017-07-01",
+         "RoomTypeIds" : [
+            28355
+         ],
+         "RoomDesc" : "Premium Double Room - 1 double bed - View",
+         "RateDesc" : "Standard (BAR)",
+         "Price" : 333.08,
+         "DayRates" : [
+            {
+               "Currency" : "EUR",
+               "RateId" : "Dynamic",
+               "Date" : "2017-06-26",
+               "Rate" : "83.27"
+            },
+            {
+               "Currency" : "EUR",
+               "RateId" : "Dynamic",
+               "Date" : "2017-06-27",
+               "Rate" : "83.27"
+            },
+            {
+               "Currency" : "EUR",
+               "RateId" : "Dynamic",
+               "Date" : "2017-06-28",
+               "Rate" : "36.43"
+            },
+            {
+               "Currency" : "EUR",
+               "RateId" : "Dynamic",
+               "Date" : "2017-06-29",
+               "Rate" : "36.43"
+            },
+            {
+               "Currency" : "EUR",
+               "RateId" : "Dynamic",
+               "Date" : "2017-06-30",
+               "Rate" : "46.84"
+            },
+            {
+               "Currency" : "EUR",
+               "RateId" : "Dynamic",
+               "Date" : "2017-07-01",
+               "Rate" : "46.84"
+            }
+         ],
+         "Currency" : "EUR",
+         "Units" : 1,
+         "StartDate" : "2017-06-26",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "053889725"
+      }
+   ]
+}

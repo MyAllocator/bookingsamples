@@ -1,0 +1,78 @@
+{
+   "OrderTime" : "06:21:45",
+   "Deposit" : "0.00",
+   "DepositDue" : "0.00",
+   "Customers" : [
+      {
+         "CustomerLName" : "Young",
+         "CustomerCompany" : "",
+         "CustomerNote" : "",
+         "CustomerEmail" : "harper.young@hushmail.com",
+         "CustomerFName" : "Harper",
+         "CustomerPostCode" : "",
+         "CustomerCity" : "",
+         "CustomerAddress" : "CENSORED",
+         "CustomerPhone" : "1137838659",
+         "CustomerCountry" : "de"
+      }
+   ],
+   "Acknowledged" : false,
+   "OrderDate" : "2018-01-23",
+   "TotalTaxesCurrency" : "INR",
+   "MyallocatorModificationDate" : "2018-01-23",
+   "EndDate" : "2018-01-24",
+   "OrderId" : "3839989761",
+   "IsCancellation" : false,
+   "MyallocatorCreditCardDetailsPresent" : true,
+   "Version" : 0,
+   "MyallocatorId" : "e3960bd4d1de703ca003e76cd",
+   "CommissionCurrency" : "INR",
+   "TotalPrice" : "1232.00",
+   "MyallocatorCreationDate" : "2018-01-23",
+   "IsModification" : false,
+   "MyallocatorModificationTime" : "06:21:48",
+   "PropertyId" : "3511",
+   "StartDate" : "2018-01-23",
+   "MyallocatorCreationTime" : "06:21:48",
+   "MarkedAsRead" : false,
+   "Channel" : "cwd",
+   "Commission" : 0,
+   "TotalCurrency" : "INR",
+   "TotalTaxes" : 132,
+   "Rooms" : [
+      {
+         "DayRates" : [
+            {
+               "RateId" : "11010",
+               "Date" : "2018-01-23",
+               "Rate" : 550,
+               "Description" : null
+            },
+            {
+               "RateId" : "11010",
+               "Description" : null,
+               "Rate" : 550,
+               "Date" : "2018-01-24"
+            }
+         ],
+         "OccupantLName" : "",
+         "Units" : "1",
+         "Occupancy" : 1,
+         "StartDate" : "2018-01-23",
+         "EndDate" : "2018-01-24",
+         "OccupantFName" : "",
+         "RoomTypeIds" : [
+            27944
+         ],
+         "RoomDesc" : "6 Bed AC Dorm",
+         "RateDesc" : "",
+         "RateId" : "11010",
+         "Price" : "1100.00",
+         "Currency" : "INR",
+         "OccupantNote" : "",
+         "Policy" : "",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "5932"
+      }
+   ]
+}

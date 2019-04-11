@@ -1,0 +1,45 @@
+{
+   "DepositCurrency" : "EUR",
+   "Deposit" : "0.00",
+   "Customers" : [
+      {
+         "CustomerLName" : "Young",
+         "CustomerNote" : "",
+         "CustomerPhone" : "655146595",
+         "CustomerEmail" : "young@yahoo.com"
+      }
+   ],
+   "Acknowledged" : true,
+   "OrderDate" : "2018-01-22",
+   "MyallocatorModificationDate" : "2018-01-22",
+   "EndDate" : "2018-01-25",
+   "OrderId" : "753618607837215",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "MyallocatorId" : "4bbadcf16a7cc1e5cd1d93905",
+   "TotalPrice" : "99.75",
+   "MyallocatorCreationDate" : "2018-01-22",
+   "IsModification" : false,
+   "MyallocatorModificationTime" : "21:24:44",
+   "PropertyId" : "23922",
+   "StartDate" : "2018-01-23",
+   "MyallocatorCreationTime" : "21:24:44",
+   "MarkedAsRead" : true,
+   "Channel" : "ysh",
+   "TotalCurrency" : "EUR",
+   "Rooms" : [
+      {
+         "EndDate" : "2018-01-25",
+         "RoomTypeIds" : [
+            85891
+         ],
+         "Price" : "99.75",
+         "RoomDesc" : "Apartamento Estudio (1 adulto)",
+         "Currency" : "EUR",
+         "Units" : "1",
+         "StartDate" : "2018-01-23",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "6226"
+      }
+   ]
+}

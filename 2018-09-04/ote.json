@@ -1,0 +1,48 @@
+{
+   "MyallocatorModificationDate" : "2018-08-10",
+   "MyallocatorCreationTime" : "15:39:15",
+   "MarkedAsRead" : false,
+   "Acknowledged" : false,
+   "Version" : 0,
+   "OrderDate" : "2018-08-10",
+   "TotalCurrency" : "EUR",
+   "PropertyId" : "1426",
+   "Rooms" : [
+      {
+         "Currency" : "EUR",
+         "StartDate" : "2018-08-10",
+         "EndDate" : "2018-08-11",
+         "Units" : "1",
+         "MyallocatorRateplanIds" : [],
+         "RoomDesc" : "",
+         "RoomTypeIds" : [
+            9883
+         ],
+         "Price" : 76,
+         "ChannelRoomType" : "0928"
+      }
+   ],
+   "IsModification" : false,
+   "EndDate" : "2018-08-11",
+   "Customers" : [
+      {
+         "CustomerNote" : "",
+         "CustomerLName" : "Young",
+         "CustomerEmail" : "harper.young@gmx.com",
+         "CustomerFName" : "Harper"
+      }
+   ],
+   "IsCancellation" : false,
+   "OrderTime" : "15:35:22",
+   "Channel" : "ote",
+   "StartDate" : "2018-08-10",
+   "MyallocatorCreationDate" : "2018-08-10",
+   "OrderId" : "j9e0k6n4",
+   "MyallocatorPIIRemoved" : null,
+   "DepositCurrency" : "EUR",
+   "IsTentative" : 0,
+   "Deposit" : 0,
+   "TotalPrice" : "76.00",
+   "MyallocatorId" : "f8af4202add0e027e55abdc5a",
+   "MyallocatorModificationTime" : "15:39:15"
+}

@@ -1,0 +1,51 @@
+{
+   "OrderTime" : "21:37:03",
+   "Customers" : [
+      {
+         "CustomerLName" : "Moore",
+         "CustomerNote" : "",
+         "CustomerEmail" : "isabella.moore@outlook.com",
+         "CustomerFName" : "Isabella",
+         "CustomerPostCode" : "",
+         "CustomerCity" : "Bremen",
+         "CustomerAddress" : "",
+         "CustomerPhone" : "07962648743627",
+         "CustomerCountry" : "Germany"
+      }
+   ],
+   "Acknowledged" : false,
+   "OrderDate" : "2018-01-22",
+   "MyallocatorModificationDate" : "2018-01-22",
+   "OrderId" : "rc88z09kdqcxr22zegx3hw",
+   "EndDate" : "2018-06-04",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "MyallocatorId" : "eb424e3a178d1383e7495668e",
+   "CommissionCurrency" : "EUR",
+   "TotalPrice" : "180.00",
+   "MyallocatorCreationDate" : "2018-01-22",
+   "IsModification" : false,
+   "MyallocatorModificationTime" : "21:32:04",
+   "PropertyId" : "39216",
+   "StartDate" : "2018-06-02",
+   "MyallocatorCreationTime" : "21:32:04",
+   "MarkedAsRead" : false,
+   "Channel" : "sur",
+   "Commission" : "0.00",
+   "TotalCurrency" : "EUR",
+   "Rooms" : [
+      {
+         "EndDate" : "2018-06-04",
+         "RoomTypeIds" : [
+            94832
+         ],
+         "Children" : "",
+         "RoomDesc" : "This room for 2 is located on the ground floor. All rooms have closets and private bathrooms.",
+         "Units" : "1",
+         "Adults" : "2",
+         "StartDate" : "2018-06-02",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "7891"
+      }
+   ]
+}

@@ -1,0 +1,64 @@
+{
+   "TotalCurrency" : "EUR",
+   "MyallocatorCreditCardDetailsPresent" : true,
+   "EndDate" : "2018-10-06",
+   "Customers" : [
+      {
+         "CustomerNote" : "",
+         "CustomerAddress" : "CENSORED",
+         "CustomerPostCode" : "08009",
+         "CustomerCity" : "Barcelona",
+         "CustomerCountry" : "ES",
+         "CustomerPhone" : "395708365011",
+         "CustomerState" : "Barcelona",
+         "CustomerLName" : "Martinez",
+         "CustomerFName" : "Elijah",
+         "CustomerEmail" : "elijah.martinez@gmail.com"
+      },
+      {
+         "CustomerLName" : "Walker",
+         "CustomerEmail" : "",
+         "CustomerFName" : "Emily",
+         "CustomerNote" : "",
+         "CustomerPhone" : ""
+      }
+   ],
+   "IsModification" : false,
+   "OrderAdults" : 2,
+   "Rooms" : [
+      {
+         "RoomTypeIds" : [
+            28429
+         ],
+         "ChannelRoomType" : "xb76e3s158d",
+         "Price" : "128.25",
+         "Adults" : "2",
+         "StartDate" : "2018-10-03",
+         "Currency" : "EUR",
+         "RoomDesc" : "",
+         "Units" : "1",
+         "MyallocatorRateplanIds" : [],
+         "EndDate" : "2018-10-06"
+      }
+   ],
+   "PropertyId" : "9367",
+   "MarkedAsRead" : false,
+   "MyallocatorCreationTime" : "09:13:25",
+   "MyallocatorModificationDate" : "2018-09-04",
+   "OrderDate" : "2018-09-04",
+   "Version" : 0,
+   "ma_callback_qbid" : 18894098,
+   "Acknowledged" : false,
+   "TotalPrice" : "128.25",
+   "IsTentative" : 0,
+   "OrderId" : "a140f584394f13ea",
+   "MyallocatorPIIRemoved" : null,
+   "OrderCustomers" : 2,
+   "MyallocatorId" : "4418eebf4918644ed430c9233",
+   "MyallocatorModificationTime" : "09:13:25",
+   "IsCancellation" : false,
+   "MyallocatorCreationDate" : "2018-09-04",
+   "OrderTime" : "09:13:15",
+   "StartDate" : "2018-10-03",
+   "Channel" : "odi"
+}

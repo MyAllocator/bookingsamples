@@ -1,0 +1,83 @@
+{
+   "ExtraServices" : [
+      {
+         "Units" : 1,
+         "EndDate" : "2018-07-17",
+         "StartDate" : "2018-07-16",
+         "Description" : "1 double and 2 single beds"
+      }
+   ],
+   "OrderId" : "0243553010",
+   "ChannelSpecific" : {
+      "PaymentType" : "Expedia Collect Booking"
+   },
+   "Acknowledged" : false,
+   "MyallocatorCreationTime" : "13:29:39",
+   "IsModification" : false,
+   "OrderAdults" : 4,
+   "Version" : 0,
+   "PaymentCollect" : "Channel",
+   "OrderDate" : "2018-04-16",
+   "MyallocatorModificationDate" : "2018-04-16",
+   "PropertyId" : "62363",
+   "EndDate" : "2018-07-17",
+   "TotalTaxesCurrency" : "EUR",
+   "OrderTime" : "13:30:00",
+   "MyallocatorModificationTime" : "13:29:39",
+   "TotalPrice" : "572.84",
+   "OrderSource" : "Expedia Affiliate Network",
+   "StartDate" : "2018-07-16",
+   "Customers" : [
+      {
+         "CustomerSmoker" : false,
+         "CustomerFName" : "Mason",
+         "CustomerLName" : "Davis",
+         "CustomerEmail" : "mason.davis@gmx.com",
+         "CustomerPhone" : "04583007751",
+         "CustomerNote" : ""
+      }
+   ],
+   "TotalCurrency" : "EUR",
+   "Channel" : "exp",
+   "IsCancellation" : false,
+   "Rooms" : [
+      {
+         "DayRates" : [
+            {
+               "Currency" : "EUR",
+               "Description" : "Short Stay 1-2 Nights - Derived S (APT2BED)",
+               "Rate" : "260.38",
+               "RateId" : "211971215",
+               "Date" : "2018-07-16"
+            },
+            {
+               "Description" : "Short Stay 1-2 Nights - Derived S (APT2BED)",
+               "Rate" : "260.38",
+               "Currency" : "EUR",
+               "Date" : "2018-07-17",
+               "RateId" : "211971215"
+            }
+         ],
+         "Adults" : 4,
+         "MyallocatorRateplanIds" : [],
+         "EndDate" : "2018-07-17",
+         "RoomTypeIds" : [
+            93756
+         ],
+         "RoomDesc" : "Standard Apartment, 2 Bedrooms (APT2BED)",
+         "Price" : "572.84",
+         "StartDate" : "2018-07-16",
+         "ChannelRoomType" : "963421934",
+         "RateDesc" : "Short Stay 1-2 Nights - Derived S (APT2BED)",
+         "Currency" : "EUR",
+         "Units" : "1",
+         "RateId" : "211971215",
+         "PromotionDesc" : "Package"
+      }
+   ],
+   "TotalTaxes" : "52.08",
+   "MarkedAsRead" : false,
+   "ma_callback_qbid" : 15006788,
+   "MyallocatorId" : "69e9593deed6568ad891e1e64",
+   "MyallocatorCreationDate" : "2018-04-16"
+}

@@ -1,0 +1,39 @@
+{
+   "StartDate" : "2019-02-09",
+   "Channel" : "tavr",
+   "MyallocatorCreationDate" : "2018-09-03",
+   "IsCancellation" : false,
+   "MyallocatorId" : "1b3980d157e2ed1a373c126c7",
+   "MyallocatorModificationTime" : "18:04:37",
+   "MyallocatorPIIRemoved" : null,
+   "OrderId" : "sijkgd6oiq",
+   "IsTentative" : 0,
+   "Acknowledged" : false,
+   "Version" : 0,
+   "MyallocatorModificationDate" : "2018-09-03",
+   "MyallocatorCreationTime" : "18:04:37",
+   "MarkedAsRead" : false,
+   "Rooms" : [
+      {
+         "ChannelRoomType" : "https://rentals.tripadvisor.com/CENSORED",
+         "RoomTypeIds" : [
+            144521
+         ],
+         "RoomDesc" : "",
+         "MyallocatorRateplanIds" : [],
+         "Units" : "1",
+         "EndDate" : "2019-03-01",
+         "StartDate" : "2019-02-09",
+         "Occupancy" : "2"
+      }
+   ],
+   "PropertyId" : "88114",
+   "IsModification" : false,
+   "Customers" : [
+      {
+         "CustomerLName" : "Moore",
+         "CustomerNote" : ""
+      }
+   ],
+   "EndDate" : "2019-03-01"
+}

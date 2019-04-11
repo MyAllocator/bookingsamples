@@ -1,0 +1,72 @@
+{
+   "MyallocatorPIIRemoved" : null,
+   "OrderId" : "598713",
+   "OrderChildren" : 0,
+   "TotalPrice" : "1651.60",
+   "IsTentative" : 0,
+   "MyallocatorModificationTime" : "14:06:04",
+   "MyallocatorId" : "08ed478e0a501d8a6a719b75c",
+   "IsCancellation" : false,
+   "Channel" : "cs",
+   "StartDate" : "2018-08-29",
+   "OrderTime" : "12:37:19",
+   "MyallocatorCreationDate" : "2018-06-19",
+   "TotalCurrency" : "CAD",
+   "IsModification" : true,
+   "PropertyId" : "04688",
+   "Rooms" : [
+      {
+         "RateDesc" : "",
+         "Currency" : "CAD",
+         "StartDate" : "2018-08-29",
+         "Units" : "1",
+         "MyallocatorRateplanIds" : [],
+         "EndDate" : "2018-08-30",
+         "RoomDesc" : "",
+         "RoomTypeIds" : [
+            51358
+         ],
+         "RateId" : "",
+         "DayRates" : [
+            {
+               "Date" : "2018-08-29",
+               "Currency" : "CAD",
+               "Rate" : 575,
+               "RateId" : null,
+               "Description" : ""
+            },
+            {
+               "RateId" : null,
+               "Description" : "",
+               "Date" : "2018-08-30",
+               "Currency" : "CAD",
+               "Rate" : 575
+            }
+         ],
+         "ChannelRoomType" : "916962",
+         "Price" : 1651.6
+      }
+   ],
+   "OrderAdults" : 8,
+   "Customers" : [
+      {
+         "CustomerLName" : "Martinez",
+         "CustomerFName" : "Elijah",
+         "CustomerEmail" : "elijah.martinez@aol.com",
+         "CustomerCompany" : "",
+         "CustomerCity" : "Toronto",
+         "CustomerCountry" : "CA",
+         "CustomerPhone" : "423398452516",
+         "CustomerPostCode" : "M4K 2V2",
+         "CustomerNote" : "CENSORED",
+         "CustomerAddress" : "CENSORED"
+      }
+   ],
+   "EndDate" : "2018-08-30",
+   "MyallocatorCreationTime" : "12:54:49",
+   "MyallocatorModificationDate" : "2018-08-31",
+   "MarkedAsRead" : false,
+   "Acknowledged" : false,
+   "OrderDate" : "2018-06-19",
+   "Version" : 1
+}

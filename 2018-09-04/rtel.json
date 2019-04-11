@@ -1,0 +1,56 @@
+{
+   "MarkedAsRead" : false,
+   "MyallocatorModificationDate" : "2018-01-12",
+   "MyallocatorCreationTime" : "22:09:41",
+   "Version" : 20,
+   "OrderDate" : "2018-01-11",
+   "Acknowledged" : false,
+   "TotalCurrency" : "EUR",
+   "EndDate" : "2018-04-13",
+   "Customers" : [
+      {
+         "CustomerLName" : "Williams",
+         "CustomerNote" : ""
+      }
+   ],
+   "PropertyId" : "83348",
+   "Rooms" : [
+      {
+         "MyallocatorRateplanIds" : [],
+         "Units" : "2",
+         "EndDate" : "2018-04-13",
+         "RoomDesc" : "",
+         "Currency" : "EUR",
+         "StartDate" : "2018-04-12",
+         "ChannelRoomType" : "II",
+         "Price" : 5.72,
+         "RoomTypeIds" : [
+            108279
+         ]
+      },
+      {
+         "RoomTypeIds" : [
+            113247
+         ],
+         "ChannelRoomType" : "ZD",
+         "Price" : 20,
+         "StartDate" : "2018-04-12",
+         "Currency" : "EUR",
+         "RoomDesc" : "",
+         "MyallocatorRateplanIds" : [],
+         "Units" : "1",
+         "EndDate" : "2018-04-13"
+      }
+   ],
+   "IsModification" : true,
+   "IsCancellation" : false,
+   "MyallocatorCreationDate" : "2018-01-11",
+   "Channel" : "rtel",
+   "StartDate" : "2018-04-12",
+   "OrderTime" : "23:07:00",
+   "TotalPrice" : "31.44",
+   "MyallocatorPIIRemoved" : null,
+   "OrderId" : "70274522",
+   "MyallocatorModificationTime" : "02:20:54",
+   "MyallocatorId" : "b32c892a50fe504856c85280f"
+}

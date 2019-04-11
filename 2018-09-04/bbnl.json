@@ -1,0 +1,47 @@
+{
+   "IsTentative" : 0,
+   "TotalPrice" : "44.50",
+   "OrderId" : "7098949",
+   "MyallocatorPIIRemoved" : null,
+   "MyallocatorId" : "c97a87ae9e9702b3fd39bfefe",
+   "MyallocatorModificationTime" : "13:57:39",
+   "IsCancellation" : false,
+   "MyallocatorCreationDate" : "2018-08-19",
+   "OrderTime" : "15:54:11",
+   "StartDate" : "2018-09-15",
+   "Channel" : "bbnl",
+   "TotalCurrency" : "EUR",
+   "EndDate" : "2018-09-15",
+   "Customers" : [
+      {
+         "CustomerLName" : "Miller",
+         "CustomerFName" : "Sophia",
+         "CustomerEmail" : "sophia.miller@mail.com",
+         "CustomerNote" : "",
+         "CustomerCountry" : "Netherlands",
+         "CustomerPhone" : "500316965853"
+      }
+   ],
+   "PropertyId" : "92019",
+   "Rooms" : [
+      {
+         "StartDate" : "2018-09-15",
+         "RoomDesc" : "",
+         "Units" : "1",
+         "MyallocatorRateplanIds" : [],
+         "EndDate" : "2018-09-15",
+         "RoomTypeIds" : [
+            87638
+         ],
+         "ChannelRoomType" : "3410",
+         "Price" : "44.50"
+      }
+   ],
+   "IsModification" : false,
+   "MarkedAsRead" : false,
+   "MyallocatorModificationDate" : "2018-08-19",
+   "MyallocatorCreationTime" : "13:57:39",
+   "Version" : 0,
+   "OrderDate" : "2018-08-19",
+   "Acknowledged" : false
+}

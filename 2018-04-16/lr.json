@@ -1,0 +1,50 @@
+{
+   "IsModification" : false,
+   "MyallocatorCreationTime" : "09:55:19",
+   "Acknowledged" : false,
+   "OrderId" : "s5r7gqs9d",
+   "OrderTime" : "09:44:45",
+   "EndDate" : "2018-04-18",
+   "MyallocatorModificationDate" : "2018-04-15",
+   "PropertyId" : "65130",
+   "Version" : 0,
+   "OrderDate" : "2018-04-15",
+   "IsCancellation" : false,
+   "Channel" : "lr",
+   "Customers" : [
+      {
+         "CustomerPostCode" : "BH217ET",
+         "CustomerCountry" : "UK",
+         "CustomerLName" : "White",
+         "CustomerCity" : "Wimborne",
+         "CustomerNote" : "",
+         "CustomerAddress" : "CENSORED",
+         "CustomerPhone" : "53281098743",
+         "CustomerEmail" : "white@lycos.com"
+      }
+   ],
+   "TotalCurrency" : "GBP",
+   "StartDate" : "2018-04-18",
+   "MyallocatorModificationTime" : "09:55:19",
+   "TotalPrice" : "109.00",
+   "MyallocatorCreationDate" : "2018-04-15",
+   "MarkedAsRead" : false,
+   "ma_callback_qbid" : 14961911,
+   "MyallocatorId" : "ce7b9844aca5c6c368bc8af5b",
+   "Rooms" : [
+      {
+         "MyallocatorRateplanIds" : [],
+         "EndDate" : "2018-04-18",
+         "Price" : "109.00",
+         "RoomDesc" : "Standard Double Room sleeps 2. Breakfast included.  Non Smoking Requested, 1 Adult (All Village rooms have en-suite bathrooms, CD players, Flats)",
+         "OccupantFName" : "",
+         "RoomTypeIds" : [
+            106651
+         ],
+         "ChannelRoomType" : "22000",
+         "StartDate" : "2018-04-18",
+         "RoomSummary" : "Standard Double Room sleeps 2. Breakfast included.  Non Smoking Requested, 1 Adult",
+         "Units" : "1"
+      }
+   ]
+}

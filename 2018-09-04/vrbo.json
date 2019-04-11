@@ -1,0 +1,37 @@
+{
+   "MyallocatorCreationDate" : "2018-09-04",
+   "Channel" : "vrbo",
+   "StartDate" : "2018-10-12",
+   "IsCancellation" : false,
+   "MyallocatorModificationTime" : "11:47:17",
+   "MyallocatorId" : "7bf7419ead281f2430bf59d2e",
+   "IsTentative" : 0,
+   "OrderId" : "ea0holmudqqvsny3gk9lxb0xbarkzkmgciiz",
+   "MyallocatorPIIRemoved" : null,
+   "Version" : 0,
+   "Acknowledged" : false,
+   "MarkedAsRead" : false,
+   "MyallocatorCreationTime" : "11:47:17",
+   "MyallocatorModificationDate" : "2018-09-04",
+   "Customers" : [
+      {
+         "CustomerNote" : "CENSORED",
+         "CustomerLName" : "White"
+      }
+   ],
+   "EndDate" : "2018-10-15",
+   "IsModification" : false,
+   "Rooms" : [
+      {
+         "RoomTypeIds" : [
+            21994
+         ],
+         "StartDate" : "2018-10-12",
+         "MyallocatorRateplanIds" : [],
+         "Units" : "1",
+         "EndDate" : "2018-10-15",
+         "ChannelRoomType" : "https://admin.vrbo.com/CENSORED"
+      }
+   ],
+   "PropertyId" : "2918"
+}

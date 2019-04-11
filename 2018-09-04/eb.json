@@ -1,0 +1,44 @@
+{
+   "MarkedAsRead" : true,
+   "MyallocatorCreationTime" : "11:18:04",
+   "MyallocatorModificationDate" : "2018-09-04",
+   "OrderDate" : "2018-09-04",
+   "Version" : 0,
+   "Acknowledged" : true,
+   "TotalCurrency" : "GBP",
+   "Customers" : [
+      {
+         "CustomerLName" : "Johnson",
+         "CustomerEmail" : "",
+         "CustomerNote" : ""
+      }
+   ],
+   "EndDate" : "2018-11-17",
+   "IsModification" : false,
+   "Rooms" : [
+      {
+         "Price" : 0,
+         "ChannelRoomType" : "4826",
+         "RoomTypeIds" : [
+            9806
+         ],
+         "EndDate" : "2018-11-17",
+         "Units" : "1",
+         "MyallocatorRateplanIds" : [],
+         "RoomDesc" : "",
+         "Currency" : "GBP",
+         "StartDate" : "2018-11-17"
+      }
+   ],
+   "PropertyId" : "5986",
+   "IsCancellation" : false,
+   "MyallocatorCreationDate" : "2018-09-04",
+   "OrderTime" : "12:09:31",
+   "Channel" : "eb",
+   "StartDate" : "2018-11-17",
+   "IsTentative" : 0,
+   "OrderId" : "8240129",
+   "MyallocatorPIIRemoved" : null,
+   "MyallocatorId" : "28993ce2ee4d4174c30505c77",
+   "MyallocatorModificationTime" : "11:18:04"
+}

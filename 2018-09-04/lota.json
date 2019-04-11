@@ -1,0 +1,66 @@
+{
+   "TotalCurrency" : "USD",
+   "Customers" : [
+      {
+         "CustomerEmail" : "isabella.moore@aol.com",
+         "CustomerFName" : "Isabella",
+         "CustomerLName" : "Moore",
+         "CustomerNote" : "",
+         "CustomerPhone" : "010562174934"
+      }
+   ],
+   "EndDate" : "2018-08-25",
+   "PropertyId" : "06043",
+   "Rooms" : [
+      {
+         "DayRates" : [
+            {
+               "Tax" : "2.48",
+               "Date" : "2018-08-24",
+               "Rate" : "25.00",
+               "Description" : ""
+            },
+            {
+               "Date" : "2018-08-25",
+               "Rate" : "33.00",
+               "Description" : "",
+               "Tax" : "3.27"
+            }
+         ],
+         "Adults" : "1",
+         "ChannelRoomType" : "557",
+         "Price" : "58.00",
+         "RoomTypeIds" : [
+            50667
+         ],
+         "RateId" : "",
+         "Units" : "1",
+         "MyallocatorRateplanIds" : [],
+         "EndDate" : "2018-08-25",
+         "RoomDesc" : "",
+         "RateDesc" : "",
+         "Currency" : "USD",
+         "StartDate" : "2018-08-24"
+      }
+   ],
+   "IsModification" : false,
+   "MarkedAsRead" : false,
+   "MyallocatorModificationDate" : "2018-08-24",
+   "MyallocatorCreationTime" : "15:02:58",
+   "Version" : 0,
+   "OrderDate" : "2018-08-24",
+   "TotalTaxesCurrency" : "USD",
+   "Acknowledged" : false,
+   "IsTentative" : 0,
+   "TotalPrice" : "58.00",
+   "OrderId" : "x4hwt1axa6pzq9ooheh7lz",
+   "MyallocatorPIIRemoved" : null,
+   "MyallocatorModificationTime" : "15:02:58",
+   "MyallocatorId" : "3f79e1eecad071e0b69583073",
+   "IsCancellation" : false,
+   "MyallocatorCreationDate" : "2018-08-24",
+   "OrderTime" : "14:55:22",
+   "Channel" : "lota",
+   "StartDate" : "2018-08-24",
+   "TotalTaxes" : "5.75"
+}

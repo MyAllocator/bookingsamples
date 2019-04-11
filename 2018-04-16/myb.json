@@ -1,0 +1,128 @@
+{
+   "OrderId" : "1388762954",
+   "Acknowledged" : false,
+   "MyallocatorCreditCardDetailsPresent" : true,
+   "MyallocatorCreationTime" : "13:27:53",
+   "IsModification" : false,
+   "OrderDate" : "2018-04-16",
+   "Version" : 0,
+   "PropertyId" : "775",
+   "MyallocatorModificationDate" : "2018-04-16",
+   "EndDate" : "2018-04-21",
+   "OrderTime" : "13:27:51",
+   "Deposit" : "0.00",
+   "TotalTaxesCurrency" : "EUR",
+   "TotalPrice" : "81.00",
+   "MyallocatorModificationTime" : "13:27:53",
+   "StartDate" : "2018-04-21",
+   "TotalCurrency" : "EUR",
+   "Customers" : [
+      {
+         "CustomerEmail" : "emily.walker@yahoo.com",
+         "CustomerFName" : "Emily",
+         "CustomerNote" : "CENSORED",
+         "CustomerCity" : "Del\u00e9mont",
+         "CustomerAddress" : "CENSORED",
+         "CustomerPhone" : "34711283389528399",
+         "CustomerLName" : "Walker",
+         "CustomerCompany" : "",
+         "CustomerPostCode" : "2800",
+         "CustomerCountry" : "ch"
+      }
+   ],
+   "Commission" : 0,
+   "IsCancellation" : false,
+   "Channel" : "myb",
+   "DepositDue" : "81.00",
+   "Rooms" : [
+      {
+         "MyallocatorRateplanIds" : [],
+         "OccupantNote" : "",
+         "Price" : "27.00",
+         "RoomDesc" : "6 Bed Room",
+         "DayRates" : [
+            {
+               "Description" : null,
+               "Rate" : 27,
+               "RateId" : "1195",
+               "Date" : "2018-04-21"
+            }
+         ],
+         "RateId" : "1195",
+         "ChannelRoomType" : "3629",
+         "StartDate" : "2018-04-21",
+         "Occupancy" : 1,
+         "OccupantLName" : "",
+         "Policy" : "",
+         "EndDate" : "2018-04-21",
+         "RoomTypeIds" : [
+            1416
+         ],
+         "OccupantFName" : "",
+         "Units" : "1",
+         "RateDesc" : "",
+         "Currency" : "EUR"
+      },
+      {
+         "EndDate" : "2018-04-21",
+         "RoomTypeIds" : [
+            1416
+         ],
+         "OccupantFName" : "",
+         "Units" : "1",
+         "RateDesc" : "",
+         "Currency" : "EUR",
+         "MyallocatorRateplanIds" : [],
+         "OccupantNote" : "",
+         "Price" : "27.00",
+         "RoomDesc" : "6 Bed Room",
+         "DayRates" : [
+            {
+               "Date" : "2018-04-21",
+               "RateId" : "1195",
+               "Rate" : 27,
+               "Description" : null
+            }
+         ],
+         "RateId" : "1195",
+         "StartDate" : "2018-04-21",
+         "ChannelRoomType" : "1487",
+         "OccupantLName" : "",
+         "Occupancy" : 1,
+         "Policy" : ""
+      },
+      {
+         "RateDesc" : "",
+         "Currency" : "EUR",
+         "Units" : "1",
+         "EndDate" : "2018-04-21",
+         "RoomTypeIds" : [
+            1416
+         ],
+         "OccupantFName" : "",
+         "Occupancy" : 1,
+         "OccupantLName" : "",
+         "ChannelRoomType" : "9482",
+         "StartDate" : "2018-04-21",
+         "Policy" : "",
+         "RateId" : "1195",
+         "DayRates" : [
+            {
+               "RateId" : "1195",
+               "Date" : "2018-04-21",
+               "Rate" : 27,
+               "Description" : null
+            }
+         ],
+         "MyallocatorRateplanIds" : [],
+         "Price" : "27.00",
+         "RoomDesc" : "6 Bed Room",
+         "OccupantNote" : ""
+      }
+   ],
+   "TotalTaxes" : 0,
+   "CommissionCurrency" : "EUR",
+   "MyallocatorId" : "1b92a64da9e8a58e5a2085b9a",
+   "MarkedAsRead" : false,
+   "MyallocatorCreationDate" : "2018-04-16"
+}

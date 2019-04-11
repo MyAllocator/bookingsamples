@@ -1,0 +1,69 @@
+{
+   "OrderId" : "ue86quo7960s80",
+   "Acknowledged" : false,
+   "MyallocatorCreationTime" : "12:36:19",
+   "IsModification" : false,
+   "Version" : 0,
+   "OrderDate" : "2018-04-16",
+   "MyallocatorModificationDate" : "2018-04-16",
+   "PropertyId" : "4561",
+   "EndDate" : "2018-05-15",
+   "OrderTime" : "15:16:35",
+   "MyallocatorModificationTime" : "12:36:19",
+   "TotalPrice" : "28.00",
+   "StartDate" : "2018-05-14",
+   "Commission" : "1.50",
+   "Customers" : [
+      {
+         "CustomerAddress" : "",
+         "CustomerCity" : "La Jolla",
+         "CustomerNote" : "CENSORED",
+         "CustomerPhone" : "460112341478",
+         "CustomerEmail" : "michael.harris@zoho.com",
+         "CustomerArrivalTime" : "14:00:00",
+         "CustomerFName" : "Michael",
+         "CustomerCompany" : "",
+         "CustomerPostCode" : "",
+         "CustomerCountry" : "US",
+         "CustomerLName" : "Harris"
+      }
+   ],
+   "TotalCurrency" : "EUR",
+   "IsCancellation" : false,
+   "Channel" : "max",
+   "Rooms" : [
+      {
+         "Units" : "1",
+         "RateId" : "",
+         "StartDate" : "2018-05-14",
+         "RateDesc" : "",
+         "ChannelRoomType" : "4070",
+         "Currency" : "EUR",
+         "EndDate" : "2018-05-15",
+         "MyallocatorRateplanIds" : [],
+         "RoomTypeIds" : [
+            22864
+         ],
+         "Price" : "28.00",
+         "RoomDesc" : "10 beds mix dorm",
+         "DayRates" : [
+            {
+               "Description" : null,
+               "Rate" : "14.00",
+               "Currency" : "EUR",
+               "Date" : "2018-05-14"
+            },
+            {
+               "Date" : "2018-05-15",
+               "Currency" : "EUR",
+               "Rate" : "14.00",
+               "Description" : null
+            }
+         ]
+      }
+   ],
+   "CommissionCurrency" : "EUR",
+   "MarkedAsRead" : false,
+   "MyallocatorId" : "ba753d921e45a51899f069194",
+   "MyallocatorCreationDate" : "2018-04-16"
+}

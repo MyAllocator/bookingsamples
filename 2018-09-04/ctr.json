@@ -1,0 +1,66 @@
+{
+   "IsModification" : false,
+   "PropertyId" : "2216",
+   "Rooms" : [
+      {
+         "RoomTypeIds" : [
+            -1
+         ],
+         "Price" : 73440,
+         "ChannelRoomType" : "986614256",
+         "DayRates" : [
+            {
+               "Rate" : "24480.00",
+               "Currency" : "KRW",
+               "Date" : "2018-09-09",
+               "Description" : null
+            },
+            {
+               "Currency" : "KRW",
+               "Rate" : "24480.00",
+               "Date" : "2018-09-10",
+               "Description" : null
+            },
+            {
+               "Description" : null,
+               "Rate" : "24480.00",
+               "Currency" : "KRW",
+               "Date" : "2018-09-11"
+            }
+         ],
+         "StartDate" : "2018-09-09",
+         "Currency" : "KRW",
+         "RateDesc" : "",
+         "RoomDesc" : "",
+         "EndDate" : "2018-09-11",
+         "MyallocatorRateplanIds" : [],
+         "Units" : "1"
+      }
+   ],
+   "Customers" : [
+      {
+         "CustomerNote" : "CENSORED",
+         "CustomerLName" : "Hall",
+         "CustomerFName" : "Ethan"
+      }
+   ],
+   "EndDate" : "2018-09-11",
+   "TotalCurrency" : "KRW",
+   "ma_callback_qbid" : 18896785,
+   "Acknowledged" : false,
+   "Version" : 0,
+   "MyallocatorCreationTime" : "14:35:41",
+   "MyallocatorModificationDate" : "2018-09-04",
+   "MarkedAsRead" : false,
+   "MyallocatorId" : "ca6a67b7de25879cc4965b4eb",
+   "MyallocatorModificationTime" : "14:35:41",
+   "OrderCustomers" : "2",
+   "MyallocatorPIIRemoved" : null,
+   "OrderId" : "2504066374",
+   "TotalPrice" : "73440.00",
+   "IsTentative" : 0,
+   "Channel" : "ctr",
+   "StartDate" : "2018-09-09",
+   "MyallocatorCreationDate" : "2018-09-04",
+   "IsCancellation" : false
+}

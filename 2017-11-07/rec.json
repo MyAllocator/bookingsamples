@@ -1,0 +1,55 @@
+{
+   "OrderTime" : "11:27:54 +01:00",
+   "Customers" : [
+      {
+         "CustomerLName" : "Cain",
+         "CustomerCompany" : "CENSORED",
+         "CustomerFax" : "34-941-207794",
+         "CustomerPhoneMobile" : "",
+         "CustomerNote" : "CENSORED",
+         "CustomerEmail" : "liam.cain@mail.com",
+         "CustomerFName" : "Liam",
+         "CustomerPostCode" : "26001",
+         "CustomerCity" : "Logrono",
+         "CustomerAddress" : "CENSORED",
+         "CustomerPhone" : "kucyftp76nctv",
+         "CustomerCountry" : "ES"
+      }
+   ],
+   "Acknowledged" : false,
+   "OrderDate" : "2017-11-07",
+   "MyallocatorModificationDate" : "2017-11-07",
+   "EndDate" : "2017-11-23",
+   "OrderId" : "h2v7wm15wogz",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "MyallocatorId" : "9483e266a267a49dcb0caa3f0",
+   "CommissionCurrency" : "EUR",
+   "TotalPrice" : "90.00",
+   "MyallocatorCreationDate" : "2017-11-07",
+   "IsModification" : false,
+   "MyallocatorModificationTime" : "10:31:35",
+   "PropertyId" : "9918",
+   "StartDate" : "2017-11-23",
+   "MyallocatorCreationTime" : "10:31:35",
+   "MarkedAsRead" : false,
+   "Channel" : "rec",
+   "Commission" : "8",
+   "TotalCurrency" : "EUR",
+   "Rooms" : [
+      {
+         "EndDate" : "2017-11-23",
+         "RoomTypeIds" : [
+            35612
+         ],
+         "Price" : "90",
+         "RoomDesc" : "Room facilities:\n\u2022\tSafety Deposit Box, Desk, Heati",
+         "Breakfast" : false,
+         "Currency" : "EUR",
+         "Units" : "1",
+         "StartDate" : "2017-11-23",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "UOC"
+      }
+   ]
+}

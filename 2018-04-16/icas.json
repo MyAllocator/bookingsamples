@@ -1,0 +1,130 @@
+{
+   "Channel" : "icas",
+   "IsCancellation" : false,
+   "TotalCurrency" : "EUR",
+   "Customers" : [
+      {
+         "CustomerCountry" : "DE",
+         "CustomerNote" : "",
+         "CustomerFName" : "Mason",
+         "CustomerLName" : "",
+         "CustomerEmail" : "mason@yahoo.com"
+      }
+   ],
+   "StartDate" : "2018-09-24",
+   "TotalPrice" : "1820.00",
+   "MyallocatorModificationTime" : "19:56:25",
+   "MyallocatorCreationDate" : "2018-04-13",
+   "MyallocatorId" : "6d3c5c18f641311516c2db5c6",
+   "MarkedAsRead" : false,
+   "Rooms" : [
+      {
+         "RateId" : "1",
+         "Units" : "1",
+         "RateDesc" : "",
+         "StartDate" : "2018-09-24",
+         "ChannelRoomType" : "2078",
+         "Currency" : "EUR",
+         "EndDate" : "2018-10-07",
+         "MyallocatorRateplanIds" : [],
+         "Price" : "1820.00",
+         "RoomTypeIds" : [
+            -1
+         ],
+         "DayRates" : [
+            {
+               "Rate" : 130,
+               "Description" : "Refundable rate",
+               "RateId" : "1",
+               "Date" : "2018-09-24"
+            },
+            {
+               "Description" : "Refundable rate",
+               "Rate" : 130,
+               "Date" : "2018-09-25",
+               "RateId" : "1"
+            },
+            {
+               "RateId" : "1",
+               "Date" : "2018-09-26",
+               "Description" : "Refundable rate",
+               "Rate" : 130
+            },
+            {
+               "Description" : "Refundable rate",
+               "Rate" : 130,
+               "Date" : "2018-09-27",
+               "RateId" : "1"
+            },
+            {
+               "Rate" : 130,
+               "Description" : "Refundable rate",
+               "RateId" : "1",
+               "Date" : "2018-09-28"
+            },
+            {
+               "Rate" : 130,
+               "Description" : "Refundable rate",
+               "RateId" : "1",
+               "Date" : "2018-09-29"
+            },
+            {
+               "Description" : "Refundable rate",
+               "Rate" : 130,
+               "Date" : "2018-09-30",
+               "RateId" : "1"
+            },
+            {
+               "Description" : "Refundable rate",
+               "Rate" : 130,
+               "Date" : "2018-10-01",
+               "RateId" : "1"
+            },
+            {
+               "Rate" : 130,
+               "Description" : "Refundable rate",
+               "Date" : "2018-10-02",
+               "RateId" : "1"
+            },
+            {
+               "Date" : "2018-10-03",
+               "RateId" : "1",
+               "Rate" : 130,
+               "Description" : "Refundable rate"
+            },
+            {
+               "Rate" : 130,
+               "Description" : "Refundable rate",
+               "RateId" : "1",
+               "Date" : "2018-10-04"
+            },
+            {
+               "Rate" : 130,
+               "Description" : "Refundable rate",
+               "RateId" : "1",
+               "Date" : "2018-10-05"
+            },
+            {
+               "Date" : "2018-10-06",
+               "RateId" : "1",
+               "Rate" : 130,
+               "Description" : "Refundable rate"
+            },
+            {
+               "RateId" : "1",
+               "Date" : "2018-10-07",
+               "Description" : "Refundable rate",
+               "Rate" : 130
+            }
+         ]
+      }
+   ],
+   "IsModification" : false,
+   "MyallocatorCreationTime" : "19:56:25",
+   "Acknowledged" : false,
+   "OrderId" : "9840126750",
+   "EndDate" : "2018-10-07",
+   "PropertyId" : "72281",
+   "MyallocatorModificationDate" : "2018-04-13",
+   "Version" : 0
+}

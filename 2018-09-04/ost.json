@@ -1,0 +1,185 @@
+{
+   "TotalCurrency" : "THB",
+   "IsModification" : false,
+   "OrderAdults" : 2,
+   "Rooms" : [
+      {
+         "RateId" : "149793",
+         "RoomTypeIds" : [
+            39830
+         ],
+         "Price" : 19000,
+         "ChannelRoomType" : "89059",
+         "DayRates" : [
+            {
+               "Date" : "2018-10-31",
+               "Currency" : "THB",
+               "Rate" : 1000,
+               "RateId" : "149793",
+               "Description" : ""
+            },
+            {
+               "Description" : "",
+               "RateId" : "149793",
+               "Currency" : "THB",
+               "Rate" : 1000,
+               "Date" : "2018-11-01"
+            },
+            {
+               "Currency" : "THB",
+               "Rate" : 1000,
+               "Date" : "2018-11-02",
+               "Description" : "",
+               "RateId" : "149793"
+            },
+            {
+               "RateId" : "149793",
+               "Description" : "",
+               "Date" : "2018-11-03",
+               "Rate" : 1000,
+               "Currency" : "THB"
+            },
+            {
+               "RateId" : "149793",
+               "Description" : "",
+               "Date" : "2018-11-04",
+               "Currency" : "THB",
+               "Rate" : 1000
+            },
+            {
+               "RateId" : "149793",
+               "Description" : "",
+               "Date" : "2018-11-05",
+               "Currency" : "THB",
+               "Rate" : 1000
+            },
+            {
+               "Date" : "2018-11-06",
+               "Currency" : "THB",
+               "Rate" : 1000,
+               "RateId" : "149793",
+               "Description" : ""
+            },
+            {
+               "Date" : "2018-11-07",
+               "Rate" : 1000,
+               "Currency" : "THB",
+               "RateId" : "149793",
+               "Description" : ""
+            },
+            {
+               "Rate" : 1000,
+               "Currency" : "THB",
+               "Date" : "2018-11-08",
+               "Description" : "",
+               "RateId" : "149793"
+            },
+            {
+               "RateId" : "149793",
+               "Description" : "",
+               "Date" : "2018-11-09",
+               "Currency" : "THB",
+               "Rate" : 1000
+            },
+            {
+               "Currency" : "THB",
+               "Rate" : 1000,
+               "Date" : "2018-11-10",
+               "Description" : "",
+               "RateId" : "149793"
+            },
+            {
+               "Date" : "2018-11-11",
+               "Rate" : 1000,
+               "Currency" : "THB",
+               "RateId" : "149793",
+               "Description" : ""
+            },
+            {
+               "Description" : "",
+               "RateId" : "149793",
+               "Rate" : 1000,
+               "Currency" : "THB",
+               "Date" : "2018-11-12"
+            },
+            {
+               "RateId" : "149793",
+               "Description" : "",
+               "Date" : "2018-11-13",
+               "Currency" : "THB",
+               "Rate" : 1000
+            },
+            {
+               "Description" : "",
+               "RateId" : "149793",
+               "Currency" : "THB",
+               "Rate" : 1000,
+               "Date" : "2018-11-14"
+            },
+            {
+               "Date" : "2018-11-15",
+               "Rate" : 1000,
+               "Currency" : "THB",
+               "RateId" : "149793",
+               "Description" : ""
+            },
+            {
+               "Description" : "",
+               "RateId" : "149793",
+               "Rate" : 1000,
+               "Currency" : "THB",
+               "Date" : "2018-11-16"
+            },
+            {
+               "Description" : "",
+               "RateId" : "149793",
+               "Rate" : 1000,
+               "Currency" : "THB",
+               "Date" : "2018-11-17"
+            },
+            {
+               "Description" : "",
+               "RateId" : "149793",
+               "Currency" : "THB",
+               "Rate" : 1000,
+               "Date" : "2018-11-18"
+            }
+         ],
+         "StartDate" : "2018-10-31",
+         "Occupancy" : 2,
+         "Currency" : "THB",
+         "RateDesc" : "",
+         "RoomDesc" : "",
+         "EndDate" : "2018-11-18",
+         "MyallocatorRateplanIds" : [],
+         "Units" : "1"
+      }
+   ],
+   "PropertyId" : "3451",
+   "EndDate" : "2018-11-18",
+   "Customers" : [
+      {
+         "CustomerNote" : "",
+         "CustomerLName" : "Hall",
+         "CustomerFName" : "Ethan"
+      }
+   ],
+   "MyallocatorCreationTime" : "14:02:17",
+   "MyallocatorModificationDate" : "2018-09-04",
+   "MarkedAsRead" : false,
+   "Acknowledged" : false,
+   "OrderDate" : "2018-09-04",
+   "Version" : 0,
+   "OrderId" : "jd15jhlm9gjzskk142gr32qvap0hxmndqzat",
+   "OrderChildren" : 0,
+   "MyallocatorPIIRemoved" : null,
+   "TotalPrice" : "19000.00",
+   "IsTentative" : 0,
+   "MyallocatorModificationTime" : "14:02:17",
+   "MyallocatorId" : "6fd5882ebbf78322ec279c34a",
+   "IsCancellation" : false,
+   "OrderTime" : "13:33:32",
+   "Channel" : "ost",
+   "StartDate" : "2018-10-31",
+   "MyallocatorCreationDate" : "2018-09-04"
+}

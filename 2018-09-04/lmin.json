@@ -1,0 +1,130 @@
+{
+   "MyallocatorPIIRemoved" : null,
+   "OrderId" : "81288707078",
+   "IsTentative" : 0,
+   "TotalPrice" : "271.64",
+   "MyallocatorModificationTime" : "19:20:07",
+   "MyallocatorId" : "70a75c2e50c9d6c2a90bbb59b",
+   "OrderCustomers" : 6,
+   "IsCancellation" : false,
+   "Channel" : "lmin",
+   "StartDate" : "2018-11-29",
+   "TotalTaxes" : 0,
+   "OrderTime" : "19:19:55",
+   "MyallocatorCreationDate" : "2018-08-23",
+   "TotalCurrency" : "EUR",
+   "Rooms" : [
+      {
+         "StartDate" : "2018-11-29",
+         "Currency" : "EUR",
+         "RateId" : "ONEFDP",
+         "RoomTypeIds" : [
+            119401
+         ],
+         "OccupantSmoker" : false,
+         "DayRates" : [
+            {
+               "RateId" : "ONEFDP",
+               "Description" : "",
+               "Date" : "2018-11-29",
+               "Rate" : "36.08",
+               "Currency" : "EUR"
+            },
+            {
+               "Date" : "2018-11-30",
+               "Rate" : "49.87",
+               "Currency" : "EUR",
+               "RateId" : "ONEFDP",
+               "Description" : ""
+            },
+            {
+               "Currency" : "EUR",
+               "Rate" : "49.87",
+               "Date" : "2018-12-01",
+               "Description" : "",
+               "RateId" : "ONEFDP"
+            }
+         ],
+         "RateDesc" : "",
+         "RoomDesc" : "",
+         "EndDate" : "2018-12-01",
+         "MyallocatorRateplanIds" : [],
+         "Units" : "1",
+         "OccupantFName" : "Sophia, James",
+         "OccupantLName" : "Miller, Wilson",
+         "Price" : "135.82",
+         "Children" : "",
+         "ChannelRoomType" : "JTID",
+         "Adults" : "3"
+      },
+      {
+         "OccupantLName" : "Miller, Wilson",
+         "Adults" : "3",
+         "Children" : "",
+         "Price" : "135.82",
+         "ChannelRoomType" : "TYNU",
+         "RateDesc" : "",
+         "EndDate" : "2018-12-01",
+         "MyallocatorRateplanIds" : [],
+         "Units" : "1",
+         "OccupantFName" : "Sophia, James",
+         "RoomDesc" : "",
+         "RoomTypeIds" : [
+            119401
+         ],
+         "RateId" : "ONEFDP",
+         "DayRates" : [
+            {
+               "RateId" : "ONEFDP",
+               "Description" : "",
+               "Date" : "2018-11-29",
+               "Rate" : "36.08",
+               "Currency" : "EUR"
+            },
+            {
+               "Currency" : "EUR",
+               "Rate" : "49.87",
+               "Date" : "2018-11-30",
+               "Description" : "",
+               "RateId" : "ONEFDP"
+            },
+            {
+               "Rate" : "49.87",
+               "Currency" : "EUR",
+               "Date" : "2018-12-01",
+               "Description" : "",
+               "RateId" : "ONEFDP"
+            }
+         ],
+         "OccupantSmoker" : false,
+         "Currency" : "EUR",
+         "StartDate" : "2018-11-29"
+      }
+   ],
+   "PropertyId" : "78136",
+   "OrderAdults" : 6,
+   "IsModification" : false,
+   "EndDate" : "2018-12-01",
+   "Customers" : [
+      {
+         "CustomerCompany" : "",
+         "CustomerLName" : "Miller",
+         "CustomerFName" : "Sophia",
+         "CustomerNote" : ""
+      },
+      {
+         "CustomerNote" : "",
+         "CustomerFName" : "James",
+         "CustomerLName" : "Wilson",
+         "CustomerCompany" : ""
+      }
+   ],
+   "MyallocatorModificationDate" : "2018-08-23",
+   "MyallocatorCreationTime" : "19:20:07",
+   "MarkedAsRead" : false,
+   "Acknowledged" : false,
+   "ma_callback_qbid" : 18552740,
+   "OrderDate" : "2018-08-23",
+   "Version" : 0,
+   "TotalTaxesCurrency" : "EUR"
+}

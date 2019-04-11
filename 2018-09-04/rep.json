@@ -1,0 +1,56 @@
+{
+   "MyallocatorCreationDate" : "2018-09-02",
+   "Channel" : "rep",
+   "StartDate" : "2018-09-13",
+   "OrderTime" : "17:04",
+   "IsCancellation" : false,
+   "MyallocatorId" : "3d8ee7328ccd256b653caf252",
+   "MyallocatorModificationTime" : "16:07:53",
+   "IsTentative" : 0,
+   "TotalPrice" : "25.60",
+   "MyallocatorPIIRemoved" : null,
+   "OrderId" : "85251846",
+   "OrderChildren" : 0,
+   "OrderDate" : "2018-09-02",
+   "Version" : 0,
+   "Acknowledged" : true,
+   "MarkedAsRead" : true,
+   "MyallocatorModificationDate" : "2018-09-02",
+   "MyallocatorCreationTime" : "16:07:53",
+   "EndDate" : "2018-09-14",
+   "Customers" : [
+      {
+         "CustomerCountry" : "",
+         "CustomerPhone" : "",
+         "CustomerFName" : "Olivia",
+         "CustomerEmail" : "",
+         "CustomerLName" : "Abeln",
+         "CustomerNote" : "",
+         "CustomerTitle" : "Mr",
+         "CustomerPhoneMobile" : ""
+      }
+   ],
+   "PropertyId" : "0874",
+   "Rooms" : [
+      {
+         "EndDate" : "2018-09-14",
+         "Units" : "1",
+         "MyallocatorRateplanIds" : [],
+         "RoomDesc" : "",
+         "OccupantNote" : "",
+         "Occupancy" : 1,
+         "Currency" : "EUR",
+         "StartDate" : "2018-09-13",
+         "Breakfast" : false,
+         "Price" : "25.6000",
+         "ChannelRoomType" : "6365562",
+         "RoomTypeIds" : [
+            28855
+         ],
+         "OccupantLName" : "Abeln"
+      }
+   ],
+   "OrderAdults" : 1,
+   "IsModification" : false,
+   "TotalCurrency" : "EUR"
+}

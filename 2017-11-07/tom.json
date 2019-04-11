@@ -1,0 +1,59 @@
+{
+   "OrderTime" : "21:32",
+   "Customers" : [
+      {
+         "CustomerLName" : "Taylor",
+         "CustomerNote" : "",
+         "CustomerGender" : "FE",
+         "CustomerEmail" : "benjamin.taylor@gmx.com",
+         "CustomerFName" : "Benjamin",
+         "CustomerPostCode" : "70599",
+         "CustomerCity" : "Stuttgart",
+         "CustomerAddress" : "CENSORED",
+         "CustomerPhone" : "24566805449",
+         "CustomerCountry" : "DE"
+      }
+   ],
+   "Acknowledged" : true,
+   "OrderDate" : "2017-10-26",
+   "MyallocatorModificationDate" : "2017-10-26",
+   "OrderSource" : "www.weimar.de",
+   "EndDate" : "2017-10-29",
+   "OrderId" : "ch0lms15g",
+   "IsCancellation" : false,
+   "Version" : 0,
+   "MyallocatorId" : "82a8e9a7832c2df04b7d2131a",
+   "OrderChildren" : 0,
+   "TotalPrice" : "59.00",
+   "MyallocatorCreationDate" : "2017-10-26",
+   "OrderAdults" : 2,
+   "IsModification" : false,
+   "MyallocatorModificationTime" : "19:34:46",
+   "PropertyId" : "580",
+   "StartDate" : "2017-10-29",
+   "MyallocatorCreationTime" : "19:34:46",
+   "MarkedAsRead" : true,
+   "Channel" : "tom",
+   "TotalCurrency" : "EUR",
+   "Rooms" : [
+      {
+         "EndDate" : "2017-10-29",
+         "RoomTypeIds" : [
+            3477
+         ],
+         "RateDesc" : "Standard",
+         "Children" : 0,
+         "Price" : "59.00",
+         "RoomDesc" : "Standard",
+         "RateId" : "Standard",
+         "Breakfast" : true,
+         "Currency" : "EUR",
+         "Adults" : 2,
+         "Units" : "1",
+         "StartDate" : "2017-10-29",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "kwj5"
+      }
+   ],
+   "OrderSourceId" : "TTG00020050000604406"
+}

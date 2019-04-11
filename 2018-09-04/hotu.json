@@ -1,0 +1,67 @@
+{
+   "MyallocatorModificationTime" : "11:41:19",
+   "MyallocatorId" : "9a3355c64f1274dc1afc01650",
+   "TotalPrice" : "78.00",
+   "IsTentative" : 0,
+   "OrderId" : "98824409",
+   "MyallocatorPIIRemoved" : null,
+   "MyallocatorCreationDate" : "2018-09-04",
+   "OrderTime" : "13:36:00",
+   "Channel" : "hotu",
+   "StartDate" : "2018-09-16",
+   "IsCancellation" : false,
+   "EndDate" : "2018-09-17",
+   "Customers" : [
+      {
+         "CustomerLName" : "Young",
+         "CustomerNote" : ""
+      }
+   ],
+   "IsModification" : false,
+   "PropertyId" : "69127",
+   "Rooms" : [
+      {
+         "RateId" : "VR",
+         "RoomTypeIds" : [
+            123684
+         ],
+         "ChannelRoomType" : "WC",
+         "Price" : 78,
+         "Breakfast" : true,
+         "DayRates" : [
+            {
+               "Rate" : "39.0",
+               "Currency" : "EUR",
+               "Date" : "2018-09-16",
+               "Description" : "",
+               "RateId" : "VR",
+               "Commission" : "9.55"
+            },
+            {
+               "Commission" : "9.55",
+               "RateId" : "VR",
+               "Description" : "",
+               "Date" : "2018-09-17",
+               "Rate" : "39.0",
+               "Currency" : "EUR"
+            }
+         ],
+         "StartDate" : "2018-09-16",
+         "RateDesc" : "",
+         "Currency" : "EUR",
+         "RoomDesc" : "",
+         "MyallocatorRateplanIds" : [],
+         "Units" : "1",
+         "Policy" : "",
+         "EndDate" : "2018-09-17"
+      }
+   ],
+   "TotalCurrency" : "EUR",
+   "OrderDate" : "2018-09-04",
+   "Version" : 0,
+   "Acknowledged" : false,
+   "MarkedAsRead" : false,
+   "PaymentCollect" : "Channel",
+   "MyallocatorCreationTime" : "11:41:19",
+   "MyallocatorModificationDate" : "2018-09-04"
+}

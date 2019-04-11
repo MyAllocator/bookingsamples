@@ -1,0 +1,46 @@
+{
+   "EndDate" : "2018-05-10",
+   "Deposit" : "1800.00",
+   "Version" : 0,
+   "OrderDate" : "2018-04-16",
+   "MyallocatorModificationDate" : "2018-04-16",
+   "PropertyId" : "00045",
+   "MyallocatorCreationTime" : "10:22:00",
+   "IsModification" : false,
+   "OrderId" : "2818420183",
+   "Acknowledged" : false,
+   "MarkedAsRead" : false,
+   "MyallocatorId" : "69f89264d422b6bd7257c977e",
+   "MyallocatorCreationDate" : "2018-04-16",
+   "Rooms" : [
+      {
+         "RoomTypeIds" : [
+            57451
+         ],
+         "RoomDesc" : "(3-Person) Private Sea-View Apartment",
+         "Price" : "18000",
+         "MyallocatorRateplanIds" : [],
+         "EndDate" : "2018-05-10",
+         "Units" : "1",
+         "Currency" : "ISK",
+         "StartDate" : "2018-05-10",
+         "ChannelRoomType" : "891409",
+         "Occupancy" : 3
+      }
+   ],
+   "TotalCurrency" : "ISK",
+   "Customers" : [
+      {
+         "CustomerEmail" : "walker@gmx.com",
+         "CustomerLName" : "Walker",
+         "CustomerNote" : "",
+         "CustomerCountry" : ""
+      }
+   ],
+   "DepositCurrency" : "ISK",
+   "IsCancellation" : false,
+   "Channel" : "hi",
+   "MyallocatorModificationTime" : "10:22:00",
+   "TotalPrice" : "18000.00",
+   "StartDate" : "2018-05-10"
+}
