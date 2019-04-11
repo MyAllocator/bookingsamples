@@ -1,0 +1,47 @@
+{
+   "Channel" : "ysh",
+   "OrderId" : "032372433618552",
+   "MyallocatorModificationTime" : "12:47:45",
+   "MyallocatorModificationDate" : "2019-04-11",
+   "MyallocatorPIIRemoved" : null,
+   "StartDate" : "2019-04-18",
+   "IsTentative" : 0,
+   "OrderDate" : "2019-04-11",
+   "MyallocatorCreationDate" : "2019-04-11",
+   "IsModification" : false,
+   "TotalPrice" : "20.00",
+   "EndDate" : "2019-04-18",
+   "Version" : 0,
+   "MyallocatorId" : "ee2be7a2e63bf892cbecdff4b",
+   "Customers" : [
+      {
+         "CustomerNote" : "",
+         "CustomerEmail" : "wilson@hotmail.com",
+         "CustomerLName" : "Wilson",
+         "CustomerPhone" : "223363908152669"
+      }
+   ],
+   "Acknowledged" : true,
+   "PropertyId" : "567",
+   "TotalCurrency" : "EUR",
+   "DepositCurrency" : "EUR",
+   "Deposit" : "1.00",
+   "MarkedAsRead" : true,
+   "MyallocatorCreationTime" : "12:47:45",
+   "Rooms" : [
+      {
+         "RoomDesc" : "6 Camas Dormitorio Mixto",
+         "StartDate" : "2019-04-18",
+         "EndDate" : "2019-04-18",
+         "MyallocatorRateplanIds" : [],
+         "Price" : "20",
+         "ChannelRoomType" : "436",
+         "Currency" : "EUR",
+         "Units" : "1",
+         "RoomTypeIds" : [
+            1600
+         ]
+      }
+   ],
+   "IsCancellation" : false
+}

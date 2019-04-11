@@ -1,0 +1,39 @@
+{
+   "IsTentative" : 0,
+   "MyallocatorModificationDate" : "2019-04-09",
+   "MyallocatorModificationTime" : "19:32:19",
+   "MyallocatorPIIRemoved" : null,
+   "StartDate" : "2019-06-29",
+   "OrderId" : "3qc6kutdjo",
+   "Channel" : "tavr",
+   "MyallocatorCreationDate" : "2019-04-09",
+   "MyallocatorId" : "d65771674346b2cdafdf6249d",
+   "Customers" : [
+      {
+         "CustomerLName" : "Hall",
+         "CustomerNote" : ""
+      }
+   ],
+   "Acknowledged" : false,
+   "EndDate" : "2019-07-05",
+   "Version" : 0,
+   "IsModification" : false,
+   "Rooms" : [
+      {
+         "RoomTypeIds" : [
+            137676
+         ],
+         "Units" : "1",
+         "Occupancy" : "2",
+         "ChannelRoomType" : "https://rentals.tripadvisor.com/CENSORED",
+         "MyallocatorRateplanIds" : [],
+         "EndDate" : "2019-07-05",
+         "StartDate" : "2019-06-29",
+         "RoomDesc" : "The Residences at St Moritz"
+      }
+   ],
+   "IsCancellation" : false,
+   "MarkedAsRead" : false,
+   "MyallocatorCreationTime" : "19:32:19",
+   "PropertyId" : "88187"
+}

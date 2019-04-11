@@ -1,0 +1,97 @@
+{
+   "TotalCurrency" : "THB",
+   "OrderTime" : "13:49:00",
+   "PropertyId" : "32662",
+   "MarkedAsRead" : false,
+   "MyallocatorCreationTime" : "13:51:20",
+   "IsCancellation" : false,
+   "Rooms" : [
+      {
+         "ChannelRoomType" : "80210268",
+         "Currency" : "THB",
+         "Price" : "6432.8",
+         "MyallocatorRateplanIds" : [],
+         "RateDesc" : "Room Only",
+         "RoomDesc" : "Family Room 1 Double Bed 2 Twin Beds Non-Smoking",
+         "Policy" : "Cancellation policy: 3D50P_100P",
+         "EndDate" : "2019-06-19",
+         "StartDate" : "2019-06-13",
+         "Units" : "1",
+         "RoomTypeIds" : [
+            110899
+         ],
+         "RateId" : "553498",
+         "DayRates" : [
+            {
+               "Description" : "Room",
+               "Currency" : "THB",
+               "Date" : "2019-06-13",
+               "Rate" : "897.6"
+            },
+            {
+               "Currency" : "THB",
+               "Rate" : "972.4",
+               "Date" : "2019-06-14",
+               "Description" : "Room"
+            },
+            {
+               "Date" : "2019-06-15",
+               "Rate" : "972.4",
+               "Currency" : "THB",
+               "Description" : "Room"
+            },
+            {
+               "Description" : "Room",
+               "Date" : "2019-06-16",
+               "Rate" : "897.6",
+               "Currency" : "THB"
+            },
+            {
+               "Description" : "Room",
+               "Currency" : "THB",
+               "Rate" : "897.6",
+               "Date" : "2019-06-17"
+            },
+            {
+               "Description" : "Room",
+               "Date" : "2019-06-18",
+               "Rate" : "897.6",
+               "Currency" : "THB"
+            },
+            {
+               "Description" : "Room",
+               "Rate" : "897.6",
+               "Date" : "2019-06-19",
+               "Currency" : "THB"
+            }
+         ]
+      }
+   ],
+   "IsModification" : false,
+   "TotalPrice" : "6432.8",
+   "PaymentCollect" : "Channel",
+   "Version" : 0,
+   "EndDate" : "2019-06-19",
+   "Acknowledged" : false,
+   "MyallocatorId" : "2aba726e3db9b8438ba06f4a8",
+   "Customers" : [
+      {
+         "CustomerNationality" : "PH",
+         "CustomerFName" : "Emma",
+         "CustomerNote" : "",
+         "CustomerEmail" : "emma.johnson@gmail.com",
+         "CustomerLName" : "Johnson",
+         "CustomerPhone" : ""
+      }
+   ],
+   "OrderDate" : "2019-04-11",
+   "MyallocatorCreationDate" : "2019-04-11",
+   "OrderAdults" : "4",
+   "Channel" : "ago",
+   "OrderId" : "665576825",
+   "MyallocatorPIIRemoved" : null,
+   "StartDate" : "2019-06-13",
+   "MyallocatorModificationTime" : "13:51:20",
+   "MyallocatorModificationDate" : "2019-04-11",
+   "IsTentative" : 0
+}

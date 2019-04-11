@@ -1,0 +1,65 @@
+{
+   "MyallocatorCreationDate" : "2019-04-11",
+   "OrderAdults" : 1,
+   "OrderDate" : "2019-04-11",
+   "OrderChildren" : 0,
+   "IsTentative" : 0,
+   "MyallocatorPIIRemoved" : null,
+   "StartDate" : "2019-04-12",
+   "MyallocatorModificationTime" : "07:43:40",
+   "MyallocatorModificationDate" : "2019-04-11",
+   "OrderId" : "803369",
+   "Channel" : "cs",
+   "IsCancellation" : false,
+   "Rooms" : [
+      {
+         "DayRates" : [
+            {
+               "RateId" : null,
+               "Rate" : 216.53,
+               "Date" : "2019-04-12",
+               "Currency" : "USD",
+               "Description" : "Refundable Rate"
+            }
+         ],
+         "Units" : "1",
+         "RateId" : "",
+         "RoomTypeIds" : [
+            129952
+         ],
+         "RateDesc" : "",
+         "RoomDesc" : "Deluxe Studio",
+         "StartDate" : "2019-04-12",
+         "EndDate" : "2019-04-12",
+         "Price" : 216.53,
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "755527",
+         "Currency" : "USD"
+      }
+   ],
+   "MarkedAsRead" : false,
+   "MyallocatorCreationTime" : "07:43:40",
+   "TotalCurrency" : "USD",
+   "OrderTime" : "07:43:06",
+   "PropertyId" : "44148",
+   "Acknowledged" : false,
+   "MyallocatorId" : "c7ee1aa2fbc36ea7eb248b409",
+   "Customers" : [
+      {
+         "CustomerPostCode" : "89130",
+         "CustomerCountry" : "US",
+         "CustomerAddress" : "CENSORED",
+         "CustomerCity" : "Las vegad",
+         "CustomerFName" : "Harper",
+         "CustomerCompany" : "",
+         "CustomerLName" : "Young",
+         "CustomerEmail" : "harper.young@hushmail.com",
+         "CustomerNote" : "CENSORED",
+         "CustomerPhone" : "447895990358"
+      }
+   ],
+   "EndDate" : "2019-04-12",
+   "Version" : 0,
+   "TotalPrice" : 216.53,
+   "IsModification" : false
+}

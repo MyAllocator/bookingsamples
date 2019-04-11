@@ -1,0 +1,115 @@
+{
+   "Customers" : [
+      {
+         "CustomerNote" : "",
+         "CustomerFName" : "Michael",
+         "CustomerCompany" : "",
+         "CustomerLName" : "Harris"
+      }
+   ],
+   "MyallocatorId" : "fd7d3462c13880dd7f9cabc06",
+   "Acknowledged" : false,
+   "Version" : 0,
+   "EndDate" : "2019-06-25",
+   "TotalPrice" : "230.40",
+   "IsModification" : false,
+   "Rooms" : [
+      {
+         "Currency" : "EUR",
+         "ChannelRoomType" : "PXF",
+         "Children" : "",
+         "MyallocatorRateplanIds" : [],
+         "OccupantLName" : "Harris",
+         "Adults" : "2",
+         "RateId" : "DBLpkgrate",
+         "OccupantSmoker" : false,
+         "OccupantFName" : "Michael",
+         "Price" : "230.40",
+         "StartDate" : "2019-06-18",
+         "EndDate" : "2019-06-25",
+         "RateDesc" : "",
+         "RoomTypeIds" : [
+            -1
+         ],
+         "Units" : "1",
+         "DayRates" : [
+            {
+               "Currency" : "EUR",
+               "Date" : "2019-06-18",
+               "Rate" : "28.80",
+               "RateId" : "DBLpkgrate",
+               "Description" : null
+            },
+            {
+               "RateId" : "DBLpkgrate",
+               "Currency" : "EUR",
+               "Date" : "2019-06-19",
+               "Rate" : "28.80",
+               "Description" : null
+            },
+            {
+               "Description" : null,
+               "RateId" : "DBLpkgrate",
+               "Currency" : "EUR",
+               "Rate" : "28.80",
+               "Date" : "2019-06-20"
+            },
+            {
+               "Rate" : "28.80",
+               "Date" : "2019-06-21",
+               "Currency" : "EUR",
+               "RateId" : "DBLpkgrate",
+               "Description" : null
+            },
+            {
+               "RateId" : "DBLpkgrate",
+               "Rate" : "28.80",
+               "Date" : "2019-06-22",
+               "Currency" : "EUR",
+               "Description" : null
+            },
+            {
+               "Currency" : "EUR",
+               "Date" : "2019-06-23",
+               "Rate" : "28.80",
+               "RateId" : "DBLpkgrate",
+               "Description" : null
+            },
+            {
+               "Date" : "2019-06-24",
+               "Rate" : "28.80",
+               "Currency" : "EUR",
+               "RateId" : "DBLpkgrate",
+               "Description" : null
+            },
+            {
+               "Description" : null,
+               "Currency" : "EUR",
+               "Date" : "2019-06-25",
+               "Rate" : "28.80",
+               "RateId" : "DBLpkgrate"
+            }
+         ]
+      }
+   ],
+   "IsCancellation" : false,
+   "TotalTaxesCurrency" : "EUR",
+   "MyallocatorCreationTime" : "16:59:08",
+   "MarkedAsRead" : false,
+   "ma_callback_qbid" : 35761516,
+   "PropertyId" : "6599",
+   "OrderTime" : "16:58:34",
+   "TotalCurrency" : "EUR",
+   "IsTentative" : 0,
+   "MyallocatorModificationTime" : "16:59:08",
+   "MyallocatorModificationDate" : "2019-04-10",
+   "StartDate" : "2019-06-18",
+   "MyallocatorPIIRemoved" : null,
+   "OrderId" : "25014930843",
+   "Channel" : "lmin",
+   "OrderCustomers" : 2,
+   "TotalTaxes" : 21.36,
+   "OrderAdults" : 2,
+   "MyallocatorCreationDate" : "2019-04-10",
+   "OrderDate" : "2019-04-10"
+}

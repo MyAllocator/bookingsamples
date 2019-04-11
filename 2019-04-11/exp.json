@@ -1,0 +1,127 @@
+{
+   "Acknowledged" : false,
+   "ExtraServices" : [
+      {
+         "Units" : 1,
+         "EndDate" : "2019-08-11",
+         "Description" : "1 queen bed",
+         "StartDate" : "2019-08-04"
+      }
+   ],
+   "Customers" : [
+      {
+         "CustomerSmoker" : false,
+         "CustomerNote" : "",
+         "CustomerFName" : "Mason",
+         "CustomerPhone" : "91761062709",
+         "CustomerLName" : "Davis"
+      }
+   ],
+   "MyallocatorId" : "70d4fe8df1a0cdd8baaf4973e",
+   "EndDate" : "2019-08-11",
+   "Version" : 0,
+   "TotalPrice" : "934.32",
+   "MyallocatorCreditCardDetailsPresent" : true,
+   "PaymentCollect" : "Channel",
+   "IsModification" : false,
+   "IsCancellation" : false,
+   "Rooms" : [
+      {
+         "DayRates" : [
+            {
+               "Description" : "Stay 7 and Save - Derived S (GP1)",
+               "Currency" : "USD",
+               "Date" : "2019-08-04",
+               "Rate" : "116.79",
+               "RateId" : "206497763"
+            },
+            {
+               "RateId" : "206497763",
+               "Rate" : "116.79",
+               "Date" : "2019-08-05",
+               "Currency" : "USD",
+               "Description" : "Stay 7 and Save - Derived S (GP1)"
+            },
+            {
+               "Rate" : "116.79",
+               "Date" : "2019-08-06",
+               "Currency" : "USD",
+               "RateId" : "206497763",
+               "Description" : "Stay 7 and Save - Derived S (GP1)"
+            },
+            {
+               "Currency" : "USD",
+               "Rate" : "116.79",
+               "Date" : "2019-08-07",
+               "RateId" : "206497763",
+               "Description" : "Stay 7 and Save - Derived S (GP1)"
+            },
+            {
+               "Rate" : "116.79",
+               "Date" : "2019-08-08",
+               "Currency" : "USD",
+               "RateId" : "206497763",
+               "Description" : "Stay 7 and Save - Derived S (GP1)"
+            },
+            {
+               "Currency" : "USD",
+               "Date" : "2019-08-09",
+               "Rate" : "116.79",
+               "RateId" : "206497763",
+               "Description" : "Stay 7 and Save - Derived S (GP1)"
+            },
+            {
+               "RateId" : "206497763",
+               "Currency" : "USD",
+               "Date" : "2019-08-10",
+               "Rate" : "116.79",
+               "Description" : "Stay 7 and Save - Derived S (GP1)"
+            },
+            {
+               "RateId" : "206497763",
+               "Currency" : "USD",
+               "Date" : "2019-08-11",
+               "Rate" : "116.79",
+               "Description" : "Stay 7 and Save - Derived S (GP1)"
+            }
+         ],
+         "Adults" : 2,
+         "RateId" : "206497763",
+         "RoomTypeIds" : [
+            169924
+         ],
+         "Units" : "1",
+         "EndDate" : "2019-08-11",
+         "StartDate" : "2019-08-04",
+         "PromotionDesc" : "Book Early For Summer",
+         "RateDesc" : "Stay 7 and Save - Derived S (GP1)",
+         "RoomDesc" : "Standard Room, 1 Queen Bed (GP1)",
+         "Currency" : "USD",
+         "ChannelRoomType" : "026563669",
+         "Price" : "934.32",
+         "MyallocatorRateplanIds" : []
+      }
+   ],
+   "OrderSource" : "Expedia Affiliate Network",
+   "MyallocatorCreationTime" : "14:13:31",
+   "MarkedAsRead" : false,
+   "TotalTaxesCurrency" : "USD",
+   "ma_callback_qbid" : 35836660,
+   "TotalCurrency" : "USD",
+   "PropertyId" : "90279",
+   "OrderTime" : "14:13:00",
+   "IsTentative" : 0,
+   "StartDate" : "2019-08-04",
+   "MyallocatorPIIRemoved" : null,
+   "MyallocatorModificationTime" : "14:13:31",
+   "MyallocatorModificationDate" : "2019-04-11",
+   "OrderId" : "0745472379",
+   "Channel" : "exp",
+   "MyallocatorCreationDate" : "2019-04-11",
+   "TotalTaxes" : "0.00",
+   "OrderAdults" : 2,
+   "ChannelSpecific" : {
+      "PaymentType" : "Expedia Collect Booking"
+   },
+   "OrderDate" : "2019-04-11"
+}

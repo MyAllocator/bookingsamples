@@ -1,0 +1,64 @@
+{
+   "TotalPrice" : 492.62,
+   "IsModification" : false,
+   "Acknowledged" : false,
+   "MyallocatorId" : "56aa28b9e4c7aff7bbd54c02c",
+   "Customers" : [
+      {
+         "CustomerCountry" : "MX",
+         "CustomerNote" : "",
+         "CustomerAddress" : "CENSORED",
+         "CustomerEmail" : "wilson@hushmail.com",
+         "CustomerLName" : "Wilson",
+         "CustomerPhone" : "05980281137355955"
+      }
+   ],
+   "Version" : 0,
+   "EndDate" : "2019-05-01",
+   "TotalCurrency" : "MXN",
+   "PropertyId" : "57651",
+   "IsCancellation" : false,
+   "Rooms" : [
+      {
+         "Price" : 492.62,
+         "EndDate" : "2019-05-01",
+         "StartDate" : "2019-05-01",
+         "RateDesc" : "European Plan por Habitaci\u00f3n",
+         "RoomDesc" : "Standard Single/European Plan por Habitaci\u00f3n",
+         "RoomTypeIds" : [
+            171108
+         ],
+         "Units" : "1",
+         "DayRates" : [
+            {
+               "Currency" : "MXN",
+               "Rate" : "492.62",
+               "Date" : "2019-05-01",
+               "RateId" : "MAYORIST-3!EP",
+               "Description" : "Paquete - Mexico - European Plan por Habitaci\u00f3n"
+            }
+         ],
+         "Children" : "0",
+         "MyallocatorRateplanIds" : [],
+         "Currency" : "MXN",
+         "ChannelRoomType" : "GFMUGBQ",
+         "RateId" : "EP",
+         "Adults" : "2",
+         "OccupantSmoker" : true,
+         "Breakfast" : true
+      }
+   ],
+   "MarkedAsRead" : false,
+   "MyallocatorCreationTime" : "05:06:29",
+   "OrderId" : "d9nt2bd5nx",
+   "Channel" : "bd",
+   "OrderChildren" : "0",
+   "IsTentative" : 0,
+   "MyallocatorPIIRemoved" : null,
+   "StartDate" : "2019-05-01",
+   "MyallocatorModificationTime" : "05:06:29",
+   "MyallocatorModificationDate" : "2019-04-11",
+   "OrderDate" : "2019-04-11",
+   "MyallocatorCreationDate" : "2019-04-11",
+   "OrderAdults" : "2"
+}

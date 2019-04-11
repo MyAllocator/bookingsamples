@@ -1,0 +1,61 @@
+{
+   "ma_callback_qbid" : 35830794,
+   "PropertyId" : "83398",
+   "TotalCurrency" : "IDR",
+   "Rooms" : [
+      {
+         "Currency" : "IDR",
+         "ChannelRoomType" : "8817122",
+         "MyallocatorRateplanIds" : [],
+         "Price" : "181486",
+         "EndDate" : "2019-04-19",
+         "StartDate" : "2019-04-18",
+         "RateDesc" : "Regular Plan",
+         "RoomDesc" : "Single Bed in Co-ed Dormitory Room",
+         "RateId" : "00510084",
+         "RoomTypeIds" : [
+            115041
+         ],
+         "Units" : "1",
+         "DayRates" : [
+            {
+               "Rate" : 92974,
+               "Date" : "2019-04-18",
+               "Description" : null
+            },
+            {
+               "Date" : "2019-04-19",
+               "Rate" : 88512,
+               "Description" : null
+            }
+         ]
+      }
+   ],
+   "IsCancellation" : false,
+   "MyallocatorCreationTime" : "12:32:03",
+   "MarkedAsRead" : false,
+   "TotalPrice" : "219600",
+   "IsModification" : false,
+   "Customers" : [
+      {
+         "CustomerLName" : "Miller",
+         "CustomerPhone" : "28944357326",
+         "CustomerNote" : "",
+         "CustomerEmail" : "miller@gmail.com"
+      }
+   ],
+   "MyallocatorId" : "46eed79200bc7dfed287f0377",
+   "Acknowledged" : false,
+   "EndDate" : "2019-04-19",
+   "Version" : 0,
+   "OrderDate" : "2019-04-11",
+   "MyallocatorCreationDate" : "2019-04-11",
+   "OrderId" : "qk801oe6kow",
+   "Channel" : "pegi",
+   "OrderCustomers" : "1",
+   "IsTentative" : 0,
+   "MyallocatorModificationTime" : "12:32:03",
+   "MyallocatorModificationDate" : "2019-04-11",
+   "StartDate" : "2019-04-18",
+   "MyallocatorPIIRemoved" : null
+}

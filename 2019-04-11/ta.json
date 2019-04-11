@@ -1,0 +1,82 @@
+{
+   "Acknowledged" : false,
+   "Customers" : [
+      {
+         "CustomerLName" : "Martinez",
+         "CustomerPhone" : "8730480786",
+         "CustomerFName" : "Elijah",
+         "CustomerNote" : "",
+         "CustomerEmail" : "elijah.martinez@zoho.com",
+         "CustomerCountry" : "CA"
+      }
+   ],
+   "MyallocatorId" : "1aab3d04a15b5ce4b354b7580",
+   "Version" : 0,
+   "EndDate" : "2019-07-18",
+   "Balance" : 499.99,
+   "TotalPrice" : 499.99,
+   "MyallocatorCreditCardDetailsPresent" : true,
+   "IsModification" : false,
+   "IsCancellation" : false,
+   "Rooms" : [
+      {
+         "Children" : 0,
+         "MyallocatorRateplanIds" : [],
+         "Currency" : "CAD",
+         "ChannelRoomType" : "89310",
+         "OccupantLName" : "Martinez",
+         "RateId" : "",
+         "Adults" : 2,
+         "Occupancy" : 2,
+         "OccupantFName" : "Elijah",
+         "Price" : 499.99,
+         "EndDate" : "2019-07-18",
+         "StartDate" : "2019-07-17",
+         "Policy" : "Cancellation policy: For a reservation of 1 to 3 room/nights, we require 72 hours (3 days) notice, for a reservation of 4 to 6 room/nights, we require 1 week (7 days) notice, for a reservation of 7 or more room/nights, we require 2 weeks (14 days) notice, otherwise:\r\n\r\nFor a reservation of 1 to 3 nights => one night will be charged.\r\nFor a reservation of 4 to 6 nights => two nights will be charged\r\nFor a reservation of 7 or more nights => three nights will be charged\r\nThere is a $25 (plus tax) service fee per room cancelled or shortened at ANY TIME.\r\n\r\nNo Show: If you fail to show up to occupy a reserved room on your scheduled arrival date, then the reservation becomes void for the remaining nights that have been reserved, and any room/nights that we are unable to re-book become due and payable, including any applicable taxes.\r\n\r\nANY changes to a reservation will be confirmed by us in writing (e.mail, fax or regular mail).\nRefund policy: Partial\nFree cancellation until: 2019-05-18 23:59:59 UTC",
+         "RateDesc" : "",
+         "RoomTypeIds" : [
+            42385
+         ],
+         "Units" : "1",
+         "DayRates" : [
+            {
+               "Description" : null,
+               "Date" : "2019-07-17",
+               "Rate" : 249.99,
+               "Currency" : "CAD",
+               "Tax" : 38.13
+            },
+            {
+               "Tax" : 38.13,
+               "Currency" : "CAD",
+               "Rate" : 249.99,
+               "Date" : "2019-07-18",
+               "Description" : null
+            }
+         ]
+      }
+   ],
+   "MyallocatorCreationTime" : "04:06:18",
+   "MarkedAsRead" : false,
+   "TotalTaxesCurrency" : "CAD",
+   "Deposit" : 0,
+   "DepositCurrency" : "CAD",
+   "ma_callback_qbid" : 35804711,
+   "TotalCurrency" : "CAD",
+   "PropertyId" : "0719",
+   "OrderTime" : "04:06:18",
+   "OrderChildren" : 0,
+   "IsTentative" : 0,
+   "StartDate" : "2019-07-17",
+   "MyallocatorPIIRemoved" : null,
+   "MyallocatorModificationDate" : "2019-04-11",
+   "MyallocatorModificationTime" : "04:06:18",
+   "OrderId" : "djblvl2bpslb9uc3coz9ft0k",
+   "OrderCustomers" : 2,
+   "Channel" : "ta",
+   "MyallocatorCreationDate" : "2019-04-11",
+   "TotalTaxes" : 76.27,
+   "OrderAdults" : 2,
+   "OrderDate" : "2019-04-11",
+   "BalanceCurrency" : "CAD"
+}

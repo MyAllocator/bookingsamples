@@ -1,0 +1,58 @@
+{
+   "TotalCurrency" : "GBP",
+   "PropertyId" : "63864",
+   "OrderTime" : "17:40:01",
+   "IsCancellation" : false,
+   "Rooms" : [
+      {
+         "RateDesc" : "Standard rate",
+         "RoomDesc" : "Single",
+         "EndDate" : "2018-12-13",
+         "StartDate" : "2018-12-13",
+         "MyallocatorRateplanIds" : [],
+         "Price" : 120,
+         "ChannelRoomType" : "64726",
+         "Currency" : "GBP",
+         "DayRates" : [
+            {
+               "RateId" : "Default",
+               "Currency" : "GBP",
+               "Date" : "2018-12-13",
+               "Rate" : 120,
+               "Description" : "Standard rate"
+            }
+         ],
+         "Units" : "1",
+         "RateId" : "Default",
+         "RoomTypeIds" : [
+            159775
+         ]
+      }
+   ],
+   "MyallocatorCreationTime" : "17:40:06",
+   "MarkedAsRead" : true,
+   "TotalPrice" : 120,
+   "IsModification" : false,
+   "Acknowledged" : false,
+   "Customers" : [
+      {
+         "CustomerCountry" : "GB",
+         "CustomerLName" : "Anderson",
+         "CustomerEmail" : "mia.anderson@aol.com",
+         "CustomerFName" : "Mia",
+         "CustomerNote" : ""
+      }
+   ],
+   "MyallocatorId" : "c46d59f65b1bbfed21b11e196",
+   "Version" : 0,
+   "EndDate" : "2018-12-13",
+   "OrderDate" : "2018-12-06",
+   "MyallocatorCreationDate" : "2018-12-06",
+   "OrderId" : "4949272",
+   "Channel" : "sbkr",
+   "IsTentative" : 0,
+   "StartDate" : "2018-12-13",
+   "MyallocatorPIIRemoved" : null,
+   "MyallocatorModificationTime" : "17:40:06",
+   "MyallocatorModificationDate" : "2018-12-06"
+}

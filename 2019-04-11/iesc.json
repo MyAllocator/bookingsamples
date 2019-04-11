@@ -1,0 +1,68 @@
+{
+   "StartDate" : "2019-04-18",
+   "CommissionCurrency" : "EUR",
+   "MyallocatorPIIRemoved" : null,
+   "MyallocatorModificationTime" : "14:01:13",
+   "MyallocatorModificationDate" : "2019-04-10",
+   "IsTentative" : 0,
+   "Channel" : "iesc",
+   "OrderId" : "y1lx552c5sijr",
+   "MyallocatorCreationDate" : "2019-04-10",
+   "TotalTaxes" : 0,
+   "OrderDate" : "2019-04-10",
+   "Commission" : "18.75",
+   "EndDate" : "2019-04-18",
+   "Version" : 1,
+   "Acknowledged" : false,
+   "Customers" : [
+      {
+         "CustomerCountry" : "GB",
+         "CustomerArrivalTime" : "14:00",
+         "CustomerEmail" : "isabella.moore@aol.com",
+         "CustomerNote" : "CENSORED",
+         "CustomerFName" : "Isabella",
+         "CustomerPhone" : "9122867304745",
+         "CustomerLName" : "Moore"
+      }
+   ],
+   "MyallocatorId" : "e01f4ec79f1b09e5d38e9aec2",
+   "IsModification" : true,
+   "TotalPrice" : 125,
+   "MyallocatorCreationTime" : "14:01:13",
+   "MarkedAsRead" : false,
+   "TotalTaxesCurrency" : "EUR",
+   "IsCancellation" : false,
+   "Rooms" : [
+      {
+         "StartDate" : "2019-04-18",
+         "EndDate" : "2019-04-18",
+         "RateDesc" : "Best B&B Rate",
+         "RoomDesc" : "Mountain View Room",
+         "Children" : 0,
+         "MyallocatorRateplanIds" : [],
+         "Price" : 125,
+         "Currency" : "EUR",
+         "ChannelRoomType" : "5342",
+         "DayRates" : [
+            {
+               "RateId" : 270,
+               "Date" : "2019-04-18",
+               "Rate" : 125,
+               "Currency" : "EUR",
+               "Description" : "Best B&B Rate"
+            }
+         ],
+         "RateId" : "270",
+         "RoomTypeIds" : [
+            173125
+         ],
+         "Units" : "1",
+         "Adults" : 2
+      }
+   ],
+   "TotalCurrency" : "EUR",
+   "PropertyId" : "73497",
+   "OrderTime" : "14:01:05",
+   "DepositCurrency" : "EUR",
+   "Deposit" : 18.75
+}

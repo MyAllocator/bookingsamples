@@ -1,0 +1,58 @@
+{
+   "OrderId" : "694607648518709082226305",
+   "Channel" : "cozy",
+   "IsTentative" : 0,
+   "StartDate" : "2019-01-31",
+   "MyallocatorPIIRemoved" : null,
+   "MyallocatorModificationDate" : "2019-01-26",
+   "MyallocatorModificationTime" : "14:41:15",
+   "MyallocatorCreationDate" : "2019-01-26",
+   "TotalPrice" : 316.28,
+   "IsModification" : false,
+   "Acknowledged" : true,
+   "Customers" : [
+      {
+         "CustomerNote" : "",
+         "CustomerFName" : "Ethan",
+         "CustomerEmail" : "ethan.hall@mail.com",
+         "CustomerLName" : "Hall"
+      }
+   ],
+   "MyallocatorId" : "4b2238fb95b201c2d41ffdec4",
+   "Version" : 0,
+   "EndDate" : "2019-02-01",
+   "TotalCurrency" : "CAD",
+   "PropertyId" : "95437",
+   "IsCancellation" : false,
+   "Rooms" : [
+      {
+         "StartDate" : "2019-01-31",
+         "EndDate" : "2019-02-01",
+         "RoomDesc" : "Comfy Suite",
+         "RateDesc" : "",
+         "Currency" : "CAD",
+         "ChannelRoomType" : "1445229",
+         "Price" : 316.28,
+         "MyallocatorRateplanIds" : [],
+         "DayRates" : [
+            {
+               "Date" : "2019-02-01",
+               "Rate" : 158.14,
+               "Description" : "Standard Rate"
+            },
+            {
+               "Rate" : 158.14,
+               "Date" : "2019-02-02",
+               "Description" : "Standard Rate"
+            }
+         ],
+         "RateId" : "",
+         "RoomTypeIds" : [
+            154719
+         ],
+         "Units" : "1"
+      }
+   ],
+   "MyallocatorCreationTime" : "14:41:15",
+   "MarkedAsRead" : true
+}

@@ -1,0 +1,87 @@
+{
+   "OrderId" : "ed4qya0g",
+   "Channel" : "ote",
+   "IsTentative" : 0,
+   "MyallocatorPIIRemoved" : null,
+   "StartDate" : "2019-04-19",
+   "MyallocatorModificationDate" : "2019-02-08",
+   "MyallocatorModificationTime" : "22:27:54",
+   "OrderDate" : "2019-02-08",
+   "MyallocatorCreationDate" : "2019-02-08",
+   "TotalPrice" : 328.96,
+   "IsModification" : false,
+   "Acknowledged" : false,
+   "MyallocatorId" : "7b36e5f17864d07d92c7a40d6",
+   "Customers" : [
+      {
+         "CustomerNote" : "",
+         "CustomerFName" : "Ava",
+         "CustomerEmail" : "ava.brown@zoho.com",
+         "CustomerLName" : "Brown"
+      }
+   ],
+   "EndDate" : "2019-04-20",
+   "Version" : 0,
+   "DepositCurrency" : "EUR",
+   "Deposit" : 82.24,
+   "TotalCurrency" : "EUR",
+   "OrderTime" : "22:26:43",
+   "PropertyId" : "447",
+   "IsCancellation" : false,
+   "Rooms" : [
+      {
+         "RoomTypeIds" : [
+            4165
+         ],
+         "Units" : "5",
+         "StartDate" : "2019-04-19",
+         "EndDate" : "2019-04-19",
+         "RoomDesc" : "6 Bed Mixed Dorm",
+         "Price" : 136.15,
+         "MyallocatorRateplanIds" : [],
+         "Currency" : "EUR",
+         "ChannelRoomType" : "8569"
+      },
+      {
+         "Currency" : "EUR",
+         "ChannelRoomType" : "5604",
+         "MyallocatorRateplanIds" : [],
+         "Price" : 134.55,
+         "EndDate" : "2019-04-20",
+         "StartDate" : "2019-04-20",
+         "RoomDesc" : "6 Bed Mixed Dorm",
+         "RoomTypeIds" : [
+            4165
+         ],
+         "Units" : "5"
+      },
+      {
+         "Currency" : "EUR",
+         "ChannelRoomType" : "8480",
+         "Price" : 31.04,
+         "MyallocatorRateplanIds" : [],
+         "StartDate" : "2019-04-19",
+         "EndDate" : "2019-04-19",
+         "RoomDesc" : "6 Bed Female Dorm",
+         "RoomTypeIds" : [
+            4166
+         ],
+         "Units" : "1"
+      },
+      {
+         "RoomTypeIds" : [
+            4166
+         ],
+         "Units" : "1",
+         "StartDate" : "2019-04-20",
+         "EndDate" : "2019-04-20",
+         "RoomDesc" : "6 Bed Female Dorm",
+         "Price" : 27.22,
+         "MyallocatorRateplanIds" : [],
+         "Currency" : "EUR",
+         "ChannelRoomType" : "4388"
+      }
+   ],
+   "MarkedAsRead" : false,
+   "MyallocatorCreationTime" : "22:27:54"
+}

@@ -1,0 +1,79 @@
+{
+   "Commission" : 0,
+   "OrderDate" : "2019-04-05",
+   "MyallocatorCreationDate" : "2019-04-05",
+   "TotalTaxes" : 0,
+   "OrderId" : "5818201081",
+   "Channel" : "vhh",
+   "IsTentative" : 0,
+   "MyallocatorPIIRemoved" : null,
+   "StartDate" : "2019-08-20",
+   "CommissionCurrency" : "USD",
+   "MyallocatorModificationDate" : "2019-04-05",
+   "MyallocatorModificationTime" : "20:00:06",
+   "Deposit" : "16.00",
+   "TotalCurrency" : "USD",
+   "OrderTime" : "19:58:53",
+   "PropertyId" : "2953",
+   "IsCancellation" : false,
+   "Rooms" : [
+      {
+         "OccupantLName" : "",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "01782",
+         "Currency" : "USD",
+         "OccupantFName" : "",
+         "Occupancy" : 1,
+         "RateId" : "91009",
+         "RoomDesc" : "10 Bed Mixed Dorm",
+         "RateDesc" : "",
+         "EndDate" : "2019-08-21",
+         "Policy" : "",
+         "StartDate" : "2019-08-20",
+         "Price" : "16.00",
+         "DayRates" : [
+            {
+               "Description" : null,
+               "Date" : "2019-08-20",
+               "Rate" : 8,
+               "RateId" : "91009"
+            },
+            {
+               "Rate" : 8,
+               "Date" : "2019-08-21",
+               "RateId" : "91009",
+               "Description" : null
+            }
+         ],
+         "OccupantNote" : "",
+         "Units" : "1",
+         "RoomTypeIds" : [
+            16661
+         ]
+      }
+   ],
+   "MarkedAsRead" : true,
+   "MyallocatorCreationTime" : "20:00:06",
+   "TotalTaxesCurrency" : "USD",
+   "TotalPrice" : "16.00",
+   "IsModification" : false,
+   "Acknowledged" : true,
+   "MyallocatorId" : "e2c3d6ee55607efd01caf912d",
+   "DepositDue" : "0.00",
+   "Customers" : [
+      {
+         "CustomerNote" : "",
+         "CustomerEmail" : "ava.brown@hushmail.com",
+         "CustomerPhone" : "5546836424",
+         "CustomerPostCode" : "",
+         "CustomerCountry" : "00",
+         "CustomerFName" : "Ava",
+         "CustomerCity" : "",
+         "CustomerAddress" : "CENSORED",
+         "CustomerLName" : "Brown",
+         "CustomerCompany" : ""
+      }
+   ],
+   "EndDate" : "2019-08-21",
+   "Version" : 0
+}

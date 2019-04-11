@@ -1,0 +1,92 @@
+{
+   "MyallocatorCreationDate" : "2019-04-08",
+   "OrderDate" : "2019-04-08",
+   "Commission" : "69.00",
+   "StartDate" : "2019-05-23",
+   "CommissionCurrency" : "EUR",
+   "MyallocatorPIIRemoved" : null,
+   "MyallocatorModificationDate" : "2019-04-08",
+   "MyallocatorModificationTime" : "17:39:47",
+   "IsTentative" : 0,
+   "Channel" : "sur",
+   "OrderId" : "r5lqr814uddny68fto",
+   "MyallocatorCreationTime" : "17:39:47",
+   "MarkedAsRead" : false,
+   "IsCancellation" : false,
+   "Rooms" : [
+      {
+         "Adults" : "1",
+         "RoomTypeIds" : [
+            101778
+         ],
+         "RateId" : "1",
+         "Units" : "1",
+         "DayRates" : [
+            {
+               "Currency" : "EUR",
+               "Date" : "2019-05-23",
+               "Rate" : "69",
+               "RateId" : "1",
+               "Description" : "Default Rate"
+            },
+            {
+               "Rate" : "69",
+               "Date" : "2019-05-24",
+               "Currency" : "EUR",
+               "RateId" : "1",
+               "Description" : "Default Rate"
+            },
+            {
+               "Description" : "Default Rate",
+               "RateId" : "1",
+               "Rate" : "69",
+               "Date" : "2019-05-25",
+               "Currency" : "EUR"
+            },
+            {
+               "Date" : "2019-05-26",
+               "Rate" : "69",
+               "Currency" : "EUR",
+               "RateId" : "1",
+               "Description" : "Default Rate"
+            },
+            {
+               "Description" : "Default Rate",
+               "RateId" : "1",
+               "Currency" : "EUR",
+               "Date" : "2019-05-27",
+               "Rate" : "69"
+            }
+         ],
+         "Currency" : "EUR",
+         "ChannelRoomType" : "1447",
+         "Children" : "",
+         "Price" : "345.00",
+         "MyallocatorRateplanIds" : [],
+         "EndDate" : "2019-05-27",
+         "StartDate" : "2019-05-23",
+         "RateDesc" : "",
+         "RoomDesc" : "Wifi and ocean view"
+      }
+   ],
+   "TotalCurrency" : "EUR",
+   "PropertyId" : "65664",
+   "OrderTime" : "17:42:54",
+   "EndDate" : "2019-05-27",
+   "Version" : 0,
+   "Acknowledged" : false,
+   "Customers" : [
+      {
+         "CustomerFName" : "Michael",
+         "CustomerCity" : "guadeloupe",
+         "CustomerLName" : "Harris",
+         "CustomerCountry" : "FR",
+         "CustomerNote" : "",
+         "CustomerEmail" : "michael.harris@hushmail.com",
+         "CustomerPhone" : "841267314628279"
+      }
+   ],
+   "MyallocatorId" : "c0d5d40169db63323fd3a0a9c",
+   "IsModification" : false,
+   "TotalPrice" : "345.00"
+}

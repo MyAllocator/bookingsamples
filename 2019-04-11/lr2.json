@@ -1,0 +1,58 @@
+{
+   "OrderDate" : "2019-04-11",
+   "MyallocatorCreationDate" : "2019-04-11",
+   "Channel" : "lr2",
+   "OrderCustomers" : "1",
+   "OrderId" : "lo1gach10",
+   "MyallocatorModificationTime" : "14:01:49",
+   "MyallocatorModificationDate" : "2019-04-11",
+   "StartDate" : "2019-04-30",
+   "MyallocatorPIIRemoved" : null,
+   "IsTentative" : 0,
+   "PropertyId" : "64629",
+   "OrderTime" : "15:01:46",
+   "TotalCurrency" : "GBP",
+   "ma_callback_qbid" : 35836196,
+   "MyallocatorCreationTime" : "14:01:49",
+   "MarkedAsRead" : false,
+   "Rooms" : [
+      {
+         "OccupantFName" : "Elijah",
+         "Units" : "1",
+         "RateId" : "FLEX RO",
+         "RoomTypeIds" : [
+            53714
+         ],
+         "RoomDesc" : "SINGLE BASIC",
+         "RateDesc" : "FLEX RO",
+         "EndDate" : "2019-05-04",
+         "StartDate" : "2019-04-30",
+         "OccupantLName" : "Martinez",
+         "Price" : "245.00",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "fsvhygh5coco",
+         "Currency" : "GBP"
+      }
+   ],
+   "IsCancellation" : false,
+   "IsModification" : false,
+   "TotalPrice" : 245,
+   "MyallocatorCreditCardDetailsPresent" : true,
+   "EndDate" : "2019-05-04",
+   "Version" : 0,
+   "Customers" : [
+      {
+         "CustomerPhone" : "6609252806",
+         "CustomerNote" : "",
+         "CustomerEmail" : "elijah.martinez@gmail.com",
+         "CustomerCountry" : "GH",
+         "CustomerPostCode" : "00233",
+         "CustomerLName" : "Martinez",
+         "CustomerFName" : "Elijah",
+         "CustomerAddress" : "CENSORED",
+         "CustomerCity" : "Accra"
+      }
+   ],
+   "MyallocatorId" : "af2df21cd5e2798cebf09211f",
+   "Acknowledged" : false
+}

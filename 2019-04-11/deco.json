@@ -1,0 +1,84 @@
+{
+   "DepositCurrency" : "USD",
+   "Deposit" : "43.5716",
+   "ma_callback_qbid" : 1,
+   "PropertyId" : "9475",
+   "OrderTime" : "13:41:19",
+   "TotalCurrency" : "USD",
+   "Rooms" : [
+      {
+         "Price" : "43.5716",
+         "MyallocatorRateplanIds" : [],
+         "Currency" : "USD",
+         "ChannelRoomType" : "899285",
+         "EndDate" : "2019-04-19",
+         "StartDate" : "2019-04-16",
+         "RoomDesc" : "Cama en Dormitorio Compartido",
+         "RateDesc" : "Paquete  NR USD ",
+         "RoomTypeIds" : [
+            112714
+         ],
+         "RateId" : "394608",
+         "Units" : "1",
+         "DayRates" : [
+            {
+               "Description" : "Paquete  NR USD ",
+               "RateId" : "394608",
+               "Currency" : "USD",
+               "Date" : "2019-04-16",
+               "Rate" : "10.8929"
+            },
+            {
+               "Currency" : "USD",
+               "Date" : "2019-04-17",
+               "Rate" : "10.8929",
+               "RateId" : "394608",
+               "Description" : "Paquete  NR USD "
+            },
+            {
+               "Description" : "Paquete  NR USD ",
+               "RateId" : "394608",
+               "Currency" : "USD",
+               "Date" : "2019-04-18",
+               "Rate" : "10.8929"
+            },
+            {
+               "Date" : "2019-04-19",
+               "Rate" : "10.8929",
+               "Currency" : "USD",
+               "RateId" : "394608",
+               "Description" : "Paquete  NR USD "
+            }
+         ]
+      }
+   ],
+   "IsCancellation" : false,
+   "MyallocatorCreationTime" : "13:44:33",
+   "MarkedAsRead" : false,
+   "TotalPrice" : "43.5716",
+   "MyallocatorCreditCardDetailsPresent" : true,
+   "IsModification" : false,
+   "Customers" : [
+      {
+         "CustomerLName" : "Abeln",
+         "CustomerFName" : "Olivia",
+         "CustomerNote" : ""
+      }
+   ],
+   "MyallocatorId" : "ddab87fdbb0818b51768fa403",
+   "Acknowledged" : false,
+   "Balance" : 0,
+   "Version" : 0,
+   "EndDate" : "2019-04-19",
+   "OrderDate" : "2019-04-11",
+   "BalanceCurrency" : "USD",
+   "OrderAdults" : 1,
+   "MyallocatorCreationDate" : "2019-04-11",
+   "OrderId" : "72432453008",
+   "Channel" : "deco",
+   "IsTentative" : 0,
+   "MyallocatorModificationDate" : "2019-04-11",
+   "MyallocatorModificationTime" : "13:44:33",
+   "StartDate" : "2019-04-16",
+   "MyallocatorPIIRemoved" : null
+}

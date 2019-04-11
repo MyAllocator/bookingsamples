@@ -1,0 +1,61 @@
+{
+   "Acknowledged" : false,
+   "MyallocatorId" : "6b608a17b0dd1d5be9967cee1",
+   "Customers" : [
+      {
+         "CustomerLName" : "Young",
+         "CustomerFName" : "Harper",
+         "CustomerNote" : "",
+         "CustomerEmail" : "harper.young@inbox.com"
+      }
+   ],
+   "EndDate" : "2019-04-21",
+   "Version" : 0,
+   "Balance" : 550,
+   "TotalPrice" : 550,
+   "IsModification" : false,
+   "IsCancellation" : false,
+   "Rooms" : [
+      {
+         "RateDesc" : "",
+         "RoomDesc" : "6 Bed Female Standard",
+         "StartDate" : "2019-04-21",
+         "EndDate" : "2019-04-21",
+         "ChannelRoomType" : "2363",
+         "Currency" : "THB",
+         "Price" : 550,
+         "MyallocatorRateplanIds" : [],
+         "DayRates" : [
+            {
+               "Description" : "Refundable Rate",
+               "Date" : "2019-04-21",
+               "Rate" : "550.00"
+            }
+         ],
+         "Units" : "1",
+         "RateId" : "",
+         "RoomTypeIds" : [
+            131597
+         ]
+      }
+   ],
+   "MarkedAsRead" : false,
+   "MyallocatorCreationTime" : "10:28:46",
+   "DepositCurrency" : "THB",
+   "Deposit" : 0,
+   "TotalCurrency" : "THB",
+   "OrderTime" : "11:28:44",
+   "PropertyId" : "40856",
+   "IsTentative" : 0,
+   "MyallocatorPIIRemoved" : null,
+   "StartDate" : "2019-04-21",
+   "CommissionCurrency" : "THB",
+   "MyallocatorModificationTime" : "10:28:46",
+   "MyallocatorModificationDate" : "2019-04-05",
+   "OrderId" : "nadks8zu3cwz3ahoif9x9j8",
+   "Channel" : "hcu2",
+   "MyallocatorCreationDate" : "2019-04-05",
+   "Commission" : 0,
+   "OrderDate" : "2019-04-05",
+   "BalanceCurrency" : "THB"
+}

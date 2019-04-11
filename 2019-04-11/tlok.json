@@ -1,0 +1,64 @@
+{
+   "IsTentative" : 0,
+   "MyallocatorPIIRemoved" : null,
+   "CommissionCurrency" : "THB",
+   "StartDate" : "2019-04-14",
+   "MyallocatorModificationTime" : "14:18:41",
+   "MyallocatorModificationDate" : "2019-04-11",
+   "OrderId" : "5308656046",
+   "Channel" : "tlok",
+   "MyallocatorCreationDate" : "2019-04-11",
+   "TotalTaxes" : 146.32,
+   "Commission" : 145.95,
+   "OrderDate" : "2019-04-11",
+   "Acknowledged" : false,
+   "MyallocatorId" : "5a8e49b9296466cb55390fead",
+   "Customers" : [
+      {
+         "CustomerLName" : "Johnson",
+         "CustomerNote" : "CENSORED",
+         "CustomerFName" : "Emma"
+      }
+   ],
+   "Version" : 0,
+   "EndDate" : "2019-04-14",
+   "CommissionIncludedInTotal" : true,
+   "TotalPrice" : "973.00",
+   "PaymentCollect" : "Channel",
+   "IsModification" : false,
+   "IsCancellation" : false,
+   "Rooms" : [
+      {
+         "Adults" : "1",
+         "Units" : "1",
+         "RoomTypeIds" : [
+            169502
+         ],
+         "RateId" : "RETAIL",
+         "DayRates" : [
+            {
+               "Description" : null,
+               "Currency" : "THB",
+               "Date" : "2019-04-14",
+               "Rate" : "973.00",
+               "RateId" : "RETAIL"
+            }
+         ],
+         "ChannelRoomType" : "49773699",
+         "Currency" : "THB",
+         "Price" : "973.00",
+         "MyallocatorRateplanIds" : [],
+         "RateDesc" : "",
+         "RoomDesc" : "Single Room",
+         "StartDate" : "2019-04-14",
+         "EndDate" : "2019-04-14"
+      }
+   ],
+   "MarkedAsRead" : false,
+   "MyallocatorCreationTime" : "14:18:41",
+   "TotalTaxesCurrency" : "THB",
+   "ma_callback_qbid" : 35836902,
+   "TotalCurrency" : "THB",
+   "OrderTime" : "14:19:10",
+   "PropertyId" : "83480"
+}

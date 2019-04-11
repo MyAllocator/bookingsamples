@@ -1,0 +1,70 @@
+{
+   "OrderDate" : "2019-02-15",
+   "MyallocatorCreationDate" : "2019-02-15",
+   "OrderAdults" : 2,
+   "OrderId" : "53022129",
+   "Channel" : "ct",
+   "OrderModifTime" : null,
+   "OrderChildren" : 0,
+   "IsTentative" : 0,
+   "MyallocatorPIIRemoved" : null,
+   "StartDate" : "2019-03-08",
+   "MyallocatorModificationTime" : "11:19:08",
+   "OrderModifDate" : null,
+   "MyallocatorModificationDate" : "2019-02-15",
+   "TotalCurrency" : "EUR",
+   "OrderTime" : "11:17:08",
+   "PropertyId" : "4323",
+   "IsCancellation" : false,
+   "OrderSource" : "Feratel Deskline 3.0",
+   "Rooms" : [
+      {
+         "Units" : "1",
+         "RoomTypeIds" : [
+            10975
+         ],
+         "RoomDesc" : "Doppelzimmer",
+         "StartDate" : "2019-03-08",
+         "EndDate" : "2019-03-09",
+         "MyallocatorRateplanIds" : [],
+         "Price" : "176.00",
+         "ChannelRoomType" : "500133",
+         "Currency" : "EUR"
+      }
+   ],
+   "MarkedAsRead" : false,
+   "MyallocatorCreationTime" : "11:19:08",
+   "TotalPrice" : "176.00",
+   "OrderSourceId" : "123456",
+   "IsModification" : false,
+   "Acknowledged" : false,
+   "MyallocatorId" : "0a8fa2674aa8e9f1fe9d54204",
+   "Customers" : [
+      {
+         "CustomerEmail" : "noah.smith@lycos.com",
+         "CustomerNote" : "CENSORED",
+         "CustomerPhone" : "4dj195e9utdzat2z1n",
+         "CustomerPostCode" : "1157",
+         "CustomerCountry" : "DE",
+         "CustomerAddress" : "CENSORED",
+         "CustomerCity" : "Dresden",
+         "CustomerFName" : "Noah",
+         "CustomerCompany" : "",
+         "CustomerLName" : "Smith"
+      },
+      {
+         "CustomerEmail" : "",
+         "CustomerNote" : "CENSORED",
+         "CustomerPhone" : "",
+         "CustomerCountry" : "DE",
+         "CustomerPostCode" : "",
+         "CustomerCity" : "",
+         "CustomerAddress" : "",
+         "CustomerFName" : "Emma",
+         "CustomerCompany" : "",
+         "CustomerLName" : "Johnson"
+      }
+   ],
+   "Version" : 0,
+   "EndDate" : "2019-03-09"
+}

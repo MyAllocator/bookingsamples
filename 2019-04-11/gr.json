@@ -1,0 +1,108 @@
+{
+   "OrderDate" : "2019-04-11",
+   "BalanceCurrency" : "THB",
+   "Commission" : "131.19",
+   "MyallocatorCreationDate" : "2019-04-11",
+   "OrderId" : "j6bl1msde17ify",
+   "Channel" : "gr",
+   "IsTentative" : 0,
+   "MyallocatorModificationDate" : "2019-04-11",
+   "MyallocatorModificationTime" : "12:31:08",
+   "StartDate" : "2019-04-23",
+   "CommissionCurrency" : "THB",
+   "MyallocatorPIIRemoved" : null,
+   "DepositCurrency" : "THB",
+   "Deposit" : "875.68",
+   "PropertyId" : "3624",
+   "OrderTime" : "14:31:03",
+   "TotalCurrency" : "THB",
+   "Rooms" : [
+      {
+         "StartDate" : "2019-04-23",
+         "EndDate" : "2019-04-29",
+         "RoomDesc" : "16 bed dorm - Mixed - Standard - Shared bathroom (Private hot shower)",
+         "RateDesc" : "",
+         "Currency" : "THB",
+         "ChannelRoomType" : "9675",
+         "MyallocatorRateplanIds" : [],
+         "Price" : 875,
+         "DayRates" : [
+            {
+               "RateId" : "5348",
+               "Rate" : "125.00",
+               "Date" : "2019-04-23",
+               "Currency" : "THB",
+               "Description" : "Standard"
+            },
+            {
+               "RateId" : "5348",
+               "Date" : "2019-04-24",
+               "Rate" : "125.00",
+               "Currency" : "THB",
+               "Description" : "Standard"
+            },
+            {
+               "Description" : "Standard",
+               "RateId" : "5348",
+               "Date" : "2019-04-25",
+               "Rate" : "125.00",
+               "Currency" : "THB"
+            },
+            {
+               "Date" : "2019-04-26",
+               "Rate" : "125.00",
+               "Currency" : "THB",
+               "RateId" : "5348",
+               "Description" : "Standard"
+            },
+            {
+               "Rate" : "125.00",
+               "Date" : "2019-04-27",
+               "Currency" : "THB",
+               "RateId" : "5348",
+               "Description" : "Standard"
+            },
+            {
+               "Description" : "Standard",
+               "Rate" : "125.00",
+               "Date" : "2019-04-28",
+               "Currency" : "THB",
+               "RateId" : "5348"
+            },
+            {
+               "Description" : "Standard",
+               "Rate" : "125.00",
+               "Date" : "2019-04-29",
+               "Currency" : "THB",
+               "RateId" : "5348"
+            }
+         ],
+         "RateId" : "5348",
+         "RoomTypeIds" : [
+            7764
+         ],
+         "Units" : "1"
+      }
+   ],
+   "IsCancellation" : false,
+   "MyallocatorCreationTime" : "12:31:08",
+   "MarkedAsRead" : false,
+   "PaymentCollect" : "Channel",
+   "TotalPrice" : "875.00",
+   "IsModification" : false,
+   "Customers" : [
+      {
+         "CustomerLName" : "Taylor",
+         "CustomerFName" : "Benjamin",
+         "CustomerCountry" : "FR",
+         "CustomerPhone" : "7486493155",
+         "CustomerEmail" : "benjamin.taylor@hushmail.com",
+         "CustomerNote" : ""
+      }
+   ],
+   "MyallocatorId" : "5dff43d79675ba158fe823dcb",
+   "Acknowledged" : false,
+   "Balance" : "-0.68",
+   "Version" : 0,
+   "EndDate" : "2019-04-29"
+}

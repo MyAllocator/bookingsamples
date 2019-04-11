@@ -1,0 +1,105 @@
+{
+   "MyallocatorCreationTime" : "14:16:33",
+   "MarkedAsRead" : false,
+   "Rooms" : [
+      {
+         "StartDate" : "2019-04-13",
+         "EndDate" : "2019-04-13",
+         "RateDesc" : "default",
+         "RoomDesc" : "Standard 6 Bed Mixed Dorm Ensuite (6 Bed City View)",
+         "Currency" : "THB",
+         "ChannelRoomType" : "930341",
+         "Price" : "298.00",
+         "MyallocatorRateplanIds" : [],
+         "Occupancy" : 2,
+         "RoomTypeIds" : [
+            169738
+         ],
+         "RateId" : "342720",
+         "Units" : "2"
+      },
+      {
+         "Occupancy" : 2,
+         "RoomTypeIds" : [
+            169738
+         ],
+         "RateId" : "342720",
+         "Units" : "2",
+         "EndDate" : "2019-04-14",
+         "StartDate" : "2019-04-14",
+         "RoomDesc" : "Standard 6 Bed Mixed Dorm Ensuite (6 Bed City View)",
+         "RateDesc" : "default",
+         "MyallocatorRateplanIds" : [],
+         "Price" : "500.00",
+         "Currency" : "THB",
+         "ChannelRoomType" : "032424"
+      },
+      {
+         "RateDesc" : "default",
+         "RoomDesc" : "Standard 6 Bed Mixed Dorm Ensuite (6 Bed City View)",
+         "EndDate" : "2019-04-15",
+         "StartDate" : "2019-04-15",
+         "ChannelRoomType" : "521246",
+         "Currency" : "THB",
+         "Price" : "500.00",
+         "MyallocatorRateplanIds" : [],
+         "Occupancy" : 2,
+         "Units" : "2",
+         "RateId" : "342720",
+         "RoomTypeIds" : [
+            169738
+         ]
+      },
+      {
+         "EndDate" : "2019-04-16",
+         "StartDate" : "2019-04-16",
+         "RoomDesc" : "Standard 6 Bed Mixed Dorm Ensuite (6 Bed City View)",
+         "RateDesc" : "default",
+         "Currency" : "THB",
+         "ChannelRoomType" : "037368",
+         "MyallocatorRateplanIds" : [],
+         "Price" : "500.00",
+         "Occupancy" : 2,
+         "RateId" : "342720",
+         "RoomTypeIds" : [
+            169738
+         ],
+         "Units" : "2"
+      }
+   ],
+   "IsCancellation" : false,
+   "PropertyId" : "19728",
+   "TotalCurrency" : "THB",
+   "Deposit" : "413.54",
+   "DepositCurrency" : "THB",
+   "Version" : 0,
+   "EndDate" : "2019-04-16",
+   "Customers" : [
+      {
+         "CustomerArrivalTime" : "15:00",
+         "CustomerLName" : "Davis",
+         "CustomerGender" : "FE",
+         "CustomerFName" : "Mason",
+         "CustomerNationality" : "GB",
+         "CustomerPhone" : "",
+         "CustomerEmail" : "mason.davis@yahoo.com",
+         "CustomerNote" : ""
+      }
+   ],
+   "MyallocatorId" : "fc5fc1a89e9d650bd104bf5a9",
+   "Acknowledged" : false,
+   "IsModification" : false,
+   "OrderFemales" : "2",
+   "TotalPrice" : 1798,
+   "MyallocatorCreditCardDetailsPresent" : true,
+   "MyallocatorCreationDate" : "2019-04-11",
+   "OrderMales" : "",
+   "MyallocatorModificationTime" : "14:16:33",
+   "MyallocatorModificationDate" : "2019-04-11",
+   "Policy" : "Can be cancelled until: 2019-04-12 17:00:00.",
+   "StartDate" : "2019-04-13",
+   "MyallocatorPIIRemoved" : null,
+   "IsTentative" : 0,
+   "Channel" : "hw2",
+   "OrderId" : "jfa7cggljj9at0um"
+}

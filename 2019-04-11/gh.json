@@ -1,0 +1,38 @@
+{
+   "Rooms" : [
+      {
+         "EndDate" : "2019-06-15",
+         "StartDate" : "2019-06-14",
+         "RoomDesc" : "Tree House #1",
+         "ChannelRoomType" : "https://calendar.glampinghub.com/CENSORED",
+         "MyallocatorRateplanIds" : [],
+         "RoomTypeIds" : [
+            73973
+         ],
+         "Units" : "1"
+      }
+   ],
+   "IsCancellation" : false,
+   "MyallocatorCreationTime" : "19:05:12",
+   "MarkedAsRead" : false,
+   "PropertyId" : "83121",
+   "Customers" : [
+      {
+         "CustomerNote" : "",
+         "CustomerLName" : "Miller"
+      }
+   ],
+   "MyallocatorId" : "9313d19ab6413b607f02fe2f3",
+   "Acknowledged" : false,
+   "EndDate" : "2019-06-15",
+   "Version" : 0,
+   "IsModification" : false,
+   "MyallocatorCreationDate" : "2019-04-10",
+   "IsTentative" : 0,
+   "MyallocatorModificationTime" : "19:05:12",
+   "MyallocatorModificationDate" : "2019-04-10",
+   "StartDate" : "2019-06-14",
+   "MyallocatorPIIRemoved" : null,
+   "OrderId" : "85635",
+   "Channel" : "gh"
+}

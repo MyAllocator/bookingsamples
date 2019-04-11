@@ -1,0 +1,47 @@
+{
+   "MyallocatorId" : "386099e4c4def1fbf2ab47cf6",
+   "Customers" : [
+      {
+         "CustomerLName" : "Smith",
+         "CustomerNote" : "",
+         "CustomerEmail" : "smith@mail.com",
+         "CustomerCountry" : "France"
+      }
+   ],
+   "Acknowledged" : false,
+   "Version" : 0,
+   "EndDate" : "2019-07-18",
+   "TotalPrice" : "1114.20",
+   "IsModification" : false,
+   "Rooms" : [
+      {
+         "RoomDesc" : "Coed/Mixed 10 Persona Dorm",
+         "EndDate" : "2019-07-18",
+         "StartDate" : "2019-07-15",
+         "Price" : "1096.20",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "280102",
+         "Currency" : "EUR",
+         "Units" : "9",
+         "RoomTypeIds" : [
+            26153
+         ]
+      }
+   ],
+   "IsCancellation" : false,
+   "MarkedAsRead" : false,
+   "MyallocatorCreationTime" : "14:07:35",
+   "DepositCurrency" : "EUR",
+   "Deposit" : "87.70",
+   "PropertyId" : "7551",
+   "TotalCurrency" : "EUR",
+   "IsTentative" : 0,
+   "MyallocatorModificationDate" : "2019-04-11",
+   "MyallocatorModificationTime" : "14:07:35",
+   "MyallocatorPIIRemoved" : null,
+   "StartDate" : "2019-07-15",
+   "OrderId" : "5019255720",
+   "Channel" : "hi",
+   "MyallocatorCreationDate" : "2019-04-11",
+   "OrderDate" : "2019-04-11"
+}

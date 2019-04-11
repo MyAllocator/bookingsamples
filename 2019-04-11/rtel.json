@@ -1,0 +1,83 @@
+{
+   "MyallocatorId" : "8c5926932a55876de4147bb5e",
+   "Customers" : [
+      {
+         "CustomerNote" : "",
+         "CustomerLName" : "Taylor"
+      }
+   ],
+   "Acknowledged" : false,
+   "Version" : 0,
+   "EndDate" : "2019-04-09",
+   "MyallocatorCreditCardDetailsPresent" : true,
+   "TotalPrice" : "594.0",
+   "IsModification" : false,
+   "Rooms" : [
+      {
+         "Breakfast" : true,
+         "DayRates" : [
+            {
+               "Description" : " Percentage commission is %. Booking center commission is %",
+               "Rate" : "189.0",
+               "Date" : "2019-04-06",
+               "Currency" : "BRL",
+               "Commission" : "0.00",
+               "RateId" : "VR"
+            },
+            {
+               "Currency" : "BRL",
+               "Rate" : "162.0",
+               "Date" : "2019-04-07",
+               "RateId" : "VR",
+               "Commission" : "0.00",
+               "Description" : " Percentage commission is %. Booking center commission is %"
+            },
+            {
+               "Description" : " Percentage commission is %. Booking center commission is %",
+               "Currency" : "BRL",
+               "Date" : "2019-04-08",
+               "Rate" : "121.5",
+               "RateId" : "VR",
+               "Commission" : "0.00"
+            },
+            {
+               "Commission" : "0.00",
+               "RateId" : "VR",
+               "Rate" : "121.5",
+               "Date" : "2019-04-09",
+               "Currency" : "BRL",
+               "Description" : " Percentage commission is %. Booking center commission is %"
+            }
+         ],
+         "RoomTypeIds" : [
+            138911
+         ],
+         "RateId" : "VR",
+         "Units" : "1",
+         "Policy" : "MEALPLAN INFORMATION: BB (Bed & Breakfast) CANCELLATION POLICY: After 15 days in advance a penalty of 100 percent is applied.",
+         "StartDate" : "2019-04-06",
+         "EndDate" : "2019-04-09",
+         "RateDesc" : "",
+         "RoomDesc" : "Bungalow 2 people",
+         "Price" : 594,
+         "MyallocatorRateplanIds" : [],
+         "Currency" : "BRL",
+         "ChannelRoomType" : "vx"
+      }
+   ],
+   "IsCancellation" : false,
+   "MarkedAsRead" : false,
+   "MyallocatorCreationTime" : "23:16:48",
+   "OrderTime" : "01:11:00",
+   "PropertyId" : "19037",
+   "TotalCurrency" : "BRL",
+   "IsTentative" : 0,
+   "MyallocatorModificationTime" : "23:16:48",
+   "MyallocatorModificationDate" : "2019-04-04",
+   "MyallocatorPIIRemoved" : null,
+   "StartDate" : "2019-04-06",
+   "OrderId" : "27419635",
+   "Channel" : "rtel",
+   "MyallocatorCreationDate" : "2019-04-04",
+   "OrderDate" : "2019-04-05"
+}

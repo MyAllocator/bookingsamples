@@ -1,0 +1,58 @@
+{
+   "OrderDate" : "2019-04-11",
+   "OrderAdults" : 2,
+   "MyallocatorCreationDate" : "2019-04-11",
+   "Channel" : "rep",
+   "OrderId" : "58680621",
+   "MyallocatorModificationDate" : "2019-04-11",
+   "MyallocatorModificationTime" : "13:38:36",
+   "StartDate" : "2019-06-16",
+   "MyallocatorPIIRemoved" : null,
+   "IsTentative" : 0,
+   "OrderChildren" : 0,
+   "PropertyId" : "0114",
+   "OrderTime" : "14:38",
+   "TotalCurrency" : "EUR",
+   "MyallocatorCreationTime" : "13:38:36",
+   "MarkedAsRead" : false,
+   "Rooms" : [
+      {
+         "Occupancy" : 2,
+         "Breakfast" : false,
+         "OccupantNote" : "",
+         "RoomTypeIds" : [
+            110383,
+            110389,
+            121849
+         ],
+         "Units" : "1",
+         "StartDate" : "2019-06-16",
+         "EndDate" : "2019-06-21",
+         "RoomDesc" : "Studio, Kitchenette, Balcony/Patio (1-2)",
+         "OccupantLName" : "Moore",
+         "MyallocatorRateplanIds" : [],
+         "Price" : "206.6400",
+         "Currency" : "EUR",
+         "ChannelRoomType" : "7520142"
+      }
+   ],
+   "IsCancellation" : false,
+   "IsModification" : false,
+   "TotalPrice" : 206.64,
+   "EndDate" : "2019-06-21",
+   "Version" : 0,
+   "Customers" : [
+      {
+         "CustomerCountry" : "",
+         "CustomerFName" : "Isabella",
+         "CustomerTitle" : "Mr.",
+         "CustomerLName" : "Moore",
+         "CustomerPhoneMobile" : "",
+         "CustomerEmail" : "",
+         "CustomerNote" : "",
+         "CustomerPhone" : ""
+      }
+   ],
+   "MyallocatorId" : "2bda11e7e41f6480d482be74f",
+   "Acknowledged" : false
+}

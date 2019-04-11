@@ -1,0 +1,63 @@
+{
+   "MarkedAsRead" : false,
+   "MyallocatorCreationTime" : "09:07:20",
+   "IsCancellation" : false,
+   "Rooms" : [
+      {
+         "StartDate" : "2019-04-10",
+         "EndDate" : "2019-04-10",
+         "Policy" : "Confirmed booking",
+         "RoomDesc" : "Bed in 4 Bed Female Dorm",
+         "RateDesc" : "",
+         "RoomTypeIds" : [
+            127844
+         ],
+         "Units" : "1",
+         "DayRates" : [
+            {
+               "Currency" : "INR",
+               "Date" : "2019-04-09",
+               "Rate" : "400",
+               "Description" : "Day Rate"
+            }
+         ],
+         "Children" : 0,
+         "MyallocatorRateplanIds" : [],
+         "Currency" : "INR",
+         "ChannelRoomType" : "117",
+         "RateId" : "",
+         "Adults" : 1,
+         "Occupancy" : 1,
+         "Breakfast" : false
+      }
+   ],
+   "TotalCurrency" : "INR",
+   "OrderTime" : "14:37:15",
+   "PropertyId" : "60650",
+   "ma_callback_qbid" : 35645238,
+   "Version" : 0,
+   "EndDate" : "2019-04-10",
+   "Acknowledged" : false,
+   "MyallocatorId" : "f1d8a4f8cecfc3d43375984dd",
+   "Customers" : [
+      {
+         "CustomerPhoneMobile" : "1234567",
+         "CustomerArrivalTime" : "19:00",
+         "CustomerFName" : "Noah",
+         "CustomerNote" : "",
+         "CustomerEmail" : "noah@hotmail.com",
+         "CustomerLName" : ""
+      }
+   ],
+   "IsModification" : false,
+   "TotalPrice" : "400",
+   "MyallocatorCreationDate" : "2019-04-09",
+   "OrderDate" : "2019-04-09",
+   "MyallocatorPIIRemoved" : null,
+   "StartDate" : "2019-04-10",
+   "MyallocatorModificationTime" : "09:07:20",
+   "MyallocatorModificationDate" : "2019-04-09",
+   "IsTentative" : 0,
+   "Channel" : "aao",
+   "OrderId" : "sylryp9v"
+}

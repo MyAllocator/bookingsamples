@@ -1,0 +1,88 @@
+{
+   "IsTentative" : 0,
+   "StartDate" : "2019-07-15",
+   "MyallocatorPIIRemoved" : null,
+   "MyallocatorModificationDate" : "2019-04-11",
+   "MyallocatorModificationTime" : "14:01:13",
+   "OrderId" : "gbit3wwohkv",
+   "Channel" : "hbe",
+   "MyallocatorCreationDate" : "2019-04-11",
+   "OrderDate" : "2019-04-11",
+   "Acknowledged" : false,
+   "Customers" : [
+      {
+         "CustomerNote" : "",
+         "CustomerLName" : "Jackson"
+      },
+      {
+         "CustomerNote" : "",
+         "CustomerFName" : "Charlotte",
+         "CustomerLName" : "White",
+         "CustomerAge" : "30"
+      },
+      {
+         "CustomerNote" : "",
+         "CustomerFName" : "Michael",
+         "CustomerLName" : "Harris",
+         "CustomerAge" : "30"
+      }
+   ],
+   "MyallocatorId" : "76712adc581d3ccbf537686c5",
+   "EndDate" : "2019-07-17",
+   "Version" : 0,
+   "TotalPrice" : 60,
+   "MyallocatorCreditCardDetailsPresent" : true,
+   "IsModification" : false,
+   "IsCancellation" : false,
+   "Rooms" : [
+      {
+         "DayRates" : [
+            {
+               "Currency" : "GBP",
+               "Date" : "2019-07-15",
+               "Rate" : "20",
+               "RateId" : "**",
+               "Description" : null
+            },
+            {
+               "Description" : null,
+               "RateId" : "**",
+               "Currency" : "GBP",
+               "Date" : "2019-07-16",
+               "Rate" : "20"
+            },
+            {
+               "Description" : null,
+               "RateId" : "**",
+               "Currency" : "GBP",
+               "Date" : "2019-07-17",
+               "Rate" : "20"
+            }
+         ],
+         "OccupantNote" : "",
+         "Units" : "1",
+         "RoomTypeIds" : [
+            125291
+         ],
+         "RateDesc" : "",
+         "RoomDesc" : "Bed in dormitory CAPACITY 9",
+         "StartDate" : "2019-07-15",
+         "EndDate" : "2019-07-17",
+         "Price" : 60,
+         "Breakfast" : false,
+         "Occupancy" : 2,
+         "RateId" : "**",
+         "Adults" : "2",
+         "Babies" : "0",
+         "MyallocatorRateplanIds" : [],
+         "Children" : "0",
+         "ChannelRoomType" : "0xlncmz7h6mb5mke7zdy8",
+         "RoomOrderId" : "1",
+         "Currency" : "GBP"
+      }
+   ],
+   "MyallocatorCreationTime" : "14:01:13",
+   "MarkedAsRead" : false,
+   "TotalCurrency" : "GBP",
+   "PropertyId" : "46139"
+}

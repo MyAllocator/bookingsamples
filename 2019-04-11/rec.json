@@ -1,0 +1,72 @@
+{
+   "IsModification" : true,
+   "TotalPrice" : "1992",
+   "EndDate" : "2019-04-16",
+   "Version" : 2,
+   "Acknowledged" : false,
+   "MyallocatorId" : "18853b8f0ba27093dbe144bfa",
+   "Customers" : [
+      {
+         "CustomerCountry" : "SE",
+         "CustomerPostCode" : "961 36",
+         "CustomerFax" : "46-921-349303",
+         "CustomerFName" : "James",
+         "CustomerCity" : "Boden",
+         "CustomerAddress" : "CENSORED",
+         "CustomerLName" : "Wilson",
+         "CustomerCompany" : "CENSORED",
+         "CustomerNote" : "CENSORED",
+         "CustomerEmail" : "james.wilson@yahoo.com",
+         "CustomerPhone" : "mz2e8n9668buy"
+      }
+   ],
+   "TotalCurrency" : "SEK",
+   "OrderTime" : "06:33:16",
+   "PropertyId" : "00013",
+   "MarkedAsRead" : false,
+   "MyallocatorCreationTime" : "11:35:36",
+   "IsCancellation" : false,
+   "Rooms" : [
+      {
+         "MyallocatorRateplanIds" : [],
+         "Price" : "1992",
+         "ChannelRoomType" : "WNZL",
+         "Currency" : "SEK",
+         "RateDesc" : "",
+         "RoomDesc" : "SING: Singlebed, free wi-fi, ,cable/satellite TV, bathro",
+         "StartDate" : "2019-04-15",
+         "EndDate" : "2019-04-16",
+         "Units" : "1",
+         "RoomTypeIds" : [
+            175919
+         ],
+         "RateId" : "",
+         "Breakfast" : true,
+         "DayRates" : [
+            {
+               "Currency" : "SEK",
+               "Rate" : "996",
+               "Date" : "2019-04-15",
+               "Description" : null
+            },
+            {
+               "Description" : null,
+               "Currency" : "SEK",
+               "Date" : "2019-04-16",
+               "Rate" : "996"
+            }
+         ]
+      }
+   ],
+   "Channel" : "rec",
+   "OrderId" : "2tnkvt5cxuv3",
+   "MyallocatorPIIRemoved" : null,
+   "StartDate" : "2019-04-15",
+   "CommissionCurrency" : "SEK",
+   "MyallocatorModificationDate" : "2019-04-11",
+   "MyallocatorModificationTime" : "06:35:47",
+   "IsTentative" : 0,
+   "Commission" : "0",
+   "OrderDate" : "2019-04-11",
+   "MyallocatorCreationDate" : "2019-03-26"
+}

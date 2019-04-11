@@ -1,0 +1,67 @@
+{
+   "IsTentative" : 0,
+   "StartDate" : "2019-04-11",
+   "MyallocatorPIIRemoved" : null,
+   "MyallocatorModificationDate" : "2019-04-11",
+   "MyallocatorModificationTime" : "14:11:52",
+   "OrderId" : "63393426",
+   "Channel" : "hotu",
+   "MyallocatorCreationDate" : "2019-04-11",
+   "OrderDate" : "2019-04-11",
+   "Acknowledged" : false,
+   "Customers" : [
+      {
+         "CustomerLName" : "Williams",
+         "CustomerNote" : ""
+      }
+   ],
+   "MyallocatorId" : "1ba5e3b8de2691d0799b58a67",
+   "EndDate" : "2019-04-12",
+   "Version" : 0,
+   "TotalPrice" : "85.32",
+   "PaymentCollect" : "Channel",
+   "IsModification" : false,
+   "IsCancellation" : false,
+   "Rooms" : [
+      {
+         "RoomTypeIds" : [
+            131165
+         ],
+         "RateId" : "VR",
+         "Units" : "1",
+         "Breakfast" : true,
+         "DayRates" : [
+            {
+               "RateId" : "VR",
+               "Commission" : "0.00",
+               "Currency" : "EUR",
+               "Rate" : "29.53",
+               "Date" : "2019-04-11",
+               "Description" : "Cama de casal(Double bed). Percentage commission is 0%. Booking center commission is 0%"
+            },
+            {
+               "Commission" : "0.00",
+               "RateId" : "VR",
+               "Rate" : "55.79",
+               "Date" : "2019-04-12",
+               "Currency" : "EUR",
+               "Description" : "Cama de casal(Double bed). Percentage commission is 0%. Booking center commission is 0%"
+            }
+         ],
+         "Currency" : "EUR",
+         "ChannelRoomType" : "26",
+         "Price" : 85.32,
+         "MyallocatorRateplanIds" : [],
+         "StartDate" : "2019-04-11",
+         "Policy" : "MEALPLAN INFORMATION: OB (Only Bed) CANCELLATION POLICY: After 999 days in advance a penalty of 100 percent is applied. PAYMENT TYPE: Hotel Prepayment (The booking will be paid by the travel agency before the check-in date directly at the hotel.)",
+         "EndDate" : "2019-04-12",
+         "RateDesc" : "",
+         "RoomDesc" : "Double/twin (2 pers)"
+      }
+   ],
+   "MyallocatorCreationTime" : "14:11:52",
+   "MarkedAsRead" : false,
+   "TotalCurrency" : "EUR",
+   "PropertyId" : "15029",
+   "OrderTime" : "16:09:00"
+}

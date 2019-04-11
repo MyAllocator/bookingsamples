@@ -1,0 +1,114 @@
+{
+   "Deposit" : "0.00",
+   "PropertyId" : "56391",
+   "OrderTime" : "13:57:26",
+   "TotalCurrency" : "HUF",
+   "Rooms" : [
+      {
+         "DayRates" : [
+            {
+               "RateId" : "80531",
+               "Date" : "2019-05-20",
+               "Rate" : 4972,
+               "Description" : null
+            },
+            {
+               "RateId" : "80531",
+               "Rate" : 4972,
+               "Date" : "2019-05-21",
+               "Description" : null
+            }
+         ],
+         "OccupantNote" : "",
+         "RoomTypeIds" : [
+            100796
+         ],
+         "Units" : "1",
+         "EndDate" : "2019-05-21",
+         "Policy" : "",
+         "StartDate" : "2019-05-20",
+         "RateDesc" : "",
+         "RoomDesc" : "14-Bed Mixed Dorm",
+         "Price" : "9944.00",
+         "Occupancy" : 1,
+         "OccupantFName" : "",
+         "RateId" : "80531",
+         "OccupantLName" : "",
+         "MyallocatorRateplanIds" : [],
+         "Currency" : "HUF",
+         "ChannelRoomType" : "35777"
+      },
+      {
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "16874",
+         "Currency" : "HUF",
+         "OccupantLName" : "",
+         "RateId" : "80531",
+         "OccupantFName" : "",
+         "Occupancy" : 1,
+         "Price" : "9944.00",
+         "RoomDesc" : "14-Bed Mixed Dorm",
+         "RateDesc" : "",
+         "EndDate" : "2019-05-21",
+         "StartDate" : "2019-05-20",
+         "Policy" : "",
+         "Units" : "1",
+         "RoomTypeIds" : [
+            100796
+         ],
+         "DayRates" : [
+            {
+               "RateId" : "80531",
+               "Date" : "2019-05-20",
+               "Rate" : 4972,
+               "Description" : null
+            },
+            {
+               "Description" : null,
+               "Date" : "2019-05-21",
+               "Rate" : 4972,
+               "RateId" : "80531"
+            }
+         ],
+         "OccupantNote" : ""
+      }
+   ],
+   "IsCancellation" : false,
+   "TotalTaxesCurrency" : "HUF",
+   "MyallocatorCreationTime" : "13:57:28",
+   "MarkedAsRead" : true,
+   "TotalPrice" : "19888.00",
+   "MyallocatorCreditCardDetailsPresent" : true,
+   "IsModification" : false,
+   "Customers" : [
+      {
+         "CustomerLName" : "Cain",
+         "CustomerCompany" : "",
+         "CustomerFName" : "Liam",
+         "CustomerAddress" : "CENSORED",
+         "CustomerCity" : "",
+         "CustomerPostCode" : "",
+         "CustomerCountry" : "ca",
+         "CustomerPhone" : "7967832722",
+         "CustomerNote" : "",
+         "CustomerEmail" : "liam.cain@lycos.com"
+      }
+   ],
+   "MyallocatorId" : "43f2ed4f27e8a20a4c2e299ad",
+   "DepositDue" : "9,944.00",
+   "Acknowledged" : true,
+   "EndDate" : "2019-05-21",
+   "Version" : 0,
+   "OrderDate" : "2019-04-11",
+   "Commission" : 0,
+   "TotalTaxes" : 0,
+   "MyallocatorCreationDate" : "2019-04-11",
+   "OrderId" : "4334901192",
+   "Channel" : "ho",
+   "IsTentative" : 0,
+   "MyallocatorModificationTime" : "13:57:28",
+   "MyallocatorModificationDate" : "2019-04-11",
+   "StartDate" : "2019-05-20",
+   "CommissionCurrency" : "HUF",
+   "MyallocatorPIIRemoved" : null
+}

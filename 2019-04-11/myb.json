@@ -1,0 +1,158 @@
+{
+   "OrderDate" : "2019-04-11",
+   "Commission" : 0,
+   "TotalTaxes" : 0,
+   "MyallocatorCreationDate" : "2019-04-11",
+   "OrderId" : "7639866239",
+   "Channel" : "myb",
+   "IsTentative" : 0,
+   "MyallocatorModificationTime" : "13:41:20",
+   "MyallocatorModificationDate" : "2019-04-11",
+   "StartDate" : "2019-04-24",
+   "CommissionCurrency" : "EUR",
+   "MyallocatorPIIRemoved" : null,
+   "Deposit" : "0.00",
+   "PropertyId" : "3481",
+   "OrderTime" : "13:41:14",
+   "TotalCurrency" : "EUR",
+   "Rooms" : [
+      {
+         "Currency" : "EUR",
+         "ChannelRoomType" : "0468",
+         "MyallocatorRateplanIds" : [],
+         "OccupantLName" : "",
+         "RateId" : "13806",
+         "Occupancy" : 1,
+         "OccupantFName" : "",
+         "Price" : "21.50",
+         "EndDate" : "2019-04-24",
+         "Policy" : "",
+         "StartDate" : "2019-04-24",
+         "RateDesc" : "",
+         "RoomDesc" : "4 Bed Mixed Dormitory - Standard",
+         "RoomTypeIds" : [
+            9979
+         ],
+         "Units" : "1",
+         "OccupantNote" : "",
+         "DayRates" : [
+            {
+               "Description" : null,
+               "RateId" : "13806",
+               "Rate" : 21.5,
+               "Date" : "2019-04-24"
+            }
+         ]
+      },
+      {
+         "OccupantFName" : "",
+         "Occupancy" : 1,
+         "RateId" : "13806",
+         "OccupantLName" : "",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "7822",
+         "Currency" : "EUR",
+         "DayRates" : [
+            {
+               "Description" : null,
+               "RateId" : "13806",
+               "Date" : "2019-04-24",
+               "Rate" : 21.5
+            }
+         ],
+         "OccupantNote" : "",
+         "Units" : "1",
+         "RoomTypeIds" : [
+            9979
+         ],
+         "RoomDesc" : "4 Bed Mixed Dormitory - Standard",
+         "RateDesc" : "",
+         "EndDate" : "2019-04-24",
+         "StartDate" : "2019-04-24",
+         "Policy" : "",
+         "Price" : "21.50"
+      },
+      {
+         "Price" : "21.50",
+         "EndDate" : "2019-04-24",
+         "Policy" : "",
+         "StartDate" : "2019-04-24",
+         "RoomDesc" : "4 Bed Mixed Dormitory - Standard",
+         "RateDesc" : "",
+         "RoomTypeIds" : [
+            9979
+         ],
+         "Units" : "1",
+         "OccupantNote" : "",
+         "DayRates" : [
+            {
+               "Date" : "2019-04-24",
+               "Rate" : 21.5,
+               "RateId" : "13806",
+               "Description" : null
+            }
+         ],
+         "Currency" : "EUR",
+         "ChannelRoomType" : "3613",
+         "MyallocatorRateplanIds" : [],
+         "OccupantLName" : "",
+         "RateId" : "13806",
+         "Occupancy" : 1,
+         "OccupantFName" : ""
+      },
+      {
+         "RoomTypeIds" : [
+            9979
+         ],
+         "Units" : "1",
+         "DayRates" : [
+            {
+               "Description" : null,
+               "RateId" : "13806",
+               "Date" : "2019-04-24",
+               "Rate" : 21.5
+            }
+         ],
+         "OccupantNote" : "",
+         "Price" : "21.50",
+         "EndDate" : "2019-04-24",
+         "StartDate" : "2019-04-24",
+         "Policy" : "",
+         "RoomDesc" : "4 Bed Mixed Dormitory - Standard",
+         "RateDesc" : "",
+         "RateId" : "13806",
+         "Occupancy" : 1,
+         "OccupantFName" : "",
+         "MyallocatorRateplanIds" : [],
+         "Currency" : "EUR",
+         "ChannelRoomType" : "2644",
+         "OccupantLName" : ""
+      }
+   ],
+   "IsCancellation" : false,
+   "TotalTaxesCurrency" : "EUR",
+   "MyallocatorCreationTime" : "13:41:20",
+   "MarkedAsRead" : false,
+   "TotalPrice" : "86.00",
+   "MyallocatorCreditCardDetailsPresent" : true,
+   "IsModification" : false,
+   "Customers" : [
+      {
+         "CustomerCompany" : "",
+         "CustomerLName" : "Smith",
+         "CustomerCity" : "M\u00fcnchen",
+         "CustomerAddress" : "CENSORED",
+         "CustomerFName" : "Noah",
+         "CustomerPostCode" : "80801",
+         "CustomerCountry" : "de",
+         "CustomerPhone" : "172891013054",
+         "CustomerEmail" : "noah.smith@aol.com",
+         "CustomerNote" : "CENSORED"
+      }
+   ],
+   "MyallocatorId" : "85b9d3dbe1b570e22f5731aca",
+   "DepositDue" : "86.00",
+   "Acknowledged" : false,
+   "Version" : 0,
+   "EndDate" : "2019-04-24"
+}

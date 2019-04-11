@@ -1,0 +1,43 @@
+{
+   "Rooms" : [
+      {
+         "EndDate" : "2018-11-28",
+         "StartDate" : "2018-11-28",
+         "RoomDesc" : "Double with shared bathroom",
+         "Price" : "27",
+         "MyallocatorRateplanIds" : [],
+         "Currency" : "EUR",
+         "ChannelRoomType" : "308",
+         "RoomTypeIds" : [
+            120657
+         ],
+         "Units" : "1"
+      }
+   ],
+   "IsCancellation" : false,
+   "MarkedAsRead" : false,
+   "MyallocatorCreationTime" : "15:42:08",
+   "PropertyId" : "12089",
+   "TotalCurrency" : "EUR",
+   "MyallocatorId" : "e01f916bf7b729df807e73e57",
+   "Customers" : [
+      {
+         "CustomerLName" : "Taylor",
+         "CustomerNote" : ""
+      }
+   ],
+   "Acknowledged" : false,
+   "Version" : 0,
+   "EndDate" : "2018-11-28",
+   "TotalPrice" : "27",
+   "IsModification" : false,
+   "MyallocatorCreationDate" : "2018-11-13",
+   "OrderDate" : "2018-11-13",
+   "IsTentative" : 0,
+   "MyallocatorModificationTime" : "15:42:08",
+   "MyallocatorModificationDate" : "2018-11-13",
+   "MyallocatorPIIRemoved" : null,
+   "StartDate" : "2018-11-28",
+   "OrderId" : "0498738631",
+   "Channel" : "ini"
+}

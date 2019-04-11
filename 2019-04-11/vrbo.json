@@ -1,0 +1,37 @@
+{
+   "Customers" : [
+      {
+         "CustomerNote" : "CENSORED",
+         "CustomerLName" : "Davis"
+      }
+   ],
+   "MyallocatorId" : "536d60041f6e591dc8761eb2e",
+   "Acknowledged" : false,
+   "EndDate" : "2019-07-06",
+   "Version" : 0,
+   "IsModification" : false,
+   "Rooms" : [
+      {
+         "RoomTypeIds" : [
+            138497
+         ],
+         "Units" : "1",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "https://admin.vrbo.com/CENSORED",
+         "StartDate" : "2019-07-04",
+         "EndDate" : "2019-07-06"
+      }
+   ],
+   "IsCancellation" : false,
+   "MyallocatorCreationTime" : "14:02:04",
+   "MarkedAsRead" : false,
+   "PropertyId" : "12801",
+   "IsTentative" : 0,
+   "MyallocatorModificationDate" : "2019-04-11",
+   "MyallocatorModificationTime" : "14:02:04",
+   "StartDate" : "2019-07-04",
+   "MyallocatorPIIRemoved" : null,
+   "OrderId" : "iuel34h86jm0uyfgc8sj8ezbh65vau6pjxwx",
+   "Channel" : "vrbo",
+   "MyallocatorCreationDate" : "2019-04-11"
+}

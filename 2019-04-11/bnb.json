@@ -1,0 +1,47 @@
+{
+   "Version" : 0,
+   "EndDate" : "2019-06-05",
+   "MyallocatorId" : "55403745daf4ba11cfb893203",
+   "Customers" : [
+      {
+         "CustomerLName" : "Moore",
+         "CustomerPhone" : "1483145507006",
+         "CustomerFName" : "Isabella",
+         "CustomerNote" : "",
+         "CustomerEmail" : "isabella.moore@lycos.com",
+         "CustomerCountry" : "Germany"
+      }
+   ],
+   "Acknowledged" : false,
+   "IsModification" : false,
+   "TotalPrice" : "0.03",
+   "MarkedAsRead" : false,
+   "MyallocatorCreationTime" : "21:14:40",
+   "Rooms" : [
+      {
+         "ChannelRoomType" : "4184332",
+         "MyallocatorRateplanIds" : [],
+         "Price" : "0.03",
+         "StartDate" : "2019-06-03",
+         "EndDate" : "2019-06-05",
+         "RoomDesc" : "Prainha Room",
+         "RoomTypeIds" : [
+            168885
+         ],
+         "Units" : "1"
+      }
+   ],
+   "IsCancellation" : false,
+   "OrderTime" : "22:13:23",
+   "PropertyId" : "75136",
+   "TotalCurrency" : "EUR",
+   "MyallocatorModificationDate" : "2019-03-10",
+   "MyallocatorModificationTime" : "21:14:40",
+   "MyallocatorPIIRemoved" : null,
+   "StartDate" : "2019-06-03",
+   "IsTentative" : 0,
+   "Channel" : "bnb",
+   "OrderId" : "388927",
+   "MyallocatorCreationDate" : "2019-03-10",
+   "OrderDate" : "2019-03-10"
+}

@@ -1,0 +1,47 @@
+{
+   "OrderId" : "3435",
+   "Channel" : "col",
+   "IsTentative" : 0,
+   "MyallocatorModificationDate" : "2019-04-02",
+   "MyallocatorModificationTime" : "08:57:05",
+   "StartDate" : "2019-04-09",
+   "MyallocatorPIIRemoved" : null,
+   "OrderDate" : "2019-04-02",
+   "MyallocatorCreationDate" : "2019-04-02",
+   "TotalPrice" : 8,
+   "IsModification" : false,
+   "Customers" : [
+      {
+         "CustomerLName" : "Walker",
+         "CustomerEmail" : "emily.walker@inbox.com",
+         "CustomerFName" : "Emily",
+         "CustomerNote" : "",
+         "CustomerCountry" : "VN"
+      }
+   ],
+   "MyallocatorId" : "c91f3477f2820217e7da64e74",
+   "Acknowledged" : false,
+   "EndDate" : "2019-05-02",
+   "Version" : 0,
+   "PropertyId" : "44320",
+   "OrderTime" : "08:25:22",
+   "TotalCurrency" : "USD",
+   "Rooms" : [
+      {
+         "Currency" : "USD",
+         "ChannelRoomType" : "752",
+         "MyallocatorRateplanIds" : [],
+         "Price" : 8,
+         "EndDate" : "2019-05-02",
+         "StartDate" : "2019-04-09",
+         "RoomDesc" : "Test add room type",
+         "RoomTypeIds" : [
+            -1
+         ],
+         "Units" : "1"
+      }
+   ],
+   "IsCancellation" : false,
+   "MyallocatorCreationTime" : "08:57:05",
+   "MarkedAsRead" : false
+}

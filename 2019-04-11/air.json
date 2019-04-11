@@ -1,0 +1,41 @@
+{
+   "MyallocatorModificationDate" : "2019-04-11",
+   "MyallocatorModificationTime" : "13:53:57",
+   "StartDate" : "2019-04-12",
+   "MyallocatorPIIRemoved" : null,
+   "IsTentative" : 0,
+   "Channel" : "air",
+   "OrderId" : "srpcvdcx29",
+   "MyallocatorCreationDate" : "2019-04-11",
+   "EndDate" : "2019-04-13",
+   "Version" : 0,
+   "Customers" : [
+      {
+         "CustomerEmail" : "cain@yahoo.com",
+         "CustomerNote" : "",
+         "CustomerPhone" : "7638653290378647",
+         "CustomerLName" : "Cain"
+      }
+   ],
+   "MyallocatorId" : "3009b860dcaa5393d170465c0",
+   "Acknowledged" : false,
+   "IsModification" : false,
+   "MyallocatorCreationTime" : "13:53:57",
+   "MarkedAsRead" : false,
+   "Rooms" : [
+      {
+         "RoomTypeIds" : [
+            29194
+         ],
+         "Units" : "1",
+         "StartDate" : "2019-04-12",
+         "EndDate" : "2019-04-13",
+         "RoomDesc" : "Nice and cosy twin room ensuite @ A Hostel",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "https://www.airbnb.co.uk/CENSORED"
+      }
+   ],
+   "IsCancellation" : false,
+   "PropertyId" : "6250",
+   "ma_callback_qbid" : 35835407
+}

@@ -1,0 +1,51 @@
+{
+   "CommissionIncludedInTotal" : true,
+   "EndDate" : "2019-05-04",
+   "Version" : 0,
+   "Customers" : [
+      {
+         "CustomerNote" : "",
+         "CustomerLName" : "Martinez"
+      }
+   ],
+   "MyallocatorId" : "6d5632f2873d6f6acd4603824",
+   "Acknowledged" : false,
+   "IsModification" : false,
+   "TotalPrice" : "5456.01",
+   "TotalTaxesCurrency" : "INR",
+   "MyallocatorCreationTime" : "14:55:07",
+   "MarkedAsRead" : false,
+   "Rooms" : [
+      {
+         "OccupantNote" : "",
+         "Breakfast" : null,
+         "Adults" : "2",
+         "Units" : "1",
+         "RateId" : "5332070",
+         "RoomTypeIds" : [
+            80315
+         ],
+         "RoomDesc" : "Deluxe A/C Room River View ",
+         "RateDesc" : "Deluxe AC Room River View- EP Plan (Sell, 04/02/2016 - 30/03/2021)",
+         "StartDate" : "2019-05-04",
+         "EndDate" : "2019-05-04",
+         "ChannelRoomType" : "11741823603",
+         "MyallocatorRateplanIds" : [],
+         "Children" : "0"
+      }
+   ],
+   "IsCancellation" : false,
+   "PropertyId" : "68789",
+   "OrderTime" : "20:20:04",
+   "TotalCurrency" : "INR",
+   "MyallocatorModificationTime" : "14:55:07",
+   "MyallocatorModificationDate" : "2019-04-03",
+   "StartDate" : "2019-05-04",
+   "MyallocatorPIIRemoved" : null,
+   "IsTentative" : 0,
+   "Channel" : "clt",
+   "OrderId" : "70844830530",
+   "TotalTaxes" : "792.0",
+   "MyallocatorCreationDate" : "2019-04-03",
+   "OrderDate" : "2019-04-03"
+}

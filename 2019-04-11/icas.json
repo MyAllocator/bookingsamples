@@ -1,0 +1,84 @@
+{
+   "Acknowledged" : false,
+   "MyallocatorId" : "5057f1997cc6b09f8c90faa0f",
+   "Customers" : [
+      {
+         "CustomerCountry" : "IT",
+         "CustomerLName" : "",
+         "CustomerFName" : "James",
+         "CustomerNote" : "",
+         "CustomerEmail" : "james@gmx.com"
+      }
+   ],
+   "EndDate" : "2019-08-03",
+   "Version" : 0,
+   "TotalPrice" : "6194.00",
+   "IsModification" : false,
+   "IsCancellation" : false,
+   "Rooms" : [
+      {
+         "RateId" : "2",
+         "RoomTypeIds" : [
+            -1
+         ],
+         "Units" : "1",
+         "DayRates" : [
+            {
+               "RateId" : "2",
+               "Date" : "2019-07-29",
+               "Rate" : "1032.33",
+               "Description" : "Refundable rate"
+            },
+            {
+               "Date" : "2019-07-30",
+               "Rate" : "1032.33",
+               "RateId" : "2",
+               "Description" : "Refundable rate"
+            },
+            {
+               "RateId" : "2",
+               "Rate" : "1032.33",
+               "Date" : "2019-07-31",
+               "Description" : "Refundable rate"
+            },
+            {
+               "Description" : "Refundable rate",
+               "Date" : "2019-08-01",
+               "Rate" : "1032.33",
+               "RateId" : "2"
+            },
+            {
+               "Description" : "Refundable rate",
+               "RateId" : "2",
+               "Date" : "2019-08-02",
+               "Rate" : "1032.33"
+            },
+            {
+               "Description" : "Refundable rate",
+               "Date" : "2019-08-03",
+               "Rate" : "1032.33",
+               "RateId" : "2"
+            }
+         ],
+         "Currency" : "EUR",
+         "ChannelRoomType" : "19145",
+         "MyallocatorRateplanIds" : [],
+         "Price" : "6194.00",
+         "StartDate" : "2019-07-29",
+         "EndDate" : "2019-08-03",
+         "RateDesc" : ""
+      }
+   ],
+   "MarkedAsRead" : false,
+   "MyallocatorCreationTime" : "10:04:31",
+   "TotalCurrency" : "EUR",
+   "PropertyId" : "91863",
+   "IsTentative" : 0,
+   "MyallocatorPIIRemoved" : null,
+   "StartDate" : "2019-07-29",
+   "MyallocatorModificationDate" : "2019-03-14",
+   "MyallocatorModificationTime" : "10:04:31",
+   "OrderId" : "2929490922",
+   "Channel" : "icas",
+   "MyallocatorCreationDate" : "2019-03-14"
+}

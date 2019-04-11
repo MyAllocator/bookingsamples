@@ -1,0 +1,53 @@
+{
+   "Version" : 0,
+   "EndDate" : "2019-05-11",
+   "MyallocatorId" : "d28a2f036333dce4605b4aea6",
+   "Customers" : [
+      {
+         "CustomerLName" : "Taylor",
+         "CustomerFName" : "Benjamin",
+         "CustomerPhone" : "36458126135",
+         "CustomerNote" : "",
+         "CustomerEmail" : "benjamin.taylor@zoho.com"
+      }
+   ],
+   "Acknowledged" : false,
+   "IsModification" : false,
+   "TotalPrice" : 146.88,
+   "TotalTaxesCurrency" : "USD",
+   "MarkedAsRead" : false,
+   "MyallocatorCreationTime" : "12:35:23",
+   "OrderSource" : "Expedia - Expedia",
+   "Rooms" : [
+      {
+         "RoomTypeIds" : [
+            127993
+         ],
+         "Units" : "1",
+         "Adults" : 2,
+         "Children" : 0,
+         "MyallocatorRateplanIds" : [],
+         "Price" : 146.88,
+         "Currency" : "USD",
+         "ChannelRoomType" : "702080",
+         "EndDate" : "2019-05-11",
+         "StartDate" : "2019-05-10",
+         "RoomDesc" : "Huntington I"
+      }
+   ],
+   "IsCancellation" : false,
+   "OrderTime" : "07:34:16",
+   "PropertyId" : "56703",
+   "TotalCurrency" : "USD",
+   "ma_callback_qbid" : 34968258,
+   "MyallocatorModificationTime" : "12:35:23",
+   "MyallocatorModificationDate" : "2019-04-01",
+   "MyallocatorPIIRemoved" : null,
+   "StartDate" : "2019-05-10",
+   "IsTentative" : 0,
+   "Channel" : "bnb2",
+   "OrderId" : "634406444",
+   "TotalTaxes" : 10.88,
+   "MyallocatorCreationDate" : "2019-04-01",
+   "OrderDate" : "2019-04-01"
+}

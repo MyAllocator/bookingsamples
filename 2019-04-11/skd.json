@@ -1,0 +1,49 @@
+{
+   "OrderDate" : "2018-05-29",
+   "MyallocatorCreationDate" : "2018-05-29",
+   "OrderId" : "qpexlhq5b4x8luc0qv80",
+   "Channel" : "skd",
+   "OrderCustomers" : "1",
+   "IsTentative" : 0,
+   "MyallocatorModificationTime" : "12:02:04",
+   "MyallocatorModificationDate" : "2018-05-29",
+   "MyallocatorPIIRemoved" : null,
+   "StartDate" : "2018-10-15",
+   "PropertyId" : "9521",
+   "TotalCurrency" : "ZAR",
+   "Rooms" : [
+      {
+         "RoomTypeIds" : [
+            46172
+         ],
+         "Units" : "1",
+         "Adults" : 1,
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "8bxqmn",
+         "StartDate" : "2018-10-15",
+         "EndDate" : "2018-10-15",
+         "RoomDesc" : "<p><span>Airy high ceiling 6 bed mixed dorms, all with en-suite bathrooms on the first and second floor.All our beds are 2m long .Like all our rooms, the bathroom is ensuite access is keycard controlled. Towels and linen are provided andyour bed is made up for you every day. Upper floors are accessible by stairs only. There are sockets near all beds and free wifi is available.</span></p>"
+      }
+   ],
+   "IsCancellation" : false,
+   "MarkedAsRead" : false,
+   "MyallocatorCreationTime" : "12:02:04",
+   "TotalPrice" : 221,
+   "IsModification" : false,
+   "MyallocatorId" : "dacd4e92c00857e144defc4bd",
+   "Customers" : [
+      {
+         "CustomerLName" : "Jackson",
+         "CustomerFName" : "Jacob",
+         "CustomerCity" : "Toronto",
+         "CustomerAddress" : "CENSORED",
+         "CustomerPostCode" : "M4P1L9",
+         "CustomerCountry" : "CA",
+         "CustomerNote" : "",
+         "CustomerEmail" : "jacob.jackson@inbox.com"
+      }
+   ],
+   "Acknowledged" : false,
+   "Version" : 0,
+   "EndDate" : "2018-10-15"
+}

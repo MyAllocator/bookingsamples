@@ -1,0 +1,52 @@
+{
+   "IsModification" : false,
+   "TotalPrice" : "709650.00",
+   "Version" : 0,
+   "EndDate" : "2019-04-11",
+   "Acknowledged" : false,
+   "Customers" : [
+      {
+         "CustomerNote" : "",
+         "CustomerLName" : "Smith"
+      }
+   ],
+   "MyallocatorId" : "bc37177e09f1054dc484981c8",
+   "TotalCurrency" : "IDR",
+   "PropertyId" : "73899",
+   "MyallocatorCreationTime" : "07:03:55",
+   "MarkedAsRead" : false,
+   "IsCancellation" : false,
+   "Rooms" : [
+      {
+         "MyallocatorRateplanIds" : [],
+         "Price" : "709650.00",
+         "Currency" : "IDR",
+         "ChannelRoomType" : "0020781",
+         "EndDate" : "2019-04-11",
+         "StartDate" : "2019-04-11",
+         "RateDesc" : "",
+         "RoomDesc" : "Deluxe Villa",
+         "RateId" : "",
+         "RoomTypeIds" : [
+            182156
+         ],
+         "Units" : "1",
+         "DayRates" : [
+            {
+               "Date" : "2019-04-11",
+               "Rate" : "709650.00",
+               "Description" : null
+            }
+         ]
+      }
+   ],
+   "Channel" : "tikm",
+   "OrderId" : "9060299",
+   "StartDate" : "2019-04-11",
+   "MyallocatorPIIRemoved" : null,
+   "MyallocatorModificationTime" : "07:03:55",
+   "MyallocatorModificationDate" : "2019-04-11",
+   "IsTentative" : 0,
+   "OrderDate" : "2019-04-11",
+   "MyallocatorCreationDate" : "2019-04-11"
+}

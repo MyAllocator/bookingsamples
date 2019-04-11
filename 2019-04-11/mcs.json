@@ -1,0 +1,80 @@
+{
+   "IsCancellation" : false,
+   "Rooms" : [
+      {
+         "Units" : "1",
+         "RoomTypeIds" : [
+            83982
+         ],
+         "DayRates" : [
+            {
+               "Description" : null,
+               "RateId" : "50471",
+               "Date" : "2019-04-13",
+               "Rate" : 109
+            },
+            {
+               "RateId" : "50471",
+               "Rate" : 93,
+               "Date" : "2019-04-14",
+               "Description" : null
+            }
+         ],
+         "OccupantNote" : "",
+         "Price" : "202.00",
+         "RateDesc" : "",
+         "RoomDesc" : "1 Bedroom for 2-4pax",
+         "Policy" : "",
+         "EndDate" : "2019-04-14",
+         "StartDate" : "2019-04-13",
+         "RateId" : "50471",
+         "OccupantFName" : "",
+         "Occupancy" : 3,
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "85648",
+         "Currency" : "EUR",
+         "OccupantLName" : ""
+      }
+   ],
+   "MyallocatorCreationTime" : "14:11:05",
+   "MarkedAsRead" : false,
+   "TotalTaxesCurrency" : "EUR",
+   "Deposit" : "0.00",
+   "TotalCurrency" : "EUR",
+   "PropertyId" : "63052",
+   "OrderTime" : "14:11:02",
+   "Acknowledged" : false,
+   "Customers" : [
+      {
+         "CustomerPostCode" : "",
+         "CustomerCountry" : "es",
+         "CustomerCompany" : "",
+         "CustomerLName" : "Hall",
+         "CustomerAddress" : "CENSORED",
+         "CustomerCity" : "",
+         "CustomerFName" : "Ethan",
+         "CustomerPhone" : "999191035",
+         "CustomerEmail" : "ethan.hall@outlook.com",
+         "CustomerNote" : ""
+      }
+   ],
+   "DepositDue" : "0.00",
+   "MyallocatorId" : "233451fa6e9d0772c925455a2",
+   "Version" : 0,
+   "EndDate" : "2019-04-14",
+   "TotalPrice" : "202.00",
+   "MyallocatorCreditCardDetailsPresent" : true,
+   "IsModification" : false,
+   "MyallocatorCreationDate" : "2019-04-11",
+   "TotalTaxes" : 0,
+   "OrderDate" : "2019-04-11",
+   "Commission" : 0,
+   "IsTentative" : 0,
+   "StartDate" : "2019-04-13",
+   "CommissionCurrency" : "EUR",
+   "MyallocatorPIIRemoved" : null,
+   "MyallocatorModificationTime" : "14:11:05",
+   "MyallocatorModificationDate" : "2019-04-11",
+   "OrderId" : "0980520848",
+   "Channel" : "mcs"
+}

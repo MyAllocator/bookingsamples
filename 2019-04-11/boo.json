@@ -1,0 +1,131 @@
+{
+   "Commission" : "14700",
+   "OrderDate" : "2019-02-01",
+   "MyallocatorCreationDate" : "2019-02-01",
+   "Channel" : "boo",
+   "OrderId" : "1191100593",
+   "MyallocatorPIIRemoved" : null,
+   "StartDate" : "2019-04-15",
+   "CommissionCurrency" : "COP",
+   "MyallocatorModificationDate" : "2019-04-11",
+   "MyallocatorModificationTime" : "13:54:41",
+   "IsTentative" : 0,
+   "TotalCurrency" : "COP",
+   "OrderTime" : "17:27:37",
+   "PropertyId" : "73005",
+   "ma_callback_qbid" : 35835420,
+   "MarkedAsRead" : false,
+   "MyallocatorCreationTime" : "16:27:53",
+   "IsCancellation" : false,
+   "Rooms" : [
+      {
+         "Occupancy" : "1",
+         "OccupantSmoker" : false,
+         "RateId" : "8862706",
+         "OccupantLName" : "White",
+         "MyallocatorRateplanIds" : [],
+         "Currency" : "COP",
+         "ChannelRoomType" : "539912553",
+         "DayRates" : [
+            {
+               "RateId" : "8862706",
+               "Currency" : "COP",
+               "Date" : "2019-04-15",
+               "Rate" : "35000",
+               "Description" : "Standard Rate"
+            }
+         ],
+         "OccupantNote" : "",
+         "RoomTypeIds" : [
+            113766
+         ],
+         "Units" : "1",
+         "Policy" : "Enjoy a convenient breakfast at the property for COP 10,000 per person, per night. Children and Extra Bed Policy: Children cannot be accommodated at the hotel. There is no capacity for extra beds in the room.  Deposit Policy: No deposit will be charged.  Cancellation Policy: If canceled or modified up to 1 day before the date of arrival,  no fee will be charged. If canceled or modified later or in case of no-show, 100 percent of the first night will be charged. \n\nMeal Plan: Enjoy a convenient breakfast at the property for COP 10,000 per person, per night.",
+         "StartDate" : "2019-04-15",
+         "EndDate" : "2019-04-15",
+         "RoomDesc" : "Bed in 10-Bed Mixed Dormitory Room",
+         "RateDesc" : "Standard Rate",
+         "Price" : 35000
+      },
+      {
+         "RateId" : "8862706",
+         "OccupantSmoker" : false,
+         "Occupancy" : "1",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "737818990",
+         "Currency" : "COP",
+         "OccupantLName" : "White",
+         "Units" : "1",
+         "RoomTypeIds" : [
+            113766
+         ],
+         "DayRates" : [
+            {
+               "Currency" : "COP",
+               "Date" : "2019-04-15",
+               "Rate" : "35000",
+               "RateId" : "8862706",
+               "Description" : "Standard Rate"
+            }
+         ],
+         "OccupantNote" : "",
+         "Price" : 35000,
+         "RoomDesc" : "Bed in 10-Bed Mixed Dormitory Room",
+         "RateDesc" : "Standard Rate",
+         "EndDate" : "2019-04-15",
+         "Policy" : "Enjoy a convenient breakfast at the property for COP 10,000 per person, per night. Children and Extra Bed Policy: Children cannot be accommodated at the hotel. There is no capacity for extra beds in the room.  Deposit Policy: No deposit will be charged.  Cancellation Policy: If canceled or modified up to 1 day before the date of arrival,  no fee will be charged. If canceled or modified later or in case of no-show, 100 percent of the first night will be charged. \n\nMeal Plan: Enjoy a convenient breakfast at the property for COP 10,000 per person, per night.",
+         "StartDate" : "2019-04-15"
+      },
+      {
+         "MyallocatorRateplanIds" : [],
+         "Currency" : "COP",
+         "ChannelRoomType" : "703378634",
+         "OccupantLName" : "White",
+         "RateId" : "8862706",
+         "Occupancy" : "1",
+         "OccupantSmoker" : false,
+         "Price" : 35000,
+         "StartDate" : "2019-04-15",
+         "Policy" : "Enjoy a convenient breakfast at the property for COP 10,000 per person, per night. Children and Extra Bed Policy: Children cannot be accommodated at the hotel. There is no capacity for extra beds in the room.  Deposit Policy: No deposit will be charged.  Cancellation Policy: If canceled or modified up to 1 day before the date of arrival,  no fee will be charged. If canceled or modified later or in case of no-show, 100 percent of the first night will be charged. \n\nMeal Plan: Enjoy a convenient breakfast at the property for COP 10,000 per person, per night.",
+         "EndDate" : "2019-04-15",
+         "RateDesc" : "Standard Rate",
+         "RoomDesc" : "Bed in 10-Bed Mixed Dormitory Room",
+         "RoomTypeIds" : [
+            113766
+         ],
+         "Units" : "1",
+         "DayRates" : [
+            {
+               "Description" : "Standard Rate",
+               "RateId" : "8862706",
+               "Date" : "2019-04-15",
+               "Rate" : "35000",
+               "Currency" : "COP"
+            }
+         ],
+         "OccupantNote" : ""
+      }
+   ],
+   "IsModification" : true,
+   "MyallocatorCreditCardDetailsPresent" : true,
+   "TotalPrice" : "105000",
+   "PaymentCollect" : "Property",
+   "EndDate" : "2019-04-15",
+   "Version" : 3,
+   "Acknowledged" : false,
+   "MyallocatorId" : "7e2c0bab34fd82c0a3f616724",
+   "Customers" : [
+      {
+         "CustomerCountry" : "CO",
+         "CustomerPostCode" : "250252",
+         "CustomerLName" : "White",
+         "CustomerCompany" : "",
+         "CustomerFName" : "Charlotte",
+         "CustomerCity" : "Zipaquira",
+         "CustomerAddress" : "CENSORED",
+         "CustomerPhone" : "261556209374481",
+         "CustomerNote" : "CENSORED",
+         "CustomerEmail" : "charlotte.white@yahoo.com"
+      }
+   ]
+}

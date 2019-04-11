@@ -1,0 +1,69 @@
+{
+   "OrderDate" : "2019-03-25",
+   "Commission" : "0.27",
+   "MyallocatorCreationDate" : "2019-03-25",
+   "Channel" : "stya",
+   "OrderId" : "172",
+   "CommissionCurrency" : "EUR",
+   "StartDate" : "2019-04-08",
+   "MyallocatorPIIRemoved" : null,
+   "MyallocatorModificationDate" : "2019-03-25",
+   "MyallocatorModificationTime" : "08:57:08",
+   "IsTentative" : 0,
+   "TotalCurrency" : "EUR",
+   "PropertyId" : "82735",
+   "OrderTime" : "08:39:35",
+   "MyallocatorCreationTime" : "08:57:08",
+   "MarkedAsRead" : false,
+   "IsCancellation" : false,
+   "Rooms" : [
+      {
+         "RateId" : "281",
+         "Currency" : "EUR",
+         "ChannelRoomType" : "52",
+         "MyallocatorRateplanIds" : [],
+         "OccupantLName" : "White",
+         "RoomTypeIds" : [
+            83778
+         ],
+         "Units" : "1",
+         "OccupantNote" : "",
+         "DayRates" : [
+            {
+               "RateId" : "281",
+               "Currency" : "EUR",
+               "Date" : "2019-04-08",
+               "Rate" : "54",
+               "Description" : "\u00dcbernachtung"
+            }
+         ],
+         "Price" : "54.00",
+         "EndDate" : "2019-04-08",
+         "Policy" : "",
+         "StartDate" : "2019-04-08",
+         "RateDesc" : "\u00dcbernachtung",
+         "RoomDesc" : "Einzelzimmer"
+      }
+   ],
+   "IsModification" : false,
+   "TotalPrice" : "54.00",
+   "PaymentCollect" : "Property",
+   "EndDate" : "2019-04-08",
+   "Version" : 0,
+   "Acknowledged" : false,
+   "Customers" : [
+      {
+         "CustomerCompany" : "",
+         "CustomerLName" : "White",
+         "CustomerCity" : "Soest",
+         "CustomerAddress" : "CENSORED",
+         "CustomerFName" : "Charlotte",
+         "CustomerCountry" : "",
+         "CustomerPostCode" : "59494",
+         "CustomerPhone" : "320794959794",
+         "CustomerEmail" : "charlotte.white@mail.com",
+         "CustomerNote" : ""
+      }
+   ],
+   "MyallocatorId" : "ca11f1e3e3d07ce69b22a1596"
+}

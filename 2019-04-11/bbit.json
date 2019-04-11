@@ -1,0 +1,45 @@
+{
+   "EndDate" : "2019-04-10",
+   "Version" : 0,
+   "Customers" : [
+      {
+         "CustomerPhone" : "",
+         "CustomerLName" : "Davis",
+         "CustomerEmail" : "mason.davis@inbox.com",
+         "CustomerFName" : "Mason",
+         "CustomerNote" : ""
+      }
+   ],
+   "MyallocatorId" : "62ba818edc3a94594545d0cbd",
+   "Acknowledged" : false,
+   "IsModification" : false,
+   "TotalPrice" : "59.00",
+   "MyallocatorCreationTime" : "09:08:09",
+   "MarkedAsRead" : false,
+   "Rooms" : [
+      {
+         "RoomDesc" : "Camera matrimoniale 3",
+         "StartDate" : "2019-04-10",
+         "EndDate" : "2019-04-10",
+         "ChannelRoomType" : "58610",
+         "MyallocatorRateplanIds" : [],
+         "Units" : "1",
+         "RoomTypeIds" : [
+            104439
+         ]
+      }
+   ],
+   "IsCancellation" : false,
+   "PropertyId" : "6649",
+   "OrderTime" : "11:04:53",
+   "TotalCurrency" : "EUR",
+   "MyallocatorModificationDate" : "2019-04-09",
+   "MyallocatorModificationTime" : "09:08:09",
+   "StartDate" : "2019-04-10",
+   "MyallocatorPIIRemoved" : null,
+   "IsTentative" : 0,
+   "Channel" : "bbit",
+   "OrderId" : "321060378",
+   "MyallocatorCreationDate" : "2019-04-09",
+   "OrderDate" : "2019-04-09"
+}

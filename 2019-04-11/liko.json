@@ -1,0 +1,57 @@
+{
+   "TotalCurrency" : "USD",
+   "PropertyId" : "20845",
+   "OrderTime" : "00:13:54",
+   "MyallocatorCreationTime" : "00:28:26",
+   "MarkedAsRead" : false,
+   "IsCancellation" : false,
+   "Rooms" : [
+      {
+         "Adults" : 2,
+         "Units" : "1",
+         "RoomTypeIds" : [
+            142221
+         ],
+         "RateId" : "2512aa9d-c292-4180-8131-c041df58c76a",
+         "DayRates" : [
+            {
+               "RateId" : "2512aa9d-c292-4180-8131-c041df58c76a",
+               "Date" : "2019-02-11",
+               "Rate" : "60.95000076293945",
+               "Currency" : "USD",
+               "Description" : null
+            }
+         ],
+         "ChannelRoomType" : "8f1md46eyfri0t8wyspbxom2nwhd697l7bb2",
+         "Currency" : "USD",
+         "MyallocatorRateplanIds" : [],
+         "RateDesc" : "",
+         "RoomDesc" : "Deluxe Bungalow - Base Rate",
+         "EndDate" : "2019-02-12",
+         "StartDate" : "2019-02-11"
+      }
+   ],
+   "IsModification" : false,
+   "TotalPrice" : "60.95000076293945",
+   "EndDate" : "2019-02-12",
+   "Version" : 0,
+   "Acknowledged" : false,
+   "Customers" : [
+      {
+         "CustomerLName" : "White",
+         "CustomerFName" : "Charlotte",
+         "CustomerNote" : "",
+         "CustomerEmail" : "charlotte.white@lycos.com"
+      }
+   ],
+   "MyallocatorId" : "3916eda95875119d1cb8bd334",
+   "OrderDate" : "2019-02-10",
+   "MyallocatorCreationDate" : "2019-02-10",
+   "Channel" : "liko",
+   "OrderId" : "rg04p1cngh7yt3toi13dmmttz7c6zdeqwg4k",
+   "StartDate" : "2019-02-11",
+   "MyallocatorPIIRemoved" : null,
+   "MyallocatorModificationTime" : "00:28:26",
+   "MyallocatorModificationDate" : "2019-02-10",
+   "IsTentative" : 0
+}

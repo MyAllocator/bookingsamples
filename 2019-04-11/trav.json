@@ -1,0 +1,60 @@
+{
+   "OrderChildren" : 0,
+   "IsTentative" : 0,
+   "StartDate" : "2019-02-07",
+   "MyallocatorPIIRemoved" : null,
+   "MyallocatorModificationDate" : "2019-02-06",
+   "MyallocatorModificationTime" : "22:18:56",
+   "OrderId" : "603787",
+   "OrderCustomers" : 2,
+   "Channel" : "trav",
+   "MyallocatorCreationDate" : "2019-02-06",
+   "OrderAdults" : 2,
+   "Acknowledged" : false,
+   "Customers" : [
+      {
+         "CustomerCountry" : "US",
+         "CustomerLName" : "Abeln",
+         "CustomerFName" : "Olivia",
+         "CustomerNote" : "",
+         "CustomerEmail" : "olivia.abeln@inbox.com"
+      }
+   ],
+   "MyallocatorId" : "32a1242dafe2971700f93a629",
+   "EndDate" : "2019-02-07",
+   "Version" : 0,
+   "TotalPrice" : 3600,
+   "IsModification" : false,
+   "IsCancellation" : false,
+   "Rooms" : [
+      {
+         "ChannelRoomType" : "8350",
+         "Currency" : "THB",
+         "MyallocatorRateplanIds" : [],
+         "Price" : 3600,
+         "Children" : 0,
+         "RoomDesc" : "Studio Room",
+         "RateDesc" : "",
+         "StartDate" : "2019-02-07",
+         "EndDate" : "2019-02-07",
+         "Adults" : 2,
+         "Units" : "1",
+         "RateId" : "PRO_23333",
+         "RoomTypeIds" : [
+            162573
+         ],
+         "DayRates" : [
+            {
+               "Date" : "2019-02-07",
+               "Rate" : 3600,
+               "RateId" : "PRO_23333",
+               "Description" : "Flash Sale"
+            }
+         ]
+      }
+   ],
+   "MyallocatorCreationTime" : "22:18:56",
+   "MarkedAsRead" : false,
+   "TotalCurrency" : "THB",
+   "PropertyId" : "62121"
+}

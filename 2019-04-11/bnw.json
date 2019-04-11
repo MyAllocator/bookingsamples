@@ -1,0 +1,60 @@
+{
+   "IsTentative" : 0,
+   "MyallocatorPIIRemoved" : null,
+   "StartDate" : "2019-04-11",
+   "MyallocatorModificationDate" : "2019-04-11",
+   "MyallocatorModificationTime" : "13:53:29",
+   "OrderId" : "9nai0uv93e4eb3166ywh",
+   "Channel" : "bnw",
+   "MyallocatorCreationDate" : "2019-04-11",
+   "OrderDate" : "2019-04-11",
+   "Acknowledged" : false,
+   "MyallocatorId" : "73a01568864a5bd831c80cf66",
+   "Customers" : [
+      {
+         "CustomerIP" : "127.0.0.1",
+         "CustomerNationality" : "Indonesia",
+         "CustomerEmail" : "mia.anderson@hotmail.com",
+         "CustomerNote" : "CENSORED",
+         "CustomerPhone" : "56059283388",
+         "CustomerArrivalTime" : "22:00",
+         "CustomerFName" : "Mia",
+         "CustomerLName" : "Anderson"
+      }
+   ],
+   "Version" : 0,
+   "EndDate" : "2019-04-11",
+   "TotalPrice" : 96250,
+   "IsModification" : false,
+   "IsCancellation" : false,
+   "OrderSource" : "BookNow Version 2",
+   "Rooms" : [
+      {
+         "Units" : "1",
+         "RateId" : "",
+         "RoomTypeIds" : [
+            16662
+         ],
+         "DayRates" : [
+            {
+               "Date" : "2019-04-11",
+               "Rate" : 96250,
+               "Currency" : "IDR",
+               "Description" : null
+            }
+         ],
+         "MyallocatorRateplanIds" : [],
+         "Price" : 96250,
+         "ChannelRoomType" : "75156",
+         "Currency" : "IDR",
+         "RateDesc" : "",
+         "StartDate" : "2019-04-11",
+         "EndDate" : "2019-04-11"
+      }
+   ],
+   "MarkedAsRead" : false,
+   "MyallocatorCreationTime" : "13:53:29",
+   "TotalCurrency" : "IDR",
+   "OrderTime" : "13:53:29",
+   "PropertyId" : "3027"
+}

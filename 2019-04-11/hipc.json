@@ -1,0 +1,41 @@
+{
+   "MyallocatorNotAdjustedForReason" : "First download from channel (AA block)",
+   "MyallocatorCreationDate" : "2019-03-26",
+   "OrderId" : "243472",
+   "Channel" : "hipc",
+   "IsTentative" : 0,
+   "MyallocatorModificationDate" : "2019-03-26",
+   "MyallocatorModificationTime" : "16:38:18",
+   "StartDate" : "2019-06-21",
+   "MyallocatorPIIRemoved" : null,
+   "PropertyId" : "70495",
+   "Rooms" : [
+      {
+         "StartDate" : "2019-06-21",
+         "EndDate" : "2019-06-22",
+         "RoomTypeIds" : [
+            185173
+         ],
+         "Units" : "1",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "https://www.hipcamp.com/CENSORED"
+      }
+   ],
+   "IsCancellation" : false,
+   "MyallocatorCreationTime" : "16:38:18",
+   "MarkedAsRead" : false,
+   "IsModification" : false,
+   "Customers" : [
+      {
+         "CustomerPhone" : "dg0zyrjgm4ckya",
+         "CustomerLName" : "Johnson",
+         "CustomerEmail" : "johnson@hushmail.com",
+         "CustomerNote" : ""
+      }
+   ],
+   "MyallocatorId" : "846132cf60a7d792961d7d492",
+   "MyallocatorNotAdjustedFor" : true,
+   "Acknowledged" : false,
+   "Version" : 0,
+   "EndDate" : "2019-06-22"
+}

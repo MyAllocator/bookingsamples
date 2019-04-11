@@ -1,0 +1,66 @@
+{
+   "IsTentative" : 0,
+   "MyallocatorModificationDate" : "2019-04-11",
+   "MyallocatorModificationTime" : "05:06:01",
+   "MyallocatorPIIRemoved" : null,
+   "StartDate" : "2019-04-19",
+   "OrderId" : "dvqud1lusysr3p80l58l8s",
+   "Channel" : "lota",
+   "TotalTaxes" : "19.36",
+   "MyallocatorCreationDate" : "2019-04-11",
+   "OrderDate" : "2019-04-11",
+   "MyallocatorId" : "2317c642fb6715dfef7c9ccf3",
+   "Customers" : [
+      {
+         "CustomerPhone" : "404019634821",
+         "CustomerLName" : "",
+         "CustomerEmail" : "abigail@hotmail.com",
+         "CustomerFName" : "Abigail",
+         "CustomerNote" : ""
+      }
+   ],
+   "Acknowledged" : false,
+   "Version" : 0,
+   "EndDate" : "2019-04-20",
+   "TotalPrice" : "201.36",
+   "IsModification" : false,
+   "Rooms" : [
+      {
+         "RateDesc" : "",
+         "RoomDesc" : "1 bedrooon queen and futon, 1800,s vintage cabin, quiet family a must. walk to forest and hiking",
+         "StartDate" : "2019-04-19",
+         "EndDate" : "2019-04-20",
+         "ChannelRoomType" : "6411",
+         "Currency" : "USD",
+         "MyallocatorRateplanIds" : [],
+         "Price" : "201.36",
+         "DayRates" : [
+            {
+               "Date" : "2019-04-19",
+               "Rate" : "68.82",
+               "Tax" : "6.82",
+               "Description" : "Default Rate"
+            },
+            {
+               "Rate" : "133.20",
+               "Date" : "2019-04-20",
+               "Tax" : "13.20",
+               "Description" : "Default Rate"
+            }
+         ],
+         "Adults" : "2",
+         "Units" : "1",
+         "RateId" : "",
+         "RoomTypeIds" : [
+            155502
+         ]
+      }
+   ],
+   "IsCancellation" : false,
+   "TotalTaxesCurrency" : "USD",
+   "MarkedAsRead" : false,
+   "MyallocatorCreationTime" : "05:06:01",
+   "OrderTime" : "05:05:59",
+   "PropertyId" : "86940",
+   "TotalCurrency" : "USD"
+}

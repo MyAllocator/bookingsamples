@@ -1,0 +1,71 @@
+{
+   "IsTentative" : 0,
+   "MyallocatorPIIRemoved" : null,
+   "StartDate" : "2019-04-25",
+   "MyallocatorModificationDate" : "2019-04-11",
+   "MyallocatorModificationTime" : "03:11:32",
+   "OrderId" : "5nlfxsinxy",
+   "Channel" : "apal",
+   "MyallocatorCreationDate" : "2019-04-11",
+   "OrderDate" : "2019-04-11",
+   "BalanceCurrency" : null,
+   "Acknowledged" : false,
+   "MyallocatorId" : "fd6a839869f56239f38b05507",
+   "Customers" : [
+      {
+         "CustomerNote" : "CENSORED",
+         "CustomerEmail" : "williams@gmx.com",
+         "CustomerLName" : "Williams",
+         "CustomerPhone" : "678283402844"
+      }
+   ],
+   "Version" : 0,
+   "EndDate" : "2019-04-27",
+   "Balance" : null,
+   "TotalPrice" : "230187.00",
+   "IsModification" : false,
+   "IsCancellation" : false,
+   "Rooms" : [
+      {
+         "DayRates" : [
+            {
+               "Description" : null,
+               "Currency" : "CLP",
+               "Date" : "2019-04-25",
+               "Rate" : 76729
+            },
+            {
+               "Rate" : 76729,
+               "Date" : "2019-04-26",
+               "Currency" : "CLP",
+               "Description" : null
+            },
+            {
+               "Currency" : "CLP",
+               "Rate" : 76729,
+               "Date" : "2019-04-27",
+               "Description" : null
+            }
+         ],
+         "Breakfast" : true,
+         "Adults" : 2,
+         "RoomTypeIds" : [
+            165243
+         ],
+         "RateId" : "",
+         "Units" : "1",
+         "StartDate" : "2019-04-25",
+         "EndDate" : "2019-04-27",
+         "RoomDesc" : "Doble Matrimonial",
+         "RateDesc" : "",
+         "ChannelRoomType" : "6532",
+         "Children" : 0,
+         "MyallocatorRateplanIds" : []
+      }
+   ],
+   "MarkedAsRead" : false,
+   "MyallocatorCreationTime" : "03:11:32",
+   "TotalCurrency" : "CLP",
+   "OrderTime" : "00:06:56",
+   "PropertyId" : "71480"
+}

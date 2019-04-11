@@ -1,0 +1,56 @@
+{
+   "IsModification" : false,
+   "TotalPrice" : "47.00",
+   "Version" : 0,
+   "EndDate" : "2019-06-17",
+   "CommissionIncludedInTotal" : true,
+   "Balance" : "40.50",
+   "Acknowledged" : false,
+   "Customers" : [
+      {
+         "CustomerNote" : "",
+         "CustomerFName" : "Abigail",
+         "CustomerEmail" : "abigail.garcia@yahoo.com",
+         "CustomerLName" : "Garcia",
+         "CustomerPhone" : "4666719265063",
+         "CustomerArrivalTime" : "19:00",
+         "CustomerCountry" : "BR"
+      }
+   ],
+   "MyallocatorId" : "bc0ae9731e275728e7803145c",
+   "TotalCurrency" : "EUR",
+   "PropertyId" : "78209",
+   "OrderTime" : "13:42:05+00:00",
+   "Deposit" : "4.50",
+   "DepositCurrency" : "EUR",
+   "MyallocatorCreationTime" : "13:42:11",
+   "MarkedAsRead" : false,
+   "IsCancellation" : false,
+   "Rooms" : [
+      {
+         "RoomDesc" : "Bunkbed Room",
+         "StartDate" : "2019-06-17",
+         "EndDate" : "2019-06-17",
+         "MyallocatorRateplanIds" : [],
+         "Price" : "45.00",
+         "ChannelRoomType" : "4ph54",
+         "Currency" : "EUR",
+         "Units" : 1,
+         "RoomTypeIds" : [
+            125462
+         ]
+      }
+   ],
+   "Channel" : "hc",
+   "OrderId" : "6912587",
+   "CommissionCurrency" : "EUR",
+   "StartDate" : "2019-06-17",
+   "MyallocatorPIIRemoved" : null,
+   "MyallocatorModificationTime" : "13:42:11",
+   "MyallocatorModificationDate" : "2019-04-11",
+   "IsTentative" : 0,
+   "OrderDate" : "2019-04-11",
+   "BalanceCurrency" : "EUR",
+   "Commission" : 2,
+   "MyallocatorCreationDate" : "2019-04-11"
+}

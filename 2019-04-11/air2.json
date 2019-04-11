@@ -1,0 +1,50 @@
+{
+   "IsTentative" : 0,
+   "StartDate" : "2019-04-11",
+   "MyallocatorPIIRemoved" : null,
+   "MyallocatorModificationTime" : "13:50:36",
+   "MyallocatorModificationDate" : "2019-04-11",
+   "OrderId" : "VQNTPRINJJ",
+   "OrderCustomers" : 1,
+   "Channel" : "air2",
+   "MyallocatorCreationDate" : "2019-04-11",
+   "OrderDate" : "2019-04-11",
+   "Acknowledged" : false,
+   "Customers" : [
+      {
+         "CustomerLName" : "Abeln",
+         "CustomerPhone" : "23575045586",
+         "CustomerFName" : "Olivia",
+         "CustomerNote" : "",
+         "CustomerEmail" : "olivia.abeln@outlook.com"
+      }
+   ],
+   "MyallocatorId" : "6912aa0baf093df816d2bff4a",
+   "Version" : 0,
+   "EndDate" : "2019-04-14",
+   "TotalPrice" : "184.30",
+   "PaymentCollect" : "Channel",
+   "IsModification" : false,
+   "IsCancellation" : false,
+   "Rooms" : [
+      {
+         "RoomTypeIds" : [
+            7756
+         ],
+         "Units" : "1",
+         "EndDate" : "2019-04-14",
+         "StartDate" : "2019-04-11",
+         "RoomDesc" : "6 bed co-ed dorm #1",
+         "Currency" : "USD",
+         "ChannelRoomType" : "31105910",
+         "Price" : "184.30",
+         "MyallocatorRateplanIds" : []
+      }
+   ],
+   "MyallocatorCreationTime" : "13:50:36",
+   "MarkedAsRead" : false,
+   "ma_callback_qbid" : 35835288,
+   "TotalCurrency" : "USD",
+   "PropertyId" : "0049",
+   "OrderTime" : "13:50:30"
+}

@@ -1,0 +1,108 @@
+{
+   "Version" : 0,
+   "EndDate" : "2019-04-25",
+   "Customers" : [
+      {
+         "CustomerLName" : "Williams",
+         "CustomerFName" : "William",
+         "CustomerNote" : ""
+      }
+   ],
+   "MyallocatorId" : "2396ef372a7ec84cd31ba7bfa",
+   "Acknowledged" : false,
+   "IsModification" : false,
+   "TotalPrice" : 28320,
+   "MyallocatorCreationTime" : "08:30:47",
+   "MarkedAsRead" : false,
+   "Rooms" : [
+      {
+         "Price" : 28320,
+         "MyallocatorRateplanIds" : [],
+         "Currency" : "THB",
+         "ChannelRoomType" : "36485",
+         "StartDate" : "2019-04-18",
+         "EndDate" : "2019-04-25",
+         "RoomDesc" : "Superior Double Room",
+         "RateDesc" : "Standard rate",
+         "RateId" : "101537",
+         "RoomTypeIds" : [
+            25290
+         ],
+         "Units" : "1",
+         "Occupancy" : 2,
+         "DayRates" : [
+            {
+               "Description" : "Standard rate",
+               "Currency" : "THB",
+               "Rate" : 3540,
+               "Date" : "2019-04-18",
+               "RateId" : "101537"
+            },
+            {
+               "Rate" : 3540,
+               "Date" : "2019-04-19",
+               "Currency" : "THB",
+               "RateId" : "101537",
+               "Description" : "Standard rate"
+            },
+            {
+               "Rate" : 3540,
+               "Date" : "2019-04-20",
+               "Currency" : "THB",
+               "RateId" : "101537",
+               "Description" : "Standard rate"
+            },
+            {
+               "Description" : "Standard rate",
+               "Currency" : "THB",
+               "Rate" : 3540,
+               "Date" : "2019-04-21",
+               "RateId" : "101537"
+            },
+            {
+               "Description" : "Standard rate",
+               "Rate" : 3540,
+               "Date" : "2019-04-22",
+               "Currency" : "THB",
+               "RateId" : "101537"
+            },
+            {
+               "Description" : "Standard rate",
+               "Rate" : 3540,
+               "Date" : "2019-04-23",
+               "Currency" : "THB",
+               "RateId" : "101537"
+            },
+            {
+               "Description" : "Standard rate",
+               "Currency" : "THB",
+               "Date" : "2019-04-24",
+               "Rate" : 3540,
+               "RateId" : "101537"
+            },
+            {
+               "Currency" : "THB",
+               "Date" : "2019-04-25",
+               "Rate" : 3540,
+               "RateId" : "101537",
+               "Description" : "Standard rate"
+            }
+         ]
+      }
+   ],
+   "IsCancellation" : false,
+   "PropertyId" : "6096",
+   "OrderTime" : "08:04:54",
+   "TotalCurrency" : "THB",
+   "MyallocatorModificationTime" : "08:30:47",
+   "MyallocatorModificationDate" : "2019-04-11",
+   "StartDate" : "2019-04-18",
+   "MyallocatorPIIRemoved" : null,
+   "IsTentative" : 0,
+   "OrderChildren" : 0,
+   "Channel" : "ost",
+   "OrderId" : "qltlwoy2hg0pz3ft43ohbe3lv63gdyyye8xh",
+   "OrderAdults" : 2,
+   "MyallocatorCreationDate" : "2019-04-11",
+   "OrderDate" : "2019-04-11"
+}

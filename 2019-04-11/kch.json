@@ -1,0 +1,73 @@
+{
+   "Version" : 0,
+   "EndDate" : "2019-04-11",
+   "Acknowledged" : false,
+   "Customers" : [
+      {
+         "CustomerAddress" : "CENSORED",
+         "CustomerCity" : "",
+         "CustomerFName" : "Jacob",
+         "CustomerCompany" : "",
+         "CustomerLName" : "Jackson",
+         "CustomerCountry" : "mn",
+         "CustomerPostCode" : "",
+         "CustomerEmail" : "jacob.jackson@hushmail.com",
+         "CustomerNote" : "",
+         "CustomerPhone" : "85765144884"
+      }
+   ],
+   "MyallocatorId" : "05ccee25585a7679e1d3a5254",
+   "DepositDue" : "0.00",
+   "IsModification" : false,
+   "TotalPrice" : "8500.00",
+   "MyallocatorCreationTime" : "09:12:32",
+   "MarkedAsRead" : false,
+   "TotalTaxesCurrency" : "KRW",
+   "IsCancellation" : false,
+   "Rooms" : [
+      {
+         "Price" : "8500.00",
+         "StartDate" : "2019-04-11",
+         "Policy" : "",
+         "EndDate" : "2019-04-11",
+         "RoomDesc" : "14-bed Mixed Dormitory Bed",
+         "RateDesc" : "",
+         "RoomTypeIds" : [
+            50927
+         ],
+         "Units" : "1",
+         "OccupantNote" : "",
+         "DayRates" : [
+            {
+               "Rate" : 8500,
+               "Date" : "2019-04-11",
+               "RateId" : "311265",
+               "Description" : null
+            }
+         ],
+         "Currency" : "KRW",
+         "ChannelRoomType" : "461563",
+         "MyallocatorRateplanIds" : [],
+         "OccupantLName" : "",
+         "RateId" : "311265",
+         "Occupancy" : 1,
+         "OccupantFName" : ""
+      }
+   ],
+   "TotalCurrency" : "KRW",
+   "PropertyId" : "0085",
+   "OrderTime" : "09:12:30",
+   "Deposit" : "0.00",
+   "StartDate" : "2019-04-11",
+   "CommissionCurrency" : "KRW",
+   "MyallocatorPIIRemoved" : null,
+   "MyallocatorModificationDate" : "2019-04-11",
+   "MyallocatorModificationTime" : "09:12:32",
+   "IsTentative" : 0,
+   "Channel" : "kch",
+   "OrderId" : "1945205385",
+   "MyallocatorCreationDate" : "2019-04-11",
+   "TotalTaxes" : 0,
+   "OrderDate" : "2019-04-11",
+   "Commission" : 0
+}

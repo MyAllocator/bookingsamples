@@ -1,0 +1,112 @@
+{
+   "Version" : 0,
+   "EndDate" : "2019-04-25",
+   "Acknowledged" : false,
+   "Customers" : [
+      {
+         "CustomerNote" : "CENSORED",
+         "CustomerEmail" : "emily.walker@yahoo.com",
+         "CustomerPhone" : "",
+         "CustomerArrivalTime" : "13:00:00",
+         "CustomerCountry" : "IL",
+         "CustomerPostCode" : "",
+         "CustomerFName" : "Emily",
+         "CustomerCity" : "Ness Ziona",
+         "CustomerAddress" : "",
+         "CustomerLName" : "Walker",
+         "CustomerCompany" : ""
+      }
+   ],
+   "MyallocatorId" : "c70bf255ff5d82ebcd11e5153",
+   "IsModification" : false,
+   "TotalPrice" : "1290.00",
+   "MyallocatorCreationTime" : "13:45:06",
+   "MarkedAsRead" : false,
+   "IsCancellation" : false,
+   "Rooms" : [
+      {
+         "Price" : "540.00",
+         "MyallocatorRateplanIds" : [],
+         "Currency" : "EGP",
+         "ChannelRoomType" : "3372",
+         "StartDate" : "2019-04-23",
+         "EndDate" : "2019-04-25",
+         "RoomDesc" : "Single room; Shared bathroom",
+         "RateDesc" : "",
+         "RoomTypeIds" : [
+            23590
+         ],
+         "RateId" : "",
+         "Units" : "1",
+         "DayRates" : [
+            {
+               "Description" : null,
+               "Rate" : "180.00",
+               "Date" : "2019-04-23",
+               "Currency" : "EGP"
+            },
+            {
+               "Description" : null,
+               "Currency" : "EGP",
+               "Rate" : "180.00",
+               "Date" : "2019-04-24"
+            },
+            {
+               "Currency" : "EGP",
+               "Rate" : "180.00",
+               "Date" : "2019-04-25",
+               "Description" : null
+            }
+         ]
+      },
+      {
+         "MyallocatorRateplanIds" : [],
+         "Price" : "750.00",
+         "ChannelRoomType" : "5127",
+         "Currency" : "EGP",
+         "RateDesc" : "",
+         "RoomDesc" : "Double room; Shared Bathroom",
+         "EndDate" : "2019-04-25",
+         "StartDate" : "2019-04-23",
+         "Units" : "1",
+         "RateId" : "",
+         "RoomTypeIds" : [
+            23592
+         ],
+         "DayRates" : [
+            {
+               "Description" : null,
+               "Rate" : "250.00",
+               "Date" : "2019-04-23",
+               "Currency" : "EGP"
+            },
+            {
+               "Rate" : "250.00",
+               "Date" : "2019-04-24",
+               "Currency" : "EGP",
+               "Description" : null
+            },
+            {
+               "Currency" : "EGP",
+               "Date" : "2019-04-25",
+               "Rate" : "250.00",
+               "Description" : null
+            }
+         ]
+      }
+   ],
+   "TotalCurrency" : "EGP",
+   "PropertyId" : "0315",
+   "OrderTime" : "15:48:27",
+   "StartDate" : "2019-04-23",
+   "CommissionCurrency" : "EUR",
+   "MyallocatorPIIRemoved" : null,
+   "MyallocatorModificationTime" : "13:45:06",
+   "MyallocatorModificationDate" : "2019-04-11",
+   "IsTentative" : 0,
+   "Channel" : "max",
+   "OrderId" : "01ab7rw63ayovlt",
+   "MyallocatorCreationDate" : "2019-04-11",
+   "OrderDate" : "2019-04-11",
+   "Commission" : "1.50"
+}

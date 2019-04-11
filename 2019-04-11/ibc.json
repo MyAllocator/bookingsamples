@@ -1,0 +1,62 @@
+{
+   "OrderDate" : "2018-11-08",
+   "MyallocatorCreationDate" : "2018-11-09",
+   "OrderId" : "295435",
+   "Channel" : "ibc",
+   "IsTentative" : 0,
+   "MyallocatorModificationDate" : "2018-11-09",
+   "MyallocatorModificationTime" : "00:06:53",
+   "MyallocatorPIIRemoved" : null,
+   "StartDate" : "2018-11-08",
+   "OrderTime" : "12:00:00",
+   "PropertyId" : "98756",
+   "TotalCurrency" : "USD",
+   "Rooms" : [
+      {
+         "DayRates" : [
+            {
+               "Date" : "2018-11-08",
+               "Rate" : 126.33,
+               "Description" : null
+            }
+         ],
+         "Adults" : 3,
+         "Units" : "1",
+         "RateId" : "",
+         "RoomTypeIds" : [
+            69632
+         ],
+         "RateDesc" : "",
+         "RoomDesc" : "Each Tiny Home is in the forest",
+         "EndDate" : "2018-11-08",
+         "StartDate" : "2018-11-08",
+         "ChannelRoomType" : "30408",
+         "Currency" : "USD",
+         "MyallocatorRateplanIds" : [],
+         "Price" : 126.33,
+         "Children" : 0
+      }
+   ],
+   "IsCancellation" : false,
+   "MarkedAsRead" : false,
+   "MyallocatorCreationTime" : "00:06:53",
+   "TotalPrice" : 126.33,
+   "IsModification" : false,
+   "MyallocatorId" : "6151494b15f78ad02c9c4a93a",
+   "Customers" : [
+      {
+         "CustomerLName" : "Miller",
+         "CustomerCity" : "Slc",
+         "CustomerAddress" : "CENSORED",
+         "CustomerFName" : "Sophia",
+         "CustomerCountry" : "USA (United States)",
+         "CustomerPostCode" : "84104",
+         "CustomerPhone" : "0523463867",
+         "CustomerEmail" : "sophia.miller@outlook.com",
+         "CustomerNote" : ""
+      }
+   ],
+   "Acknowledged" : false,
+   "Version" : 0,
+   "EndDate" : "2018-11-08"
+}

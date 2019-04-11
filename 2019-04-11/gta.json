@@ -1,0 +1,74 @@
+{
+   "Channel" : "gta",
+   "OrderId" : "tqb6fb4eajgbfj",
+   "MyallocatorModificationTime" : "13:29:04",
+   "MyallocatorModificationDate" : "2019-04-11",
+   "StartDate" : "2019-05-21",
+   "MyallocatorPIIRemoved" : null,
+   "IsTentative" : 0,
+   "OrderChildren" : "0",
+   "OrderDate" : "2019-04-11",
+   "OrderAdults" : "1",
+   "MyallocatorCreationDate" : "2019-04-11",
+   "IsModification" : false,
+   "TotalPrice" : "59.59",
+   "Version" : 0,
+   "EndDate" : "2019-05-23",
+   "Customers" : [
+      {
+         "CustomerLName" : "Anderson",
+         "CustomerNote" : ""
+      }
+   ],
+   "MyallocatorId" : "544f1811b28572c7136afe140",
+   "Acknowledged" : false,
+   "PropertyId" : "06495",
+   "OrderTime" : "14:21:17",
+   "TotalCurrency" : "SGD",
+   "MyallocatorCreationTime" : "13:29:04",
+   "MarkedAsRead" : false,
+   "Rooms" : [
+      {
+         "Adults" : "1",
+         "RateId" : "111354",
+         "OccupantLName" : "Anderson",
+         "Currency" : "SGD",
+         "ChannelRoomType" : "616159",
+         "Children" : "0",
+         "MyallocatorRateplanIds" : [],
+         "DayRates" : [
+            {
+               "RateId" : "111354",
+               "Date" : "2019-05-21",
+               "Rate" : "24.31",
+               "Currency" : "SGD",
+               "Description" : "BAR Room and Breakfast - Non Refundable  (Margin)"
+            },
+            {
+               "Description" : "BAR Room and Breakfast - Non Refundable  (Margin)",
+               "Rate" : "24.31",
+               "Date" : "2019-05-22",
+               "Currency" : "SGD",
+               "RateId" : "111354"
+            },
+            {
+               "Date" : "2019-05-23",
+               "Rate" : "21.5",
+               "Currency" : "SGD",
+               "RateId" : "111354",
+               "Description" : "BAR Room and Breakfast - Non Refundable  (Margin)"
+            }
+         ],
+         "RoomTypeIds" : [
+            56261
+         ],
+         "Units" : "1",
+         "EndDate" : "2019-05-23",
+         "StartDate" : "2019-05-21",
+         "RateDesc" : "BAR Room and Breakfast - Non Refundable  (Margin)",
+         "RoomDesc" : "Mix Domitories (6 Bed in a Dorm) Single Bed (Category: OTHER)",
+         "Price" : "70.12"
+      }
+   ],
+   "IsCancellation" : false
+}

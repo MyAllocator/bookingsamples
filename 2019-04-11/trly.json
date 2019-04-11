@@ -1,0 +1,75 @@
+{
+   "OrderDate" : "2019-03-19",
+   "MyallocatorCreationDate" : "2019-03-19",
+   "OrderId" : "ko76f76",
+   "Channel" : "trly",
+   "IsTentative" : 0,
+   "MyallocatorModificationTime" : "17:12:46",
+   "MyallocatorModificationDate" : "2019-03-19",
+   "MyallocatorPIIRemoved" : null,
+   "StartDate" : "2019-03-21",
+   "ma_callback_qbid" : 33904135,
+   "OrderTime" : "13:17:27",
+   "PropertyId" : "51493",
+   "TotalCurrency" : "INR",
+   "Rooms" : [
+      {
+         "StartDate" : "2019-03-21",
+         "EndDate" : "2019-03-23",
+         "RateDesc" : "",
+         "RoomDesc" : "Loft",
+         "Children" : "0",
+         "Price" : 21000,
+         "MyallocatorRateplanIds" : [],
+         "Currency" : "INR",
+         "ChannelRoomType" : "2368",
+         "DayRates" : [
+            {
+               "Description" : null,
+               "RateId" : "",
+               "Currency" : "INR",
+               "Date" : "2019-03-21",
+               "Rate" : 7000
+            },
+            {
+               "Description" : null,
+               "RateId" : "",
+               "Rate" : 7000,
+               "Date" : "2019-03-22",
+               "Currency" : "INR"
+            },
+            {
+               "Description" : null,
+               "RateId" : "",
+               "Currency" : "INR",
+               "Date" : "2019-03-23",
+               "Rate" : 7000
+            }
+         ],
+         "RoomTypeIds" : [
+            157990
+         ],
+         "RateId" : "",
+         "Units" : "1",
+         "Adults" : "2"
+      }
+   ],
+   "IsCancellation" : false,
+   "MarkedAsRead" : false,
+   "MyallocatorCreationTime" : "17:12:46",
+   "TotalPrice" : 21000,
+   "IsModification" : false,
+   "MyallocatorId" : "86d6549cc3d628194cca2bd73",
+   "Customers" : [
+      {
+         "CustomerEmail" : "william@mail.com",
+         "CustomerNote" : "",
+         "CustomerFName" : "William",
+         "CustomerLName" : "",
+         "CustomerCountry" : "IN"
+      }
+   ],
+   "Acknowledged" : false,
+   "EndDate" : "2019-03-23",
+   "Version" : 0
+}

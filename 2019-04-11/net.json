@@ -1,0 +1,60 @@
+{
+   "MyallocatorCreationTime" : "00:29:17",
+   "MarkedAsRead" : false,
+   "Rooms" : [
+      {
+         "EndDate" : "2019-09-21",
+         "StartDate" : "2019-09-21",
+         "RoomDesc" : "Standard Double",
+         "RateDesc" : "",
+         "Currency" : "EUR",
+         "ChannelRoomType" : "3999",
+         "Children" : 0,
+         "MyallocatorRateplanIds" : [],
+         "DayRates" : [
+            {
+               "Rate" : 140,
+               "Date" : "2019-09-21",
+               "Description" : null
+            }
+         ],
+         "Adults" : 2,
+         "RateId" : "",
+         "RoomTypeIds" : [
+            137740
+         ],
+         "Units" : "1"
+      }
+   ],
+   "IsCancellation" : false,
+   "PropertyId" : "65054",
+   "OrderTime" : "01:25:03",
+   "TotalCurrency" : "EUR",
+   "DepositCurrency" : "EUR",
+   "Deposit" : "6.89",
+   "Version" : 0,
+   "EndDate" : "2019-09-21",
+   "Customers" : [
+      {
+         "CustomerEmail" : "emma.johnson@inbox.com",
+         "CustomerNote" : "",
+         "CustomerPhone" : "6010587217",
+         "CustomerCountry" : "United Kingdom",
+         "CustomerFName" : "Emma",
+         "CustomerLName" : "Johnson"
+      }
+   ],
+   "MyallocatorId" : "72f4545ea7b4fee566d39f9a9",
+   "Acknowledged" : false,
+   "IsModification" : false,
+   "TotalPrice" : "140.00",
+   "MyallocatorCreationDate" : "2019-04-11",
+   "OrderDate" : "2019-04-11",
+   "MyallocatorModificationDate" : "2019-04-11",
+   "MyallocatorModificationTime" : "00:29:17",
+   "StartDate" : "2019-09-21",
+   "MyallocatorPIIRemoved" : null,
+   "IsTentative" : 0,
+   "Channel" : "net",
+   "OrderId" : "9y48iynyan"
+}

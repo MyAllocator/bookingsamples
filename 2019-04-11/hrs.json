@@ -1,0 +1,70 @@
+{
+   "Rooms" : [
+      {
+         "Units" : "1",
+         "RoomTypeIds" : [
+            140713
+         ],
+         "RateId" : "",
+         "DayRates" : [
+            {
+               "Currency" : "EUR",
+               "Date" : "2019-04-14",
+               "Rate" : "70",
+               "Description" : "C#Deutsche Telekom AG"
+            },
+            {
+               "Description" : "C#Deutsche Telekom AG",
+               "Date" : "2019-04-15",
+               "Rate" : "70",
+               "Currency" : "EUR"
+            }
+         ],
+         "Breakfast" : true,
+         "Price" : 140,
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "gcsoft",
+         "Currency" : "EUR",
+         "RateDesc" : "",
+         "RoomDesc" : "Single Room",
+         "EndDate" : "2019-04-15",
+         "StartDate" : "2019-04-14"
+      }
+   ],
+   "IsCancellation" : false,
+   "MarkedAsRead" : false,
+   "MyallocatorCreationTime" : "14:12:20",
+   "OrderTime" : "16:07:00",
+   "PropertyId" : "62200",
+   "TotalCurrency" : "EUR",
+   "MyallocatorId" : "ddd090e5eb48268e3d37646fd",
+   "Customers" : [
+      {
+         "CustomerNote" : "CENSORED",
+         "CustomerPostCode" : "50668",
+         "CustomerCountry" : "deu",
+         "CustomerTitle" : "Mr.",
+         "CustomerCompany" : "CENSORED",
+         "CustomerLName" : "Brown",
+         "CustomerAddress" : "CENSORED",
+         "CustomerCity" : "Koeln",
+         "CustomerFName" : "Ava"
+      }
+   ],
+   "Acknowledged" : false,
+   "Version" : 0,
+   "EndDate" : "2019-04-15",
+   "TotalPrice" : 140,
+   "IsModification" : false,
+   "OrderAdults" : 1,
+   "MyallocatorCreationDate" : "2019-04-11",
+   "OrderDate" : "2019-04-11",
+   "IsTentative" : 0,
+   "OrderChildren" : 0,
+   "MyallocatorModificationTime" : "14:12:20",
+   "MyallocatorModificationDate" : "2019-04-11",
+   "MyallocatorPIIRemoved" : null,
+   "StartDate" : "2019-04-14",
+   "OrderId" : "852647335",
+   "Channel" : "hrs"
+}

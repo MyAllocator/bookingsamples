@@ -1,0 +1,63 @@
+{
+   "OrderTime" : "18:18:13",
+   "PropertyId" : "1030",
+   "TotalCurrency" : "TWD",
+   "Rooms" : [
+      {
+         "ChannelRoomType" : "41864",
+         "Currency" : "TWD",
+         "MyallocatorRateplanIds" : [],
+         "Children" : 0,
+         "Breakfast" : true,
+         "Occupancy" : 1,
+         "Adults" : 1,
+         "RateId" : "23104",
+         "RoomDesc" : "\u53ef\u4f4f\u4eba\u6578\uff1a4\u4eba\n\u623f\u9593\u5e8a\u578b\uff1a2\u5f35\u4e0a\u4e0b\u8216\n\u623f\u9593\u8a2d\u5099\uff1a\n\u7a7a\u8abf\u3001\u6696\u6c23\u3001\u516c\u5171\u6d74\u5ba4\u3001\u5ba4\u5167\u62d6\u978b\u3001\u6dcb\u6d74\u8a2d\u5099\u3001\u5439\u98a8\u6a5f\u3001\u93e1\u5b50\u3001wifi",
+         "RateDesc" : "",
+         "StartDate" : "2019-04-13",
+         "Policy" : "Confirmed booking (Remember to make reply on AsiaYo. If already done,please ignore it)",
+         "EndDate" : "2019-04-13",
+         "DayRates" : [
+            {
+               "Description" : "Day Rates",
+               "Date" : "2019-04-13",
+               "Rate" : "800",
+               "RateId" : "23104"
+            }
+         ],
+         "Units" : "1",
+         "RoomTypeIds" : [
+            36201
+         ]
+      }
+   ],
+   "IsCancellation" : false,
+   "MarkedAsRead" : false,
+   "MyallocatorCreationTime" : "10:20:06",
+   "PaymentCollect" : "Channel",
+   "TotalPrice" : "800.00",
+   "IsModification" : false,
+   "MyallocatorId" : "ddd3ceddf5658985ba14ef6f2",
+   "Customers" : [
+      {
+         "CustomerArrivalTime" : "17:00",
+         "CustomerPhoneMobile" : "+323423450",
+         "CustomerLName" : "Brown",
+         "CustomerEmail" : "ava.brown@aol.com",
+         "CustomerFName" : "Ava",
+         "CustomerNote" : ""
+      }
+   ],
+   "Acknowledged" : false,
+   "Version" : 0,
+   "EndDate" : "2019-04-13",
+   "OrderDate" : "2019-04-11",
+   "MyallocatorCreationDate" : "2019-04-11",
+   "OrderId" : "200213440345",
+   "Channel" : "asyo",
+   "IsTentative" : 0,
+   "MyallocatorModificationTime" : "10:20:06",
+   "MyallocatorModificationDate" : "2019-04-11",
+   "MyallocatorPIIRemoved" : null,
+   "StartDate" : "2019-04-13"
+}

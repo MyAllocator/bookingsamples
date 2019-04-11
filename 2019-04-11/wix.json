@@ -1,0 +1,51 @@
+{
+   "IsTentative" : 0,
+   "MyallocatorPIIRemoved" : null,
+   "StartDate" : "2019-08-02",
+   "MyallocatorModificationDate" : "2019-04-11",
+   "MyallocatorModificationTime" : "14:14:15",
+   "OrderId" : "4425046601475977",
+   "Channel" : "wix",
+   "MyallocatorCreationDate" : "2019-04-11",
+   "TotalTaxes" : 0,
+   "OrderDate" : "2019-04-11",
+   "Acknowledged" : false,
+   "MyallocatorId" : "536ac1f770831cae9eabe8c6a",
+   "Customers" : [
+      {
+         "CustomerPhone" : "31518361614",
+         "CustomerLName" : "Miller",
+         "CustomerEmail" : "sophia.miller@zoho.com",
+         "CustomerFName" : "Sophia",
+         "CustomerNote" : ""
+      }
+   ],
+   "Version" : 0,
+   "EndDate" : "2019-08-03",
+   "TotalPrice" : 2000,
+   "IsModification" : false,
+   "IsCancellation" : false,
+   "OrderSource" : "wix",
+   "Rooms" : [
+      {
+         "Children" : "0",
+         "MyallocatorRateplanIds" : [],
+         "Price" : 2000,
+         "Currency" : "RUB",
+         "ChannelRoomType" : "kk5aerp5exkqq9xhaudyyf6pbt2rok6s42je",
+         "EndDate" : "2019-08-03",
+         "StartDate" : "2019-08-02",
+         "RoomDesc" : "P Dormitory for female",
+         "RoomTypeIds" : [
+            87450
+         ],
+         "Units" : "1",
+         "Adults" : "1"
+      }
+   ],
+   "MarkedAsRead" : false,
+   "MyallocatorCreationTime" : "14:14:15",
+   "TotalTaxesCurrency" : "RUB",
+   "TotalCurrency" : "RUB",
+   "PropertyId" : "98432"
+}

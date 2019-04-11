@@ -1,0 +1,39 @@
+{
+   "PropertyId" : "7709",
+   "MarkedAsRead" : false,
+   "MyallocatorCreationTime" : "11:55:53",
+   "IsCancellation" : false,
+   "Rooms" : [
+      {
+         "Occupancy" : "1",
+         "Units" : "1",
+         "RoomTypeIds" : [
+            12031
+         ],
+         "EndDate" : "2019-04-13",
+         "StartDate" : "2019-04-13",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "http://www.ebab.com/CENSORED"
+      }
+   ],
+   "IsModification" : false,
+   "EndDate" : "2019-04-13",
+   "Version" : 0,
+   "Acknowledged" : false,
+   "MyallocatorId" : "e68b3b5bf8c15b33d63b4784c",
+   "Customers" : [
+      {
+         "CustomerNote" : "",
+         "CustomerCity" : "Berlin",
+         "CustomerLName" : "Brown"
+      }
+   ],
+   "MyallocatorCreationDate" : "2019-04-11",
+   "Channel" : "eba",
+   "OrderId" : "pbtehee5m0veewq34czckabmtw06egvni5mwfnqsa",
+   "MyallocatorPIIRemoved" : null,
+   "StartDate" : "2019-04-13",
+   "MyallocatorModificationTime" : "11:55:53",
+   "MyallocatorModificationDate" : "2019-04-11",
+   "IsTentative" : 0
+}

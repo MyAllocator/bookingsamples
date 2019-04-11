@@ -1,0 +1,66 @@
+{
+   "OrderDate" : "2019-04-11",
+   "MyallocatorCreationDate" : "2019-04-11",
+   "TotalTaxes" : 60.1,
+   "OrderAdults" : "1",
+   "Channel" : "tgur",
+   "OrderId" : "3267188504",
+   "StartDate" : "2019-04-21",
+   "Policy" : "Full refund if you cancel this booking by 20-Apr-19 12:00 PM IST.First night cost (including taxes and service charge) will be charged if you cancel this booking later than 20-Apr-19 12:00 PM IST.You might be charged upto the full cost of stay (including taxes andamp; service charge) if you do not check-in to the hotel.. Percent: ",
+   "MyallocatorPIIRemoved" : null,
+   "MyallocatorModificationTime" : "12:03:12",
+   "MyallocatorModificationDate" : "2019-04-11",
+   "IsTentative" : 0,
+   "TotalCurrency" : "INR",
+   "PropertyId" : "58951",
+   "OrderTime" : "12:02:50",
+   "MyallocatorCreationTime" : "12:03:12",
+   "MarkedAsRead" : false,
+   "TotalTaxesCurrency" : "INR",
+   "IsCancellation" : false,
+   "Rooms" : [
+      {
+         "StartDate" : "2019-04-21",
+         "EndDate" : "2019-04-21",
+         "RoomDesc" : "6 Bed AC Room Mixed Dorm Without Bathroom",
+         "RateDesc" : "B2C - 6 Bed AC Room Mixed Dorm Without Bathroom (08 Nov 18 ~ 31 Dec 30)",
+         "Price" : "399.10",
+         "MyallocatorRateplanIds" : [],
+         "Currency" : "INR",
+         "ChannelRoomType" : "4461238027",
+         "DayRates" : [
+            {
+               "Description" : "B2C - 6 Bed AC Room Mixed Dorm Without Bathroom (08 Nov 18 ~ 31 Dec 30)",
+               "RateId" : "0001429241",
+               "Date" : "2019-04-21",
+               "Rate" : "399.10",
+               "Currency" : "INR"
+            }
+         ],
+         "RateId" : "0001429241",
+         "RoomTypeIds" : [
+            165805
+         ],
+         "Units" : "1"
+      }
+   ],
+   "IsModification" : false,
+   "TotalPrice" : "399.1000000000000227373675443232059478759765625",
+   "Version" : 0,
+   "EndDate" : "2019-04-21",
+   "Acknowledged" : false,
+   "Customers" : [
+      {
+         "CustomerNote" : "CENSORED",
+         "CustomerEmail" : "young@yahoo.com",
+         "CustomerPhone" : "z6n3o7yd8q9lrm",
+         "CustomerPhoneMobile" : "+32412063911",
+         "CustomerState" : "PA",
+         "CustomerCity" : "Gurgoan",
+         "CustomerLName" : "Young",
+         "CustomerPostCode" : "000001",
+         "CustomerCountry" : "India"
+      }
+   ],
+   "MyallocatorId" : "eb7f672aa2d1e3e47cc4f721c"
+}

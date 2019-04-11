@@ -1,0 +1,72 @@
+{
+   "MyallocatorCreationDate" : "2019-04-11",
+   "OrderId" : "1668542597",
+   "OrderCustomers" : "2",
+   "Channel" : "ctr",
+   "IsTentative" : 0,
+   "MyallocatorPIIRemoved" : null,
+   "StartDate" : "2019-04-15",
+   "MyallocatorModificationTime" : "14:05:45",
+   "MyallocatorModificationDate" : "2019-04-11",
+   "ma_callback_qbid" : 35836389,
+   "TotalCurrency" : "HKD",
+   "PropertyId" : "51591",
+   "IsCancellation" : false,
+   "Rooms" : [
+      {
+         "DayRates" : [
+            {
+               "Description" : null,
+               "Date" : "2019-04-15",
+               "Rate" : "642.60",
+               "Currency" : "HKD"
+            },
+            {
+               "Currency" : "HKD",
+               "Date" : "2019-04-16",
+               "Rate" : "642.60",
+               "Description" : null
+            },
+            {
+               "Currency" : "HKD",
+               "Date" : "2019-04-17",
+               "Rate" : "550.80",
+               "Description" : null
+            },
+            {
+               "Description" : null,
+               "Date" : "2019-04-18",
+               "Rate" : "550.80",
+               "Currency" : "HKD"
+            }
+         ],
+         "RoomTypeIds" : [
+            -1
+         ],
+         "Units" : "1",
+         "StartDate" : "2019-04-15",
+         "EndDate" : "2019-04-18",
+         "RoomDesc" : "Standard Double&lt;Special Offer&gt;",
+         "RateDesc" : "Standard Double[Special Offer]",
+         "Currency" : "HKD",
+         "ChannelRoomType" : "408025506",
+         "Price" : 2386.8,
+         "MyallocatorRateplanIds" : []
+      }
+   ],
+   "MarkedAsRead" : false,
+   "MyallocatorCreationTime" : "14:05:45",
+   "TotalPrice" : "2386.80",
+   "IsModification" : false,
+   "Acknowledged" : false,
+   "MyallocatorId" : "ccd0bc532a9fc466bda27b385",
+   "Customers" : [
+      {
+         "CustomerFName" : "Liam",
+         "CustomerNote" : "CENSORED",
+         "CustomerLName" : "Cain"
+      }
+   ],
+   "EndDate" : "2019-04-18",
+   "Version" : 0
+}

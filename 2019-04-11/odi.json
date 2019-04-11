@@ -1,0 +1,57 @@
+{
+   "MyallocatorCreditCardDetailsPresent" : true,
+   "TotalPrice" : "35.00",
+   "IsModification" : false,
+   "MyallocatorId" : "f117b88eefd371ef8428619af",
+   "Customers" : [
+      {
+         "CustomerPostCode" : "08009",
+         "CustomerCountry" : "ES",
+         "CustomerAddress" : "CENSORED",
+         "CustomerCity" : "Barcelona",
+         "CustomerFName" : "Olivia",
+         "CustomerLName" : "Abeln",
+         "CustomerState" : "Barcelona",
+         "CustomerEmail" : "olivia.abeln@hushmail.com",
+         "CustomerNote" : "",
+         "CustomerPhone" : "880301831250"
+      }
+   ],
+   "Acknowledged" : false,
+   "Version" : 0,
+   "EndDate" : "2019-04-12",
+   "ma_callback_qbid" : 35762717,
+   "OrderTime" : "17:14:02",
+   "PropertyId" : "526",
+   "TotalCurrency" : "EUR",
+   "Rooms" : [
+      {
+         "RoomDesc" : "4-person mixed shared",
+         "EndDate" : "2019-04-12",
+         "StartDate" : "2019-04-11",
+         "ChannelRoomType" : "zh83vbwveio4cyyu",
+         "Currency" : "EUR",
+         "Price" : "35.00",
+         "MyallocatorRateplanIds" : [],
+         "Adults" : "1",
+         "Units" : "1",
+         "RoomTypeIds" : [
+            2988
+         ]
+      }
+   ],
+   "IsCancellation" : false,
+   "MarkedAsRead" : false,
+   "MyallocatorCreationTime" : "17:14:11",
+   "OrderId" : "a4150b05d5cc03a6",
+   "Channel" : "odi",
+   "OrderCustomers" : 1,
+   "IsTentative" : 0,
+   "MyallocatorModificationTime" : "17:14:11",
+   "MyallocatorModificationDate" : "2019-04-10",
+   "MyallocatorPIIRemoved" : null,
+   "StartDate" : "2019-04-11",
+   "OrderDate" : "2019-04-10",
+   "OrderAdults" : 1,
+   "MyallocatorCreationDate" : "2019-04-10"
+}

@@ -1,0 +1,61 @@
+{
+   "OrderAdults" : 4,
+   "MyallocatorCreationDate" : "2019-04-08",
+   "OrderDate" : "2019-04-11",
+   "MyallocatorModificationDate" : "2019-04-11",
+   "MyallocatorModificationTime" : "09:59:18",
+   "MyallocatorPIIRemoved" : null,
+   "StartDate" : "2019-09-28",
+   "IsTentative" : 0,
+   "OrderChildren" : 0,
+   "Channel" : "tom",
+   "OrderId" : "sbwr2h48xh",
+   "MarkedAsRead" : false,
+   "MyallocatorCreationTime" : "09:19:21",
+   "OrderSource" : "CallCenter (WUE)",
+   "Rooms" : [
+      {
+         "Currency" : "EUR",
+         "ChannelRoomType" : "MGT",
+         "Children" : 0,
+         "Price" : "145.90",
+         "MyallocatorRateplanIds" : [],
+         "StartDate" : "2019-09-28",
+         "EndDate" : "2019-09-28",
+         "RoomDesc" : "Standard",
+         "RateDesc" : "Standard",
+         "Adults" : 4,
+         "RateId" : "Standard",
+         "RoomTypeIds" : [
+            12667
+         ],
+         "Units" : "1",
+         "Breakfast" : true
+      }
+   ],
+   "IsCancellation" : false,
+   "OrderTime" : "11:57",
+   "PropertyId" : "6860",
+   "TotalCurrency" : "EUR",
+   "EndDate" : "2019-09-28",
+   "Version" : 2,
+   "MyallocatorId" : "fe84c20e27bf36bc4be643c33",
+   "Customers" : [
+      {
+         "CustomerCity" : "Schlangen",
+         "CustomerAddress" : "CENSORED",
+         "CustomerFName" : "Liam",
+         "CustomerGender" : "FE",
+         "CustomerLName" : "Cain",
+         "CustomerCountry" : "DE",
+         "CustomerPostCode" : "33189",
+         "CustomerEmail" : "liam.cain@aol.com",
+         "CustomerNote" : "",
+         "CustomerPhone" : "0540910635"
+      }
+   ],
+   "Acknowledged" : false,
+   "IsModification" : true,
+   "OrderSourceId" : "1234565788",
+   "TotalPrice" : "145.90"
+}

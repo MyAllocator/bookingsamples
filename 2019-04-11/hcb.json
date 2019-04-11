@@ -1,0 +1,120 @@
+{
+   "OrderDate" : "2019-04-11",
+   "MyallocatorCreationDate" : "2019-04-11",
+   "OrderAdults" : 2,
+   "OrderId" : "936300141",
+   "OrderCustomers" : 2,
+   "Channel" : "hcb",
+   "OrderChildren" : 0,
+   "IsTentative" : 0,
+   "MyallocatorPIIRemoved" : null,
+   "StartDate" : "2019-04-15",
+   "MyallocatorModificationDate" : "2019-04-11",
+   "MyallocatorModificationTime" : "12:43:00",
+   "ma_callback_qbid" : 35831541,
+   "TotalCurrency" : "EUR",
+   "OrderTime" : "12:42:52",
+   "PropertyId" : "41442",
+   "IsCancellation" : false,
+   "Rooms" : [
+      {
+         "ChannelRoomType" : "22935",
+         "Currency" : "EUR",
+         "MyallocatorRateplanIds" : [],
+         "Children" : "0",
+         "OccupantLName" : "Smith, Martin, Thompson",
+         "Adults" : "1",
+         "RateId" : "203442",
+         "OccupantFName" : "Molly, Emily, Mark",
+         "Price" : "99.98",
+         "RateDesc" : "",
+         "RoomDesc" : "Bed in 30-bed Mixed Dormitory (Max 1 guest)",
+         "EndDate" : "2019-04-16",
+         "StartDate" : "2019-04-15",
+         "Units" : "1",
+         "RoomTypeIds" : [
+            180802
+         ],
+         "DayRates" : [
+            {
+               "Description" : null,
+               "RateId" : "203442",
+               "Currency" : "EUR",
+               "Rate" : "49.99",
+               "Date" : "2019-04-15"
+            },
+            {
+               "Rate" : "49.99",
+               "Date" : "2019-04-16",
+               "Currency" : "EUR",
+               "RateId" : "203442",
+               "Description" : null
+            }
+         ]
+      },
+      {
+         "Units" : "1",
+         "RoomTypeIds" : [
+            180802
+         ],
+         "DayRates" : [
+            {
+               "RateId" : "203442",
+               "Currency" : "EUR",
+               "Date" : "2019-04-15",
+               "Rate" : "49.99",
+               "Description" : null
+            },
+            {
+               "Description" : null,
+               "Rate" : "49.99",
+               "Date" : "2019-04-16",
+               "Currency" : "EUR",
+               "RateId" : "203442"
+            }
+         ],
+         "Price" : "99.98",
+         "RateDesc" : "",
+         "RoomDesc" : "Bed in 30-bed Mixed Dormitory (Max 1 guest)",
+         "EndDate" : "2019-04-16",
+         "StartDate" : "2019-04-15",
+         "Adults" : "1",
+         "RateId" : "203442",
+         "OccupantFName" : "Rodriguez, Meier",
+         "ChannelRoomType" : "26117",
+         "Currency" : "EUR",
+         "MyallocatorRateplanIds" : [],
+         "Children" : "0",
+         "OccupantLName" : "Liz, Harold"
+      }
+   ],
+   "MarkedAsRead" : false,
+   "MyallocatorCreationTime" : "12:43:00",
+   "MyallocatorCreditCardDetailsPresent" : true,
+   "TotalPrice" : "199.96",
+   "IsModification" : false,
+   "Acknowledged" : false,
+   "MyallocatorId" : "c6442105ad4e53b36e5d06682",
+   "Customers" : [
+      {
+         "CustomerLName" : "Martinez",
+         "CustomerPhone" : "06158022657",
+         "CustomerFName" : "Elijah",
+         "CustomerNote" : "",
+         "CustomerEmail" : "elijah.martinez@outlook.com",
+         "CustomerCountry" : "GB"
+      },
+      {
+         "CustomerLName" : "Walker",
+         "CustomerFName" : "Emily",
+         "CustomerNote" : ""
+      },
+      {
+         "CustomerLName" : "Hall",
+         "CustomerFName" : "Ethan",
+         "CustomerNote" : ""
+      }
+   ],
+   "EndDate" : "2019-04-16",
+   "Version" : 0
+}

@@ -1,0 +1,62 @@
+{
+   "MyallocatorId" : "567d9f51b19bee9400c3c2fb9",
+   "Customers" : [
+      {
+         "CustomerEmail" : "jacob.jackson@gmail.com",
+         "CustomerNote" : "",
+         "CustomerFName" : "Jacob",
+         "CustomerPhone" : "93440849039",
+         "CustomerLName" : "Jackson",
+         "CustomerCountry" : "ID"
+      }
+   ],
+   "Acknowledged" : false,
+   "Version" : 1,
+   "EndDate" : "2018-10-21",
+   "PaymentCollect" : "Property",
+   "TotalPrice" : 330.37,
+   "IsModification" : true,
+   "Rooms" : [
+      {
+         "DayRates" : [
+            {
+               "Rate" : "330.3720",
+               "Date" : "2018-10-21",
+               "RateId" : "41449",
+               "Description" : "Three-Bedroom Villa with Air Conditioning, Private Entrance and Ocean View Standard cancellation Room only "
+            }
+         ],
+         "Units" : "1",
+         "RoomTypeIds" : [
+            113270
+         ],
+         "RateId" : "41449",
+         "RateDesc" : "Standard cancellation Room only ",
+         "RoomDesc" : "Three-Bedroom Villa with Air Conditioning, Private Entrance and Ocean View",
+         "EndDate" : "2018-10-21",
+         "StartDate" : "2018-10-21",
+         "ChannelRoomType" : "84977",
+         "Currency" : "USD",
+         "MyallocatorRateplanIds" : [],
+         "Price" : 330.372
+      }
+   ],
+   "IsCancellation" : false,
+   "MarkedAsRead" : true,
+   "MyallocatorCreationTime" : "02:40:48",
+   "OrderTime" : "02:29:19",
+   "PropertyId" : "96725",
+   "TotalCurrency" : "USD",
+   "IsTentative" : 0,
+   "OrderChildren" : "0",
+   "MyallocatorModificationDate" : "2018-09-18",
+   "MyallocatorModificationTime" : "06:10:52",
+   "MyallocatorPIIRemoved" : null,
+   "StartDate" : "2018-10-21",
+   "OrderId" : "lcniv59eo6pok",
+   "Channel" : "bon",
+   "OrderCustomers" : 6,
+   "OrderAdults" : "6",
+   "MyallocatorCreationDate" : "2018-09-18",
+   "OrderDate" : "2018-09-18"
+}

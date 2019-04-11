@@ -1,0 +1,69 @@
+{
+   "OrderId" : "r27u1p0jeineu1io05i9zcxcumrads7wsqww",
+   "Channel" : "hoga",
+   "IsTentative" : 0,
+   "MyallocatorModificationTime" : "12:00:09",
+   "MyallocatorModificationDate" : "2019-04-09",
+   "MyallocatorPIIRemoved" : null,
+   "StartDate" : "2019-04-10",
+   "OrderDate" : "2019-04-09",
+   "BalanceCurrency" : "EUR",
+   "MyallocatorCreationDate" : "2019-04-09",
+   "TotalPrice" : "44.00",
+   "IsModification" : false,
+   "MyallocatorId" : "1e14941a120fb6b4d1caeb308",
+   "Customers" : [
+      {
+         "CustomerCountry" : "it",
+         "CustomerLName" : "Abeln",
+         "CustomerFName" : "Olivia",
+         "CustomerCity" : "Genova",
+         "CustomerPhone" : "4863076730",
+         "CustomerNote" : "",
+         "CustomerEmail" : "olivia.abeln@zoho.com"
+      }
+   ],
+   "Acknowledged" : false,
+   "Balance" : "39.60",
+   "EndDate" : "2019-04-11",
+   "Version" : 0,
+   "DepositCurrency" : "EUR",
+   "Deposit" : "4.40",
+   "OrderTime" : "14:00:17",
+   "PropertyId" : "9144",
+   "TotalCurrency" : "EUR",
+   "Rooms" : [
+      {
+         "Units" : "1",
+         "RoomTypeIds" : [
+            63939
+         ],
+         "RateId" : "",
+         "DayRates" : [
+            {
+               "Description" : null,
+               "Currency" : "EUR",
+               "Rate" : "22.00",
+               "Date" : "2019-04-10"
+            },
+            {
+               "Date" : "2019-04-11",
+               "Rate" : "22.00",
+               "Currency" : "EUR",
+               "Description" : null
+            }
+         ],
+         "MyallocatorRateplanIds" : [],
+         "Price" : "44.00",
+         "ChannelRoomType" : "nf7w4psk75q749rbe9p2bs0wwg42aogaisea",
+         "Currency" : "EUR",
+         "RoomDesc" : "4 Bed Mixed Dorm Ensuite - 4 Bed Mix Dorm Ensuite (4 Bed Mix Dorm Ensuite with private kitchen and bathroom)",
+         "RateDesc" : "",
+         "EndDate" : "2019-04-11",
+         "StartDate" : "2019-04-10"
+      }
+   ],
+   "IsCancellation" : false,
+   "MarkedAsRead" : false,
+   "MyallocatorCreationTime" : "12:00:09"
+}

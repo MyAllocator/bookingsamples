@@ -1,0 +1,64 @@
+{
+   "Customers" : [
+      {
+         "CustomerCountry" : "India",
+         "CustomerLName" : "Davis",
+         "CustomerPhone" : "6655894475419",
+         "CustomerFName" : "Mason",
+         "CustomerNote" : "",
+         "CustomerEmail" : "mason.davis@hotmail.com"
+      }
+   ],
+   "MyallocatorId" : "8d47056a369a1eff1caba0900",
+   "Acknowledged" : false,
+   "Discounts" : [
+      {
+         "IncludedInTotal" : true,
+         "Discount" : 66.6,
+         "Currency" : "INR",
+         "Description" : "",
+         "EndDate" : "2019-04-11",
+         "StartDate" : "2019-04-11"
+      }
+   ],
+   "Balance" : "0.00",
+   "Version" : 0,
+   "EndDate" : "2019-04-12",
+   "TotalPrice" : "333.00",
+   "IsModification" : false,
+   "Rooms" : [
+      {
+         "RoomTypeIds" : [
+            160053
+         ],
+         "Units" : "1",
+         "Price" : "333.00",
+         "MyallocatorRateplanIds" : [],
+         "Currency" : "INR",
+         "ChannelRoomType" : "98",
+         "EndDate" : "2019-04-12",
+         "StartDate" : "2019-04-12",
+         "RoomDesc" : "A/C 10 Bed Mixed Dorm (shared washroom)"
+      }
+   ],
+   "IsCancellation" : false,
+   "MyallocatorCreationTime" : "14:08:55",
+   "MarkedAsRead" : false,
+   "Deposit" : "266.40",
+   "DepositCurrency" : "INR",
+   "PropertyId" : "35909",
+   "OrderTime" : "19:38:48",
+   "TotalCurrency" : "INR",
+   "IsTentative" : 0,
+   "OrderChildren" : 0,
+   "MyallocatorModificationTime" : "14:08:55",
+   "MyallocatorModificationDate" : "2019-04-11",
+   "StartDate" : "2019-04-12",
+   "MyallocatorPIIRemoved" : null,
+   "OrderId" : "ucil4r8dn83kmzj",
+   "Channel" : "pand",
+   "OrderAdults" : 1,
+   "MyallocatorCreationDate" : "2019-04-11",
+   "BalanceCurrency" : "INR",
+   "OrderDate" : "2019-04-11"
+}

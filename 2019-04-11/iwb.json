@@ -1,0 +1,60 @@
+{
+   "OrderAdults" : "1",
+   "MyallocatorCreationDate" : "2019-04-11",
+   "Commission" : "0",
+   "OrderDate" : "2019-04-10",
+   "IsTentative" : 0,
+   "OrderChildren" : "0",
+   "MyallocatorModificationTime" : "02:02:48",
+   "MyallocatorModificationDate" : "2019-04-11",
+   "MyallocatorPIIRemoved" : null,
+   "StartDate" : "2019-04-17",
+   "CommissionCurrency" : "USD",
+   "OrderId" : "66909354",
+   "Channel" : "iwb",
+   "Rooms" : [
+      {
+         "RoomDesc" : "Double Shared Bath",
+         "EndDate" : "2019-04-19",
+         "StartDate" : "2019-04-17",
+         "Price" : "171",
+         "MyallocatorRateplanIds" : [],
+         "ChannelRoomType" : "li8y9wch",
+         "Currency" : "USD",
+         "Units" : "1",
+         "RoomTypeIds" : [
+            15158
+         ]
+      }
+   ],
+   "IsCancellation" : false,
+   "MarkedAsRead" : true,
+   "MyallocatorCreationTime" : "02:02:48",
+   "Deposit" : "17.1",
+   "DepositCurrency" : "USD",
+   "OrderTime" : "22:01:04",
+   "PropertyId" : "2615",
+   "TotalCurrency" : "USD",
+   "MyallocatorId" : "8dea2ee14b7028597949d0ab2",
+   "Customers" : [
+      {
+         "CustomerPostCode" : "33154",
+         "CustomerCountry" : "US",
+         "CustomerArrivalTime" : "16:00:00",
+         "CustomerCompany" : "CENSORED",
+         "CustomerLName" : "Anderson",
+         "CustomerAddress" : "CENSORED",
+         "CustomerCity" : "Pearl Harbour Island",
+         "CustomerState" : "FL",
+         "CustomerPhone" : "49651149689",
+         "CustomerEmail" : "anderson@mail.com",
+         "CustomerNote" : ""
+      }
+   ],
+   "Acknowledged" : true,
+   "CommissionIncludedInTotal" : false,
+   "EndDate" : "2019-04-19",
+   "Version" : 0,
+   "TotalPrice" : "171",
+   "IsModification" : false
+}

@@ -1,0 +1,98 @@
+{
+   "MarkedAsRead" : false,
+   "MyallocatorCreationTime" : "13:26:42",
+   "Rooms" : [
+      {
+         "RateId" : "",
+         "Adults" : 1,
+         "Children" : "0",
+         "MyallocatorRateplanIds" : [],
+         "Currency" : "EUR",
+         "ChannelRoomType" : "707",
+         "RoomTypeIds" : [
+            135842
+         ],
+         "Units" : "1",
+         "DayRates" : [
+            {
+               "Description" : " Non-Refundable (7+ nights 20% off )",
+               "Rate" : 18,
+               "Date" : "2019-04-29",
+               "Currency" : "EUR"
+            },
+            {
+               "Currency" : "EUR",
+               "Date" : "2019-04-30",
+               "Rate" : 18,
+               "Description" : " Non-Refundable (7+ nights 20% off )"
+            },
+            {
+               "Currency" : "EUR",
+               "Rate" : 18,
+               "Date" : "2019-05-01",
+               "Description" : " Non-Refundable (7+ nights 20% off )"
+            },
+            {
+               "Currency" : "EUR",
+               "Date" : "2019-05-02",
+               "Rate" : 18,
+               "Description" : " Non-Refundable (7+ nights 20% off )"
+            },
+            {
+               "Currency" : "EUR",
+               "Rate" : 18,
+               "Date" : "2019-05-03",
+               "Description" : " Non-Refundable (7+ nights 20% off )"
+            },
+            {
+               "Description" : " Non-Refundable (7+ nights 20% off )",
+               "Currency" : "EUR",
+               "Rate" : 18,
+               "Date" : "2019-05-04"
+            },
+            {
+               "Date" : "2019-05-05",
+               "Rate" : 18,
+               "Currency" : "EUR",
+               "Description" : " Non-Refundable (7+ nights 20% off )"
+            }
+         ],
+         "OccupantNote" : "",
+         "Price" : 126,
+         "EndDate" : "2019-05-05",
+         "StartDate" : "2019-04-29",
+         "RateDesc" : "",
+         "RoomDesc" : "Bed in a 12-Beds Mixed Dorm (Shared Bathroom)"
+      }
+   ],
+   "IsCancellation" : false,
+   "OrderTime" : "13:26:37",
+   "PropertyId" : "88890",
+   "TotalCurrency" : "EUR",
+   "Version" : 0,
+   "EndDate" : "2019-05-05",
+   "MyallocatorId" : "e73cee2d4f6011c940b9ba15e",
+   "Customers" : [
+      {
+         "CustomerCountry" : "AR",
+         "CustomerNote" : "",
+         "CustomerFName" : "Abigail",
+         "CustomerEmail" : "abigail.garcia@gmx.com",
+         "CustomerLName" : "Garcia",
+         "CustomerPhone" : "512058693469"
+      }
+   ],
+   "Acknowledged" : false,
+   "IsModification" : false,
+   "MyallocatorCreditCardDetailsPresent" : true,
+   "TotalPrice" : 126,
+   "MyallocatorCreationDate" : "2019-04-11",
+   "OrderDate" : "2019-04-11",
+   "MyallocatorModificationTime" : "13:26:42",
+   "MyallocatorModificationDate" : "2019-04-11",
+   "MyallocatorPIIRemoved" : null,
+   "StartDate" : "2019-04-29",
+   "IsTentative" : 0,
+   "Channel" : "ccc",
+   "OrderId" : "0810094389"
+}

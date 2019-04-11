@@ -1,0 +1,84 @@
+{
+   "IsModification" : false,
+   "TotalPrice" : 540,
+   "Version" : 0,
+   "EndDate" : "2019-05-10",
+   "Customers" : [
+      {
+         "CustomerPhoneMobile" : "00441234567",
+         "CustomerPhone" : "40295058676197",
+         "CustomerEmail" : "young@gmx.com",
+         "CustomerNote" : "",
+         "CustomerPostCode" : "SE1 2YJ",
+         "CustomerCountry" : "GB",
+         "CustomerCompany" : "",
+         "CustomerLName" : "Young",
+         "CustomerGender" : "MA",
+         "CustomerAddress" : "CENSORED",
+         "CustomerCity" : "London"
+      }
+   ],
+   "MyallocatorId" : "51ae97a310c23c7754ab3ac8d",
+   "Acknowledged" : false,
+   "PropertyId" : "27778",
+   "OrderTime" : "21:29:54",
+   "TotalCurrency" : "USD",
+   "DepositCurrency" : "USD",
+   "Deposit" : 0,
+   "TotalTaxesCurrency" : "USD",
+   "MyallocatorCreationTime" : "21:32:26",
+   "MarkedAsRead" : true,
+   "Rooms" : [
+      {
+         "Adults" : "2",
+         "RoomTypeIds" : [
+            173260
+         ],
+         "Dayrates" : [
+            {
+               "Description" : "Best available rate (with weekend breakfast)",
+               "Commission" : 33.75,
+               "RateId" : "19900",
+               "Rate" : 243,
+               "Date" : "2019-05-09",
+               "Currency" : "USD"
+            },
+            {
+               "Description" : "Best available rate (with weekend breakfast)",
+               "Commission" : 41.2452,
+               "RateId" : "19900",
+               "Rate" : 297,
+               "Date" : "2019-05-10",
+               "Currency" : "USD"
+            }
+         ],
+         "Units" : "1",
+         "Currency" : "USD",
+         "ChannelRoomType" : "57345",
+         "Children" : "0",
+         "MyallocatorRateplanIds" : [],
+         "StartDate" : "2019-05-09",
+         "EndDate" : "2019-05-10",
+         "RoomDesc" : "The King"
+      }
+   ],
+   "IsCancellation" : false,
+   "Channel" : "mms",
+   "OrderModifTime" : "21:29:55",
+   "OrderCustomers" : 2,
+   "OrderId" : "t1w2m1dtc5ghpe2w6op8y0j2",
+   "MyallocatorModificationTime" : "21:32:26",
+   "MyallocatorModificationDate" : "2019-04-06",
+   "OrderModifDate" : "2019-04-06",
+   "CommissionCurrency" : "USD",
+   "StartDate" : "2019-05-09",
+   "Policy" : "Hotel requires a deposit of 50% of the booking total, which will be charged to you directly by the hotel. The remaining balance is due on check-in. Please be aware that cancellation after 6 Apr 2019 23:29 (BST) will incur a charge of $50 (ex tax).\nPlease be aware that cancellation after 9 Apr 2019 00:00 (BST) will incur a charge of $250 (ex tax).\nPlease be aware that cancellation after 2 May 2019 00:00 (BST) will incur a charge in full.\n",
+   "MyallocatorPIIRemoved" : null,
+   "IsTentative" : 0,
+   "OrderChildren" : "0",
+   "OrderDate" : "2019-04-06",
+   "Commission" : 74.9952,
+   "TotalTaxes" : 8,
+   "OrderAdults" : "2",
+   "MyallocatorCreationDate" : "2019-04-06"
+}

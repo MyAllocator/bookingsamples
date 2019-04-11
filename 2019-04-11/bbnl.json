@@ -1,0 +1,47 @@
+{
+   "IsTentative" : 0,
+   "MyallocatorModificationDate" : "2019-02-03",
+   "MyallocatorModificationTime" : "17:00:02",
+   "StartDate" : "2019-03-01",
+   "MyallocatorPIIRemoved" : null,
+   "OrderId" : "7480930",
+   "Channel" : "bbnl",
+   "MyallocatorCreationDate" : "2019-02-03",
+   "OrderDate" : "2019-02-03",
+   "Customers" : [
+      {
+         "CustomerCountry" : "Netherlands",
+         "CustomerLName" : "Miller",
+         "CustomerPhone" : "",
+         "CustomerFName" : "Sophia",
+         "CustomerNote" : "",
+         "CustomerEmail" : "sophia.miller@mail.com"
+      }
+   ],
+   "MyallocatorId" : "8de44455b8f57d9ef6dffeef9",
+   "Acknowledged" : false,
+   "EndDate" : "2019-03-02",
+   "Version" : 0,
+   "TotalPrice" : "152.00",
+   "IsModification" : false,
+   "Rooms" : [
+      {
+         "RoomTypeIds" : [
+            87638
+         ],
+         "Units" : "1",
+         "StartDate" : "2019-03-01",
+         "EndDate" : "2019-03-02",
+         "RoomDesc" : "Former cupboard bedroom",
+         "ChannelRoomType" : "6742",
+         "MyallocatorRateplanIds" : [],
+         "Price" : "152.00"
+      }
+   ],
+   "IsCancellation" : false,
+   "MyallocatorCreationTime" : "17:00:02",
+   "MarkedAsRead" : false,
+   "PropertyId" : "07192",
+   "OrderTime" : "17:55:12",
+   "TotalCurrency" : "EUR"
+}

@@ -1,0 +1,78 @@
+{
+   "PropertyId" : "06455",
+   "TotalCurrency" : "MXN",
+   "ma_callback_qbid" : 33184060,
+   "MyallocatorCreationTime" : "05:20:58",
+   "MarkedAsRead" : false,
+   "Rooms" : [
+      {
+         "Price" : "21489.00",
+         "StartDate" : "2019-10-17",
+         "Policy" : "Free Cancellation if cancelled by 3:00 PM hotel local time 2 days before arrival. If cancelled later, Hotel will charge a cancellation fee equal to the first night of your reservation.",
+         "EndDate" : "2019-10-19",
+         "RateDesc" : "Standard Rate",
+         "RoomDesc" : "Superior Room",
+         "RoomTypeIds" : [
+            127406
+         ],
+         "Units" : "1",
+         "DayRates" : [
+            {
+               "RateId" : "1021130",
+               "Rate" : "7163.00",
+               "Date" : "2019-10-17",
+               "Currency" : "MXN",
+               "Description" : "Standard Rate"
+            },
+            {
+               "RateId" : "1021130",
+               "Currency" : "MXN",
+               "Rate" : "7163.00",
+               "Date" : "2019-10-18",
+               "Description" : "Standard Rate"
+            },
+            {
+               "RateId" : "1021130",
+               "Date" : "2019-10-19",
+               "Rate" : "7163.00",
+               "Currency" : "MXN",
+               "Description" : "Standard Rate"
+            }
+         ],
+         "Currency" : "MXN",
+         "ChannelRoomType" : "23206",
+         "Children" : 0,
+         "MyallocatorRateplanIds" : [],
+         "Adults" : 2,
+         "RateId" : "1021130"
+      }
+   ],
+   "OrderSource" : "TabletCRS",
+   "IsCancellation" : false,
+   "IsModification" : false,
+   "TotalPrice" : "21489.00",
+   "MyallocatorCreditCardDetailsPresent" : true,
+   "Version" : 0,
+   "EndDate" : "2019-10-19",
+   "Customers" : [
+      {
+         "CustomerEmail" : "emily.walker@hotmail.com",
+         "CustomerNote" : "",
+         "CustomerFName" : "Emily",
+         "CustomerPhone" : "14649541731139",
+         "CustomerLName" : "Walker"
+      }
+   ],
+   "MyallocatorId" : "d5aace31e3f95a2c3d9dea630",
+   "Acknowledged" : false,
+   "TotalTaxes" : 4082.91,
+   "OrderAdults" : 2,
+   "MyallocatorCreationDate" : "2019-03-11",
+   "Channel" : "tab",
+   "OrderId" : "ndg0vk5bg4hj",
+   "MyallocatorModificationTime" : "05:20:58",
+   "MyallocatorModificationDate" : "2019-03-11",
+   "StartDate" : "2019-10-17",
+   "MyallocatorPIIRemoved" : null,
+   "IsTentative" : 0
+}

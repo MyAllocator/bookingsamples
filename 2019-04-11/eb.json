@@ -1,0 +1,45 @@
+{
+   "Rooms" : [
+      {
+         "Units" : "1",
+         "RoomTypeIds" : [
+            9805
+         ],
+         "RoomDesc" : "Old Bob",
+         "StartDate" : "2019-09-13",
+         "EndDate" : "2019-09-14",
+         "MyallocatorRateplanIds" : [],
+         "Price" : 150,
+         "ChannelRoomType" : "7705",
+         "Currency" : "GBP"
+      }
+   ],
+   "IsCancellation" : false,
+   "MyallocatorCreationTime" : "22:52:03",
+   "MarkedAsRead" : false,
+   "PropertyId" : "2963",
+   "OrderTime" : "18:02:29",
+   "TotalCurrency" : "GBP",
+   "Customers" : [
+      {
+         "CustomerEmail" : "williams@yahoo.com",
+         "CustomerNote" : "",
+         "CustomerLName" : "Williams"
+      }
+   ],
+   "MyallocatorId" : "e5ea43b2360477fe7b252d0b5",
+   "Acknowledged" : false,
+   "Version" : 0,
+   "EndDate" : "2019-09-14",
+   "TotalPrice" : 150,
+   "IsModification" : false,
+   "MyallocatorCreationDate" : "2019-04-10",
+   "OrderDate" : "2019-04-10",
+   "IsTentative" : 0,
+   "MyallocatorModificationTime" : "22:52:03",
+   "MyallocatorModificationDate" : "2019-04-10",
+   "StartDate" : "2019-09-13",
+   "MyallocatorPIIRemoved" : null,
+   "OrderId" : "4953745",
+   "Channel" : "eb"
+}

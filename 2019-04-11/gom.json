@@ -1,0 +1,63 @@
+{
+   "MyallocatorCreationDate" : "2019-04-10",
+   "OrderDate" : "2019-04-10",
+   "StartDate" : "2019-04-13",
+   "MyallocatorPIIRemoved" : null,
+   "MyallocatorModificationTime" : "11:46:19",
+   "MyallocatorModificationDate" : "2019-04-10",
+   "IsTentative" : 0,
+   "Channel" : "gom",
+   "OrderId" : "bgnaucl",
+   "MyallocatorCreationTime" : "11:46:19",
+   "MarkedAsRead" : false,
+   "IsCancellation" : false,
+   "Rooms" : [
+      {
+         "RoomTypeIds" : [
+            17270
+         ],
+         "Units" : "1",
+         "EndDate" : "2019-04-13",
+         "StartDate" : "2019-04-13",
+         "RoomDesc" : "4 Bed Mixed Dorm Shared Facilities",
+         "Currency" : "ILS",
+         "ChannelRoomType" : "28194",
+         "MyallocatorRateplanIds" : [],
+         "Price" : 90
+      },
+      {
+         "RoomDesc" : "4 Bed Mixed Dorm Shared Facilities",
+         "EndDate" : "2019-04-14",
+         "StartDate" : "2019-04-14",
+         "MyallocatorRateplanIds" : [],
+         "Price" : 90,
+         "ChannelRoomType" : "79188",
+         "Currency" : "ILS",
+         "Units" : "1",
+         "RoomTypeIds" : [
+            17270
+         ]
+      }
+   ],
+   "TotalCurrency" : "ILS",
+   "PropertyId" : "5974",
+   "OrderTime" : "13:41:00",
+   "Deposit" : "17.95",
+   "DepositCurrency" : "ILS",
+   "Version" : 0,
+   "EndDate" : "2019-04-14",
+   "Acknowledged" : false,
+   "Customers" : [
+      {
+         "CustomerEmail" : "isabella.moore@mail.com",
+         "CustomerFName" : "Isabella",
+         "CustomerNote" : "",
+         "CustomerLName" : "Moore",
+         "CustomerCountry" : "South Africa",
+         "CustomerArrivalTime" : "14:00"
+      }
+   ],
+   "MyallocatorId" : "d466d908ef6f816172f6e325a",
+   "IsModification" : false,
+   "TotalPrice" : "180"
+}

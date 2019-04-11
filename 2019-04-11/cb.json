@@ -1,0 +1,86 @@
+{
+   "MarkedAsRead" : false,
+   "MyallocatorCreationTime" : "12:42:00",
+   "Rooms" : [
+      {
+         "StartDate" : "2019-07-31",
+         "EndDate" : "2019-08-01",
+         "RoomDesc" : "4-bed room",
+         "RateDesc" : "Rate Desc",
+         "Price" : "2400",
+         "OccupantNote" : "",
+         "DayRates" : [
+            {
+               "Description" : "day rate description",
+               "Currency" : "SEK",
+               "Rate" : 1200,
+               "Date" : "2019-07-31",
+               "RateId" : "25514"
+            },
+            {
+               "Currency" : "SEK",
+               "Rate" : 1200,
+               "Date" : "2019-08-01",
+               "RateId" : "25514",
+               "Description" : "day rate description"
+            }
+         ],
+         "RoomTypeIds" : [
+            95711
+         ],
+         "Units" : "1",
+         "OccupantLName" : "Harris",
+         "Currency" : "SEK",
+         "ChannelRoomType" : "51366",
+         "Children" : "2",
+         "MyallocatorRateplanIds" : [],
+         "Adults" : "2",
+         "RateId" : "25514"
+      }
+   ],
+   "IsCancellation" : false,
+   "OrderTime" : "14:41",
+   "PropertyId" : "87484",
+   "TotalCurrency" : "SEK",
+   "Balance" : "0",
+   "CommissionIncludedInTotal" : false,
+   "Version" : 0,
+   "EndDate" : "2019-08-01",
+   "MyallocatorId" : "27b03703d4ea241ffd00a1258",
+   "Customers" : [
+      {
+         "CustomerCountry" : "SE",
+         "CustomerEmail" : "michael.harris@outlook.com",
+         "CustomerNote" : "",
+         "CustomerFName" : "Michael",
+         "CustomerPhone" : "jcyh2swal35qm6tp5g9t6d",
+         "CustomerLName" : "Harris"
+      }
+   ],
+   "Acknowledged" : false,
+   "ExtraServices" : [
+      {
+         "StartDate" : "2019-07-31",
+         "Description" : "extra bed",
+         "EndDate" : "2019-08-01",
+         "IncludedInTotal" : "0",
+         "Units" : 1,
+         "Price" : "225",
+         "Currency" : "SEK"
+      }
+   ],
+   "IsModification" : false,
+   "TotalPrice" : "2625",
+   "MyallocatorCreationDate" : "2019-04-11",
+   "Commission" : "232.285714285714",
+   "BalanceCurrency" : "SEK",
+   "OrderDate" : "2019-04-11",
+   "MyallocatorModificationDate" : "2019-04-11",
+   "MyallocatorModificationTime" : "12:42:00",
+   "MyallocatorPIIRemoved" : null,
+   "CommissionCurrency" : "SEK",
+   "StartDate" : "2019-07-31",
+   "IsTentative" : 0,
+   "Channel" : "cb",
+   "OrderId" : "uovs80"
+}

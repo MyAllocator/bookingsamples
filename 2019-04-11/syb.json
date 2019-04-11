@@ -1,0 +1,82 @@
+{
+   "OrderDate" : "2019-04-06",
+   "MyallocatorCreationDate" : "2019-04-06",
+   "Channel" : "syb",
+   "OrderId" : "624987",
+   "StartDate" : "2019-04-14",
+   "MyallocatorPIIRemoved" : null,
+   "MyallocatorModificationDate" : "2019-04-06",
+   "MyallocatorModificationTime" : "19:57:06",
+   "IsTentative" : 0,
+   "TotalCurrency" : "EUR",
+   "PropertyId" : "47431",
+   "OrderTime" : "21:44:16",
+   "MyallocatorCreationTime" : "19:57:06",
+   "MarkedAsRead" : true,
+   "IsCancellation" : false,
+   "Rooms" : [
+      {
+         "RoomTypeIds" : [
+            105917
+         ],
+         "RateId" : "8442",
+         "Units" : "1",
+         "DayRates" : [
+            {
+               "Rate" : "937.00",
+               "Date" : "2019-04-14",
+               "Currency" : "EUR",
+               "RateId" : "8442",
+               "Description" : null
+            }
+         ],
+         "Currency" : "EUR",
+         "ChannelRoomType" : "79692",
+         "MyallocatorRateplanIds" : [],
+         "Price" : "937.00",
+         "StartDate" : "2019-04-14",
+         "EndDate" : "2019-04-14",
+         "RateDesc" : "",
+         "RoomDesc" : "Double Room"
+      },
+      {
+         "RateId" : "8442",
+         "RoomTypeIds" : [
+            105917
+         ],
+         "Units" : "1",
+         "DayRates" : [
+            {
+               "Description" : null,
+               "Currency" : "EUR",
+               "Rate" : "817.00",
+               "Date" : "2019-04-14",
+               "RateId" : "8442"
+            }
+         ],
+         "Price" : "817.00",
+         "MyallocatorRateplanIds" : [],
+         "Currency" : "EUR",
+         "ChannelRoomType" : "85170",
+         "StartDate" : "2019-04-14",
+         "EndDate" : "2019-04-14",
+         "RateDesc" : "",
+         "RoomDesc" : "Double Room"
+      }
+   ],
+   "IsModification" : false,
+   "TotalPrice" : 1754,
+   "Version" : 0,
+   "EndDate" : "2019-04-14",
+   "Acknowledged" : false,
+   "Customers" : [
+      {
+         "CustomerCountry" : "MX",
+         "CustomerLName" : "Garcia",
+         "CustomerFName" : "Abigail",
+         "CustomerNote" : "",
+         "CustomerEmail" : "abigail.garcia@lycos.com"
+      }
+   ],
+   "MyallocatorId" : "66c45013d61be9dae33e2d7b1"
+}

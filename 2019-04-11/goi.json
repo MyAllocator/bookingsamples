@@ -1,0 +1,68 @@
+{
+   "MyallocatorCreationDate" : "2019-04-11",
+   "OrderAdults" : 1,
+   "TotalTaxes" : "0",
+   "OrderDate" : "2019-04-11",
+   "IsTentative" : 0,
+   "MyallocatorPIIRemoved" : null,
+   "StartDate" : "2019-05-03",
+   "MyallocatorModificationTime" : "14:16:10",
+   "MyallocatorModificationDate" : "2019-04-11",
+   "OrderId" : "0963031361",
+   "Channel" : "goi",
+   "IsCancellation" : false,
+   "OrderSource" : "MakeMyTrip",
+   "Rooms" : [
+      {
+         "MyallocatorRateplanIds" : [],
+         "Currency" : "SGD",
+         "ChannelRoomType" : "15412321283",
+         "StartDate" : "2019-05-03",
+         "EndDate" : "2019-05-12",
+         "RoomDesc" : "Bed in 12-Bed Mixed Dorm with Shared Bathroom",
+         "RateDesc" : "Room with breakfast",
+         "RateId" : "990000603794",
+         "RoomTypeIds" : [
+            56357
+         ],
+         "Units" : "1"
+      }
+   ],
+   "MarkedAsRead" : false,
+   "MyallocatorCreationTime" : "14:16:10",
+   "TotalTaxesCurrency" : "SGD",
+   "TotalCurrency" : "SGD",
+   "OrderTime" : "19:44:54",
+   "PropertyId" : "09519",
+   "Acknowledged" : false,
+   "ExtraServices" : [
+      {
+         "Description" : "Accommodation",
+         "Units" : 1
+      },
+      {
+         "Description" : "Complimentary Wifi",
+         "Units" : 1
+      },
+      {
+         "Units" : 1,
+         "Description" : "FREE Breakfast"
+      },
+      {
+         "Description" : "Taxes",
+         "Units" : 1
+      }
+   ],
+   "MyallocatorId" : "b0b7111e8a3abd3d174691957",
+   "Customers" : [
+      {
+         "CustomerNote" : "",
+         "CustomerLName" : "Wilson"
+      }
+   ],
+   "Version" : 0,
+   "EndDate" : "2019-05-12",
+   "TotalPrice" : "170.0",
+   "PaymentCollect" : "Channel",
+   "IsModification" : false
+}

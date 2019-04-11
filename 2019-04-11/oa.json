@@ -1,0 +1,99 @@
+{
+   "OrderDate" : "2019-03-03",
+   "Commission" : null,
+   "MyallocatorCreationDate" : "2019-03-03",
+   "OrderId" : "m8n2x0fl5rtdqw",
+   "Channel" : "oa",
+   "IsTentative" : 0,
+   "CommissionCurrency" : null,
+   "StartDate" : "2019-05-23",
+   "MyallocatorPIIRemoved" : null,
+   "MyallocatorModificationDate" : "2019-03-03",
+   "MyallocatorModificationTime" : "18:15:18",
+   "TotalCurrency" : "EUR",
+   "PropertyId" : "6672",
+   "OrderTime" : "07:13:13",
+   "IsCancellation" : false,
+   "Rooms" : [
+      {
+         "MyallocatorRateplanIds" : [],
+         "Price" : "60.89",
+         "Children" : 0,
+         "ChannelRoomType" : "605612",
+         "Currency" : "EUR",
+         "RoomDesc" : "Opera room",
+         "StartDate" : "2019-05-23",
+         "EndDate" : "2019-05-23",
+         "Units" : "1",
+         "RoomTypeIds" : [
+            16960
+         ],
+         "Adults" : 2
+      },
+      {
+         "ChannelRoomType" : "469208",
+         "Currency" : "EUR",
+         "Price" : "60.89",
+         "MyallocatorRateplanIds" : [],
+         "Children" : 0,
+         "RoomDesc" : "Opera Room",
+         "EndDate" : "2019-05-24",
+         "StartDate" : "2019-05-24",
+         "Adults" : 2,
+         "Units" : "1",
+         "RoomTypeIds" : [
+            16960
+         ]
+      },
+      {
+         "StartDate" : "2019-05-25",
+         "EndDate" : "2019-05-25",
+         "RoomDesc" : "Opera Room",
+         "Children" : 0,
+         "Price" : "60.89",
+         "MyallocatorRateplanIds" : [],
+         "Currency" : "EUR",
+         "ChannelRoomType" : "820381",
+         "RoomTypeIds" : [
+            16960
+         ],
+         "Units" : "1",
+         "Adults" : 2
+      },
+      {
+         "RoomDesc" : "Opera Room",
+         "StartDate" : "2019-05-26",
+         "EndDate" : "2019-05-26",
+         "MyallocatorRateplanIds" : [],
+         "Price" : "60.89",
+         "Children" : 0,
+         "ChannelRoomType" : "274924",
+         "Currency" : "EUR",
+         "Units" : "1",
+         "RoomTypeIds" : [
+            16960
+         ],
+         "Adults" : 2
+      }
+   ],
+   "MyallocatorCreationTime" : "18:15:18",
+   "MarkedAsRead" : false,
+   "TotalPrice" : "243.54",
+   "IsModification" : false,
+   "Acknowledged" : false,
+   "Customers" : [
+      {
+         "CustomerEmail" : "liam.cain@mail.com",
+         "CustomerNote" : "",
+         "CustomerPhone" : "75262961",
+         "CustomerCountry" : "pa",
+         "CustomerCity" : "Colon",
+         "CustomerFName" : "Liam",
+         "CustomerCompany" : "",
+         "CustomerLName" : "Cain"
+      }
+   ],
+   "MyallocatorId" : "5581bbab53e24ed53afe829e0",
+   "EndDate" : "2019-05-26",
+   "Version" : 0
+}
